@@ -1,0 +1,14 @@
+{
+  "text_blocks_count": 909,
+  "tables_count": 0,
+  "images_count": 0,
+  "rag_chunks_count": 909,
+  "total_words": 4383,
+  "total_tokens_estimate": 5697.900000000001,
+  "processing_timestamp": "2025-07-22T11:31:18.606457",
+  "settings": {
+    "similarity_threshold": 0.7,
+    "chunk_size": 512,
+    "chunk_overlap": 50
+  }
+}

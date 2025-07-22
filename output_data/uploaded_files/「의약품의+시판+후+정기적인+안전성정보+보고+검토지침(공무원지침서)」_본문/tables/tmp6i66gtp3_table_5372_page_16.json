@@ -1,0 +1,78 @@
+{
+  "filename": "table_016_1135.png",
+  "file_path": "C:\\Users\\tel33\\OneDrive\\바탕 화면\\2025년 하계방학\\7월 인턴 넥스제너\\codes\\ddd\\Medical_pdf_parsing_PR\\output_data\\uploaded_files\\「의약품의+시판+후+정기적인+안전성정보+보고+검토지침(공무원지침서)」_본문\\tables\\table_016_1135.png",
+  "page_number": 16,
+  "region": {
+    "x": "878",
+    "y": "2599",
+    "width": "252",
+    "height": "468"
+  },
+  "table_data": {
+    "type": "simple_table",
+    "rows": 3,
+    "columns": 3,
+    "cells": [
+      [
+        22,
+        452,
+        19,
+        16
+      ],
+      [
+        96,
+        386,
+        19,
+        18
+      ],
+      [
+        181,
+        363,
+        36,
+        23
+      ],
+      [
+        128,
+        363,
+        43,
+        41
+      ],
+      [
+        205,
+        121,
+        20,
+        18
+      ],
+      [
+        157,
+        119,
+        21,
+        20
+      ],
+      [
+        92,
+        118,
+        23,
+        16
+      ],
+      [
+        12,
+        114,
+        42,
+        34
+      ],
+      [
+        213,
+        112,
+        29,
+        41
+      ]
+    ],
+    "image_shape": [
+      468,
+      252,
+      3
+    ]
+  },
+  "extraction_method": "OpenCV_contour_detection"
+}

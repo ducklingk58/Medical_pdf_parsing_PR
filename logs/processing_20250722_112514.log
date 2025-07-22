@@ -1,0 +1,7 @@
+2025-07-22 11:25:14,516 - medical_pdf_parser - INFO - main:89 - ================================================================================
+2025-07-22 11:25:14,517 - medical_pdf_parser - INFO - main:90 - 🏥 Medical PDF 파싱 프로젝트 시작
+2025-07-22 11:25:14,517 - medical_pdf_parser - INFO - main:91 - ================================================================================
+2025-07-22 11:25:14,517 - medical_pdf_parser - INFO - main:117 - 📁 입력 디렉토리: C:\Users\tel33\OneDrive\바탕 화면\2025년 하계방학\7월 인턴 넥스제너\codes\ddd\Medical_pdf_parsing_PR\input_pdfs
+2025-07-22 11:25:14,518 - medical_pdf_parser - INFO - main:118 - 📁 출력 디렉토리: C:\Users\tel33\OneDrive\바탕 화면\2025년 하계방학\7월 인턴 넥스제너\codes\ddd\Medical_pdf_parsing_PR\output_data
+2025-07-22 11:25:14,519 - medical_pdf_parser - WARNING - main:129 - 입력 디렉토리에 PDF 파일이 없습니다: C:\Users\tel33\OneDrive\바탕 화면\2025년 하계방학\7월 인턴 넥스제너\codes\ddd\Medical_pdf_parsing_PR\input_pdfs
+2025-07-22 11:25:14,520 - medical_pdf_parser - INFO - main:130 - PDF 파일을 입력 디렉토리에 복사한 후 다시 실행하세요.

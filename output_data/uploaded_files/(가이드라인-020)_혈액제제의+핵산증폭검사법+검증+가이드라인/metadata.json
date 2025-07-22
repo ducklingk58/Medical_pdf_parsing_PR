@@ -1,0 +1,1724 @@
+{
+  "source_file": "C:\\Users\\tel33\\AppData\\Local\\Temp\\tmptki9w3ts.pdf",
+  "text_blocks": [
+    "혈액제제의 핵산증폭검사법",
+    "검증 가이드라인[민원인 안내서]",
+    "Biopharmaceuticals Biopharmaceuticals Biopharmaceuticals Biopharmaceuticals",
+    "연번",
+    "제·개정 이력서\n\n혈액제제의 핵산증폭검사법 검증 가이드라인(민원인 안내서)",
+    "제·개정번호",
+    "승인일자",
+    "주요내용\n\n제정",
+    "지침‧가이드라인‧해설서 (지침 등) 재분류 점검표\n\n지침 등 명칭\n\n혈액제제의 핵산증폭검사법 검증 가이드라인(민원인 안내서)",
+    "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+    "폐지대상 여부",
+    "□ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규) 등을",
+    "나열하는 것입니까?",
+    "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n□ 일회성 지시 또는 일일 명령에 해당하는 내용입니까?\n\n□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+    "□ 정보제공 등 직원 교육용 자료입니까?",
+    "상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 폐지 대상입니다. 폐지 대상에 해당합니까? □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정\n\n사무의 세부기준이나 절차를 제시하는 것입니까? (지침)",
+    "□ 대내외적으로 특정한 사안 등에 대하여 식약처의 입장을 기술",
+    "하는 것입니까? (가이드라인)",
+    "등록대상 세부정보",
+    "□ 예 ■ 아니오",
+    "□ 내부 직원용(위임‧위탁기관 직원 포함)에 해당합니까? (“예”인 경우, 지침에 해당) □ 외부(관련 협회, 민원인 등) 참고용에 해당합니까? (“예”인 경우, 가이드라인 또는 해설서에 해당)",
+    "□ 예 ■ 아니오 ■ 예 □ 아니오",
+    "등록번호",
+    "현행분류",
+    "□ 지침 ■ 가이드라인 □ 해설서\n\n□ 해당 지침 등의 분류가 적정합니까?",
+    "■ 예 □ 아니오",
+    "분류 적정성",
+    "□ “아니오”인 경우 변경분류 사항에 체크하여 주십시오 □ 지침 □ 가이드라인 □ 해설서 □ 지침에 해당하는 경우, 예규로 전환이 필요합니까? *“예규“란 행정사무의 통일을 기하기 위한 것으로 반복적 행정사무의 처리 기준을 제시하는 행정규칙의 형태로, 식약처 전 부서에 해당하는 사항임",
+    "□ 예 □ 아니오",
+    "상기 사항에 대하여 확인하였음.",
+    "확 인(부서장)",
+    "정 혜 주 (서 명)",
+    "이 안내서는 바이오, 생약, 화장품의 허가 관련 질의에 대하여 알기 쉽게",
+    "설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+    "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술",
+    "방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야",
+    "하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2015년 12월 31일 현재의",
+    "과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신",
+    "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전평가원\n\n바이오생약심사부 생물제제과에 문의하시기 바랍니다.",
+    "혈액제제의 핵산증폭검사법",
+    "검증 가이드라인",
+    "Guidance on the Validation of",
+    "Nucleic Acid Tests on Blood Products",
+    "바이오생약심사부 생물제제과",
+    "이 가이드라인은 현재까지의 축적된 경험과 과학적 사실에 근거한 것이므로\n\n새로운 논리에 대한 과학적 타당성이 확인될 경우 언제든지 개정될 수 있습니다.\n\n또한, 이 가이드라인에 기술된 내용은 권고사항으로 법적인 구속력을 갖지",
+    "않으며, 기존의 규정을 대체하지 않습니다. 제시된 방법은 최신의 규정과 과학\n\n적 근거를 바탕으로 기술한 것으로 추후 규정 개정 및 과학의 발전으로 수정\n\n접근 방법에 따라 적절한 검증 및 근거를 마련한다면 다른 방법도 활용할 수",
+    "있습니다.",
+    "※ 본 가이드라인에 대하여 의견이나 문의사항이 있을 경우 아래로 문의하시기",
+    "바랍니다.",
+    "식품의약품안전평가원",
+    "생물제제과",
+    "목 차",
+    "3.검증항목 및 방법",
+    "4.품질관리",
+    "용어정의",
+    "① 개별수집혈장(individual plasma) : 혈액에서 분리한 개개의 혈장을 적절한 방법으",
+    "로 하나의 용기에 수집한 혈장",
+    "② 소량수집혈장(mini-pool plasma) : 혈장 선별 검사를 위해 2개 이상의 개별수집혈장",
+    "을 혼합한 혈장",
+    "③ 대량수집혈장(pooled plasma) : 개개의 혈장을 적절한 방법으로 제조단위별로 한",
+    "용기에 수집하여 혈장분획제제 제조과정 중 최초의 균질한 혈장",
+    "④ 대조물질(run controls)　: 검사의 유효성을 확인하기 위하여 사용되는 음성과 양성",
+    "검체로 구성된 물질로 표준물질, 상용표준품 등을 말한다.",
+    "⑤ 혈장분획제제(plasma-derived products) : 대규모로 수집된 혈장으로부터 원하는 단",
+    "백질을 분리하는 혈장분획공정 과정을 통해 생산된 제제",
+    "⑥ 핵산증폭검사법(Nucleic Acid Test(NAT)) : 바이러스 존재를 확인하는 방법으로, 특",
+    "히 바이러스 감염 후 항체 형성기 이전에 목적하는 바이러스의 유전자를 검출하고자 하\n\n는 핵산의 염기서열을 직접 증폭시켜 바이러스의 핵산을 검출하여 진단하는 시험법으",
+    "로, polymerase chain reaction(PCR), ligase chain reaction(LCR), isothermal ribonucleic",
+    "acid(RNA) amplification, 혹은 target amplification nucleic acid probe technology 등이",
+    "있다.",
+    "혈액제제의 핵산증폭검사법 검증 가이드라인\n\n혈장분획제제의 제조를 위해서는 원료인 공혈자 혈액에 대하여 전염성 질병 인자(특\n\n히, 식품의약품안전처장이 정하는 혈액매개 전염인자) 여부에 의한 감염 여부를 검사해",
+    "야 한다. 일반적으로 바이러스 감염 후 항체가 형성되기까지는 수 주간의 시간이 소요",
+    "되므로 항체 형성 이전에는 기존의 항체 및 표면항원 검사와 같은 방법으로는 바이러\n\n스에 감염된 공혈 혈액을 완전히 제외시킬 수 없는 시험방법의 한계가 있었다. 이러한\n\n이유로, 혈액 및 수집혈장에 대하여 항체 형성기 이전에도 바이러스 감염 여부를 판별",
+    "할 수 있는 다양한 핵산증폭검사법이 개발되어 적용되고 있으며, 1990년대 후반~2000",
+    "년대 초반에 이르기까지 미국 및 유럽에서는 혈액에 대한 핵산증폭검사법을 의무화해",
+    "왔다. 우리나라 역시, 2002년부터 신설된 ‘수입혈장관리기준(「약사법 시행규칙⌟ [별표",
+    "4의 5])에 따라 수입혈장에 대한 효소면역검사 그리고 핵산증폭검사가 의무화되어 검",
+    "사 실시 결과 HCV(Hepatitis C Virus, C형 간염 바이러스), HIV(Human",
+    "Immunodeficiency Virus, 사람면역결핍바이러스), HBV(Hepatitis B Virus, B형 간염 바",
+    "이러스) 등에 대해 음성이 확인된 혈장만을 혈장분획제제의 제조에 사용하도록 하고",
+    "있다. 2012년 6월에는 ’수입혈장관리기준‘이 ’원료혈장관리기준‘(「약사법 시행규칙⌟\n\n[별표 4])으로 개정됨에 따라 수입혈장 뿐 아니라, 혈장분획제제 제조에 사용하는 국내",
+    "원료혈장에 대해서도 시험이 확대, 의무화 되었다.",
+    "이러한 핵산증폭검사법을 주기적으로 수행하기 전에 그 시험방법에 대한 검증을 완료",
+    "해야 한다. 즉, 검사법의 특이성(Specificity), 검출한계(detection limit), 정밀성",
+    "(precision), 그리고 분석과정에서의 완건성(robustness)에 대한 평가 및 검증(validation)",
+    "이 이루어져야 한다. 또한, 수집혈장의 크기(pooling size)를 임상검체 개개혈장과 소량",
+    "수집혈장과 비교하여 감도가 떨어지지 않는 조건을 설정하여 결정할 필요가 있다.\n\n본 가이드라인은 사람 혈액(개별혈장(헌혈자 샘플)), 전혈 등 수혈용 및 분획용 수집혈\n\n장 등의 핵산증폭검사법 검증에 적용한다. 혈액관리법 시행규칙, ⌜의약품 등의 안전에\n\n관한 규칙⌟[별표5] 원료혈장관리기준, 및 ⌜생물학적제제 등의 품목허가․심사 규정",
+    "⌟제28조 생물학적제제 심사기준에 따라 혈액제제(혈액성분제제 및 혈장분획제제)의",
+    "제조에 사용하는 사람 혈액은 전염성 질병 인자에 의한 감염 여부를 검사해야 한다.",
+    "특히, HCV, HIV 및 HBV의 감염 여부를 평가하기 위하여 수행하는 핵산증폭검사법",
+    "검증방법을 제시함을 목적으로 한다.",
+    "3.1. 특이성(Specificity)",
+    "특이성은 불순물이나 분해산물 등 다른 이물질이 존재하는 조건에서도 분석하고자\n\n하는 대상, 즉 특정 바이러스의 염기서열을 정확하게 검출해 낼 수 있는 능력을\n\n의미한다. 핵산증폭검사법의 특이성은 프라이머의 선택, 증폭된 핵산의 확인을 위한",
+    "의하여 좌우된다. 프라이머와 프로브를 직접 디자인하는 경우, 검출하고자 하는 HCV",
+    "RNA, HIV RNA 또는 HBV DNA 바이러스의 핵산만을 선택적으로 검출하는",
+    "특이성이 있는지 확인하기 위하여 프라이머 및 프로브의 염기서열을 염기서열 데이터",
+    "은행의 자료와 비교하여야 한다.",
+    "HIV, HBV)가 음성인 혈장에 대하여 핵산증폭검사법을 실시한 결과가 모두 음성이어야",
+    "한다. 또한 혈액응고억제제, 분석 대상이 아닌 종의 미생물 및 바이러스가 함유된\n\n검체로 검사하였을 경우에도 모두 음성의 결과를 나타내어야 한다.",
+    "도입하고자 하는 핵산증폭검사법은 각 바이러스에 대하여 모든 유전자형(genotypes)을",
+    "검출할 수 있어야 하며, 이는 특정 바이러스별 참조 패널(Reference Panel)을 대상으로",
+    "시험하여 입증할 수 있다. 참조패널은 검사 대상(혈액 및 혈장)이 채취된 국가에서\n\n가장 흔하게 발견되는 유전자형을 포함하고 있어야 한다. 참조 패널 또는 개별적으로\n\n모든 유전자형의 바이러스를 구하기 어려운 경우, 적어도 검사 대상(혈액 및 혈장)이",
+    "채취된 국가에서 가장 흔하게 발견되는 유전형(예를 들어 한국의 경우 HCV는 1b",
+    "유전자형이 가장 우세함)에 대해서 적절하게 검출능력이 있음을 확인할 필요가 있다.",
+    "3.2. 검출한계(Detection Limit)",
+    "검출한계는 각 검체에서 검출 가능한 핵산의 최소량을 의미하며, 정량적으로 측정한",
+    "특정 값이 아닐 수도 있다. 수집혈장에서 HCV RNA, HIV RNA 및 HBV DNA를",
+    "검출하기 위하여 사용하는 핵산증폭검사법은 주로 정성적인 검사법으로 양성 혹은",
+    "음성의 결과로 나타난다. 검출한계는 시험 건수 중 95% 이상 검출이 가능한 최소 표적\n\n핵산의 농도(핵산의 양/시료의 부피)로 표현된다. 검체 내에 존재하는 바이러스",
+    "유전체의 분포도나 효소의 효율 등이 검출한계에 영향을 주며 이로 인하여 개개의",
+    "검사에서 검출한계 값이 달라질 수 있다. 검출한계를 결정하기 위해서는",
+    "표준물질(국가표준품 또는 국제표준품) 또는 표준물질로 보정한 working reagent를",
+    "단계희석하고 이를 서로 다른 날에 검사하여 결과 사이의 편차를 조사하여야 한다.",
+    "최소한 세 단계로 희석하고 각 희석농도마다 충분한 수의 반복 시험을 하여 24개",
+    "이상의 시험결과를 얻고 통계분석을 실시하여야 한다. 예를 들어 3개의 단계 희석한",
+    "working reagent를 준비하여 각 희석 배수 당 8회 반복 검사를 서로 다른 날에",
+    "실시하거나 혹은 4개의 연속 희석에 대하여 6회 반복 검사를 또는 6개의 연속 희석에",
+    "대하여 4회 반복 검사를 서로 다른 날에 실시할 수 있다. 희석구간의 개수가 너무",
+    "많지 않게 하기 위해서는 먼저 log10 희석한 혈장과 같이 넓은 구간으로 준비한",
+    "검체에 대하여 예비시험을 수행함으로써 대략의 검출한계(예를 들어 검출 가능한 최대",
+    "희석배수 등) 값을 찾아야 한다. 그 값을 중심으로, 0.5 log10 혹은 이보다 작은 희석",
+    "배수로 단계 희석하여 시험한다. 전체 시험횟수 중 95% 이상에서 해당 바이러스의\n\n검출이 가능한 핵산의 농도를 적절한 통계 분석으로서 구한다.",
+    "3.3. 정밀성(Precision)",
+    "정밀성은 동일한 시험 조건 하에서 반복적인 시험의 결과가 얼마나 서로 근접하여 일\n\n관된 결과를 보이는지 평가하는 항목이다. 즉, 동일한 시험기관에서 동일한 시험자가",
+    "하루 안에 시험을 반복하거나, 날짜를 달리하여 시험하였을 때에 그 시험결과값 간의",
+    "변동을 관찰함으로서 정밀성을 분석할 수 있다.\n\n핵산증폭검사법의 결과는 정성적으로 양성 음성의 결과만 제시하는 경우와, 정량적인\n\n측정값인 경우를 나누어서 다음과 같이 정밀성 결정을 할 수 있다.",
+    "정성적인 검사법에서는 검출한계 농도의 3배 농도와 음성 검체를 준비하여 일내 6반복\n\n실험 및 3일간 6반복 실험을 수행하였을 때 검출한계 농도의 3배 농도의 검체는 모두",
+    "양성으로, 음성검체는 모두 음성을 나타냄으로서 정밀성을 결정할 수 있다.",
+    "정량적인 검사법에 대하여 정밀성을 조사할 때에는 검출한계 농도의 3배 농도와 음성\n\n검체를 준비하여 일내 6반복 실험 및 3일간 6반복 실험을 수행한다. 이 때 음성 검체\n\n는 모두 음성으로 판정되어야 하며, 검출한계 농도의 3배 농도에서 얻은 시험결과들에",
+    "서는 상대표준편차(%)를 구한다. 이와 같은 방법으로 검출한계 시험결과들을 분석하여",
+    "정밀성을 결정할 수 있다.",
+    "3.4. 완건성(교차오염 포함)(Robustness)",
+    "다. 완건성은 사용하는 검사법이 어떠한 변수(method parameters)에 의하여 받는 영향",
+    "이 미미하다는 것을 나타내는 것으로 통상적으로 검사법의 신뢰도에 대한 지표이다.",
+    "완건성의 평가는 검사법의 개발 단계에서 반드시 고려하여야 하며, 의도적인 변수의",
+    "변화에 대하여 검사과정의 신뢰도를 보여주어야 한다.\n\n정에서 고려하여야 한다. 검사법의 완건성을 입증하기 위하여 다음과 같은 방법을 실",
+    "시할 수 있다. 무작위로 선택한 최소한 20개의 음성 수집혈장에 대하여 예를 들어 검",
+    "출한계 값의 3배에 해당하는 바이러스 핵산(양성이 확인될 정도의 수준을 유지하면서",
+    "가능하다면 낮은 농도를 권장함)을 첨가한 후 검사를 실시할 때 모두 양성으로 확인된\n\n다면, 검사법의 완건성을 입증할 수 있을 것이다.\n\n교차오염 방지에 대한 확인검사는 음성 수집혈장과 고농도(예. 최소한 검출한계의",
+    "100배에 해당되는 농도)의 해당 바이러스 핵산을 첨가한 음성 수집혈장 검체 20개가",
+    "교차로 구성된 패널에 대하여 검사를 실시할 때 각각에 대하여 예상되는 결과를 확인\n\n함으로 증명할 수 있다. 만약 시험 절차 중 검체를 원심분리 하는 절차가 포함되어 있\n\n다면, 상기 음성 수집혈장과 고농도 검체 20개를 교차로 원심분리 랙에 장착하고 검사",
+    "를 실시할 때 예상되는 결과가 확인 및 증명되어야 한다.",
+    "시험절차는 표준작업지침의 형태로 자세하게 기술하여야 하며 다음과 같은 사항들을",
+    "포함하도록 권장한다(예)",
+    "⦁ 검체의 보관조건\n\n⦁ 검체의 준비\n\n⦁ 사용하는 장비 및 시험 키트에 대한 설명\n\n⦁ 결과의 계산과 해석에 대한 자세한 방법\n\n⦁ 각각의 시험에 대한 유효성 기준",
+    "⦁ 재시험 절차",
+    "⦁ 참고문헌",
+    "4.2. 대조물질",
+    "검사할 때 사용하는 대조물질(내부대조물질(internal control)과 외부대조물질(external",
+    "control))은 모든 시험에 항상 포함해야 한다. 외부 대조물질로는 국제표준품 혹은 국제",
+    "표준품과 비교한 표준품을 사용하여야 한다.\n\n검사를 수행하는 시험자는 적절한 숙련도 시험을 규칙적으로 실시해야 한다. 예를 들\n\n어, 개별 시험자의 교육 효과를 평가하기 위하여 고농도(반응성이 충분한 양성이 확인",
+    "될 수준) 및 저농도(반응성이 약한 수준) 바이러스 핵산이 첨가된 수집혈장 8개의 검체",
+    "에 대하여 검사를 실시하도록 한다. 이 검사를(8회 반복 검체) 서로 다른 날에 3회 반\n\n복 실시한다. 즉, 서로 다른 3일에 24회의 검사를 실시하여 모든 결과가 양성으로 확인",
+    "되어야 한다.",
+    "4.4. 장비 적격성 평가",
+    "시험장비의 설치 또는 변경(교체) 시, 설치 적격성(installation qualification)과 운전 적",
+    "격성(opeartion qualification) 및 성능 적격성(performance qualification)을 수행하고 이",
+    "에 대하여 문서화할 필요가 있다.",
+    "Control Authority Batch Release of Blood Products, EDQM OCABR of Biological",
+    "Substances, 2001, 6. The Introduction of Nucleic Acid Amplification Technology (NAT) for",
+    "the Detection of Hepatitis C Virus RNA in Plasma Pools (CPMP/BWP/390/97). The",
+    "European Agency for the Evaluation of Medicinal Products, 1998, 7. Note for Guidance",
+    "on Plasma-Derived Medicinal Products",
+    "(CPMP/BWP/269/95). The European",
+    "ICH Q2(R1): Validations of Analytical Procedures: Text and Methodology.",
+    "International",
+    "Conference",
+    "on",
+    "Harmonization",
+    "of",
+    "Technical",
+    "Reentry”, 2010",
+    "Individual Samples",
+    "to Reduce the Risk of Transmission of Hepatitis B",
+    "Amplification Techniques. European Directorate for the Quality of Medicines",
+    "HealthCare(EDQM), 2013;204-7.",
+    "제‧개정 이력",
+    "혈액제제의 핵산증폭검사법 검증 가이드라인\n\n제․개정번호 승인일자",
+    "주요 내용",
+    "핵산증폭검사법 검증 가이드 제정\n\n현 규정 반영 및 과학적 검증방법\n\n구체적 제시 개정",
+    "발 행 일\n\n발 행 인\n\n편 집 위 원 장",
+    "편 집 위 원",
+    "도 움 주 신 분",
+    "발 행 처",
+    "혈액제제의 핵산증폭검사법 검증 가이드라인",
+    "손여원",
+    "김대철",
+    "허지연, 김형진, 구민영, 김수연",
+    "㈜녹십자(한태희, 김대승), 에스케이플라즈마(임진우, 안소현), 대\n\n한적십자사 혈장분획센터(손철우, 지용훈), 한마음혈액원(조용준)",
+    "식품의약품안전평가원 바이오생약심사부 생물제제과"
+  ],
+  "rag_chunks": [
+    {
+      "id": "chunk_000000",
+      "text": "혈액제제의 핵산증폭검사법",
+      "block_index": 0,
+      "chunk_index": 0,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000001",
+      "text": "검증 가이드라인[민원인 안내서]",
+      "block_index": 1,
+      "chunk_index": 1,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000002",
+      "text": "Biopharmaceuticals Biopharmaceuticals Biopharmaceuticals Biopharmaceuticals",
+      "block_index": 2,
+      "chunk_index": 2,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000003",
+      "text": "연번",
+      "block_index": 3,
+      "chunk_index": 3,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000004",
+      "text": "제·개정 이력서 혈액제제의 핵산증폭검사법 검증 가이드라인(민원인 안내서)",
+      "block_index": 4,
+      "chunk_index": 4,
+      "word_count": 7,
+      "token_estimate": 9.1
+    },
+    {
+      "id": "chunk_000005",
+      "text": "제·개정번호",
+      "block_index": 5,
+      "chunk_index": 5,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000006",
+      "text": "승인일자",
+      "block_index": 6,
+      "chunk_index": 6,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000007",
+      "text": "주요내용 제정",
+      "block_index": 7,
+      "chunk_index": 7,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000008",
+      "text": "지침‧가이드라인‧해설서 (지침 등) 재분류 점검표 지침 등 명칭 혈액제제의 핵산증폭검사법 검증 가이드라인(민원인 안내서)",
+      "block_index": 8,
+      "chunk_index": 8,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000009",
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "block_index": 9,
+      "chunk_index": 9,
+      "word_count": 6,
+      "token_estimate": 7.800000000000001
+    },
+    {
+      "id": "chunk_000010",
+      "text": "폐지대상 여부",
+      "block_index": 10,
+      "chunk_index": 10,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000011",
+      "text": "□ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규) 등을",
+      "block_index": 11,
+      "chunk_index": 11,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000012",
+      "text": "나열하는 것입니까?",
+      "block_index": 12,
+      "chunk_index": 12,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000013",
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? □ 일회성 지시 또는 일일 명령에 해당하는 내용입니까? □ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "block_index": 13,
+      "chunk_index": 13,
+      "word_count": 21,
+      "token_estimate": 27.3
+    },
+    {
+      "id": "chunk_000014",
+      "text": "□ 정보제공 등 직원 교육용 자료입니까?",
+      "block_index": 14,
+      "chunk_index": 14,
+      "word_count": 6,
+      "token_estimate": 7.800000000000001
+    },
+    {
+      "id": "chunk_000015",
+      "text": "상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 폐지 대상입니다. 폐지 대상에 해당합니까? □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 사무의 세부기준이나 절차를 제시하는 것입니까? (지침)",
+      "block_index": 15,
+      "chunk_index": 15,
+      "word_count": 27,
+      "token_estimate": 35.1
+    },
+    {
+      "id": "chunk_000016",
+      "text": "□ 대내외적으로 특정한 사안 등에 대하여 식약처의 입장을 기술",
+      "block_index": 16,
+      "chunk_index": 16,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000017",
+      "text": "하는 것입니까? (가이드라인)",
+      "block_index": 17,
+      "chunk_index": 17,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000018",
+      "text": "등록대상 세부정보",
+      "block_index": 18,
+      "chunk_index": 18,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000019",
+      "text": "□ 예 ■ 아니오",
+      "block_index": 19,
+      "chunk_index": 19,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000020",
+      "text": "□ 내부 직원용(위임‧위탁기관 직원 포함)에 해당합니까? (“예”인 경우, 지침에 해당) □ 외부(관련 협회, 민원인 등) 참고용에 해당합니까? (“예”인 경우, 가이드라인 또는 해설서에 해당)",
+      "block_index": 20,
+      "chunk_index": 20,
+      "word_count": 23,
+      "token_estimate": 29.900000000000002
+    },
+    {
+      "id": "chunk_000021",
+      "text": "□ 예 ■ 아니오 ■ 예 □ 아니오",
+      "block_index": 21,
+      "chunk_index": 21,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000022",
+      "text": "등록번호",
+      "block_index": 22,
+      "chunk_index": 22,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000023",
+      "text": "현행분류",
+      "block_index": 23,
+      "chunk_index": 23,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000024",
+      "text": "□ 지침 ■ 가이드라인 □ 해설서 □ 해당 지침 등의 분류가 적정합니까?",
+      "block_index": 24,
+      "chunk_index": 24,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000025",
+      "text": "■ 예 □ 아니오",
+      "block_index": 25,
+      "chunk_index": 25,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000026",
+      "text": "분류 적정성",
+      "block_index": 26,
+      "chunk_index": 26,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000027",
+      "text": "□ “아니오”인 경우 변경분류 사항에 체크하여 주십시오 □ 지침 □ 가이드라인 □ 해설서 □ 지침에 해당하는 경우, 예규로 전환이 필요합니까? *“예규“란 행정사무의 통일을 기하기 위한 것으로 반복적 행정사무의 처리 기준을 제시하는 행정규칙의 형태로, 식약처 전 부서에 해당하는 사항임",
+      "block_index": 27,
+      "chunk_index": 27,
+      "word_count": 38,
+      "token_estimate": 49.4
+    },
+    {
+      "id": "chunk_000028",
+      "text": "□ 예 □ 아니오",
+      "block_index": 28,
+      "chunk_index": 28,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000029",
+      "text": "상기 사항에 대하여 확인하였음.",
+      "block_index": 29,
+      "chunk_index": 29,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000030",
+      "text": "확 인(부서장)",
+      "block_index": 30,
+      "chunk_index": 30,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000031",
+      "text": "정 혜 주 (서 명)",
+      "block_index": 31,
+      "chunk_index": 31,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000032",
+      "text": "이 안내서는 바이오, 생약, 화장품의 허가 관련 질의에 대하여 알기 쉽게",
+      "block_index": 32,
+      "chunk_index": 32,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000033",
+      "text": "설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+      "block_index": 33,
+      "chunk_index": 33,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000034",
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술",
+      "block_index": 34,
+      "chunk_index": 34,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000035",
+      "text": "방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야",
+      "block_index": 35,
+      "chunk_index": 35,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000036",
+      "text": "하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2015년 12월 31일 현재의",
+      "block_index": 36,
+      "chunk_index": 36,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000037",
+      "text": "과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신",
+      "block_index": 37,
+      "chunk_index": 37,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000038",
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전평가원 바이오생약심사부 생물제제과에 문의하시기 바랍니다.",
+      "block_index": 38,
+      "chunk_index": 38,
+      "word_count": 22,
+      "token_estimate": 28.6
+    },
+    {
+      "id": "chunk_000039",
+      "text": "혈액제제의 핵산증폭검사법",
+      "block_index": 39,
+      "chunk_index": 39,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000040",
+      "text": "검증 가이드라인",
+      "block_index": 40,
+      "chunk_index": 40,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000041",
+      "text": "Guidance on the Validation of",
+      "block_index": 41,
+      "chunk_index": 41,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000042",
+      "text": "Nucleic Acid Tests on Blood Products",
+      "block_index": 42,
+      "chunk_index": 42,
+      "word_count": 6,
+      "token_estimate": 7.800000000000001
+    },
+    {
+      "id": "chunk_000043",
+      "text": "바이오생약심사부 생물제제과",
+      "block_index": 43,
+      "chunk_index": 43,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000044",
+      "text": "이 가이드라인은 현재까지의 축적된 경험과 과학적 사실에 근거한 것이므로 새로운 논리에 대한 과학적 타당성이 확인될 경우 언제든지 개정될 수 있습니다. 또한, 이 가이드라인에 기술된 내용은 권고사항으로 법적인 구속력을 갖지",
+      "block_index": 44,
+      "chunk_index": 44,
+      "word_count": 29,
+      "token_estimate": 37.7
+    },
+    {
+      "id": "chunk_000045",
+      "text": "않으며, 기존의 규정을 대체하지 않습니다. 제시된 방법은 최신의 규정과 과학 적 근거를 바탕으로 기술한 것으로 추후 규정 개정 및 과학의 발전으로 수정 접근 방법에 따라 적절한 검증 및 근거를 마련한다면 다른 방법도 활용할 수",
+      "block_index": 45,
+      "chunk_index": 45,
+      "word_count": 34,
+      "token_estimate": 44.2
+    },
+    {
+      "id": "chunk_000046",
+      "text": "있습니다.",
+      "block_index": 46,
+      "chunk_index": 46,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000047",
+      "text": "※ 본 가이드라인에 대하여 의견이나 문의사항이 있을 경우 아래로 문의하시기",
+      "block_index": 47,
+      "chunk_index": 47,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000048",
+      "text": "바랍니다.",
+      "block_index": 48,
+      "chunk_index": 48,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000049",
+      "text": "식품의약품안전평가원",
+      "block_index": 49,
+      "chunk_index": 49,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000050",
+      "text": "생물제제과",
+      "block_index": 50,
+      "chunk_index": 50,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000051",
+      "text": "목 차",
+      "block_index": 51,
+      "chunk_index": 51,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000052",
+      "text": "3.검증항목 및 방법",
+      "block_index": 52,
+      "chunk_index": 52,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000053",
+      "text": "4.품질관리",
+      "block_index": 53,
+      "chunk_index": 53,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000054",
+      "text": "용어정의",
+      "block_index": 54,
+      "chunk_index": 54,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000055",
+      "text": "① 개별수집혈장(individual plasma) : 혈액에서 분리한 개개의 혈장을 적절한 방법으",
+      "block_index": 55,
+      "chunk_index": 55,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000056",
+      "text": "로 하나의 용기에 수집한 혈장",
+      "block_index": 56,
+      "chunk_index": 56,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000057",
+      "text": "② 소량수집혈장(mini-pool plasma) : 혈장 선별 검사를 위해 2개 이상의 개별수집혈장",
+      "block_index": 57,
+      "chunk_index": 57,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000058",
+      "text": "을 혼합한 혈장",
+      "block_index": 58,
+      "chunk_index": 58,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000059",
+      "text": "③ 대량수집혈장(pooled plasma) : 개개의 혈장을 적절한 방법으로 제조단위별로 한",
+      "block_index": 59,
+      "chunk_index": 59,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000060",
+      "text": "용기에 수집하여 혈장분획제제 제조과정 중 최초의 균질한 혈장",
+      "block_index": 60,
+      "chunk_index": 60,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000061",
+      "text": "④ 대조물질(run controls) : 검사의 유효성을 확인하기 위하여 사용되는 음성과 양성",
+      "block_index": 61,
+      "chunk_index": 61,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000062",
+      "text": "검체로 구성된 물질로 표준물질, 상용표준품 등을 말한다.",
+      "block_index": 62,
+      "chunk_index": 62,
+      "word_count": 7,
+      "token_estimate": 9.1
+    },
+    {
+      "id": "chunk_000063",
+      "text": "⑤ 혈장분획제제(plasma-derived products) : 대규모로 수집된 혈장으로부터 원하는 단",
+      "block_index": 63,
+      "chunk_index": 63,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000064",
+      "text": "백질을 분리하는 혈장분획공정 과정을 통해 생산된 제제",
+      "block_index": 64,
+      "chunk_index": 64,
+      "word_count": 7,
+      "token_estimate": 9.1
+    },
+    {
+      "id": "chunk_000065",
+      "text": "⑥ 핵산증폭검사법(Nucleic Acid Test(NAT)) : 바이러스 존재를 확인하는 방법으로, 특",
+      "block_index": 65,
+      "chunk_index": 65,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000066",
+      "text": "히 바이러스 감염 후 항체 형성기 이전에 목적하는 바이러스의 유전자를 검출하고자 하 는 핵산의 염기서열을 직접 증폭시켜 바이러스의 핵산을 검출하여 진단하는 시험법으",
+      "block_index": 66,
+      "chunk_index": 66,
+      "word_count": 22,
+      "token_estimate": 28.6
+    },
+    {
+      "id": "chunk_000067",
+      "text": "로, polymerase chain reaction(PCR), ligase chain reaction(LCR), isothermal ribonucleic",
+      "block_index": 67,
+      "chunk_index": 67,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000068",
+      "text": "acid(RNA) amplification, 혹은 target amplification nucleic acid probe technology 등이",
+      "block_index": 68,
+      "chunk_index": 68,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000069",
+      "text": "있다.",
+      "block_index": 69,
+      "chunk_index": 69,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000070",
+      "text": "혈액제제의 핵산증폭검사법 검증 가이드라인 혈장분획제제의 제조를 위해서는 원료인 공혈자 혈액에 대하여 전염성 질병 인자(특 히, 식품의약품안전처장이 정하는 혈액매개 전염인자) 여부에 의한 감염 여부를 검사해",
+      "block_index": 70,
+      "chunk_index": 70,
+      "word_count": 24,
+      "token_estimate": 31.200000000000003
+    },
+    {
+      "id": "chunk_000071",
+      "text": "야 한다. 일반적으로 바이러스 감염 후 항체가 형성되기까지는 수 주간의 시간이 소요",
+      "block_index": 71,
+      "chunk_index": 71,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000072",
+      "text": "되므로 항체 형성 이전에는 기존의 항체 및 표면항원 검사와 같은 방법으로는 바이러 스에 감염된 공혈 혈액을 완전히 제외시킬 수 없는 시험방법의 한계가 있었다. 이러한 이유로, 혈액 및 수집혈장에 대하여 항체 형성기 이전에도 바이러스 감염 여부를 판별",
+      "block_index": 72,
+      "chunk_index": 72,
+      "word_count": 36,
+      "token_estimate": 46.800000000000004
+    },
+    {
+      "id": "chunk_000073",
+      "text": "할 수 있는 다양한 핵산증폭검사법이 개발되어 적용되고 있으며, 1990년대 후반~2000",
+      "block_index": 73,
+      "chunk_index": 73,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000074",
+      "text": "년대 초반에 이르기까지 미국 및 유럽에서는 혈액에 대한 핵산증폭검사법을 의무화해",
+      "block_index": 74,
+      "chunk_index": 74,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000075",
+      "text": "왔다. 우리나라 역시, 2002년부터 신설된 ‘수입혈장관리기준(「약사법 시행규칙⌟ [별표",
+      "block_index": 75,
+      "chunk_index": 75,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000076",
+      "text": "4의 5])에 따라 수입혈장에 대한 효소면역검사 그리고 핵산증폭검사가 의무화되어 검",
+      "block_index": 76,
+      "chunk_index": 76,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000077",
+      "text": "사 실시 결과 HCV(Hepatitis C Virus, C형 간염 바이러스), HIV(Human",
+      "block_index": 77,
+      "chunk_index": 77,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000078",
+      "text": "Immunodeficiency Virus, 사람면역결핍바이러스), HBV(Hepatitis B Virus, B형 간염 바",
+      "block_index": 78,
+      "chunk_index": 78,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000079",
+      "text": "이러스) 등에 대해 음성이 확인된 혈장만을 혈장분획제제의 제조에 사용하도록 하고",
+      "block_index": 79,
+      "chunk_index": 79,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000080",
+      "text": "있다. 2012년 6월에는 ’수입혈장관리기준‘이 ’원료혈장관리기준‘(「약사법 시행규칙⌟ [별표 4])으로 개정됨에 따라 수입혈장 뿐 아니라, 혈장분획제제 제조에 사용하는 국내",
+      "block_index": 80,
+      "chunk_index": 80,
+      "word_count": 17,
+      "token_estimate": 22.1
+    },
+    {
+      "id": "chunk_000081",
+      "text": "원료혈장에 대해서도 시험이 확대, 의무화 되었다.",
+      "block_index": 81,
+      "chunk_index": 81,
+      "word_count": 6,
+      "token_estimate": 7.800000000000001
+    },
+    {
+      "id": "chunk_000082",
+      "text": "이러한 핵산증폭검사법을 주기적으로 수행하기 전에 그 시험방법에 대한 검증을 완료",
+      "block_index": 82,
+      "chunk_index": 82,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000083",
+      "text": "해야 한다. 즉, 검사법의 특이성(Specificity), 검출한계(detection limit), 정밀성",
+      "block_index": 83,
+      "chunk_index": 83,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000084",
+      "text": "(precision), 그리고 분석과정에서의 완건성(robustness)에 대한 평가 및 검증(validation)",
+      "block_index": 84,
+      "chunk_index": 84,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000085",
+      "text": "이 이루어져야 한다. 또한, 수집혈장의 크기(pooling size)를 임상검체 개개혈장과 소량",
+      "block_index": 85,
+      "chunk_index": 85,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000086",
+      "text": "수집혈장과 비교하여 감도가 떨어지지 않는 조건을 설정하여 결정할 필요가 있다. 본 가이드라인은 사람 혈액(개별혈장(헌혈자 샘플)), 전혈 등 수혈용 및 분획용 수집혈 장 등의 핵산증폭검사법 검증에 적용한다. 혈액관리법 시행규칙, ⌜의약품 등의 안전에 관한 규칙⌟[별표5] 원료혈장관리기준, 및 ⌜생물학적제제 등의 품목허가․심사 규정",
+      "block_index": 86,
+      "chunk_index": 86,
+      "word_count": 39,
+      "token_estimate": 50.7
+    },
+    {
+      "id": "chunk_000087",
+      "text": "⌟제28조 생물학적제제 심사기준에 따라 혈액제제(혈액성분제제 및 혈장분획제제)의",
+      "block_index": 87,
+      "chunk_index": 87,
+      "word_count": 7,
+      "token_estimate": 9.1
+    },
+    {
+      "id": "chunk_000088",
+      "text": "제조에 사용하는 사람 혈액은 전염성 질병 인자에 의한 감염 여부를 검사해야 한다.",
+      "block_index": 88,
+      "chunk_index": 88,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000089",
+      "text": "특히, HCV, HIV 및 HBV의 감염 여부를 평가하기 위하여 수행하는 핵산증폭검사법",
+      "block_index": 89,
+      "chunk_index": 89,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000090",
+      "text": "검증방법을 제시함을 목적으로 한다.",
+      "block_index": 90,
+      "chunk_index": 90,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000091",
+      "text": "3.1. 특이성(Specificity)",
+      "block_index": 91,
+      "chunk_index": 91,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000092",
+      "text": "특이성은 불순물이나 분해산물 등 다른 이물질이 존재하는 조건에서도 분석하고자 하는 대상, 즉 특정 바이러스의 염기서열을 정확하게 검출해 낼 수 있는 능력을 의미한다. 핵산증폭검사법의 특이성은 프라이머의 선택, 증폭된 핵산의 확인을 위한",
+      "block_index": 92,
+      "chunk_index": 92,
+      "word_count": 30,
+      "token_estimate": 39.0
+    },
+    {
+      "id": "chunk_000093",
+      "text": "의하여 좌우된다. 프라이머와 프로브를 직접 디자인하는 경우, 검출하고자 하는 HCV",
+      "block_index": 93,
+      "chunk_index": 93,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000094",
+      "text": "RNA, HIV RNA 또는 HBV DNA 바이러스의 핵산만을 선택적으로 검출하는",
+      "block_index": 94,
+      "chunk_index": 94,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000095",
+      "text": "특이성이 있는지 확인하기 위하여 프라이머 및 프로브의 염기서열을 염기서열 데이터",
+      "block_index": 95,
+      "chunk_index": 95,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000096",
+      "text": "은행의 자료와 비교하여야 한다.",
+      "block_index": 96,
+      "chunk_index": 96,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000097",
+      "text": "HIV, HBV)가 음성인 혈장에 대하여 핵산증폭검사법을 실시한 결과가 모두 음성이어야",
+      "block_index": 97,
+      "chunk_index": 97,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000098",
+      "text": "한다. 또한 혈액응고억제제, 분석 대상이 아닌 종의 미생물 및 바이러스가 함유된 검체로 검사하였을 경우에도 모두 음성의 결과를 나타내어야 한다.",
+      "block_index": 98,
+      "chunk_index": 98,
+      "word_count": 19,
+      "token_estimate": 24.7
+    },
+    {
+      "id": "chunk_000099",
+      "text": "도입하고자 하는 핵산증폭검사법은 각 바이러스에 대하여 모든 유전자형(genotypes)을",
+      "block_index": 99,
+      "chunk_index": 99,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000100",
+      "text": "검출할 수 있어야 하며, 이는 특정 바이러스별 참조 패널(Reference Panel)을 대상으로",
+      "block_index": 100,
+      "chunk_index": 100,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000101",
+      "text": "시험하여 입증할 수 있다. 참조패널은 검사 대상(혈액 및 혈장)이 채취된 국가에서 가장 흔하게 발견되는 유전자형을 포함하고 있어야 한다. 참조 패널 또는 개별적으로 모든 유전자형의 바이러스를 구하기 어려운 경우, 적어도 검사 대상(혈액 및 혈장)이",
+      "block_index": 101,
+      "chunk_index": 101,
+      "word_count": 33,
+      "token_estimate": 42.9
+    },
+    {
+      "id": "chunk_000102",
+      "text": "채취된 국가에서 가장 흔하게 발견되는 유전형(예를 들어 한국의 경우 HCV는 1b",
+      "block_index": 102,
+      "chunk_index": 102,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000103",
+      "text": "유전자형이 가장 우세함)에 대해서 적절하게 검출능력이 있음을 확인할 필요가 있다.",
+      "block_index": 103,
+      "chunk_index": 103,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000104",
+      "text": "3.2. 검출한계(Detection Limit)",
+      "block_index": 104,
+      "chunk_index": 104,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000105",
+      "text": "검출한계는 각 검체에서 검출 가능한 핵산의 최소량을 의미하며, 정량적으로 측정한",
+      "block_index": 105,
+      "chunk_index": 105,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000106",
+      "text": "특정 값이 아닐 수도 있다. 수집혈장에서 HCV RNA, HIV RNA 및 HBV DNA를",
+      "block_index": 106,
+      "chunk_index": 106,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000107",
+      "text": "검출하기 위하여 사용하는 핵산증폭검사법은 주로 정성적인 검사법으로 양성 혹은",
+      "block_index": 107,
+      "chunk_index": 107,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000108",
+      "text": "음성의 결과로 나타난다. 검출한계는 시험 건수 중 95% 이상 검출이 가능한 최소 표적 핵산의 농도(핵산의 양/시료의 부피)로 표현된다. 검체 내에 존재하는 바이러스",
+      "block_index": 108,
+      "chunk_index": 108,
+      "word_count": 22,
+      "token_estimate": 28.6
+    },
+    {
+      "id": "chunk_000109",
+      "text": "유전체의 분포도나 효소의 효율 등이 검출한계에 영향을 주며 이로 인하여 개개의",
+      "block_index": 109,
+      "chunk_index": 109,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000110",
+      "text": "검사에서 검출한계 값이 달라질 수 있다. 검출한계를 결정하기 위해서는",
+      "block_index": 110,
+      "chunk_index": 110,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000111",
+      "text": "표준물질(국가표준품 또는 국제표준품) 또는 표준물질로 보정한 working reagent를",
+      "block_index": 111,
+      "chunk_index": 111,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000112",
+      "text": "단계희석하고 이를 서로 다른 날에 검사하여 결과 사이의 편차를 조사하여야 한다.",
+      "block_index": 112,
+      "chunk_index": 112,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000113",
+      "text": "최소한 세 단계로 희석하고 각 희석농도마다 충분한 수의 반복 시험을 하여 24개",
+      "block_index": 113,
+      "chunk_index": 113,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000114",
+      "text": "이상의 시험결과를 얻고 통계분석을 실시하여야 한다. 예를 들어 3개의 단계 희석한",
+      "block_index": 114,
+      "chunk_index": 114,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000115",
+      "text": "working reagent를 준비하여 각 희석 배수 당 8회 반복 검사를 서로 다른 날에",
+      "block_index": 115,
+      "chunk_index": 115,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000116",
+      "text": "실시하거나 혹은 4개의 연속 희석에 대하여 6회 반복 검사를 또는 6개의 연속 희석에",
+      "block_index": 116,
+      "chunk_index": 116,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000117",
+      "text": "대하여 4회 반복 검사를 서로 다른 날에 실시할 수 있다. 희석구간의 개수가 너무",
+      "block_index": 117,
+      "chunk_index": 117,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000118",
+      "text": "많지 않게 하기 위해서는 먼저 log10 희석한 혈장과 같이 넓은 구간으로 준비한",
+      "block_index": 118,
+      "chunk_index": 118,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000119",
+      "text": "검체에 대하여 예비시험을 수행함으로써 대략의 검출한계(예를 들어 검출 가능한 최대",
+      "block_index": 119,
+      "chunk_index": 119,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000120",
+      "text": "희석배수 등) 값을 찾아야 한다. 그 값을 중심으로, 0.5 log10 혹은 이보다 작은 희석",
+      "block_index": 120,
+      "chunk_index": 120,
+      "word_count": 14,
+      "token_estimate": 18.2
+    },
+    {
+      "id": "chunk_000121",
+      "text": "배수로 단계 희석하여 시험한다. 전체 시험횟수 중 95% 이상에서 해당 바이러스의 검출이 가능한 핵산의 농도를 적절한 통계 분석으로서 구한다.",
+      "block_index": 121,
+      "chunk_index": 121,
+      "word_count": 19,
+      "token_estimate": 24.7
+    },
+    {
+      "id": "chunk_000122",
+      "text": "3.3. 정밀성(Precision)",
+      "block_index": 122,
+      "chunk_index": 122,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000123",
+      "text": "정밀성은 동일한 시험 조건 하에서 반복적인 시험의 결과가 얼마나 서로 근접하여 일 관된 결과를 보이는지 평가하는 항목이다. 즉, 동일한 시험기관에서 동일한 시험자가",
+      "block_index": 123,
+      "chunk_index": 123,
+      "word_count": 22,
+      "token_estimate": 28.6
+    },
+    {
+      "id": "chunk_000124",
+      "text": "하루 안에 시험을 반복하거나, 날짜를 달리하여 시험하였을 때에 그 시험결과값 간의",
+      "block_index": 124,
+      "chunk_index": 124,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000125",
+      "text": "변동을 관찰함으로서 정밀성을 분석할 수 있다. 핵산증폭검사법의 결과는 정성적으로 양성 음성의 결과만 제시하는 경우와, 정량적인 측정값인 경우를 나누어서 다음과 같이 정밀성 결정을 할 수 있다.",
+      "block_index": 125,
+      "chunk_index": 125,
+      "word_count": 25,
+      "token_estimate": 32.5
+    },
+    {
+      "id": "chunk_000126",
+      "text": "정성적인 검사법에서는 검출한계 농도의 3배 농도와 음성 검체를 준비하여 일내 6반복 실험 및 3일간 6반복 실험을 수행하였을 때 검출한계 농도의 3배 농도의 검체는 모두",
+      "block_index": 126,
+      "chunk_index": 126,
+      "word_count": 24,
+      "token_estimate": 31.200000000000003
+    },
+    {
+      "id": "chunk_000127",
+      "text": "양성으로, 음성검체는 모두 음성을 나타냄으로서 정밀성을 결정할 수 있다.",
+      "block_index": 127,
+      "chunk_index": 127,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000128",
+      "text": "정량적인 검사법에 대하여 정밀성을 조사할 때에는 검출한계 농도의 3배 농도와 음성 검체를 준비하여 일내 6반복 실험 및 3일간 6반복 실험을 수행한다. 이 때 음성 검체 는 모두 음성으로 판정되어야 하며, 검출한계 농도의 3배 농도에서 얻은 시험결과들에",
+      "block_index": 128,
+      "chunk_index": 128,
+      "word_count": 36,
+      "token_estimate": 46.800000000000004
+    },
+    {
+      "id": "chunk_000129",
+      "text": "서는 상대표준편차(%)를 구한다. 이와 같은 방법으로 검출한계 시험결과들을 분석하여",
+      "block_index": 129,
+      "chunk_index": 129,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000130",
+      "text": "정밀성을 결정할 수 있다.",
+      "block_index": 130,
+      "chunk_index": 130,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000131",
+      "text": "3.4. 완건성(교차오염 포함)(Robustness)",
+      "block_index": 131,
+      "chunk_index": 131,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000132",
+      "text": "다. 완건성은 사용하는 검사법이 어떠한 변수(method parameters)에 의하여 받는 영향",
+      "block_index": 132,
+      "chunk_index": 132,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000133",
+      "text": "이 미미하다는 것을 나타내는 것으로 통상적으로 검사법의 신뢰도에 대한 지표이다.",
+      "block_index": 133,
+      "chunk_index": 133,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000134",
+      "text": "완건성의 평가는 검사법의 개발 단계에서 반드시 고려하여야 하며, 의도적인 변수의",
+      "block_index": 134,
+      "chunk_index": 134,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000135",
+      "text": "변화에 대하여 검사과정의 신뢰도를 보여주어야 한다. 정에서 고려하여야 한다. 검사법의 완건성을 입증하기 위하여 다음과 같은 방법을 실",
+      "block_index": 135,
+      "chunk_index": 135,
+      "word_count": 17,
+      "token_estimate": 22.1
+    },
+    {
+      "id": "chunk_000136",
+      "text": "시할 수 있다. 무작위로 선택한 최소한 20개의 음성 수집혈장에 대하여 예를 들어 검",
+      "block_index": 136,
+      "chunk_index": 136,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000137",
+      "text": "출한계 값의 3배에 해당하는 바이러스 핵산(양성이 확인될 정도의 수준을 유지하면서",
+      "block_index": 137,
+      "chunk_index": 137,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000138",
+      "text": "가능하다면 낮은 농도를 권장함)을 첨가한 후 검사를 실시할 때 모두 양성으로 확인된 다면, 검사법의 완건성을 입증할 수 있을 것이다. 교차오염 방지에 대한 확인검사는 음성 수집혈장과 고농도(예. 최소한 검출한계의",
+      "block_index": 138,
+      "chunk_index": 138,
+      "word_count": 28,
+      "token_estimate": 36.4
+    },
+    {
+      "id": "chunk_000139",
+      "text": "100배에 해당되는 농도)의 해당 바이러스 핵산을 첨가한 음성 수집혈장 검체 20개가",
+      "block_index": 139,
+      "chunk_index": 139,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000140",
+      "text": "교차로 구성된 패널에 대하여 검사를 실시할 때 각각에 대하여 예상되는 결과를 확인 함으로 증명할 수 있다. 만약 시험 절차 중 검체를 원심분리 하는 절차가 포함되어 있 다면, 상기 음성 수집혈장과 고농도 검체 20개를 교차로 원심분리 랙에 장착하고 검사",
+      "block_index": 140,
+      "chunk_index": 140,
+      "word_count": 38,
+      "token_estimate": 49.4
+    },
+    {
+      "id": "chunk_000141",
+      "text": "를 실시할 때 예상되는 결과가 확인 및 증명되어야 한다.",
+      "block_index": 141,
+      "chunk_index": 141,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000142",
+      "text": "시험절차는 표준작업지침의 형태로 자세하게 기술하여야 하며 다음과 같은 사항들을",
+      "block_index": 142,
+      "chunk_index": 142,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000143",
+      "text": "포함하도록 권장한다(예)",
+      "block_index": 143,
+      "chunk_index": 143,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000144",
+      "text": "⦁ 검체의 보관조건 ⦁ 검체의 준비 ⦁ 사용하는 장비 및 시험 키트에 대한 설명 ⦁ 결과의 계산과 해석에 대한 자세한 방법 ⦁ 각각의 시험에 대한 유효성 기준",
+      "block_index": 144,
+      "chunk_index": 144,
+      "word_count": 27,
+      "token_estimate": 35.1
+    },
+    {
+      "id": "chunk_000145",
+      "text": "⦁ 재시험 절차",
+      "block_index": 145,
+      "chunk_index": 145,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000146",
+      "text": "⦁ 참고문헌",
+      "block_index": 146,
+      "chunk_index": 146,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000147",
+      "text": "4.2. 대조물질",
+      "block_index": 147,
+      "chunk_index": 147,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000148",
+      "text": "검사할 때 사용하는 대조물질(내부대조물질(internal control)과 외부대조물질(external",
+      "block_index": 148,
+      "chunk_index": 148,
+      "word_count": 6,
+      "token_estimate": 7.800000000000001
+    },
+    {
+      "id": "chunk_000149",
+      "text": "control))은 모든 시험에 항상 포함해야 한다. 외부 대조물질로는 국제표준품 혹은 국제",
+      "block_index": 149,
+      "chunk_index": 149,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000150",
+      "text": "표준품과 비교한 표준품을 사용하여야 한다. 검사를 수행하는 시험자는 적절한 숙련도 시험을 규칙적으로 실시해야 한다. 예를 들 어, 개별 시험자의 교육 효과를 평가하기 위하여 고농도(반응성이 충분한 양성이 확인",
+      "block_index": 150,
+      "chunk_index": 150,
+      "word_count": 27,
+      "token_estimate": 35.1
+    },
+    {
+      "id": "chunk_000151",
+      "text": "될 수준) 및 저농도(반응성이 약한 수준) 바이러스 핵산이 첨가된 수집혈장 8개의 검체",
+      "block_index": 151,
+      "chunk_index": 151,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000152",
+      "text": "에 대하여 검사를 실시하도록 한다. 이 검사를(8회 반복 검체) 서로 다른 날에 3회 반 복 실시한다. 즉, 서로 다른 3일에 24회의 검사를 실시하여 모든 결과가 양성으로 확인",
+      "block_index": 152,
+      "chunk_index": 152,
+      "word_count": 27,
+      "token_estimate": 35.1
+    },
+    {
+      "id": "chunk_000153",
+      "text": "되어야 한다.",
+      "block_index": 153,
+      "chunk_index": 153,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000154",
+      "text": "4.4. 장비 적격성 평가",
+      "block_index": 154,
+      "chunk_index": 154,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000155",
+      "text": "시험장비의 설치 또는 변경(교체) 시, 설치 적격성(installation qualification)과 운전 적",
+      "block_index": 155,
+      "chunk_index": 155,
+      "word_count": 10,
+      "token_estimate": 13.0
+    },
+    {
+      "id": "chunk_000156",
+      "text": "격성(opeartion qualification) 및 성능 적격성(performance qualification)을 수행하고 이",
+      "block_index": 156,
+      "chunk_index": 156,
+      "word_count": 8,
+      "token_estimate": 10.4
+    },
+    {
+      "id": "chunk_000157",
+      "text": "에 대하여 문서화할 필요가 있다.",
+      "block_index": 157,
+      "chunk_index": 157,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000158",
+      "text": "Control Authority Batch Release of Blood Products, EDQM OCABR of Biological",
+      "block_index": 158,
+      "chunk_index": 158,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000159",
+      "text": "Substances, 2001, 6. The Introduction of Nucleic Acid Amplification Technology (NAT) for",
+      "block_index": 159,
+      "chunk_index": 159,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000160",
+      "text": "the Detection of Hepatitis C Virus RNA in Plasma Pools (CPMP/BWP/390/97). The",
+      "block_index": 160,
+      "chunk_index": 160,
+      "word_count": 12,
+      "token_estimate": 15.600000000000001
+    },
+    {
+      "id": "chunk_000161",
+      "text": "European Agency for the Evaluation of Medicinal Products, 1998, 7. Note for Guidance",
+      "block_index": 161,
+      "chunk_index": 161,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000162",
+      "text": "on Plasma-Derived Medicinal Products",
+      "block_index": 162,
+      "chunk_index": 162,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000163",
+      "text": "(CPMP/BWP/269/95). The European",
+      "block_index": 163,
+      "chunk_index": 163,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000164",
+      "text": "ICH Q2(R1): Validations of Analytical Procedures: Text and Methodology.",
+      "block_index": 164,
+      "chunk_index": 164,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000165",
+      "text": "International",
+      "block_index": 165,
+      "chunk_index": 165,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000166",
+      "text": "Conference",
+      "block_index": 166,
+      "chunk_index": 166,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000167",
+      "text": "on",
+      "block_index": 167,
+      "chunk_index": 167,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000168",
+      "text": "Harmonization",
+      "block_index": 168,
+      "chunk_index": 168,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000169",
+      "text": "of",
+      "block_index": 169,
+      "chunk_index": 169,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000170",
+      "text": "Technical",
+      "block_index": 170,
+      "chunk_index": 170,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000171",
+      "text": "Reentry”, 2010",
+      "block_index": 171,
+      "chunk_index": 171,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000172",
+      "text": "Individual Samples",
+      "block_index": 172,
+      "chunk_index": 172,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000173",
+      "text": "to Reduce the Risk of Transmission of Hepatitis B",
+      "block_index": 173,
+      "chunk_index": 173,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000174",
+      "text": "Amplification Techniques. European Directorate for the Quality of Medicines",
+      "block_index": 174,
+      "chunk_index": 174,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000175",
+      "text": "HealthCare(EDQM), 2013;204-7.",
+      "block_index": 175,
+      "chunk_index": 175,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000176",
+      "text": "제‧개정 이력",
+      "block_index": 176,
+      "chunk_index": 176,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000177",
+      "text": "혈액제제의 핵산증폭검사법 검증 가이드라인 제․개정번호 승인일자",
+      "block_index": 177,
+      "chunk_index": 177,
+      "word_count": 6,
+      "token_estimate": 7.800000000000001
+    },
+    {
+      "id": "chunk_000178",
+      "text": "주요 내용",
+      "block_index": 178,
+      "chunk_index": 178,
+      "word_count": 2,
+      "token_estimate": 2.6
+    },
+    {
+      "id": "chunk_000179",
+      "text": "핵산증폭검사법 검증 가이드 제정 현 규정 반영 및 과학적 검증방법 구체적 제시 개정",
+      "block_index": 179,
+      "chunk_index": 179,
+      "word_count": 13,
+      "token_estimate": 16.900000000000002
+    },
+    {
+      "id": "chunk_000180",
+      "text": "발 행 일 발 행 인 편 집 위 원 장",
+      "block_index": 180,
+      "chunk_index": 180,
+      "word_count": 11,
+      "token_estimate": 14.3
+    },
+    {
+      "id": "chunk_000181",
+      "text": "편 집 위 원",
+      "block_index": 181,
+      "chunk_index": 181,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000182",
+      "text": "도 움 주 신 분",
+      "block_index": 182,
+      "chunk_index": 182,
+      "word_count": 5,
+      "token_estimate": 6.5
+    },
+    {
+      "id": "chunk_000183",
+      "text": "발 행 처",
+      "block_index": 183,
+      "chunk_index": 183,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    },
+    {
+      "id": "chunk_000184",
+      "text": "혈액제제의 핵산증폭검사법 검증 가이드라인",
+      "block_index": 184,
+      "chunk_index": 184,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000185",
+      "text": "손여원",
+      "block_index": 185,
+      "chunk_index": 185,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000186",
+      "text": "김대철",
+      "block_index": 186,
+      "chunk_index": 186,
+      "word_count": 1,
+      "token_estimate": 1.3
+    },
+    {
+      "id": "chunk_000187",
+      "text": "허지연, 김형진, 구민영, 김수연",
+      "block_index": 187,
+      "chunk_index": 187,
+      "word_count": 4,
+      "token_estimate": 5.2
+    },
+    {
+      "id": "chunk_000188",
+      "text": "㈜녹십자(한태희, 김대승), 에스케이플라즈마(임진우, 안소현), 대 한적십자사 혈장분획센터(손철우, 지용훈), 한마음혈액원(조용준)",
+      "block_index": 188,
+      "chunk_index": 188,
+      "word_count": 9,
+      "token_estimate": 11.700000000000001
+    },
+    {
+      "id": "chunk_000189",
+      "text": "식품의약품안전평가원 바이오생약심사부 생물제제과",
+      "block_index": 189,
+      "chunk_index": 189,
+      "word_count": 3,
+      "token_estimate": 3.9000000000000004
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "processing_info": {
+    "total_elements": 333,
+    "text_elements": 244,
+    "connected_blocks": 190
+  }
+}

@@ -1,0 +1,8 @@
+2025-07-22 17:28:43,858 - medical_pdf_parser - INFO - main:77 - ================================================================================
+2025-07-22 17:28:43,858 - medical_pdf_parser - INFO - main:78 - 🚀 향상된 Medical PDF 파싱 프로젝트 시작
+2025-07-22 17:28:43,858 - medical_pdf_parser - INFO - main:79 - ================================================================================
+2025-07-22 17:28:43,860 - medical_pdf_parser - INFO - main:109 - 입력 디렉토리: C:\Users\tel33\OneDrive\바탕 화면\2025년 하계방학\7월 인턴 넥스제너\codes\ddd\Medical_pdf_parsing_PR\input_pdfs
+2025-07-22 17:28:43,860 - medical_pdf_parser - INFO - main:110 - 출력 디렉토리: C:\Users\tel33\OneDrive\바탕 화면\2025년 하계방학\7월 인턴 넥스제너\codes\ddd\Medical_pdf_parsing_PR\output_data
+2025-07-22 17:28:43,860 - medical_pdf_parser - INFO - main:111 - 최대 워커 수: 4
+2025-07-22 17:28:43,860 - medical_pdf_parser - INFO - main:112 - GPU 사용: False
+2025-07-22 17:28:43,861 - medical_pdf_parser - WARNING - main:117 - 입력 디렉토리에서 PDF 파일을 찾을 수 없습니다: C:\Users\tel33\OneDrive\바탕 화면\2025년 하계방학\7월 인턴 넥스제너\codes\ddd\Medical_pdf_parsing_PR\input_pdfs
