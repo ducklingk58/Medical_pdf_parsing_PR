@@ -1,0 +1,2979 @@
+[
+  {
+    "id": "57c86f03-77e9-4831-8559-8892573570f5",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03)",
+    "metadata": {
+      "page": 1,
+      "type": "heading",
+      "document_order": 1,
+      "content_length": 35,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "19cd122a-1999-40a4-af09-743112a05a8d",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 2,
+      "content_length": 53,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e636ab89-d7ca-4cae-b135-5aa70ca961e3",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 3,
+      "content_length": 105,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3597d735-e334-42b9-ba07-0aeae38fe2a4",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 4,
+      "content_length": 108,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d05c153e-167f-4fad-87d2-06743c0e3770",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 5,
+      "content_length": 116,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "055e7a5b-6301-4702-8a0b-d1804231d468",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 6,
+      "content_length": 120,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "246b4c58-7921-4f5c-bbab-119eacf00d6e",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 7,
+      "content_length": 136,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "944b875c-fddf-49c8-a743-f1b4d89e542c",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 8,
+      "content_length": 140,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ddc2349d-be3c-46c0-86bb-b178a0e5b922",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 9,
+      "content_length": 156,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "35da111e-93cf-4655-af2b-cc39dce2c6eb",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 10,
+      "content_length": 160,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c67a383f-378b-4cc0-ae10-91e335f2bf0d",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 11,
+      "content_length": 176,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "54f83c81-2aa0-490e-bb76-735df1ec9123",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 12,
+      "content_length": 179,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e590ba47-09e0-4144-a027-eba262586f27",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 13,
+      "content_length": 184,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d1f1cd0d-75ec-4504-8b36-0c3b82effb49",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 14,
+      "content_length": 187,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ae724c56-87b8-4e97-92a9-9aefbebd0089",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 15,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fcd00d73-dd56-4801-81c2-a88d9eecb246",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 16,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "de93b482-a6eb-44e3-8a13-a5233ac6f0cb",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 17,
+      "content_length": 203,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c5d2feec-5872-4a28-a350-ea703ae1d9ce",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 18,
+      "content_length": 206,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d40c842f-6e9c-4fc7-a26c-3dd2fe53e69c",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 19,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "171b4e8a-c6ea-4a36-95f2-d6e91926d447",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 20,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2e9692ee-ae3b-4673-8c10-ff6f26526dd7",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-08(지침서03) 의약품 품목 자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 21,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1d59e7d8-e416-4de7-8e8f-7d46d2189792",
+    "text": "자진취하 수리 업무 Acceptance of Voluntary Withdrawal of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 22,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "42949ef8-cbbf-4c45-ba1b-bc84f72af06a",
+    "text": "of a Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 지침·안내서가 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 23,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5dcaacaf-bc4c-4ca7-aad3-ecfff1492a49",
+    "text": "Listed Drug 구분 소속 및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 지침·안내서가 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 24,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fe3a12e6-bcd1-45c8-8645-b74393074a9b",
+    "text": "및 이름 작성자 허가총괄담당관 주무관 김성란 검토자 허가총괄담당관 사무관 문성은 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 지침·안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다  그럼에도 불구하고 동 지침·안내서의 제정이 필요한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 25,
+      "content_length": 292,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "15e34935-9ef1-4906-80ee-d631f46f720c",
+    "text": "지침·안내서 구분 기타 확인 사항 지침·안내서 제‧개정 점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 지침·안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 26,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "138a6cc4-92ef-48bd-bd0d-ef80b0c9968e",
+    "text": "점검표 의약품 품목 자진취하 수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 지침·안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 27,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "43c37f8c-ac07-41bd-90b8-8441cfd66f1e",
+    "text": "수리 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 지침·안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 내용을 단순 편집 또는 나열한 것입니까 \n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 28,
+      "content_length": 283,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3b9d5311-a8a5-4185-9a78-ab22ff79cf57",
+    "text": "동일·유사한 내용의 지침·안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 \n\n□ 외국 규정을 번역하거나 설명하는 내용입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 29,
+      "content_length": 282,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3aab8652-5888-47e3-8385-7e512d2e44ae",
+    "text": "‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 30,
+      "content_length": 270,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "76885c56-a055-4775-b8f8-a86e24eeb8b1",
+    "text": "불구하고 동 지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 31,
+      "content_length": 229,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "680f214c-ec90-440e-89cf-48a2c30a7650",
+    "text": "지침·안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다  지침·안내서 제·개정 절차를 적용하실 필요는 없습니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 32,
+      "content_length": 304,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "aca3f904-f649-4b24-8a63-709a49737f38",
+    "text": "것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 33,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f112d89a-54bc-43be-a53d-53f0309a5fa1",
+    "text": "□ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까  (공무원용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 34,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cefc44bb-59ff-4250-b1cf-ed1a629c6811",
+    "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 35,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "97438853-f94a-4382-85cb-1f600797fb81",
+    "text": "설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 36,
+      "content_length": 227,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ff36bd3e-bc50-41b5-aeae-e11c80f38c37",
+    "text": "직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 37,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a60cbe4a-260c-41b6-be57-8ece3895d669",
+    "text": "쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 38,
+      "content_length": 236,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1596d39b-3a0c-41aa-aef5-046773919c61",
+    "text": "상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 39,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "514a0295-fe22-4c74-a0b4-501b57837d8d",
+    "text": "하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 40,
+      "content_length": 264,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4334d9a7-fbae-41b7-a128-ae0a180feda4",
+    "text": "적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 41,
+      "content_length": 234,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e8ab339e-b5de-40cf-98d1-77ee4edaa871",
+    "text": "통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 42,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e1d9fb5f-d706-4d00-8496-27a771987d2e",
+    "text": "행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 43,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "354f6e8f-d94c-4f32-be19-f70caf31ca85",
+    "text": "절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이수정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 44,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6430d09f-00bf-49c5-a160-4b7a82f106f3",
+    "text": "제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이수정 이 지침서는 의약품 품목 자진취하 수리 업무에 대한 식품의약품안전처\n\n관련 부서 담당 직원의 업무처리를 위한 것입니다 \n\n본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 45,
+      "content_length": 314,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d376c259-fbd9-4f1a-8807-623252d4d90b",
+    "text": "아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이수정 이 지침서는 의약품 품목 자진취하 수리 업무에 대한 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 46,
+      "content_length": 245,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ccef83a8-aa09-48b6-90af-fe6201c65eaf",
+    "text": "상위법령 일탈 내용을 삭제하시고 지침· 안내서 제·개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이수정 이 지침서는 의약품 품목 자진취하 수리 업무에 대한 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍 니다  또한, 본 지침서는 2022년 8월 16일 현재 유효한 법규를 토대로",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 47,
+      "content_length": 262,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c67c1d0a-7a1c-46f8-ab8b-6307c202754b",
+    "text": "사항에 대하여 확인하였음 담당자 확 인(부서장) 이수정 이 지침서는 의약품 품목 자진취하 수리 업무에 대한 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍 니다 또한, 본 지침서는 2022년 8월 16일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 48,
+      "content_length": 250,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d33be99a-74d7-44b8-b1c8-86e7f8d22552",
+    "text": "자진취하 수리 업무에 대한 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍 니다 또한, 본 지침서는 2022년 8월 16일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 49,
+      "content_length": 216,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f81f8408-3875-48cc-aab7-472430062208",
+    "text": "업무에 대한 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍 니다 또한, 본 지침서는 2022년 8월 16일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정\n\n사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 50,
+      "content_length": 285,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5a69ddc2-fa49-4fe9-a3db-ea9d73259183",
+    "text": "가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍 니다 또한, 본 지침서는 2022년 8월 16일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조)\n\n※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 51,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "475aa3b2-803f-4f59-a277-7dc4e8fd468a",
+    "text": "2022년 8월 16일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 52,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6fc44c44-7dcc-40a4-be7c-c3fd9e76c4b9",
+    "text": "16일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 53,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e2f928e4-8320-43de-9525-14d507411ca0",
+    "text": "현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 54,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c0f48f48-57d7-4b8f-ab50-1a9dda1baa26",
+    "text": "유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 55,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e8355c9a-0a2c-43f1-9233-9cf6d913001c",
+    "text": "내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 56,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "446fe917-23fd-40c9-8eb9-3ff2c9777e23",
+    "text": "등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 57,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2cc56d1b-a791-4937-8a66-53aed8abee20",
+    "text": "따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 58,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8f532a5b-30af-495e-a57e-67c8efe62aaf",
+    "text": "달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 59,
+      "content_length": 263,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b75a5994-fbcb-4441-acc9-580eb3085b10",
+    "text": "알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 60,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6f007d26-2a53-4ed5-a27a-e4c6f762a799",
+    "text": "※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 내부적으로 행정 사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화:",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 61,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5314545c-1cc9-4712-9edc-8a27559bd4af",
+    "text": "사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 62,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e443d935-8ec2-43a9-b28d-5a14c8c2a246",
+    "text": "세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서 등의 관리에 관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 63,
+      "content_length": 294,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e11e56af-e5ff-442d-9909-f8847435bc3a",
+    "text": "관한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 64,
+      "content_length": 301,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "96ed0306-2ddc-47c7-b799-ef3956484955",
+    "text": "식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 65,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c7429174-f2df-4b0f-a527-a4c058eca693",
+    "text": "바랍니다 <개요> 목적 이 지침서(편람)는 의약품(생물의약품 및 한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다 3 1  품목 자진취하 수리 업무 담당자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 66,
+      "content_length": 269,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "015acd4a-faeb-4159-9312-70ddd8950e8f",
+    "text": "한약(생약)제제 포함) 제조판매품목, 수입품목 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다 3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 67,
+      "content_length": 277,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6d62d42b-017a-43a4-89c5-cb1a6f553fa8",
+    "text": "지침서(편람)는 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다 3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품\n\n안전과·의약품안전관리과 직원을 말한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 68,
+      "content_length": 304,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d85d9f59-99ca-436d-b1a0-6e70e93d9de9",
+    "text": "경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다 3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2  의약품통합정보시스템(대내용) 및 의약품안전나라(대외용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 69,
+      "content_length": 289,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0cc98160-0cf6-4c0c-a2fc-d37a16c03bb0",
+    "text": "수입품목 및 원료의약품등록(DMF)의 자진취하서가 접수되어 처리하는 경우 업무 절차를 문서화함으로써 업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다 3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 70,
+      "content_length": 299,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b3a9af52-7d8b-4b6c-a4fc-70b4b2e68bbe",
+    "text": "업무의 정확성, 일관성 및 투명성을 확보 하기 위한 것이다 3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 71,
+      "content_length": 286,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f667faf3-023e-42a0-bc72-ffb722b378c6",
+    "text": "확보 하기 위한 것이다 3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 72,
+      "content_length": 281,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "aa32a324-a6ab-4206-80d3-c270d59d298a",
+    "text": "3 1 품목 자진취하 수리 업무 담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1  품목 자진취하 신청서 접수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 73,
+      "content_length": 288,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "74fb3bea-2cbc-46a4-8ad8-90a7bde41a1b",
+    "text": "담당자 의약품 제조판매품목, 수입품목 또는 원료의약품등록(DMF) 자진취하 수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 74,
+      "content_length": 306,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "996d845f-3df3-420b-85aa-32e498c5b0ef",
+    "text": "수리 업무를 담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 75,
+      "content_length": 274,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12e5f29f-8474-4565-a38a-766db207eca9",
+    "text": "담당하는 허가총괄담당관, 첨단제품허가담당관, 마약정책과 및 6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2  품목 자진취하 의견조회",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 76,
+      "content_length": 285,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3e36fba-4d54-463a-83c5-f1af3c503457",
+    "text": "6개 지방청 의료제품 안전과·의약품안전관리과 직원을 말한다 3 2 의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 77,
+      "content_length": 297,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "70367d79-7cca-4537-a664-83da9a3b5d05",
+    "text": "의약품통합정보시스템(대내용) 및 의약품안전나라(대외용) 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 78,
+      "content_length": 300,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "216fb666-cffd-4ae0-88b7-5571697f8837",
+    "text": "전자민원 시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 79,
+      "content_length": 237,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "235489d3-3a35-47d3-a051-52864e549775",
+    "text": "시스템으로 의약품안전나라(대외용) 및 의약품통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 80,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c5e0a705-4aed-4673-9d69-72bb89b9edb3",
+    "text": "4 1 품목 자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 >",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 81,
+      "content_length": 222,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7f32ffa7-34ea-4cc0-8386-c2c3912d0d17",
+    "text": "자진취하 신청서 접수 온나라에 문서 수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3  품목 자진취하 수리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 82,
+      "content_length": 231,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fa21961c-e765-43a5-a359-6b3865b20594",
+    "text": "수동 접수하고, 의약품통합정보시스템을 통해 접수한다 민원 신청가능하다 4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 83,
+      "content_length": 244,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "62733898-47d7-42f7-a83c-ae3261571a01",
+    "text": "4 2 품목 자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 >",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 84,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c5dc5bb4-a54d-4691-be3a-c9a2f4371d44",
+    "text": "자진취하 의견조회 품목, 희귀의약품, 퇴장방지의약품, 생산·수입·공급 보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 85,
+      "content_length": 225,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "eafb400c-fd73-4d7b-97fa-f7376fd8312e",
+    "text": "보고대상 의약품 여부(이하 재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 86,
+      "content_length": 197,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d13abb55-481c-4dcf-a12e-700c68f179d0",
+    "text": "재 대상 품목 등 여부를 온나라 문서 기안하여 관련 부서에 검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 87,
+      "content_length": 233,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1c7ea427-a88e-42b7-a150-0355ec474dd9",
+    "text": "검토 의뢰 한다 한약정책과 중단하고, 해당조건이 만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 88,
+      "content_length": 223,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8534edca-b130-47d6-85ad-5908fc0e7ade",
+    "text": "만족될 때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 89,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29fb9c61-3305-42ad-81f4-7ed16dc043e0",
+    "text": "때 다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 90,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2df2e072-ab60-461e-9c59-c00b3cccf4cc",
+    "text": "다시 진행할 것을 신청자에게 통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 91,
+      "content_length": 227,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "59828e1a-bf04-467b-817c-9dded0ef30ba",
+    "text": "통보한다 < 관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 92,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9e2e4604-a6b2-4510-9271-4c7b06b6fe82",
+    "text": "관련부서 > 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 93,
+      "content_length": 216,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "77d5f6bd-48b7-41c4-a569-c99f86ef7bea",
+    "text": "> 4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 94,
+      "content_length": 216,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9c4db105-184f-42f9-9bc8-37406b13b8d7",
+    "text": "4 3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 95,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8c46a85c-f17e-4d0a-9c37-1a02d4bdbbee",
+    "text": "3 품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 96,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d5a3fd0e-01bd-4d15-af51-519e0c8054fe",
+    "text": "품목 자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 97,
+      "content_length": 222,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ddc71081-f78a-4c14-9db5-13496bfc938e",
+    "text": "자진취하 수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 98,
+      "content_length": 222,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5419dccd-fb9f-421c-870b-dbbed8f6cbca",
+    "text": "수리 통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 99,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fba5969f-6894-4603-8608-5c22282e1f6d",
+    "text": "통해 통지하고, 관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 100,
+      "content_length": 225,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d950d4d9-b4eb-4b6d-9fb1-cc71b0385f2d",
+    "text": "관련기관에는 온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 101,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "78a127b3-13b3-44cd-bdd6-7018357b61b3",
+    "text": "온나라 문서로 기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 102,
+      "content_length": 235,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "96aad95c-62e0-4f89-8b3d-78a6976e03c7",
+    "text": "기안하여 통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 103,
+      "content_length": 230,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e841ed17-7060-4897-a33d-447f2dfd7665",
+    "text": "통지한다 < 관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 104,
+      "content_length": 235,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "70b560be-bed0-4033-8b25-5ce9bb043a28",
+    "text": "관련기관 > 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 105,
+      "content_length": 233,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0fb5d42d-3276-472a-9e9a-c503d98fe5e2",
+    "text": "> 4 4 자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 106,
+      "content_length": 239,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f792d566-1146-4ca3-98de-824263f460e2",
+    "text": "자진취하 품목 현황 공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 107,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "453094bc-0837-481d-a63e-60f73177d147",
+    "text": "공개 의약품 등 정보검색 ＊ DMF(원료의약품) : 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 108,
+      "content_length": 269,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "67f46ac1-a7d9-4c5d-8010-eb3aad5a1c75",
+    "text": ": 의약품안전나라 > 의약품등 정보 > 원료의약품등록(DMF) 공고 [붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 109,
+      "content_length": 258,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "371791ef-2cc7-4074-aba1-2d6723a775a5",
+    "text": "[붙임1] 품목 자진취하 수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 110,
+      "content_length": 230,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1725705b-2e6b-4fd0-a2a9-26d859db2e98",
+    "text": "수리 업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 111,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71fcf474-824f-4049-905a-c2d98d9c70a3",
+    "text": "업무 절차 민원인 협조부서 의약품안전국 바이오생약국 위해사범중앙조사단 지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 112,
+      "content_length": 262,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "775da614-9c46-4c8a-89a8-58ce52f93200",
+    "text": "지방청 품목 자진취하서 신청 의견조회 검토 회신 (필요시) 품목 알림 자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 113,
+      "content_length": 266,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6baf8ea1-5bc1-4011-a1af-b89d093ea074",
+    "text": "자진취하 수리 처리부서 지방청 의료제품안전과·의약품안전관리과 접수 행정처분 진행상황 의견조회 품목 자진취하 수리 및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 114,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12b2f961-bf1b-41e2-849f-0df0e368c992",
+    "text": "및 관련단체 알림 [붙임1-1] 의약품 제조판매품목/수입품목 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 115,
+      "content_length": 248,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f12d793c-b225-4f3c-8b7a-3ce69e6daf14",
+    "text": "자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 116,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4f0ad082-a860-4bae-a925-0e0c11e9b5e8",
+    "text": "의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 117,
+      "content_length": 216,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1f5826d9-79f5-4f95-9004-4cfdb34515d2",
+    "text": "양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 118,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2bda2b3a-51a5-4f48-a89e-6b423436c2c6",
+    "text": "식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 119,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6dc65575-5a2f-458f-b80f-4655ab377279",
+    "text": "안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 120,
+      "content_length": 236,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c4c4fac9-0c54-4f7a-b8f5-b3e06c0974d5",
+    "text": "수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임  검토의견서  끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 121,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2ee10a0d-1fa9-43e8-962d-4e4b0c63ecb9",
+    "text": "(경유) 제목 의약품 제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 122,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d2a8ffa3-5083-4f7d-a8d7-21412f9a4f03",
+    "text": "제조판매품목/수입품목 자진취하 관련 의견조회 [(주)○○_제품명] 수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 123,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0e08706f-318a-4d2e-b29b-903acb81a667",
+    "text": "수입품목 ‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 124,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c67235b7-6e4f-42ea-b180-868ad3c7f71b",
+    "text": "‘○○○’의 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 125,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e216fee4-ad7c-44ad-b21d-078a6ffb79cb",
+    "text": "신청 건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 126,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4fdee34b-2d83-4e93-abfb-e295b5658641",
+    "text": "건과 관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 127,
+      "content_length": 201,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4fd8dd87-fa4d-4996-8dd3-f177fb508ef5",
+    "text": "관련하여 귀 과에 행정처분 진행사항 및 재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 128,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f10d3273-456d-471a-8bff-7361dad0e2ce",
+    "text": "재심사 대상품목 등을 검토의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 129,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "41da07ba-b3af-46f9-b1b5-a7d63829e76e",
+    "text": "6시까지 우리 처 (허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 130,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "16fb0810-b45e-43d0-9e90-de5f679acb8f",
+    "text": "(허가총괄담당관, Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 131,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e83ebef0-aba8-4978-90b1-1558d175ddd1",
+    "text": "Fax: 0432300)으로 회신하여 주시기 바랍니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 132,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "05e87019-5615-4837-b847-67d074d18c5b",
+    "text": "허가일자 비고 할 예정임을 알려드립니다 붙임 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax:",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 133,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3b49880e-c226-4565-9f22-1d70571d1ddc",
+    "text": "검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우,",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 134,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1fedbe0e-df4b-48cc-ab63-09a722485f43",
+    "text": "유 무 [붙임1-2] 등록대상 원료의약품(DMF) 자진취하 의견조회 양식 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 135,
+      "content_length": 234,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4dfbf46e-6442-4fae-9203-208f9a40c68c",
+    "text": "식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 136,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b34b4234-1689-420d-9560-81cce5baa3a8",
+    "text": "품 의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 137,
+      "content_length": 197,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e158b1dc-91aa-4a3e-bd3f-a292675038ba",
+    "text": "의 약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 138,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "78797cf5-813c-46eb-b92c-91207f9f1b71",
+    "text": "약 품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 139,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "daf16ef4-8a86-4e72-8b5e-95918a9ca7b2",
+    "text": "품 안 전 처 수신 수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 140,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6231ab1b-7184-4262-b166-23538091acd0",
+    "text": "수신자 참조 (경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 141,
+      "content_length": 215,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a4f9bf72-76a8-4f20-8982-f35c561d2d5b",
+    "text": "(경유) ‘○○○’ 자진취하 신청 건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서  끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 142,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "851218f6-5252-48e4-8060-54d60b03862d",
+    "text": "건과 관련하여 귀 과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 143,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5f2e2144-2fc4-489a-aa9f-614e7eeaef0d",
+    "text": "과에 행정처분 진행사항 등 검토를 의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 144,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7b05761e-1285-4402-9d70-1ef42867ecc0",
+    "text": "의뢰하니, 20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 145,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cff5b738-17db-43b9-821b-5aa62eb55742",
+    "text": "20○○ ○ ○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 146,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "beea7aa9-350f-4074-8409-e57bdc3a95c3",
+    "text": "○ 오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 147,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4cd42acf-54e8-4768-806f-4a8a0bc4ba39",
+    "text": "오후 6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 148,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e53c5b9f-873b-47a0-8f6a-92f0d7975c22",
+    "text": "6시까지 우리 처(허가총괄담당관, Fax: 0432300)로 회신하여 주시기 바라며, 이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 149,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0651cc5d-c2a9-4201-b01e-3195b1372094",
+    "text": "이 기한 내에 회신이 없는 경우, 별도 의견이 없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 150,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "25a54962-cb1c-44d9-ad97-1309bb4da00a",
+    "text": "없는 것으로 간주하여 처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 151,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "746587d3-d342-480e-911c-c3b18fbbb87b",
+    "text": "처리할 예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 152,
+      "content_length": 187,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1c06610b-51f3-44cc-9d88-edf43178e4d4",
+    "text": "예정임을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 153,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c2f13717-cb61-4d64-aa44-8e8437589146",
+    "text": "구분 업체명 업번호 등록번호 등록일자 비고 수입/ 제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 154,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f0b243c5-8c6a-432d-b16c-537d185caf9a",
+    "text": "제조 붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 155,
+      "content_length": 208,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7468e672-b941-406e-92f0-9cccd9e6ec44",
+    "text": "붙임 : 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 156,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1da1d218-9e2d-4df9-913b-d9f278dd91c1",
+    "text": ": 검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 157,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e32d05c2-1864-4430-be16-b7819d527855",
+    "text": "검토의견서 끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 158,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ee3d667c-43a0-42e7-a032-b408a78e33a0",
+    "text": "끝 [별첨] 검토의견서 양식 검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 159,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "88f8538f-b988-44c8-90e9-3b329418ec79",
+    "text": "검 토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 160,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d05e2ab6-3b11-4f8b-8818-7b9bd890c70a",
+    "text": "토 의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 161,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2e568db1-cb74-458e-9ce8-879843583dea",
+    "text": "의 견 서 구분 구체적인 의견 유 무 [붙임2-1] 의약품 제조판매품목/수입품목 자진취하 수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 162,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e9114e39-5347-4457-b1a4-adcff5fe1b59",
+    "text": "수리 알림 양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다  끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 163,
+      "content_length": 217,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0758131a-8864-495f-b715-f3681caeac3e",
+    "text": "양식(관련기관 송부용) 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 164,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "dd4125b9-8dc5-4be4-ac47-a794e5acb8eb",
+    "text": "전 처 수신 수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 165,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b2bb3e5f-399a-42fc-b403-3002215f6bcb",
+    "text": "수신자 참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 166,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "20907341-6b07-47c9-83ee-0460c5e6f3db",
+    "text": "참조 (경유) 제목 의약품 제조판매품목/수입품목 자진취하 수리알림[(주)○○_제품명] 자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 167,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cb3e5dec-bae7-469e-ac62-15b18436f6b0",
+    "text": "자진취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 168,
+      "content_length": 190,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "618bedaf-aa88-41fb-817c-a237e4ce7f3a",
+    "text": "신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 169,
+      "content_length": 188,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b3556219-6436-4512-9024-2c157244eb3d",
+    "text": "건이 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 170,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "14a23fd9-f13d-43db-9d01-7344bcd3f051",
+    "text": "다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 171,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cd762e75-28d4-4a0e-8d03-f57e1ef888c6",
+    "text": "같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 172,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7c1b61f6-fe83-40a9-a050-68432419c299",
+    "text": "수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 173,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a7776648-29c9-4a40-afb0-93e86753a959",
+    "text": "제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 174,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4f8233c2-7367-46ad-90ca-ead155172d49",
+    "text": "구분 업체명 업번호 품목번호 허가일자 취하일자 제조/ 수입 ‘의약품 등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 175,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d52d5d45-bc3f-48a5-8a5f-ae811efd4867",
+    "text": "등 정보‘의 의약품 등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다  끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 176,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "41df5dc3-ed51-4e00-b21f-c7c08d15d1e5",
+    "text": "등 정보검색에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 177,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fbe9f1bf-6974-4d3e-af2a-63ad3ae5de55",
+    "text": "끝 식 품 의 약 품 안 전 처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 178,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0aee4988-0ef1-488b-9869-85fa21356c75",
+    "text": "처 수신 수신자 참조 (경유) 취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 179,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c9ef01ad-5474-40f2-8d82-86630e9f5f76",
+    "text": "취하 신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 180,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1846e820-c11a-45f4-af21-79df32edfe7a",
+    "text": "신청 건이 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 181,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "eaae1e31-59d8-4435-a978-ae64ed84abb4",
+    "text": "원료 성분명 구분 업체명 업번호 등록일자 취하일자 제조/수입 ‘의약품등 정보’의 원료의약품등록(DMF) 공고에서 확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 182,
+      "content_length": 280,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4b30afc5-f6a6-4fed-9eed-df4b5c1d65b3",
+    "text": "확인할 수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 183,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "639c250b-04ba-4528-a261-13b33eac502d",
+    "text": "수 있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 184,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9d652eca-526e-475f-af9d-d63c17d6ac74",
+    "text": "있으니 관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 185,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b59dc6d3-8d32-4e20-9067-27808e801416",
+    "text": "관련 업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 186,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8ebd53dc-3f4c-4e0c-a1ac-679a6d29fe52",
+    "text": "업무에 참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 187,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "90171a78-423c-4a4e-86f6-57b309fa767b",
+    "text": "참고하시기 바랍니다 끝 [붙임3-1] 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 188,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4eb9d1da-b1d0-4020-aab2-b0698c33a937",
+    "text": "의약품 제조판매품목/수입품목 자진취하 신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 189,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1070f323-1771-4257-a094-2e9a679334a8",
+    "text": "신청 수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 190,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "09bd8073-acbe-41b2-b43e-6c62cd75b24b",
+    "text": "수리 알림 양식(업체 송부용) 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 191,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "59eebdde-5a0b-484d-bef9-94b6d12ec24d",
+    "text": "안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 192,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "95e29e28-91b3-47c7-921f-56ecb7ee93e9",
+    "text": "처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 193,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "70629fbd-a442-4e70-8ad1-193904811aae",
+    "text": "업체명, 대표자명 (우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 194,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "adc8c655-1282-4ca9-b016-5846308fc203",
+    "text": "(우편번호, 주소) (경유) 제목 의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 195,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fdecba83-fa0d-41fc-8b79-9e0832439d08",
+    "text": "의약품 제조판매품목/수입품목 자진취하 신청 수리 알림[(주)○○_제품명] (접수번호 : OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 196,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "85d77669-4a1c-419d-b22c-ae6105081094",
+    "text": "OO)” 자진취하 신청 건은 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 197,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1a24288e-eb21-4a64-8d39-284ce9d7e944",
+    "text": "요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 198,
+      "content_length": 174,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "348259d3-b2b6-4265-8d4a-fbb84a67ded4",
+    "text": "따라 다음과 같이 수리되었음을 알려드립니다 연번 제품명 구분 업체명 업번호 품목번호 허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 199,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "16b3e8ce-16a6-4b82-ba37-6e7aaf9e3b68",
+    "text": "허가일자 취하일자 제품명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 200,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6186f0f3-15a2-4d65-a165-fe6e6fecad0b",
+    "text": "품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 201,
+      "content_length": 195,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "566d0412-751e-4af5-a7be-4fa598dc0407",
+    "text": "안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 202,
+      "content_length": 196,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b2c7f195-2c68-4dfc-8ba9-721e6a4749fe",
+    "text": "전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 203,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c6f39a76-18b4-42bf-98b5-95b3b8847f40",
+    "text": "처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 204,
+      "content_length": 199,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1611add6-786f-48f9-a108-8b0ab22cbe17",
+    "text": "장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 205,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4ef19357-c24f-4a35-afab-372ac7c19069",
+    "text": "담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 206,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e6047f3f-0559-463d-a89f-67886afe1e28",
+    "text": "직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 207,
+      "content_length": 217,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "894143a4-52cf-40d7-9930-1c50cd67d20d",
+    "text": "직위 전결 일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 208,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0fd646c8-e532-494a-a048-5de3c69b1e45",
+    "text": "일자 검토자 성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 209,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c88a7116-e9cc-4c8f-a732-32eb210000a7",
+    "text": "성명 식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 210,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6e0f8667-9622-48a1-810e-08787fbd1856",
+    "text": "식 품 의 약 품 안 전 처 수신자 업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 211,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "98a3473b-81a2-4d93-9420-7b2baadd19f4",
+    "text": "업체명, 대표자명 (우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 212,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f213d0ee-dd0d-4a9d-87ca-2a289212695a",
+    "text": "(우편번호, 주소) (경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 213,
+      "content_length": 208,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b59562d5-a07c-46a0-a396-fefc07dabbfd",
+    "text": "(경유) 귀하께서 20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 214,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bcde8ccc-317a-4303-827b-23e443e8d33c",
+    "text": "20OO OO OO자 우리 처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 215,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ee764969-19c9-484a-b1b0-ad670fd69ed3",
+    "text": "처에 제출한 등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 216,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5fa048eb-6630-4111-800e-7ea4dc774741",
+    "text": "등록대상 “(DMF)원료의약품취하 - DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 217,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "43c6667b-108f-4023-8dd8-e785d8490691",
+    "text": "- DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 218,
+      "content_length": 183,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "505b3acd-3843-404f-9092-40d51346ad94",
+    "text": "DMF 등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 219,
+      "content_length": 186,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a90d08aa-7b4f-4022-87a5-e38e276f7eab",
+    "text": "등록명(접수번호 : OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 220,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1748b0ce-d3d8-4e34-8682-095354c93553",
+    "text": "OO)”건에 대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 221,
+      "content_length": 196,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9eaeb7c0-5368-4495-990e-a20a3d59f2e1",
+    "text": "대하여 귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 222,
+      "content_length": 192,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "03026016-aeb0-4fa6-a196-e156d804f86c",
+    "text": "귀하의 요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 223,
+      "content_length": 191,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c251b96d-e4ff-434e-b914-0ad8d570602b",
+    "text": "요청에 따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동 편람명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 224,
+      "content_length": 191,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a6ac0f6f-32d5-4730-b12d-85dfaf6bae1a",
+    "text": "따라 다음과 같이 수리되었음을 알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동 편람명 의약품 품목 자진취하 수리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 225,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c011ecab-8c47-4109-a917-8e96adcbd580",
+    "text": "알려드립니다 연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동 편람명 의약품 품목 자진취하 수리 업무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 226,
+      "content_length": 188,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3fc35fa0-9c5e-4972-9ee1-f9f70a6f82cb",
+    "text": "연번 원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동 편람명 의약품 품목 자진취하 수리 업무 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 227,
+      "content_length": 184,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d66924ce-daf8-4758-bfeb-519b7a4af2d2",
+    "text": "원료 성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동 편람명 의약품 품목 자진취하 수리 업무 상동 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 228,
+      "content_length": 184,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4207ccc9-661f-45cb-aa6e-d22cfd1a0cac",
+    "text": "성분명 구분 업체명 업번호 등록번호 등록일자 취하일자 원료 성분명 수입/제조 업체명 끝 식 품 의 약 품 안 전 처 장 담당자 직위 담당자 성명 검토자 직위 전결 일자 검토자 성명 개정 이력 연번 연도 편람코드 개정번호 2018 GRP-MaPP-허가업무-08 제정 상동 상동 편람명 의약품 품목 자진취하 수리 업무 상동 상동 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 229,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  }
+]

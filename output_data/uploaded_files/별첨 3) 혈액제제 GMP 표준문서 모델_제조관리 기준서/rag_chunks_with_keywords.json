@@ -1,0 +1,5229 @@
+[
+  {
+    "text": "Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "Standard",
+      "Code",
+      "Title"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Code of Manufacturing Management Document No Revision No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "No Effective Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Date SCMM 제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "제조관리 기준서 Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code of Manufacturing Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "검토자 Reviewed by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "by 승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "by"
+    ]
+  },
+  {
+    "text": "승인자 Approved by Page: 1 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Standard"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Code of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Code"
+    ]
+  },
+  {
+    "text": "of Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "of"
+    ]
+  },
+  {
+    "text": "Manufacturing Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "text": "No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Date"
+    ]
+  },
+  {
+    "text": "이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Revision"
+    ]
+  },
+  {
+    "text": "개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "text": "XX XX 내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "text": "내역 Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "text": "Contents 최초 제정 SCMM 작성자 Written by OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "OOO Page: 2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "2 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Code"
+    ]
+  },
+  {
+    "text": "Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "No"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)가 혈액제제 제조를 위하여 실시하는 제조\n\n제조관리 전반에 관한 기준을 기술하는데 목적이 있다",
+    "token_estimate": 17,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "text": "표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)가 혈액제제 제조를 위하여 실시하는 제조 제조관리 전반에 관한 기준을 기술하는데 목적이 있다 적용범위 Scope",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "범위",
+      "기준"
+    ]
+  },
+  {
+    "text": "개정 이력 Revision History 목차 Table of Contents Page: 3 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)가 혈액제제 제조를 위하여 실시하는 제조 제조관리 전반에 관한 기준을 기술하는데 목적이 있다 적용범위 Scope OO 혈액원에서 혈액제제를 제조하는데 있어 요구되는 원자재의 입고부터 최종 혈액제제",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "범위",
+      "기준"
+    ]
+  },
+  {
+    "text": "of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)가 혈액제제 제조를 위하여 실시하는 제조 제조관리 전반에 관한 기준을 기술하는데 목적이 있다 적용범위 Scope OO 혈액원에서 혈액제제를 제조하는데 있어 요구되는 원자재의 입고부터 최종 혈액제제 책임과 권한 Role & Responsibility",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "범위",
+      "기준"
+    ]
+  },
+  {
+    "text": "제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)가 혈액제제 제조를 위하여 실시하는 제조 제조관리 전반에 관한 기준을 기술하는데 목적이 있다 적용범위 Scope OO 혈액원에서 혈액제제를 제조하는데 있어 요구되는 원자재의 입고부터 최종 혈액제제 책임과 권한 Role & Responsibility 제조관리자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "범위",
+      "기준"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)가 혈액제제 제조를 위하여 실시하는 제조 제조관리 전반에 관한 기준을 기술하는데 목적이 있다 적용범위 Scope OO 혈액원에서 혈액제제를 제조하는데 있어 요구되는 원자재의 입고부터 최종 혈액제제 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 \n\n3 1 2 본 기준서에 따라 수행되는 모든 제조관련 업무의 최종 승인의 책임이 있다 \n\n3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다",
+    "token_estimate": 38,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "승인",
+      "범위"
+    ]
+  },
+  {
+    "text": "있어 요구되는 원자재의 입고부터 최종 혈액제제 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 제조관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "최종"
+    ]
+  },
+  {
+    "text": "원자재의 입고부터 최종 혈액제제 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 제조관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 제조관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 제조관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 제조관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "제조관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "있다 3 1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "1 3 본 기준서에 따른 제조관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "책임자 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "서명할 책임이 있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "있다 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 용어의 정의 Definition",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 제조관리 활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 용어의 정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조\n\n시설  통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "활동을 수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 용어의 정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "수행할 책임이 있다 Page: 4 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 용어의 정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 용어의 정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다  채혈실, 공급실, 제제실 등이 포함된다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "규정"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date SCMM 용어의 정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 \n\n시험실: 원자재 및 제품 품질 관리를 위한 시험 구역을 의미한다",
+    "token_estimate": 18,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "규정"
+    ]
+  },
+  {
+    "text": "활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 시험실: 원자재 및 제품 품질 관리를 위한 시험 구역을 의미한다 원자재: 원료와 자재를 통칭한다 \n\n원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지\n\n않은 물질을 포함한다  본 기준서에서는 전혈을 의미한다 \n\n자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다",
+    "token_estimate": 31,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 시험실: 원자재 및 제품 품질 관리를 위한 시험 구역을 의미한다 원자재: 원료와 자재를 통칭한다 원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "공간을 의미한다 시험실: 원자재 및 제품 품질 관리를 위한 시험 구역을 의미한다 원자재: 원료와 자재를 통칭한다 원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "시험실: 원자재 및 제품 품질 관리를 위한 시험 구역을 의미한다 원자재: 원료와 자재를 통칭한다 원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "text": "품질 관리를 위한 시험 구역을 의미한다 원자재: 원료와 자재를 통칭한다 원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice OOS: Out of Specification",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "text": "구역을 의미한다 원자재: 원료와 자재를 통칭한다 원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice OOS: Out of Specification SOP: Standard Operation Procedure",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "GMP",
+      "기준",
+      "의미한다",
+      "사용되는"
+    ]
+  },
+  {
+    "text": "자재를 통칭한다 원료: 완제품의 제조에 사용되는 물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice OOS: Out of Specification SOP: Standard Operation Procedure 제조관리 기준 Standard of Manufacturing Management",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "GMP",
+      "기준",
+      "사용되는"
+    ]
+  },
+  {
+    "text": "물질(반제품, 자재는 제외)을 말하며, 완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice OOS: Out of Specification SOP: Standard Operation Procedure 제조관리 기준 Standard of Manufacturing Management 제조공정 관리에 관한 사항",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "text": "완제품에 남아있지 않은 물질을 포함한다 본 기준서에서는 전혈을 의미한다 자재: 포장과 표시작업에 사용되는 용기(혈액백 등), 표시재료(라벨 등) 등을 말한다 완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice OOS: Out of Specification SOP: Standard Operation Procedure 제조관리 기준 Standard of Manufacturing Management 제조공정 관리에 관한 사항 6 1 1 작업소의 출입제한\n\n6 1 1 1 원칙적으로 제조소 내 작업소의 출입은 혈액원의 GMP 조직에 속하는 작업원만이",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "GMP",
+      "제한"
+    ]
+  },
+  {
+    "text": "완제품: 제제화 및 포장작업이 완료된 제품을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice OOS: Out of Specification SOP: Standard Operation Procedure 제조관리 기준 Standard of Manufacturing Management 제조공정 관리에 관한 사항 6 1 1 작업소의 출입제한 6 1 1 1 원칙적으로 제조소 내 작업소의 출입은 혈액원의 GMP 조직에 속하는 작업원만이 가능하다  이는 혈액원에서 혈액제제 제조 및 품질관리 등의 공정을 수행하기 위한\n\n적절한 교육을 수료한 인원을 의미한다  다만, 공혈자는 채혈을 위하여 채혈실 등의",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "text": "기준 Standard of Manufacturing Management 제조공정 관리에 관한 사항 6 1 1 작업소의 출입제한 6 1 1 1 원칙적으로 제조소 내 작업소의 출입은 혈액원의 GMP 조직에 속하는 작업원만이 가능하다 이는 혈액원에서 혈액제제 제조 및 품질관리 등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "text": "Management 제조공정 관리에 관한 사항 6 1 1 작업소의 출입제한 6 1 1 1 원칙적으로 제조소 내 작업소의 출입은 혈액원의 GMP 조직에 속하는 작업원만이 가능하다 이는 혈액원에서 혈액제제 제조 및 품질관리 등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다  해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "text": "1 1 원칙적으로 제조소 내 작업소의 출입은 혈액원의 GMP 조직에 속하는 작업원만이 가능하다 이는 혈액원에서 혈액제제 제조 및 품질관리 등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "가능하다 이는 혈액원에서 혈액제제 제조 및 품질관리 등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "제조 및 품질관리 등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "품질관리 등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "등의 공정을 수행하기 위한 적절한 교육을 수료한 인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "공정",
+      "승인"
+    ]
+  },
+  {
+    "text": "인원을 의미한다 다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "다만, 공혈자는 채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "채혈을 위하여 채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "채혈실 등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "등의 작업소에 출입할 수 있다 최소화하여야 한다 해당 작업 종사자 외 인원이 작업소 출입 시 제조부서 책임자의 승인 및 작업소 내 출입절차, 개인위생, 주의 사항 등에 대한 고지가 필요하다 Page: 5 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 혈액원의 작업소에 출입하고자 하는 인원은 출입제한 절차에 따라 제조부서 책임자의\n\n승인 및 적절한 교육을 이수하여야 한다  출입 시에는 단독으로 출입하여서는 안되며,\n\n하는 작업소에 요구되는 적절한 복장을 착용하여야 하며, 개인 위생 기준에 적합하지",
+    "token_estimate": 32,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "text": "18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 혈액원의 작업소에 출입하고자 하는 인원은 출입제한 절차에 따라 제조부서 책임자의 승인 및 적절한 교육을 이수하여야 한다 출입 시에는 단독으로 출입하여서는 안되며, 하는 작업소에 요구되는 적절한 복장을 착용하여야 하며, 개인 위생 기준에 적합하지 않은 인원은 출입하여서는 안 된다  작업소 출입 절차에 관련한 상세 사항 및 책임과",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date SCMM 혈액원의 작업소에 출입하고자 하는 인원은 출입제한 절차에 따라 제조부서 책임자의 승인 및 적절한 교육을 이수하여야 한다 출입 시에는 단독으로 출입하여서는 안되며, 하는 작업소에 요구되는 적절한 복장을 착용하여야 하며, 개인 위생 기준에 적합하지 않은 인원은 출입하여서는 안 된다 작업소 출입 절차에 관련한 상세 사항 및 책임과 6 1 2 작업 전 시설 및 장비의 청결상태",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "승인",
+      "제한",
+      "기준"
+    ]
+  },
+  {
+    "text": "인원은 출입제한 절차에 따라 제조부서 책임자의 승인 및 적절한 교육을 이수하여야 한다 출입 시에는 단독으로 출입하여서는 안되며, 하는 작업소에 요구되는 적절한 복장을 착용하여야 하며, 개인 위생 기준에 적합하지 않은 인원은 출입하여서는 안 된다 작업소 출입 절차에 관련한 상세 사항 및 책임과 6 1 2 작업 전 시설 및 장비의 청결상태 실시하고 이를 이중 점검 등을 통해 확인 후 사용하여야 한다  이를 위하여 적절하게",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "승인",
+      "제한",
+      "기준"
+    ]
+  },
+  {
+    "text": "시에는 단독으로 출입하여서는 안되며, 하는 작업소에 요구되는 적절한 복장을 착용하여야 하며, 개인 위생 기준에 적합하지 않은 인원은 출입하여서는 안 된다 작업소 출입 절차에 관련한 상세 사항 및 책임과 6 1 2 작업 전 시설 및 장비의 청결상태 실시하고 이를 이중 점검 등을 통해 확인 후 사용하여야 한다 이를 위하여 적절하게 세척 또는 소독 되었음을 기록한 표시서를 부착하여 다른 작업원에게 해당 사항을",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "기준",
+      "출입하여서는",
+      "이를",
+      "시에는"
+    ]
+  },
+  {
+    "text": "개인 위생 기준에 적합하지 않은 인원은 출입하여서는 안 된다 작업소 출입 절차에 관련한 상세 사항 및 책임과 6 1 2 작업 전 시설 및 장비의 청결상태 실시하고 이를 이중 점검 등을 통해 확인 후 사용하여야 한다 이를 위하여 적절하게 세척 또는 소독 되었음을 기록한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유할 수 있으며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "기준",
+      "이를",
+      "등을"
+    ]
+  },
+  {
+    "text": "관련한 상세 사항 및 책임과 6 1 2 작업 전 시설 및 장비의 청결상태 실시하고 이를 이중 점검 등을 통해 확인 후 사용하여야 한다 이를 위하여 적절하게 세척 또는 소독 되었음을 기록한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유할 수 있으며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 1 2 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "이를",
+      "등을",
+      "통해"
+    ]
+  },
+  {
+    "text": "청결상태 실시하고 이를 이중 점검 등을 통해 확인 후 사용하여야 한다 이를 위하여 적절하게 세척 또는 소독 되었음을 기록한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유할 수 있으며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 1 2 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "이를",
+      "등을",
+      "통해"
+    ]
+  },
+  {
+    "text": "이를 위하여 적절하게 세척 또는 소독 되었음을 기록한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유할 수 있으며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 1 2 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "세척",
+      "한다",
+      "작업소"
+    ]
+  },
+  {
+    "text": "소독 되었음을 기록한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유할 수 있으며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 1 2 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "작업소",
+      "한다"
+    ]
+  },
+  {
+    "text": "작성 등을 통해 세척 기록이 유지되어야 한다 6 1 2 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "작업소",
+      "한다"
+    ]
+  },
+  {
+    "text": "세척 기록이 유지되어야 한다 6 1 2 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "작업소",
+      "청소"
+    ]
+  },
+  {
+    "text": "진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "작업소",
+      "청소",
+      "진행"
+    ]
+  },
+  {
+    "text": "예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "청소",
+      "작업소",
+      "예정인"
+    ]
+  },
+  {
+    "text": "제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "청소",
+      "작업소",
+      "기기"
+    ]
+  },
+  {
+    "text": "시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "청소",
+      "작업소",
+      "기기"
+    ]
+  },
+  {
+    "text": "제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "청소",
+      "작업소",
+      "기기"
+    ]
+  },
+  {
+    "text": "시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "시작"
+    ]
+  },
+  {
+    "text": "전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "사용하는"
+    ]
+  },
+  {
+    "text": "사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "사용하는"
+    ]
+  },
+  {
+    "text": "작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "설비의"
+    ]
+  },
+  {
+    "text": "청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1  청소 완료 표시서의 예>",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "청소상태를"
+    ]
+  },
+  {
+    "text": "확인사항을 기록하여야 한다 6 1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "확인사항을"
+    ]
+  },
+  {
+    "text": "1 2 3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "소독에"
+    ]
+  },
+  {
+    "text": "3 작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "청소",
+      "작업소",
+      "기기",
+      "소독에"
+    ]
+  },
+  {
+    "text": "작업소 청소 및 소독에 관한 상세 절차 및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "청소"
+    ]
+  },
+  {
+    "text": "및 책임과 권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "청소"
+    ]
+  },
+  {
+    "text": "권한은 “작업소 청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "청소"
+    ]
+  },
+  {
+    "text": "청소 및 소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "청소"
+    ]
+  },
+  {
+    "text": "소독절차(OOO-XXX)”에 따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "청소"
+    ]
+  },
+  {
+    "text": "따르며, 기기장비의 청소 및 소독 절차는 각 기기설비별 SOP 에 따른다 청소 확인 Cleaning Check 기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 1 3 2 헌혈자 선별의 가장 큰 목적은 공혈자의 건강을 보호하고 혈액매개 감염인자의 전파",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "청소"
+    ]
+  },
+  {
+    "text": "기기(실)명 기기(실)번호 청소일자 청소자 확인일자 확인자 청소완료 (Cleaned) <그림 1 청소 완료 표시서의 예> Page: 6 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 1 3 2 헌혈자 선별의 가장 큰 목적은 공혈자의 건강을 보호하고 혈액매개 감염인자의 전파 예방 등 수혈자를 보호할 수 있도록 공혈자를 선별하는 것이다  이를 위하여 공혈자\n\n채혈은 [혈액관리법]에 따라 채혈에 필요한 시설을 갖춘 곳에서 제조관리자의 지도하에",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "제조",
+      "기준",
+      "기기"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 1 3 2 헌혈자 선별의 가장 큰 목적은 공혈자의 건강을 보호하고 혈액매개 감염인자의 전파 예방 등 수혈자를 보호할 수 있도록 공혈자를 선별하는 것이다 이를 위하여 공혈자 채혈은 [혈액관리법]에 따라 채혈에 필요한 시설을 갖춘 곳에서 제조관리자의 지도하에 실시하여야 한다  채혈 과정은 혈액제제를 제조하기 위한 원료 혈액의 채취 과정인",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "제조",
+      "과정",
+      "기준"
+    ]
+  },
+  {
+    "text": "Date SCMM 6 1 3 2 헌혈자 선별의 가장 큰 목적은 공혈자의 건강을 보호하고 혈액매개 감염인자의 전파 예방 등 수혈자를 보호할 수 있도록 공혈자를 선별하는 것이다 이를 위하여 공혈자 채혈은 [혈액관리법]에 따라 채혈에 필요한 시설을 갖춘 곳에서 제조관리자의 지도하에 실시하여야 한다 채혈 과정은 혈액제제를 제조하기 위한 원료 혈액의 채취 과정인 동시에 헌혈자, 수혈자 및 채혈 담당 직원의 건강을 보호하고 채혈과정에서의 감염과\n\n헌혈관련증상을 예방하는 절차를 수립하여야 한다  이를 위하여 채혈시의 행동 절차 및\n\n헌혈자의 선별, 채혈, 제제화, 포장공정 등을 모두 포함한 제조작업은 각 절차를 상세",
+    "token_estimate": 34,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "시설을 갖춘 곳에서 제조관리자의 지도하에 실시하여야 한다 채혈 과정은 혈액제제를 제조하기 위한 원료 혈액의 채취 과정인 동시에 헌혈자, 수혈자 및 채혈 담당 직원의 건강을 보호하고 채혈과정에서의 감염과 헌혈관련증상을 예방하는 절차를 수립하여야 한다 이를 위하여 채혈시의 행동 절차 및 헌혈자의 선별, 채혈, 제제화, 포장공정 등을 모두 포함한 제조작업은 각 절차를 상세 규정하며, 각 공정에서 수행한 작업사항을 제조기록서 등에 기록하여야 한다 \n\n확인자, 공정 조건 등이 포함되어야 하며, 전자시스템을 이용하여 작성할 수 있다",
+    "token_estimate": 20,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "채혈 담당 직원의 건강을 보호하고 채혈과정에서의 감염과 헌혈관련증상을 예방하는 절차를 수립하여야 한다 이를 위하여 채혈시의 행동 절차 및 헌혈자의 선별, 채혈, 제제화, 포장공정 등을 모두 포함한 제조작업은 각 절차를 상세 규정하며, 각 공정에서 수행한 작업사항을 제조기록서 등에 기록하여야 한다 확인자, 공정 조건 등이 포함되어야 하며, 전자시스템을 이용하여 작성할 수 있다 상세 표준 제조공정은 “제품표준서”등에 따르되, 원자재 등을 사용하기 전에는 반드시\n\n품질시험 등에 따른 적합 확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "예방",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "포장공정 등을 모두 포함한 제조작업은 각 절차를 상세 규정하며, 각 공정에서 수행한 작업사항을 제조기록서 등에 기록하여야 한다 확인자, 공정 조건 등이 포함되어야 하며, 전자시스템을 이용하여 작성할 수 있다 상세 표준 제조공정은 “제품표준서”등에 따르되, 원자재 등을 사용하기 전에는 반드시 품질시험 등에 따른 적합 확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합 품질임을 확인 후 사용하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "각 절차를 상세 규정하며, 각 공정에서 수행한 작업사항을 제조기록서 등에 기록하여야 한다 확인자, 공정 조건 등이 포함되어야 하며, 전자시스템을 이용하여 작성할 수 있다 상세 표준 제조공정은 “제품표준서”등에 따르되, 원자재 등을 사용하기 전에는 반드시 품질시험 등에 따른 적합 확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합 품질임을 확인 후 사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "확인자, 공정 조건 등이 포함되어야 하며, 전자시스템을 이용하여 작성할 수 있다 상세 표준 제조공정은 “제품표준서”등에 따르되, 원자재 등을 사용하기 전에는 반드시 품질시험 등에 따른 적합 확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합 품질임을 확인 후 사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "제조",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "작성할 수 있다 상세 표준 제조공정은 “제품표준서”등에 따르되, 원자재 등을 사용하기 전에는 반드시 품질시험 등에 따른 적합 확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합 품질임을 확인 후 사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "사용하기 전에는 반드시 품질시험 등에 따른 적합 확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합 품질임을 확인 후 사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "제조",
+      "방법",
+      "조건",
+      "규정"
+    ]
+  },
+  {
+    "text": "확인을 실시하여 해당 원자재가 사용에 이상이 없는 적합 품질임을 확인 후 사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "제조",
+      "방법",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "없는 적합 품질임을 확인 후 사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "제조",
+      "방법",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "사용하여야 한다 규정화된 제조방법 등에 벗어나는 행위, 조건 등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방지",
+      "방법",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "등이 발생할 경우 이를 기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "검증",
+      "조건",
+      "규정",
+      "처리"
+    ]
+  },
+  {
+    "text": "기록하고 원인 일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "검증",
+      "조건",
+      "규정",
+      "처리"
+    ]
+  },
+  {
+    "text": "일탈 처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "검증",
+      "조건",
+      "규정",
+      "처리"
+    ]
+  },
+  {
+    "text": "처리 규정(Deviation Regulation)을 SOP 등으로 상세 기술한다 채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "채혈 혈액을 포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "포함하여 혈액 또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "또는 혈액제제의 보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "보관, 운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "운송 시에는 지정된 냉장/냉동시설(설비)을 사용하여야 하며, 이러한 냉장/냉동시설(설비, 운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 표시재료에는 최소한 관련법령에 따른 규정항목이 명기되어 있어야 한다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "운송박스 포함)는 보관조건 유지 능력의 적절성이 검증되어야 한다 6 1 4 표시재료 부착확인 혈액제제는 지정된 표시재료를 부착하여 취급상의 혼동을 방지하여야 한다 Page: 7 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 표시재료에는 최소한 관련법령에 따른 규정항목이 명기되어 있어야 한다 6 1 5 사용하려는 원자재의 적합판정 여부를 확인하는 방법\n\n6 1 5 1 혈액제제 제조에 사용되는 모든 원자재는 입고 검수 단계부터 출고, 제조공정 사용\n\n단계까지 사용상의 혼입혼동이 없도록 관리되어야 한다  원자재에는 혈액백, 성분채혈",
+    "token_estimate": 33,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "Manufacturing Management Document No Revision No Effective Date SCMM 표시재료에는 최소한 관련법령에 따른 규정항목이 명기되어 있어야 한다 6 1 5 사용하려는 원자재의 적합판정 여부를 확인하는 방법 6 1 5 1 혈액제제 제조에 사용되는 모든 원자재는 입고 검수 단계부터 출고, 제조공정 사용 단계까지 사용상의 혼입혼동이 없도록 관리되어야 한다 원자재에는 혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "방지"
+    ]
+  },
+  {
+    "text": "관련법령에 따른 규정항목이 명기되어 있어야 한다 6 1 5 사용하려는 원자재의 적합판정 여부를 확인하는 방법 6 1 5 1 혈액제제 제조에 사용되는 모든 원자재는 입고 검수 단계부터 출고, 제조공정 사용 단계까지 사용상의 혼입혼동이 없도록 관리되어야 한다 원자재에는 혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "방지"
+    ]
+  },
+  {
+    "text": "규정항목이 명기되어 있어야 한다 6 1 5 사용하려는 원자재의 적합판정 여부를 확인하는 방법 6 1 5 1 혈액제제 제조에 사용되는 모든 원자재는 입고 검수 단계부터 출고, 제조공정 사용 단계까지 사용상의 혼입혼동이 없도록 관리되어야 한다 원자재에는 혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 6 1 5 2 원자재에 대한 적합판정은 품질부서에서 실시하며, 시험결과가 기재된 성적서 등을 통해",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "방지"
+    ]
+  },
+  {
+    "text": "1 5 1 혈액제제 제조에 사용되는 모든 원자재는 입고 검수 단계부터 출고, 제조공정 사용 단계까지 사용상의 혼입혼동이 없도록 관리되어야 한다 원자재에는 혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 6 1 5 2 원자재에 대한 적합판정은 품질부서에서 실시하며, 시험결과가 기재된 성적서 등을 통해 공동구매로 원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "방지"
+    ]
+  },
+  {
+    "text": "검수 단계부터 출고, 제조공정 사용 단계까지 사용상의 혼입혼동이 없도록 관리되어야 한다 원자재에는 혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 6 1 5 2 원자재에 대한 적합판정은 품질부서에서 실시하며, 시험결과가 기재된 성적서 등을 통해 공동구매로 원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다 시설 및 장비관리(예  냉장/냉동실, 원심분리기, 저울, 봉합기, 급속동결기, 환기시설",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "방지"
+    ]
+  },
+  {
+    "text": "관리되어야 한다 원자재에는 혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 6 1 5 2 원자재에 대한 적합판정은 품질부서에서 실시하며, 시험결과가 기재된 성적서 등을 통해 공동구매로 원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다 시설 및 장비관리(예 냉장/냉동실, 원심분리기, 저울, 봉합기, 급속동결기, 환기시설 등)에 관한 사항",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "규정",
+      "결과"
+    ]
+  },
+  {
+    "text": "혈액백, 성분채혈 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 6 1 5 2 원자재에 대한 적합판정은 품질부서에서 실시하며, 시험결과가 기재된 성적서 등을 통해 공동구매로 원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다 시설 및 장비관리(예 냉장/냉동실, 원심분리기, 저울, 봉합기, 급속동결기, 환기시설 등)에 관한 사항 6 2 1 정기적인 점검 방법",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 6 1 5 2 원자재에 대한 적합판정은 품질부서에서 실시하며, 시험결과가 기재된 성적서 등을 통해 공동구매로 원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다 시설 및 장비관리(예 냉장/냉동실, 원심분리기, 저울, 봉합기, 급속동결기, 환기시설 등)에 관한 사항 6 2 1 정기적인 점검 방법 방법, 예방정비 방법, 교정 방법 등을 규정하여 관리한다 \n\n성능유지 및 이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한",
+    "token_estimate": 20,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "예방",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "성적서 등을 통해 공동구매로 원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다 시설 및 장비관리(예 냉장/냉동실, 원심분리기, 저울, 봉합기, 급속동결기, 환기시설 등)에 관한 사항 6 2 1 정기적인 점검 방법 방법, 예방정비 방법, 교정 방법 등을 규정하여 관리한다 성능유지 및 이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "규정",
+      "성능"
+    ]
+  },
+  {
+    "text": "원자재를 구매하는 경우 주관 부서에서 적합판정을 하여 통보한다 시설 및 장비관리(예 냉장/냉동실, 원심분리기, 저울, 봉합기, 급속동결기, 환기시설 등)에 관한 사항 6 2 1 정기적인 점검 방법 방법, 예방정비 방법, 교정 방법 등을 규정하여 관리한다 성능유지 및 이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다 6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "규정",
+      "성능"
+    ]
+  },
+  {
+    "text": "급속동결기, 환기시설 등)에 관한 사항 6 2 1 정기적인 점검 방법 방법, 예방정비 방법, 교정 방법 등을 규정하여 관리한다 성능유지 및 이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다 6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "규정",
+      "성능"
+    ]
+  },
+  {
+    "text": "환기시설 등)에 관한 사항 6 2 1 정기적인 점검 방법 방법, 예방정비 방법, 교정 방법 등을 규정하여 관리한다 성능유지 및 이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다 6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야 따른다 예방정비 활동을 수행하기 위하여 가장 우선 현재의 기기/설비 리스트를 확립하여야",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "규정",
+      "성능"
+    ]
+  },
+  {
+    "text": "방법, 예방정비 방법, 교정 방법 등을 규정하여 관리한다 성능유지 및 이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다 6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야 따른다 예방정비 활동을 수행하기 위하여 가장 우선 현재의 기기/설비 리스트를 확립하여야 한다  제조소의 모든 기기설비 리스트를 도출하여 해당 기기설비의 규정된 점검",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "제조",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "이상 발생 예방을 위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다 6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야 따른다 예방정비 활동을 수행하기 위하여 가장 우선 현재의 기기/설비 리스트를 확립하여야 한다 제조소의 모든 기기설비 리스트를 도출하여 해당 기기설비의 규정된 점검 항목을 리스트에 포함한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "예방",
+      "제조",
+      "규정",
+      "도출",
+      "예방정비"
+    ]
+  },
+  {
+    "text": "위한 활동으로 예방정비 활동을 규정하고 이에 대한 활동을 지속적으로 수행하여야 한다 6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야 따른다 예방정비 활동을 수행하기 위하여 가장 우선 현재의 기기/설비 리스트를 확립하여야 한다 제조소의 모든 기기설비 리스트를 도출하여 해당 기기설비의 규정된 점검 항목을 리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "예방",
+      "제조",
+      "규정",
+      "매뉴얼",
+      "도출"
+    ]
+  },
+  {
+    "text": "6 2 1 3 예방정비 활동의 수행을 위해서는 각 기기설비 별 예방정비 항목의 도출이 우선되어야 따른다 예방정비 활동을 수행하기 위하여 가장 우선 현재의 기기/설비 리스트를 확립하여야 한다 제조소의 모든 기기설비 리스트를 도출하여 해당 기기설비의 규정된 점검 항목을 리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다  해당 항목에는 정기\n\n적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와",
+    "token_estimate": 23,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "예방",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "기기/설비 리스트를 확립하여야 한다 제조소의 모든 기기설비 리스트를 도출하여 해당 기기설비의 규정된 점검 항목을 리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "규정"
+    ]
+  },
+  {
+    "text": "리스트를 도출하여 해당 기기설비의 규정된 점검 항목을 리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "규정"
+    ]
+  },
+  {
+    "text": "규정된 점검 항목을 리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "규정"
+    ]
+  },
+  {
+    "text": "항목을 리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "규정"
+    ]
+  },
+  {
+    "text": "리스트에 포함한다 기본적으로 각 기기/설비의 SOP 에 규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "규정된 점검 항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "항목을 기술하되, 매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "매뉴얼 또는 기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "기기/설비의 제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "제조처 권고 점검 항목 등을 모두 포함시킨다 해당 항목에는 정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 추가적으로 예방정비 항목 도출 과정은 위험 관리(Risk Management) 도구를",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "예방",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "정기 적격성평가, 교정 등의 활동도 포함할 수 있으나, 이는 별도의 교정 관리 절차와 밸리데이션 절차에 따라 수행하며, 본 항목에서는 제외한다 Page: 8 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 추가적으로 예방정비 항목 도출 과정은 위험 관리(Risk Management) 도구를 사용하여 실질적으로 필요한 예방정비 항목을 도출할 수 있다  이 때에는 사용 상\n\n특히 점검이 필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체\n\n항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이",
+    "token_estimate": 33,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "예방",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "Management Document No Revision No Effective Date SCMM 추가적으로 예방정비 항목 도출 과정은 위험 관리(Risk Management) 도구를 사용하여 실질적으로 필요한 예방정비 항목을 도출할 수 있다 이 때에는 사용 상 특히 점검이 필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "위험",
+      "도구",
+      "과정"
+    ]
+  },
+  {
+    "text": "SCMM 추가적으로 예방정비 항목 도출 과정은 위험 관리(Risk Management) 도구를 사용하여 실질적으로 필요한 예방정비 항목을 도출할 수 있다 이 때에는 사용 상 특히 점검이 필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "위험",
+      "도구",
+      "과정"
+    ]
+  },
+  {
+    "text": "실질적으로 필요한 예방정비 항목을 도출할 수 있다 이 때에는 사용 상 특히 점검이 필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다  예방정비 주기에 따라 다음과 같이 표기 가능하다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "도출",
+      "예방정비",
+      "있는"
+    ]
+  },
+  {
+    "text": "특히 점검이 필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "있는",
+      "경우",
+      "예방정비"
+    ]
+  },
+  {
+    "text": "점검이 필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "있는",
+      "경우"
+    ]
+  },
+  {
+    "text": "필요하거나 소모되는 부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "있는",
+      "경우"
+    ]
+  },
+  {
+    "text": "부속품이 있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "있는",
+      "경우"
+    ]
+  },
+  {
+    "text": "있는 경우 주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "있는",
+      "경우"
+    ]
+  },
+  {
+    "text": "주기적 점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "예방정비",
+      "주기적"
+    ]
+  },
+  {
+    "text": "점검 또는 교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "예방정비",
+      "점검"
+    ]
+  },
+  {
+    "text": "교체 항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half) H",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "예방정비",
+      "교체"
+    ]
+  },
+  {
+    "text": "항목에 포함하며, 과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half) H 연간 (Year)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "예방정비",
+      "항목에"
+    ]
+  },
+  {
+    "text": "과거 이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half) H 연간 (Year) Y",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "예방정비",
+      "과거"
+    ]
+  },
+  {
+    "text": "이상발생 이력의 확인을 통해 빈번하거나 반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half) H 연간 (Year) Y <표1  정비 주기 표시방법의 예>",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "예방정비",
+      "이상발생"
+    ]
+  },
+  {
+    "text": "반복되는 증상이 있는 경우 이를 예방정비 활동에 추가하여 관리한다 예방정비는 1 년을 월 단위로 구분하여 기기설비명, 관리번호, 주관 부서(팀) 및 담당자 등을 포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half) H 연간 (Year) Y <표1 정비 주기 표시방법의 예> 예방정비 사항이 확정되면, 주무부서 인원을 포함하여 해당되는 인원 및 책임자의\n\n승인을 통해 항목을 확정한다  예방정비 항목은 매년 연초 또는 신규 기기설비 입고",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "예방",
+      "방법",
+      "승인",
+      "예방정비"
+    ]
+  },
+  {
+    "text": "포함하여 구성한다 예방정비 주기에 따라 다음과 같이 표기 가능하다 점검주기 표시방법 월 (Month) M 분기 (Quarter) Q 반기 (Half) H 연간 (Year) Y <표1 정비 주기 표시방법의 예> 예방정비 사항이 확정되면, 주무부서 인원을 포함하여 해당되는 인원 및 책임자의 승인을 통해 항목을 확정한다 예방정비 항목은 매년 연초 또는 신규 기기설비 입고 시 재선정을 실시한다 \n\n예방정비 활동은 해당 기기/설비 담당자가 수행한다  다만, 해당 시기에 제조공정의",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "예방",
+      "제조",
+      "공정",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "text": "M 분기 (Quarter) Q 반기 (Half) H 연간 (Year) Y <표1 정비 주기 표시방법의 예> 예방정비 사항이 확정되면, 주무부서 인원을 포함하여 해당되는 인원 및 책임자의 승인을 통해 항목을 확정한다 예방정비 항목은 매년 연초 또는 신규 기기설비 입고 시 재선정을 실시한다 예방정비 활동은 해당 기기/설비 담당자가 수행한다 다만, 해당 시기에 제조공정의 수행 등의 사유로 예방정비 활동이 진행되지 못할 것으로 예상되는 경우 이를\n\n제조관리자 등에게 보고하여 이에 대한 적절한 대책(예  기한 도래 전 실시)을",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "예방",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "인원 및 책임자의 승인을 통해 항목을 확정한다 예방정비 항목은 매년 연초 또는 신규 기기설비 입고 시 재선정을 실시한다 예방정비 활동은 해당 기기/설비 담당자가 수행한다 다만, 해당 시기에 제조공정의 수행 등의 사유로 예방정비 활동이 진행되지 못할 것으로 예상되는 경우 이를 제조관리자 등에게 보고하여 이에 대한 적절한 대책(예 기한 도래 전 실시)을 수립하여 예방정비 활동에 지장이 없도록 하여야 한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "예방",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "예방정비 항목은 매년 연초 또는 신규 기기설비 입고 시 재선정을 실시한다 예방정비 활동은 해당 기기/설비 담당자가 수행한다 다만, 해당 시기에 제조공정의 수행 등의 사유로 예방정비 활동이 진행되지 못할 것으로 예상되는 경우 이를 제조관리자 등에게 보고하여 이에 대한 적절한 대책(예 기한 도래 전 실시)을 수립하여 예방정비 활동에 지장이 없도록 하여야 한다 실시한 예방정비 활동은 그 수행 사항 및 교체하거나 수리한 부분에 대한 기록이",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "예방",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "활동은 해당 기기/설비 담당자가 수행한다 다만, 해당 시기에 제조공정의 수행 등의 사유로 예방정비 활동이 진행되지 못할 것으로 예상되는 경우 이를 제조관리자 등에게 보고하여 이에 대한 적절한 대책(예 기한 도래 전 실시)을 수립하여 예방정비 활동에 지장이 없도록 하여야 한다 실시한 예방정비 활동은 그 수행 사항 및 교체하거나 수리한 부분에 대한 기록이 유지되어야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "예방",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "기기/설비 담당자가 수행한다 다만, 해당 시기에 제조공정의 수행 등의 사유로 예방정비 활동이 진행되지 못할 것으로 예상되는 경우 이를 제조관리자 등에게 보고하여 이에 대한 적절한 대책(예 기한 도래 전 실시)을 수립하여 예방정비 활동에 지장이 없도록 하여야 한다 실시한 예방정비 활동은 그 수행 사항 및 교체하거나 수리한 부분에 대한 기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "예방",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "사유로 예방정비 활동이 진행되지 못할 것으로 예상되는 경우 이를 제조관리자 등에게 보고하여 이에 대한 적절한 대책(예 기한 도래 전 실시)을 수립하여 예방정비 활동에 지장이 없도록 하여야 한다 실시한 예방정비 활동은 그 수행 사항 및 교체하거나 수리한 부분에 대한 기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "보고",
+      "관리",
+      "예방",
+      "제조"
+    ]
+  },
+  {
+    "text": "보고하여 이에 대한 적절한 대책(예 기한 도래 전 실시)을 수립하여 예방정비 활동에 지장이 없도록 하여야 한다 실시한 예방정비 활동은 그 수행 사항 및 교체하거나 수리한 부분에 대한 기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다  이는 혈액제제 종류별로 Mix-up 되지\n\n않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다",
+    "token_estimate": 20,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "보고",
+      "관리",
+      "예방",
+      "제조"
+    ]
+  },
+  {
+    "text": "수행 사항 및 교체하거나 수리한 부분에 대한 기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "text": "수리한 부분에 대한 기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "text": "대한 기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "text": "기록이 유지되어야 한다 6 2 2 작업 중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "중인 시설 및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "및 기기의 표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "표시방법 혈액제제 제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "제조에 사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "기준",
+      "한다"
+    ]
+  },
+  {
+    "text": "사용하는 시설 및 기기설비 등은 사용상 정보를 명확히 표시하여 작업자가 사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 2 3 고장 등 사고발생 시에 하여야 할 조치",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "조치",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "사용의 혼동이 없도록 하여야 한다 이는 혈액제제 종류별로 Mix-up 되지 않도록 작업의 종류, 일자, 제품명 등이 표시되도록 관리되어야 한다 Page: 9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 2 3 고장 등 사고발생 시에 하여야 할 조치 작업원이 상황을 파악할 수 있도록 고장 또는 이상발생 사항을 기재하여 다른 작업자가\n\n사용하지 못하도록 표시하고, 즉시 팀 책임자 등에게 보고한다",
+    "token_estimate": 20,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "조치",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "9 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 2 3 고장 등 사고발생 시에 하여야 할 조치 작업원이 상황을 파악할 수 있도록 고장 또는 이상발생 사항을 기재하여 다른 작업자가 사용하지 못하도록 표시하고, 즉시 팀 책임자 등에게 보고한다 간략 처리 절차는 다음과 같다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "조치",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 2 3 고장 등 사고발생 시에 하여야 할 조치 작업원이 상황을 파악할 수 있도록 고장 또는 이상발생 사항을 기재하여 다른 작업자가 사용하지 못하도록 표시하고, 즉시 팀 책임자 등에게 보고한다 간략 처리 절차는 다음과 같다 등으로 사용하지 않을 경우 사용 중지 신청을 할 수 있다 \n\n및 관련 책임자의 최종 승인을 받음으로써 시행된다 \n\n가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께",
+    "token_estimate": 28,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "조치",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "수 있도록 고장 또는 이상발생 사항을 기재하여 다른 작업자가 사용하지 못하도록 표시하고, 즉시 팀 책임자 등에게 보고한다 간략 처리 절차는 다음과 같다 등으로 사용하지 않을 경우 사용 중지 신청을 할 수 있다 및 관련 책임자의 최종 승인을 받음으로써 시행된다 가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께 기재한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "절차",
+      "승인",
+      "신청",
+      "처리"
+    ]
+  },
+  {
+    "text": "있도록 고장 또는 이상발생 사항을 기재하여 다른 작업자가 사용하지 못하도록 표시하고, 즉시 팀 책임자 등에게 보고한다 간략 처리 절차는 다음과 같다 등으로 사용하지 않을 경우 사용 중지 신청을 할 수 있다 및 관련 책임자의 최종 승인을 받음으로써 시행된다 가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께 기재한다 신청을 하여야 하며, 사용 전 세척 및 소독, 교정, 적격성평가와 같이 해당",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "평가",
+      "절차",
+      "승인",
+      "신청"
+    ]
+  },
+  {
+    "text": "팀 책임자 등에게 보고한다 간략 처리 절차는 다음과 같다 등으로 사용하지 않을 경우 사용 중지 신청을 할 수 있다 및 관련 책임자의 최종 승인을 받음으로써 시행된다 가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께 기재한다 신청을 하여야 하며, 사용 전 세척 및 소독, 교정, 적격성평가와 같이 해당 기기/설비의 사용이 가능함을 입증하는 절차 및 문서를 제시함으로써 당위성이",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "평가",
+      "절차",
+      "입증",
+      "승인"
+    ]
+  },
+  {
+    "text": "등으로 사용하지 않을 경우 사용 중지 신청을 할 수 있다 및 관련 책임자의 최종 승인을 받음으로써 시행된다 가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께 기재한다 신청을 하여야 하며, 사용 전 세척 및 소독, 교정, 적격성평가와 같이 해당 기기/설비의 사용이 가능함을 입증하는 절차 및 문서를 제시함으로써 당위성이 입증되어야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "절차",
+      "입증",
+      "승인",
+      "신청"
+    ]
+  },
+  {
+    "text": "않을 경우 사용 중지 신청을 할 수 있다 및 관련 책임자의 최종 승인을 받음으로써 시행된다 가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께 기재한다 신청을 하여야 하며, 사용 전 세척 및 소독, 교정, 적격성평가와 같이 해당 기기/설비의 사용이 가능함을 입증하는 절차 및 문서를 제시함으로써 당위성이 입증되어야 한다 후 재입고 시 청소 및 소독 등을 실시 후 입고 시킨다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "절차",
+      "입증",
+      "승인",
+      "신청"
+    ]
+  },
+  {
+    "text": "최종 승인을 받음으로써 시행된다 가능하도록 서술형으로 기재하고 근거 문서가 있을 경우 이에 대한 사항도 함께 기재한다 신청을 하여야 하며, 사용 전 세척 및 소독, 교정, 적격성평가와 같이 해당 기기/설비의 사용이 가능함을 입증하는 절차 및 문서를 제시함으로써 당위성이 입증되어야 한다 후 재입고 시 청소 및 소독 등을 실시 후 입고 시킨다 6 2 4 계측기의 규격설정 및 교정방법\n\n6 2 4 1 혈액제제 제조 및 품질관리 등에 사용되는 기기/설비에 부착되거나 단독의 계측기는",
+    "token_estimate": 21,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "세척 및 소독, 교정, 적격성평가와 같이 해당 기기/설비의 사용이 가능함을 입증하는 절차 및 문서를 제시함으로써 당위성이 입증되어야 한다 후 재입고 시 청소 및 소독 등을 실시 후 입고 시킨다 6 2 4 계측기의 규격설정 및 교정방법 6 2 4 1 혈액제제 제조 및 품질관리 등에 사용되는 기기/설비에 부착되거나 단독의 계측기는 성능의 정확성 및 신뢰성을 보증하기 위하여 주기적으로 교정하여야 한다  (계측기의 예:",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "절차 및 문서를 제시함으로써 당위성이 입증되어야 한다 후 재입고 시 청소 및 소독 등을 실시 후 입고 시킨다 6 2 4 계측기의 규격설정 및 교정방법 6 2 4 1 혈액제제 제조 및 품질관리 등에 사용되는 기기/설비에 부착되거나 단독의 계측기는 성능의 정확성 및 신뢰성을 보증하기 위하여 주기적으로 교정하여야 한다 (계측기의 예: 6 2 4 2 계측기의 교정은 외부교정과 자체교정으로 구분한다  외부/자체 교정 모두",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "소독 등을 실시 후 입고 시킨다 6 2 4 계측기의 규격설정 및 교정방법 6 2 4 1 혈액제제 제조 및 품질관리 등에 사용되는 기기/설비에 부착되거나 단독의 계측기는 성능의 정확성 및 신뢰성을 보증하기 위하여 주기적으로 교정하여야 한다 (계측기의 예: 6 2 4 2 계측기의 교정은 외부교정과 자체교정으로 구분한다 외부/자체 교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "인증",
+      "방법"
+    ]
+  },
+  {
+    "text": "2 4 계측기의 규격설정 및 교정방법 6 2 4 1 혈액제제 제조 및 품질관리 등에 사용되는 기기/설비에 부착되거나 단독의 계측기는 성능의 정확성 및 신뢰성을 보증하기 위하여 주기적으로 교정하여야 한다 (계측기의 예: 6 2 4 2 계측기의 교정은 외부교정과 자체교정으로 구분한다 외부/자체 교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다  자체 교정의 경우 소급성을 갖는 표준 기구를",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "인증",
+      "방법"
+    ]
+  },
+  {
+    "text": "및 품질관리 등에 사용되는 기기/설비에 부착되거나 단독의 계측기는 성능의 정확성 및 신뢰성을 보증하기 위하여 주기적으로 교정하여야 한다 (계측기의 예: 6 2 4 2 계측기의 교정은 외부교정과 자체교정으로 구분한다 외부/자체 교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 \n\n목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를\n\n제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "인증",
+      "표준",
+      "성능"
+    ]
+  },
+  {
+    "text": "2 계측기의 교정은 외부교정과 자체교정으로 구분한다 외부/자체 교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "인증",
+      "표준",
+      "자체",
+      "따라"
+    ]
+  },
+  {
+    "text": "자체교정으로 구분한다 외부/자체 교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "인증",
+      "표준",
+      "자체",
+      "따라"
+    ]
+  },
+  {
+    "text": "외부/자체 교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "인증",
+      "표준",
+      "자체",
+      "따라"
+    ]
+  },
+  {
+    "text": "교정 모두 국가표준기본법에 따라 관리하며, 외부교정은 국가기술원 인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "인증",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "인증기구인 KOLAS 인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "인증",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "인증업체에 위탁 의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "인증",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "의뢰함을 원칙으로 한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "표준",
+      "원칙으로"
+    ]
+  },
+  {
+    "text": "한다 자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "표준",
+      "of"
+    ]
+  },
+  {
+    "text": "자체 교정의 경우 소급성을 갖는 표준 기구를 선정하여 교정을 실시한다 목적 및 사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 교정 관리대장 등의 작성을 통해 관리한다  교정 관리 대장은 연간으로 작성하며, 교정은",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "표준",
+      "of"
+    ]
+  },
+  {
+    "text": "사용 빈도를 고려하여 자체적으로 설정함을 원칙으로 하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 교정 관리대장 등의 작성을 통해 관리한다 교정 관리 대장은 연간으로 작성하며, 교정은 해당 주기에 ±1 개월 주기로 실시한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "표준",
+      "of"
+    ]
+  },
+  {
+    "text": "하나, 과학적 근거를 제시하기 위하여 기술표준원장이 고시하는 표준 교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 교정 관리대장 등의 작성을 통해 관리한다 교정 관리 대장은 연간으로 작성하며, 교정은 해당 주기에 ±1 개월 주기로 실시한다 6 2 5 중요 기계, 설비의 적격성 평가방법",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "교정주기에 따라 설정한다 Page: 10 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 교정 관리대장 등의 작성을 통해 관리한다 교정 관리 대장은 연간으로 작성하며, 교정은 해당 주기에 ±1 개월 주기로 실시한다 6 2 5 중요 기계, 설비의 적격성 평가방법 기기설비는 사용되는 공정 및 결과의 신뢰성을 보증하기 위하여 주기적인 적격성평가를",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "text": "제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 교정 관리대장 등의 작성을 통해 관리한다 교정 관리 대장은 연간으로 작성하며, 교정은 해당 주기에 ±1 개월 주기로 실시한다 6 2 5 중요 기계, 설비의 적격성 평가방법 기기설비는 사용되는 공정 및 결과의 신뢰성을 보증하기 위하여 주기적인 적격성평가를 실시한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 교정 관리대장 등의 작성을 통해 관리한다 교정 관리 대장은 연간으로 작성하며, 교정은 해당 주기에 ±1 개월 주기로 실시한다 6 2 5 중요 기계, 설비의 적격성 평가방법 기기설비는 사용되는 공정 및 결과의 신뢰성을 보증하기 위하여 주기적인 적격성평가를 실시한다 6 2 5 2 중요 장비의 적격성평가는 설계 적격성평가, 설치 적격성평가, 가동 적격성평가, 성능",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "공정",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "관리대장 등의 작성을 통해 관리한다 교정 관리 대장은 연간으로 작성하며, 교정은 해당 주기에 ±1 개월 주기로 실시한다 6 2 5 중요 기계, 설비의 적격성 평가방법 기기설비는 사용되는 공정 및 결과의 신뢰성을 보증하기 위하여 주기적인 적격성평가를 실시한다 6 2 5 2 중요 장비의 적격성평가는 설계 적격성평가, 설치 적격성평가, 가동 적격성평가, 성능 적격성평가 등으로 구분되며, 위험분석 등의 적절한 방법을 통해 각 기기설비에\n\n요구되는 적격성평가 정도 및 주기를 설정한다",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "공정",
+      "위험",
+      "방법"
+    ]
+  },
+  {
+    "text": "실시한다 6 2 5 중요 기계, 설비의 적격성 평가방법 기기설비는 사용되는 공정 및 결과의 신뢰성을 보증하기 위하여 주기적인 적격성평가를 실시한다 6 2 5 2 중요 장비의 적격성평가는 설계 적격성평가, 설치 적격성평가, 가동 적격성평가, 성능 적격성평가 등으로 구분되며, 위험분석 등의 적절한 방법을 통해 각 기기설비에 요구되는 적격성평가 정도 및 주기를 설정한다 6 2 5 3 각 기기설비의 적격성평가 방법은 기기설비마다 상이하며, 해당 기기 설비의 성능의\n\n6 2 5 4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야",
+    "token_estimate": 29,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "공정",
+      "위험",
+      "방법",
+      "검증"
+    ]
+  },
+  {
+    "text": "설치 적격성평가, 가동 적격성평가, 성능 적격성평가 등으로 구분되며, 위험분석 등의 적절한 방법을 통해 각 기기설비에 요구되는 적격성평가 정도 및 주기를 설정한다 6 2 5 3 각 기기설비의 적격성평가 방법은 기기설비마다 상이하며, 해당 기기 설비의 성능의 6 2 5 4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야 하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "제조",
+      "위험",
+      "방법",
+      "검증"
+    ]
+  },
+  {
+    "text": "방법을 통해 각 기기설비에 요구되는 적격성평가 정도 및 주기를 설정한다 6 2 5 3 각 기기설비의 적격성평가 방법은 기기설비마다 상이하며, 해당 기기 설비의 성능의 6 2 5 4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야 하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "제조",
+      "방법",
+      "검증",
+      "규정"
+    ]
+  },
+  {
+    "text": "주기를 설정한다 6 2 5 3 각 기기설비의 적격성평가 방법은 기기설비마다 상이하며, 해당 기기 설비의 성능의 6 2 5 4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야 하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다 혈액(원료)관리에 관한 사항",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "검증"
+    ]
+  },
+  {
+    "text": "2 5 3 각 기기설비의 적격성평가 방법은 기기설비마다 상이하며, 해당 기기 설비의 성능의 6 2 5 4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야 하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다 혈액(원료)관리에 관한 사항 처리방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "검증"
+    ]
+  },
+  {
+    "text": "5 3 각 기기설비의 적격성평가 방법은 기기설비마다 상이하며, 해당 기기 설비의 성능의 6 2 5 4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야 하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다 혈액(원료)관리에 관한 사항 처리방법 6 3 1 1 입고되는 모든 혈액은 사용상의 혼입혼동이 없도록 관리되어야 한다  특히 혈액의 검수",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "검증"
+    ]
+  },
+  {
+    "text": "4 각 혈액원은 연간 적격성평가 계획을 수립하여 검증에 누락되는 사항이 없도록 하여야 하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다 혈액(원료)관리에 관한 사항 처리방법 6 3 1 1 입고되는 모든 혈액은 사용상의 혼입혼동이 없도록 관리되어야 한다 특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "하며, 해당 제조소의 밸리데이션 종합 계획(Validation Master Plan) 등을 통한 밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다 혈액(원료)관리에 관한 사항 처리방법 6 3 1 1 입고되는 모든 혈액은 사용상의 혼입혼동이 없도록 관리되어야 한다 특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 \n\n표시사항의 부착 여부 등을 확인하여야 한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "밸리데이션 수행 전략 등에 대한 사항을 규정하고 이에 따른다 혈액(원료)관리에 관한 사항 처리방법 6 3 1 1 입고되는 모든 혈액은 사용상의 혼입혼동이 없도록 관리되어야 한다 특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "1 입고되는 모든 혈액은 사용상의 혼입혼동이 없도록 관리되어야 한다 특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "혈액은 사용상의 혼입혼동이 없도록 관리되어야 한다 특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "관리되어야 한다 특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "특히 혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "혈액의 검수 및 보관관리에 대한 사항을 규정하여 오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "오염과 파손, 변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "변질 등의 품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "품질 변화를 방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "방지하고 인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "인위적인 과오를 방지하여야 한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "한다 표시사항의 부착 여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "여부 등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "등을 확인하여야 한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "한다 6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "6 3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "3 1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "1 3 이러한 입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "입고 검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "검수 절차는 다음과 같은 입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "입고 검수 기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail 결과 Result",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "기록서(예시) 및 전산시스템을 통해 확인할 수 있다 Page: 11 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail 결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 \n\n2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "Manufacturing Management Document No Revision No Effective Date SCMM 일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail 결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "조건",
+      "규격",
+      "결과"
+    ]
+  },
+  {
+    "text": "일반사항 General Detail Bag 종류의 확인 용량 수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail 결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "수량 (포장단위) mL 채혈장소 채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail 결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "채혈일시 검수사항 Inspection Detail No 검수 내용 Inspection Detail 결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "Inspection Detail 결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "결과 Result 1 하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "하역 장소로부터 이동 시 혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량:",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "혈액의 오염 및 파손이 없어야 한다 2 운송(보관)조건에 따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by\n\n입고관리 책임자 Reviewed by",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "따른 적절한 상태를 유지하며 이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "규격"
+    ]
+  },
+  {
+    "text": "이동하여야 한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자)",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "규격"
+    ]
+  },
+  {
+    "text": "한다 품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자)",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "규격"
+    ]
+  },
+  {
+    "text": "품명, 규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자)",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "규격"
+    ]
+  },
+  {
+    "text": "규격, 혈액관리번호, 채혈기관, 수량 등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2  입고검수서의 예>",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "규격"
+    ]
+  },
+  {
+    "text": "등의 실제 정보는 전산 상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "결과"
+    ]
+  },
+  {
+    "text": "상 또는 기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "결과"
+    ]
+  },
+  {
+    "text": "기타 첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "결과"
+    ]
+  },
+  {
+    "text": "첨부 서류정보와 동일하여야 한다 4 표시사항의 적절성을 확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "서류",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "확인한다 상기 항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "결과",
+      "by"
+    ]
+  },
+  {
+    "text": "항 외 부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "결과",
+      "by"
+    ]
+  },
+  {
+    "text": "부적합 사유나 특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "결과",
+      "by"
+    ]
+  },
+  {
+    "text": "특이사항을 기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "결과",
+      "by"
+    ]
+  },
+  {
+    "text": "기재한다 기타사항 Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 따라 처리한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "Remark 입고검수 결과 Result 부적합(훼손, 오염 등) 수량: 입고관리 담당자 Prepared by 입고관리 책임자 Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 따라 처리한다 6 3 2 보관장소 및 보관방법 / 취급 시의 혼동 및 오염 방지 대책",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "Reviewed by 제조부서 책임자 Approved by (성명/서명/일자) (성명/서명/일자) (성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 따라 처리한다 6 3 2 보관장소 및 보관방법 / 취급 시의 혼동 및 오염 방지 대책 한다  이러한 사항은 전자 시스템으로 이루어질 수 있다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "(성명/서명/일자) <표 2 입고검수서의 예> Page: 12 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 따라 처리한다 6 3 2 보관장소 및 보관방법 / 취급 시의 혼동 및 오염 방지 대책 한다 이러한 사항은 전자 시스템으로 이루어질 수 있다 6 3 2 2 특히 각 혈액제제에 따라 요구되는 보관조건의 보관 시설을 구비하고 냉동고 등",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "Code of Manufacturing Management Document No Revision No Effective Date SCMM 따라 처리한다 6 3 2 보관장소 및 보관방법 / 취급 시의 혼동 및 오염 방지 대책 한다 이러한 사항은 전자 시스템으로 이루어질 수 있다 6 3 2 2 특히 각 혈액제제에 따라 요구되는 보관조건의 보관 시설을 구비하고 냉동고 등 혈액제제 보관 시 명칭, 제조일자, 혈액관리번호 등이 기재된 표시라벨 등을 부착하여",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "따라 처리한다 6 3 2 보관장소 및 보관방법 / 취급 시의 혼동 및 오염 방지 대책 한다 이러한 사항은 전자 시스템으로 이루어질 수 있다 6 3 2 2 특히 각 혈액제제에 따라 요구되는 보관조건의 보관 시설을 구비하고 냉동고 등 혈액제제 보관 시 명칭, 제조일자, 혈액관리번호 등이 기재된 표시라벨 등을 부착하여 사용상 혼동을 방지한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "3 2 보관장소 및 보관방법 / 취급 시의 혼동 및 오염 방지 대책 한다 이러한 사항은 전자 시스템으로 이루어질 수 있다 6 3 2 2 특히 각 혈액제제에 따라 요구되는 보관조건의 보관 시설을 구비하고 냉동고 등 혈액제제 보관 시 명칭, 제조일자, 혈액관리번호 등이 기재된 표시라벨 등을 부착하여 사용상 혼동을 방지한다 6 3 2 3 혈액의 시험 전, 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 방법으로",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "전자 시스템으로 이루어질 수 있다 6 3 2 2 특히 각 혈액제제에 따라 요구되는 보관조건의 보관 시설을 구비하고 냉동고 등 혈액제제 보관 시 명칭, 제조일자, 혈액관리번호 등이 기재된 표시라벨 등을 부착하여 사용상 혼동을 방지한다 6 3 2 3 혈액의 시험 전, 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 방법으로 해당 혈액의 사용 가능여부를 확인할 수 있어야 한다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "2 특히 각 혈액제제에 따라 요구되는 보관조건의 보관 시설을 구비하고 냉동고 등 혈액제제 보관 시 명칭, 제조일자, 혈액관리번호 등이 기재된 표시라벨 등을 부착하여 사용상 혼동을 방지한다 6 3 2 3 혈액의 시험 전, 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 방법으로 해당 혈액의 사용 가능여부를 확인할 수 있어야 한다 6 3 2 4 혈액의 보관장소는 지정된 인원 외 접근을 제한하며, 혈액의 보관조건에 적절하여야",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "방법",
+      "접근"
+    ]
+  },
+  {
+    "text": "시 명칭, 제조일자, 혈액관리번호 등이 기재된 표시라벨 등을 부착하여 사용상 혼동을 방지한다 6 3 2 3 혈액의 시험 전, 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 방법으로 해당 혈액의 사용 가능여부를 확인할 수 있어야 한다 6 3 2 4 혈액의 보관장소는 지정된 인원 외 접근을 제한하며, 혈액의 보관조건에 적절하여야 한다  담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "방법",
+      "접근"
+    ]
+  },
+  {
+    "text": "혼동을 방지한다 6 3 2 3 혈액의 시험 전, 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 방법으로 해당 혈액의 사용 가능여부를 확인할 수 있어야 한다 6 3 2 4 혈액의 보관장소는 지정된 인원 외 접근을 제한하며, 혈액의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 3 2 5 원료혈액을 포함하여 혈액제제의 취급 시에는 지정된 복장을 착용하고 날카로운",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "방법",
+      "접근",
+      "제한",
+      "조건"
+    ]
+  },
+  {
+    "text": "인지할 수 있는 적절한 방법으로 해당 혈액의 사용 가능여부를 확인할 수 있어야 한다 6 3 2 4 혈액의 보관장소는 지정된 인원 외 접근을 제한하며, 혈액의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 3 2 5 원료혈액을 포함하여 혈액제제의 취급 시에는 지정된 복장을 착용하고 날카로운 물질이나 기타 다른 물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다  특히\n\n냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어",
+    "token_estimate": 23,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "접근",
+      "제한",
+      "조건",
+      "혈액의"
+    ]
+  },
+  {
+    "text": "제한하며, 혈액의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 3 2 5 원료혈액을 포함하여 혈액제제의 취급 시에는 지정된 복장을 착용하고 날카로운 물질이나 기타 다른 물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다 특히 냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "제한",
+      "조건",
+      "한다",
+      "주의하여야",
+      "제한하며"
+    ]
+  },
+  {
+    "text": "이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 3 2 5 원료혈액을 포함하여 혈액제제의 취급 시에는 지정된 복장을 착용하고 날카로운 물질이나 기타 다른 물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다 특히 냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "조건",
+      "결과",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "3 2 5 원료혈액을 포함하여 혈액제제의 취급 시에는 지정된 복장을 착용하고 날카로운 물질이나 기타 다른 물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다 특히 냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법 입증되어야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "입증",
+      "조건",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "5 원료혈액을 포함하여 혈액제제의 취급 시에는 지정된 복장을 착용하고 날카로운 물질이나 기타 다른 물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다 특히 냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법 입증되어야 한다 6 3 3 2 시험검사 결과 부적격으로 판정된 혈액은",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "입증",
+      "조건",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "날카로운 물질이나 기타 다른 물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다 특히 냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법 입증되어야 한다 6 3 3 2 시험검사 결과 부적격으로 판정된 혈액은 “부적격”을 의미하는 기재사항을 통해",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "입증",
+      "조건",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "물품에 의하여 혈액백 등이 파손되지 않도록 주의하여야 한다 특히 냉동 조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법 입증되어야 한다 6 3 3 2 시험검사 결과 부적격으로 판정된 혈액은 “부적격”을 의미하는 기재사항을 통해 구분하여 관리되어야 한다  이러한 기록은 전자 시스템으로 이루어질 수 있다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "방법",
+      "입증",
+      "조건"
+    ]
+  },
+  {
+    "text": "조건과 같이 특별한 보관조건의 제제의 경우 부딪힘만으로도 혈액백이 손상이 되어 오염이 발생될 수 있으므로 주의하여야 한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법 입증되어야 한다 6 3 3 2 시험검사 결과 부적격으로 판정된 혈액은 “부적격”을 의미하는 기재사항을 통해 구분하여 관리되어야 한다 이러한 기록은 전자 시스템으로 이루어질 수 있다 6 3 3 3 부적합한 혈액은 폐기가 완료될 때까지 별도로 구분 또는 구획된 장소에 보관되어야",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "방법",
+      "입증",
+      "조건"
+    ]
+  },
+  {
+    "text": "한다 6 3 3 시험검사 결과 부적격 혈액에 대한 처리방법 입증되어야 한다 6 3 3 2 시험검사 결과 부적격으로 판정된 혈액은 “부적격”을 의미하는 기재사항을 통해 구분하여 관리되어야 한다 이러한 기록은 전자 시스템으로 이루어질 수 있다 6 3 3 3 부적합한 혈액은 폐기가 완료될 때까지 별도로 구분 또는 구획된 장소에 보관되어야 부적격 혈액의 제반 사항에 대한 기록을 실시하여야 한다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "방법",
+      "입증",
+      "결과"
+    ]
+  },
+  {
+    "text": "대한 처리방법 입증되어야 한다 6 3 3 2 시험검사 결과 부적격으로 판정된 혈액은 “부적격”을 의미하는 기재사항을 통해 구분하여 관리되어야 한다 이러한 기록은 전자 시스템으로 이루어질 수 있다 6 3 3 3 부적합한 혈액은 폐기가 완료될 때까지 별도로 구분 또는 구획된 장소에 보관되어야 부적격 혈액의 제반 사항에 대한 기록을 실시하여야 한다 6 3 3 4 부적격 혈액의 처리는 폐기물처리법 등의 관련 법령에 따라 처리한다 \n\n6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은\n\n혈액을 우선하여 출고할 수 있다  다만, 선입선출이 불가능한 경우 등은 별도의 규정에",
+    "token_estimate": 39,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "방법",
+      "입증",
+      "규정"
+    ]
+  },
+  {
+    "text": "구획된 장소에 보관되어야 부적격 혈액의 제반 사항에 대한 기록을 실시하여야 한다 6 3 3 4 부적격 혈액의 처리는 폐기물처리법 등의 관련 법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "규정",
+      "결과",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "제반 사항에 대한 기록을 실시하여야 한다 6 3 3 4 부적격 혈액의 처리는 폐기물처리법 등의 관련 법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "규정",
+      "결과",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "실시하여야 한다 6 3 3 4 부적격 혈액의 처리는 폐기물처리법 등의 관련 법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "규정",
+      "결과",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "6 3 3 4 부적격 혈액의 처리는 폐기물처리법 등의 관련 법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "규정",
+      "결과",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "3 3 4 부적격 혈액의 처리는 폐기물처리법 등의 관련 법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "등의 관련 법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "법령에 따라 처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "처리한다 6 3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "3 4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "4 1 출고 시에는 시험검사 결과 적합으로 판정된 혈액만을 선입선출하되, 사용기한이 짧은 혈액을 우선하여 출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 3 4 2 출고한 혈액에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 혈액의 양과",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "출고할 수 있다 다만, 선입선출이 불가능한 경우 등은 별도의 규정에 사유와 처리 방법을 상세 기술한다 Page: 13 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 3 4 2 출고한 혈액에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 혈액의 양과 기록상의 양을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다 \n\n6 3 4 3 희귀혈액 등은 별도로 관리하여 쉽게 재고현황을 파악할 수 있어야 한다",
+    "token_estimate": 23,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 3 4 2 출고한 혈액에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 혈액의 양과 기록상의 양을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다 6 3 4 3 희귀혈액 등은 별도로 관리하여 쉽게 재고현황을 파악할 수 있어야 한다 6 3 4 4 적정재고 산정기준에 따라 재고를 관리하여 수혈용 혈액제제를 안정적으로 공급할 수",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "기준",
+      "No",
+      "한다"
+    ]
+  },
+  {
+    "text": "3 4 2 출고한 혈액에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 혈액의 양과 기록상의 양을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다 6 3 4 3 희귀혈액 등은 별도로 관리하여 쉽게 재고현황을 파악할 수 있어야 한다 6 3 4 4 적정재고 산정기준에 따라 재고를 관리하여 수혈용 혈액제제를 안정적으로 공급할 수 있도록 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "기준",
+      "한다",
+      "관리하여"
+    ]
+  },
+  {
+    "text": "2 출고한 혈액에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 혈액의 양과 기록상의 양을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다 6 3 4 3 희귀혈액 등은 별도로 관리하여 쉽게 재고현황을 파악할 수 있어야 한다 6 3 4 4 적정재고 산정기준에 따라 재고를 관리하여 수혈용 혈액제제를 안정적으로 공급할 수 있도록 한다 자재 관리에 관한 사항\n\n원료 혈액이 최초로 담기는 혈액백이나 각종 혈액제제에 사용되는 용기(백)은 혈액과\n\n직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다  자재는 사용 용도에 따라",
+    "token_estimate": 25,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "기준",
+      "한다",
+      "관리하여"
+    ]
+  },
+  {
+    "text": "등은 별도로 관리하여 쉽게 재고현황을 파악할 수 있어야 한다 6 3 4 4 적정재고 산정기준에 따라 재고를 관리하여 수혈용 혈액제제를 안정적으로 공급할 수 있도록 한다 자재 관리에 관한 사항 원료 혈액이 최초로 담기는 혈액백이나 각종 혈액제제에 사용되는 용기(백)은 혈액과 직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다 자재는 사용 용도에 따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "기준",
+      "검사",
+      "한다"
+    ]
+  },
+  {
+    "text": "4 적정재고 산정기준에 따라 재고를 관리하여 수혈용 혈액제제를 안정적으로 공급할 수 있도록 한다 자재 관리에 관한 사항 원료 혈액이 최초로 담기는 혈액백이나 각종 혈액제제에 사용되는 용기(백)은 혈액과 직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다 자재는 사용 용도에 따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "기준",
+      "검사",
+      "한다"
+    ]
+  },
+  {
+    "text": "재고를 관리하여 수혈용 혈액제제를 안정적으로 공급할 수 있도록 한다 자재 관리에 관한 사항 원료 혈액이 최초로 담기는 혈액백이나 각종 혈액제제에 사용되는 용기(백)은 혈액과 직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다 자재는 사용 용도에 따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다 처리방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "방법",
+      "검사",
+      "처리"
+    ]
+  },
+  {
+    "text": "관리하여 수혈용 혈액제제를 안정적으로 공급할 수 있도록 한다 자재 관리에 관한 사항 원료 혈액이 최초로 담기는 혈액백이나 각종 혈액제제에 사용되는 용기(백)은 혈액과 직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다 자재는 사용 용도에 따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다 처리방법 필수적이다  검수단계에서는 거래명세서 및 설정한 기준 및 시험법 등에 기술된 자재의",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "방법",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "사항 원료 혈액이 최초로 담기는 혈액백이나 각종 혈액제제에 사용되는 용기(백)은 혈액과 직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다 자재는 사용 용도에 따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다 처리방법 필수적이다 검수단계에서는 거래명세서 및 설정한 기준 및 시험법 등에 기술된 자재의 확인하여 이상이 없는 제품만을 사용하여야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "방법",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "각종 혈액제제에 사용되는 용기(백)은 혈액과 직접 접촉한다는 점에서 매우 중요하게 관리되어야 한다 자재는 사용 용도에 따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다 처리방법 필수적이다 검수단계에서는 거래명세서 및 설정한 기준 및 시험법 등에 기술된 자재의 확인하여 이상이 없는 제품만을 사용하여야 한다 6 4 1 2 이러한 입고 검수단계에서 부적합 판정된 자재는 입고시킬 수 없으며, 전량 반품함을",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "방법",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "따라 사용 상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다 처리방법 필수적이다 검수단계에서는 거래명세서 및 설정한 기준 및 시험법 등에 기술된 자재의 확인하여 이상이 없는 제품만을 사용하여야 한다 6 4 1 2 이러한 입고 검수단계에서 부적합 판정된 자재는 입고시킬 수 없으며, 전량 반품함을 원칙으로 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "방법",
+      "기준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "상 정보를 기재하는 경우 인쇄 등의 작업이 완료된 자재를 검사하여 표시사항에 이상이 없음을 확인하여야 한다 처리방법 필수적이다 검수단계에서는 거래명세서 및 설정한 기준 및 시험법 등에 기술된 자재의 확인하여 이상이 없는 제품만을 사용하여야 한다 6 4 1 2 이러한 입고 검수단계에서 부적합 판정된 자재는 입고시킬 수 없으며, 전량 반품함을 원칙으로 한다 6 4 1 3 자재 사용 전 자재의 제조업체에서 자체적으로 시험한 항목의 결과가 기재된",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "제조업체",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "한다 처리방법 필수적이다 검수단계에서는 거래명세서 및 설정한 기준 및 시험법 등에 기술된 자재의 확인하여 이상이 없는 제품만을 사용하여야 한다 6 4 1 2 이러한 입고 검수단계에서 부적합 판정된 자재는 입고시킬 수 없으며, 전량 반품함을 원칙으로 한다 6 4 1 3 자재 사용 전 자재의 제조업체에서 자체적으로 시험한 항목의 결과가 기재된 시험성적서를 확인하는 것 또한 매우 중요하다  이는 일반적인 확인시험에 해당되며,\n\n해당 확인시험은 입고 검수 단계에서도 확인 가능하다",
+    "token_estimate": 17,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "방법",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "사용하여야 한다 6 4 1 2 이러한 입고 검수단계에서 부적합 판정된 자재는 입고시킬 수 없으며, 전량 반품함을 원칙으로 한다 6 4 1 3 자재 사용 전 자재의 제조업체에서 자체적으로 시험한 항목의 결과가 기재된 시험성적서를 확인하는 것 또한 매우 중요하다 이는 일반적인 확인시험에 해당되며, 해당 확인시험은 입고 검수 단계에서도 확인 가능하다 6 4 2 보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책\n\n6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다",
+    "token_estimate": 27,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "방지",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "제조업체에서 자체적으로 시험한 항목의 결과가 기재된 시험성적서를 확인하는 것 또한 매우 중요하다 이는 일반적인 확인시험에 해당되며, 해당 확인시험은 입고 검수 단계에서도 확인 가능하다 6 4 2 보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 \n\n기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "방지",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "이는 일반적인 확인시험에 해당되며, 해당 확인시험은 입고 검수 단계에서도 확인 가능하다 6 4 2 보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "방법",
+      "조건",
+      "시험",
+      "입고"
+    ]
+  },
+  {
+    "text": "해당 확인시험은 입고 검수 단계에서도 확인 가능하다 6 4 2 보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "방법",
+      "조건",
+      "시험",
+      "입고"
+    ]
+  },
+  {
+    "text": "입고 검수 단계에서도 확인 가능하다 6 4 2 보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방지",
+      "방법",
+      "조건",
+      "입고",
+      "방지한다"
+    ]
+  },
+  {
+    "text": "검수 단계에서도 확인 가능하다 6 4 2 보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "보관장소 및 보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "보관방법 / 취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "취급 시 혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "혼동 및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "및 오염 방지 대책 6 4 2 1 입고 검수를 거친 자재는 보관조건에 맞는 보관장소로 이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 4 2 4 자재의 시험 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 표시라벨을",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "이동하여 보관한다 또는 구획하여 혼입혼동을 방지한다 기재된 표시서 등을 부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 4 2 4 자재의 시험 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 표시라벨을 부착하여 해당 자재의 사용 가능여부를 확인할 수 있어야 한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "부착하여 사용 상 혼동을 방지한다 Page: 14 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 4 2 4 자재의 시험 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 표시라벨을 부착하여 해당 자재의 사용 가능여부를 확인할 수 있어야 한다 6 4 2 5 자재의 보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "접근",
+      "제한"
+    ]
+  },
+  {
+    "text": "Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 6 4 2 4 자재의 시험 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 표시라벨을 부착하여 해당 자재의 사용 가능여부를 확인할 수 있어야 한다 6 4 2 5 자재의 보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에 적절하여야 한다  담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "접근",
+      "제한",
+      "조건",
+      "시험",
+      "자재의"
+    ]
+  },
+  {
+    "text": "Date SCMM 6 4 2 4 자재의 시험 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 표시라벨을 부착하여 해당 자재의 사용 가능여부를 확인할 수 있어야 한다 6 4 2 5 자재의 보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "접근",
+      "제한",
+      "조건",
+      "시험",
+      "자재의"
+    ]
+  },
+  {
+    "text": "SCMM 6 4 2 4 자재의 시험 중, 시험 후(적합/부적합)에도 이를 인지할 수 있는 적절한 표시라벨을 부착하여 해당 자재의 사용 가능여부를 확인할 수 있어야 한다 6 4 2 5 자재의 보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 4 2 6 또한 대부분의 자재는 무균성이 보증되어야 하며, 이에 대한 적절한 시험을 실시하여야",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "접근",
+      "제한",
+      "조건",
+      "시험",
+      "자재의"
+    ]
+  },
+  {
+    "text": "표시라벨을 부착하여 해당 자재의 사용 가능여부를 확인할 수 있어야 한다 6 4 2 5 자재의 보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 4 2 6 또한 대부분의 자재는 무균성이 보증되어야 하며, 이에 대한 적절한 시험을 실시하여야 취하여 무균시험을 비롯하여 규정된 기준 및 시험방법에 따라 시험을 실시하고 적합으로",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "접근",
+      "제한",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "4 2 5 자재의 보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 4 2 6 또한 대부분의 자재는 무균성이 보증되어야 하며, 이에 대한 적절한 시험을 실시하여야 취하여 무균시험을 비롯하여 규정된 기준 및 시험방법에 따라 시험을 실시하고 적합으로 판정된 자재만을 사용하여야 한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "접근",
+      "제한",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "보관장소는 지정된 인원 외 접근을 제한하며, 해당 자재의 보관조건에 적절하여야 한다 담당자는 이러한 보관조건을 주기적으로 확인하여 이상 발생 유무를 점검한다 6 4 2 6 또한 대부분의 자재는 무균성이 보증되어야 하며, 이에 대한 적절한 시험을 실시하여야 취하여 무균시험을 비롯하여 규정된 기준 및 시험방법에 따라 시험을 실시하고 적합으로 판정된 자재만을 사용하여야 한다 6 4 3 시험 결과 부적합품에 대한 처리 방법\n\n6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의",
+    "token_estimate": 24,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "방법",
+      "접근",
+      "제한",
+      "조건"
+    ]
+  },
+  {
+    "text": "또한 대부분의 자재는 무균성이 보증되어야 하며, 이에 대한 적절한 시험을 실시하여야 취하여 무균시험을 비롯하여 규정된 기준 및 시험방법에 따라 시험을 실시하고 적합으로 판정된 자재만을 사용하여야 한다 6 4 3 시험 결과 부적합품에 대한 처리 방법 6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "하며, 이에 대한 적절한 시험을 실시하여야 취하여 무균시험을 비롯하여 규정된 기준 및 시험방법에 따라 시험을 실시하고 적합으로 판정된 자재만을 사용하여야 한다 6 4 3 시험 결과 부적합품에 대한 처리 방법 6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "접근",
+      "제한"
+    ]
+  },
+  {
+    "text": "시험방법에 따라 시험을 실시하고 적합으로 판정된 자재만을 사용하여야 한다 6 4 3 시험 결과 부적합품에 대한 처리 방법 6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야 한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "접근",
+      "제한"
+    ]
+  },
+  {
+    "text": "따라 시험을 실시하고 적합으로 판정된 자재만을 사용하여야 한다 6 4 3 시험 결과 부적합품에 대한 처리 방법 6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야 한다 6 4 4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "접근",
+      "제한"
+    ]
+  },
+  {
+    "text": "3 시험 결과 부적합품에 대한 처리 방법 6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야 한다 6 4 4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법 사용한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "접근",
+      "제한"
+    ]
+  },
+  {
+    "text": "시험 결과 부적합품에 대한 처리 방법 6 4 3 2 품질시험 의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야 한다 6 4 4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법 사용한다 폐기 사항 등을 관리하여 표시사항이 오기되거나 이중 부착 등으로 인한 혼동이",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "접근",
+      "제한"
+    ]
+  },
+  {
+    "text": "의뢰 결과 부적합으로 판정된 자재는 “부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야 한다 6 4 4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법 사용한다 폐기 사항 등을 관리하여 표시사항이 오기되거나 이중 부착 등으로 인한 혼동이 일어나지 않도록 각별한 주의가 필요하다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "방법",
+      "접근",
+      "제한",
+      "결과"
+    ]
+  },
+  {
+    "text": "“부적합”을 의미하는 라벨을 부착 등의 관리방법으로 구분하고 반품 또는 폐기한다 보관되어야 하며, 시건장치 등을 통하여 관리 인원 외 다른 인원의 접근을 제한하여야 한다 6 4 4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법 사용한다 폐기 사항 등을 관리하여 표시사항이 오기되거나 이중 부착 등으로 인한 혼동이 일어나지 않도록 각별한 주의가 필요하다 6 4 5 표시기재사항의 변경 시 하여야 할 조치\n\n6 4 5 1 표시기재사항의 변경이 발생한 경우 변경관리 규정에 따라 관련 제반 사항을 변경",
+    "token_estimate": 24,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "조치",
+      "방법",
+      "접근",
+      "변경"
+    ]
+  },
+  {
+    "text": "4 4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법 사용한다 폐기 사항 등을 관리하여 표시사항이 오기되거나 이중 부착 등으로 인한 혼동이 일어나지 않도록 각별한 주의가 필요하다 6 4 5 표시기재사항의 변경 시 하여야 할 조치 6 4 5 1 표시기재사항의 변경이 발생한 경우 변경관리 규정에 따라 관련 제반 사항을 변경 진행한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "조치",
+      "방법",
+      "변경",
+      "규정"
+    ]
+  },
+  {
+    "text": "4 불출방법과 사용하고 남아서 반납된 표시재료의 수량 확인방법 사용한다 폐기 사항 등을 관리하여 표시사항이 오기되거나 이중 부착 등으로 인한 혼동이 일어나지 않도록 각별한 주의가 필요하다 6 4 5 표시기재사항의 변경 시 하여야 할 조치 6 4 5 1 표시기재사항의 변경이 발생한 경우 변경관리 규정에 따라 관련 제반 사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "조치",
+      "방법",
+      "변경",
+      "규정"
+    ]
+  },
+  {
+    "text": "이중 부착 등으로 인한 혼동이 일어나지 않도록 각별한 주의가 필요하다 6 4 5 표시기재사항의 변경 시 하여야 할 조치 6 4 5 1 표시기재사항의 변경이 발생한 경우 변경관리 규정에 따라 관련 제반 사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "조치",
+      "변경",
+      "규정"
+    ]
+  },
+  {
+    "text": "않도록 각별한 주의가 필요하다 6 4 5 표시기재사항의 변경 시 하여야 할 조치 6 4 5 1 표시기재사항의 변경이 발생한 경우 변경관리 규정에 따라 관련 제반 사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "조치",
+      "변경"
+    ]
+  },
+  {
+    "text": "4 5 1 표시기재사항의 변경이 발생한 경우 변경관리 규정에 따라 관련 제반 사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "변경"
+    ]
+  },
+  {
+    "text": "경우 변경관리 규정에 따라 관련 제반 사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "변경"
+    ]
+  },
+  {
+    "text": "관련 제반 사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "시정",
+      "절차",
+      "변경",
+      "검토"
+    ]
+  },
+  {
+    "text": "사항을 변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "시정",
+      "절차",
+      "변경",
+      "검토"
+    ]
+  },
+  {
+    "text": "변경 진행한다 6 4 5 2 변경하고자 하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "하는 표시 기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "기재사항은 관련 법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "법규 등에 따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "따라 필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "필수적으로 기재되어야 하는 정보의 누락이 발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 폐기하여 혼입혼동의 위험을 줄여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "발생하지 않도록 검토하여야 한다 6 4 5 3 표시자재의 경우 변경된 표시정보가 반영되도록 시안이 작성되어야 하며, 이를 정해진 절차에 따라 확인할 수 있어야 한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 폐기하여 혼입혼동의 위험을 줄여야 한다 6 4 6 1 자재의 출고는 원자재 보관관리 담당자가 원자재 요청 부서(팀)으로부터 서면 또는\n\n전자기록 형태의 요청서를 접수하고 자재의 재고를 확인 후 출고한다",
+    "token_estimate": 23,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시정",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "한다 Page: 15 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 폐기하여 혼입혼동의 위험을 줄여야 한다 6 4 6 1 자재의 출고는 원자재 보관관리 담당자가 원자재 요청 부서(팀)으로부터 서면 또는 전자기록 형태의 요청서를 접수하고 자재의 재고를 확인 후 출고한다 없는 자재가 출고되도록 하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "위험",
+      "기준",
+      "요청"
+    ]
+  },
+  {
+    "text": "Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 폐기하여 혼입혼동의 위험을 줄여야 한다 6 4 6 1 자재의 출고는 원자재 보관관리 담당자가 원자재 요청 부서(팀)으로부터 서면 또는 전자기록 형태의 요청서를 접수하고 자재의 재고를 확인 후 출고한다 없는 자재가 출고되도록 하여야 한다 6 4 6 3 출고 시에는 품질시험 결과 적합으로 판정된 자재만을 선입선출 하되, 사용기한이 짧은",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "위험",
+      "기준"
+    ]
+  },
+  {
+    "text": "Date SCMM 폐기하여 혼입혼동의 위험을 줄여야 한다 6 4 6 1 자재의 출고는 원자재 보관관리 담당자가 원자재 요청 부서(팀)으로부터 서면 또는 전자기록 형태의 요청서를 접수하고 자재의 재고를 확인 후 출고한다 없는 자재가 출고되도록 하여야 한다 6 4 6 3 출고 시에는 품질시험 결과 적합으로 판정된 자재만을 선입선출 하되, 사용기한이 짧은 자재를 우선하여 출고할 수 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "위험",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "줄여야 한다 6 4 6 1 자재의 출고는 원자재 보관관리 담당자가 원자재 요청 부서(팀)으로부터 서면 또는 전자기록 형태의 요청서를 접수하고 자재의 재고를 확인 후 출고한다 없는 자재가 출고되도록 하여야 한다 6 4 6 3 출고 시에는 품질시험 결과 적합으로 판정된 자재만을 선입선출 하되, 사용기한이 짧은 자재를 우선하여 출고할 수 있다 6 4 6 4 출고한 자재에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 자재의 재고량과",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "서면 또는 전자기록 형태의 요청서를 접수하고 자재의 재고를 확인 후 출고한다 없는 자재가 출고되도록 하여야 한다 6 4 6 3 출고 시에는 품질시험 결과 적합으로 판정된 자재만을 선입선출 하되, 사용기한이 짧은 자재를 우선하여 출고할 수 있다 6 4 6 4 출고한 자재에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 자재의 재고량과 기록상의 재고량을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "결과",
+      "시험",
+      "요청"
+    ]
+  },
+  {
+    "text": "후 출고한다 없는 자재가 출고되도록 하여야 한다 6 4 6 3 출고 시에는 품질시험 결과 적합으로 판정된 자재만을 선입선출 하되, 사용기한이 짧은 자재를 우선하여 출고할 수 있다 6 4 6 4 출고한 자재에 대한 정보를 기록하여야 하며, 주기적으로 보관중인 자재의 재고량과 기록상의 재고량을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다 6 4 6 5 재고실사는 분기 별 1 회 등의 주기로 실시가능하며, 수행 시에는 전산상(기록상)의\n\n규격, 품명 등을 비교한다  재고 실사는 2 인 이상이 진행하여 인위적 과오로 인한\n\n오류를 방지하고 정확한 파악이 가능하도록 수행한다  또한 재고 실사 결과는 해당 자재",
+    "token_estimate": 40,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "방지",
+      "규격",
+      "결과"
+    ]
+  },
+  {
+    "text": "재고량과 기록상의 재고량을 비교하는 재고실사를 실시하여 이상이 없음을 확인하여야 한다 6 4 6 5 재고실사는 분기 별 1 회 등의 주기로 실시가능하며, 수행 시에는 전산상(기록상)의 규격, 품명 등을 비교한다 재고 실사는 2 인 이상이 진행하여 인위적 과오로 인한 오류를 방지하고 정확한 파악이 가능하도록 수행한다 또한 재고 실사 결과는 해당 자재 보관 기록 등에 기록하여 이상 유무를 확인할 수 있도록 관리하여야 한다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "방지",
+      "규격",
+      "결과",
+      "이상이"
+    ]
+  },
+  {
+    "text": "4 6 5 재고실사는 분기 별 1 회 등의 주기로 실시가능하며, 수행 시에는 전산상(기록상)의 규격, 품명 등을 비교한다 재고 실사는 2 인 이상이 진행하여 인위적 과오로 인한 오류를 방지하고 정확한 파악이 가능하도록 수행한다 또한 재고 실사 결과는 해당 자재 보관 기록 등에 기록하여 이상 유무를 확인할 수 있도록 관리하여야 한다 혈액제제(완제품) 관리에 관한 사항\n\n혈액제제의 입고, 보관 및 출고 등 각 과정별 관리방법과 보관관리 담당자가 시행하는",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "방지",
+      "방법",
+      "과정",
+      "규격"
+    ]
+  },
+  {
+    "text": "등을 비교한다 재고 실사는 2 인 이상이 진행하여 인위적 과오로 인한 오류를 방지하고 정확한 파악이 가능하도록 수행한다 또한 재고 실사 결과는 해당 자재 보관 기록 등에 기록하여 이상 유무를 확인할 수 있도록 관리하여야 한다 혈액제제(완제품) 관리에 관한 사항 혈액제제의 입고, 보관 및 출고 등 각 과정별 관리방법과 보관관리 담당자가 시행하는 보존하여 품질이 보증되지 않은 제품의 출하를 방지한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "방법",
+      "과정"
+    ]
+  },
+  {
+    "text": "진행하여 인위적 과오로 인한 오류를 방지하고 정확한 파악이 가능하도록 수행한다 또한 재고 실사 결과는 해당 자재 보관 기록 등에 기록하여 이상 유무를 확인할 수 있도록 관리하여야 한다 혈액제제(완제품) 관리에 관한 사항 혈액제제의 입고, 보관 및 출고 등 각 과정별 관리방법과 보관관리 담당자가 시행하는 보존하여 품질이 보증되지 않은 제품의 출하를 방지한다 6 5 1 입출고 시 승인판정의 확인방법\n\n6 5 1 1 혈액제제는 기본적으로 관련 규정에 따라 시험을 실시하고 그 결과 적합인 제품만을",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "방법",
+      "과정"
+    ]
+  },
+  {
+    "text": "확인할 수 있도록 관리하여야 한다 혈액제제(완제품) 관리에 관한 사항 혈액제제의 입고, 보관 및 출고 등 각 과정별 관리방법과 보관관리 담당자가 시행하는 보존하여 품질이 보증되지 않은 제품의 출하를 방지한다 6 5 1 입출고 시 승인판정의 확인방법 6 5 1 1 혈액제제는 기본적으로 관련 규정에 따라 시험을 실시하고 그 결과 적합인 제품만을 출고 할 수 있다  단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "방법",
+      "과정"
+    ]
+  },
+  {
+    "text": "출고 등 각 과정별 관리방법과 보관관리 담당자가 시행하는 보존하여 품질이 보증되지 않은 제품의 출하를 방지한다 6 5 1 입출고 시 승인판정의 확인방법 6 5 1 1 혈액제제는 기본적으로 관련 규정에 따라 시험을 실시하고 그 결과 적합인 제품만을 출고 할 수 있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 \n\n구분하여야 한다  이러한 사항은 전자 시스템을 이용할 수 있다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "시스템",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "제품의 출하를 방지한다 6 5 1 입출고 시 승인판정의 확인방법 6 5 1 1 혈액제제는 기본적으로 관련 규정에 따라 시험을 실시하고 그 결과 적합인 제품만을 출고 할 수 있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "방지",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "text": "혈액제제는 기본적으로 관련 규정에 따라 시험을 실시하고 그 결과 적합인 제품만을 출고 할 수 있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "규정",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "따라 시험을 실시하고 그 결과 적합인 제품만을 출고 할 수 있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "결과",
+      "시험",
+      "있다"
+    ]
+  },
+  {
+    "text": "실시하고 그 결과 적합인 제품만을 출고 할 수 있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "시스템",
+      "결과",
+      "시험",
+      "있다"
+    ]
+  },
+  {
+    "text": "그 결과 적합인 제품만을 출고 할 수 있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "있다 단, 혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "혈액관리법 시행령 6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "6 조(부적격혈액 폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "폐기처분의 예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "결과"
+    ]
+  },
+  {
+    "text": "예외)에 해당 할 경우 예외로 한다 구분하여야 한다 이러한 사항은 전자 시스템을 이용할 수 있다 6 5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 대기장소에서 혈액제제를 보관하며, 결과가 부적합 판정된 혈액은 폐기 절차를 수행한다 \n\n출하승인에 의한 적합한 제품만이 출하 가능하다",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "시스템",
+      "승인"
+    ]
+  },
+  {
+    "text": "5 1 3 시험이 완료되고 그 결과가 적합으로 판정된 혈액제제는 완제품보관소 내의 적합 Page: 16 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 대기장소에서 혈액제제를 보관하며, 결과가 부적합 판정된 혈액은 폐기 절차를 수행한다 출하승인에 의한 적합한 제품만이 출하 가능하다 6 5 1 5 제품 출하 절차는 혈액제제의 제조공정 및 시험이 모두 완료된 상태에서 실시한다 \n\n6 5 1 6 제품 출하의 적절성 확인과정은 해당 혈액제제의 제조기록의 검토와 시험 결과의 검토를",
+    "token_estimate": 30,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "공정",
+      "과정"
+    ]
+  },
+  {
+    "text": "No Effective Date SCMM 대기장소에서 혈액제제를 보관하며, 결과가 부적합 판정된 혈액은 폐기 절차를 수행한다 출하승인에 의한 적합한 제품만이 출하 가능하다 6 5 1 5 제품 출하 절차는 혈액제제의 제조공정 및 시험이 모두 완료된 상태에서 실시한다 6 5 1 6 제품 출하의 적절성 확인과정은 해당 혈액제제의 제조기록의 검토와 시험 결과의 검토를 통해 이루어진다  이러한 절차는 전자 시스템으로 이루어질 수 있으며, 제조기록의\n\n검토를 통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "시스템",
+      "과정"
+    ]
+  },
+  {
+    "text": "1 5 제품 출하 절차는 혈액제제의 제조공정 및 시험이 모두 완료된 상태에서 실시한다 6 5 1 6 제품 출하의 적절성 확인과정은 해당 혈액제제의 제조기록의 검토와 시험 결과의 검토를 통해 이루어진다 이러한 절차는 전자 시스템으로 이루어질 수 있으며, 제조기록의 검토를 통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는 시의 환경의 적절성의 여부도 함께 검토하여야 한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "시스템",
+      "과정"
+    ]
+  },
+  {
+    "text": "및 시험이 모두 완료된 상태에서 실시한다 6 5 1 6 제품 출하의 적절성 확인과정은 해당 혈액제제의 제조기록의 검토와 시험 결과의 검토를 통해 이루어진다 이러한 절차는 전자 시스템으로 이루어질 수 있으며, 제조기록의 검토를 통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는 시의 환경의 적절성의 여부도 함께 검토하여야 한다 결과가 이상이 없는지 확인하고 발생한 OOS 이력이 있는지, 있다면 그 처리의 적절성이",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "시스템",
+      "과정"
+    ]
+  },
+  {
+    "text": "적절성 확인과정은 해당 혈액제제의 제조기록의 검토와 시험 결과의 검토를 통해 이루어진다 이러한 절차는 전자 시스템으로 이루어질 수 있으며, 제조기록의 검토를 통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는 시의 환경의 적절성의 여부도 함께 검토하여야 한다 결과가 이상이 없는지 확인하고 발생한 OOS 이력이 있는지, 있다면 그 처리의 적절성이 확인되었는지를 다시 한번 검토한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "공정",
+      "시스템",
+      "과정"
+    ]
+  },
+  {
+    "text": "제조기록의 검토와 시험 결과의 검토를 통해 이루어진다 이러한 절차는 전자 시스템으로 이루어질 수 있으며, 제조기록의 검토를 통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는 시의 환경의 적절성의 여부도 함께 검토하여야 한다 결과가 이상이 없는지 확인하고 발생한 OOS 이력이 있는지, 있다면 그 처리의 적절성이 확인되었는지를 다시 한번 검토한다 대한 관리상태 및 이상 유무를 확인하고 최종적으로 제품 출고를 실시한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "시스템으로 이루어질 수 있으며, 제조기록의 검토를 통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는 시의 환경의 적절성의 여부도 함께 검토하여야 한다 결과가 이상이 없는지 확인하고 발생한 OOS 이력이 있는지, 있다면 그 처리의 적절성이 확인되었는지를 다시 한번 검토한다 대한 관리상태 및 이상 유무를 확인하고 최종적으로 제품 출고를 실시한다 6 5 2 보관장소 및 보관방법",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "통해 해당되는 혈액제제 제조공정 간 발생된 일탈 사항, 변경사항 등이 존재하는 시의 환경의 적절성의 여부도 함께 검토하여야 한다 결과가 이상이 없는지 확인하고 발생한 OOS 이력이 있는지, 있다면 그 처리의 적절성이 확인되었는지를 다시 한번 검토한다 대한 관리상태 및 이상 유무를 확인하고 최종적으로 제품 출고를 실시한다 6 5 2 보관장소 및 보관방법 포장단위, 포장상태, 입고수량, 제조연월일, 외관 이상 유무 상태 등을 확인한 후 지정된",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "환경의 적절성의 여부도 함께 검토하여야 한다 결과가 이상이 없는지 확인하고 발생한 OOS 이력이 있는지, 있다면 그 처리의 적절성이 확인되었는지를 다시 한번 검토한다 대한 관리상태 및 이상 유무를 확인하고 최종적으로 제품 출고를 실시한다 6 5 2 보관장소 및 보관방법 포장단위, 포장상태, 입고수량, 제조연월일, 외관 이상 유무 상태 등을 확인한 후 지정된 보관실로 입고를 실시한다 \n\n플라스틱상자) 혈액제제별, 용량별, 혈액형별로 구분한 후 재고관리가 용이하도록 수량을\n\n규격화시켜 선입선출이 용이하도록 채혈 일자 순으로 지정한 장소나 위치에 보관한다",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "규격",
+      "결과"
+    ]
+  },
+  {
+    "text": "대한 관리상태 및 이상 유무를 확인하고 최종적으로 제품 출고를 실시한다 6 5 2 보관장소 및 보관방법 포장단위, 포장상태, 입고수량, 제조연월일, 외관 이상 유무 상태 등을 확인한 후 지정된 보관실로 입고를 실시한다 플라스틱상자) 혈액제제별, 용량별, 혈액형별로 구분한 후 재고관리가 용이하도록 수량을 규격화시켜 선입선출이 용이하도록 채혈 일자 순으로 지정한 장소나 위치에 보관한다 있도록 관리되어야 한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "규격",
+      "이상"
+    ]
+  },
+  {
+    "text": "이상 유무를 확인하고 최종적으로 제품 출고를 실시한다 6 5 2 보관장소 및 보관방법 포장단위, 포장상태, 입고수량, 제조연월일, 외관 이상 유무 상태 등을 확인한 후 지정된 보관실로 입고를 실시한다 플라스틱상자) 혈액제제별, 용량별, 혈액형별로 구분한 후 재고관리가 용이하도록 수량을 규격화시켜 선입선출이 용이하도록 채혈 일자 순으로 지정한 장소나 위치에 보관한다 있도록 관리되어야 한다 6 5 2 4 부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "방법",
+      "규격"
+    ]
+  },
+  {
+    "text": "입고수량, 제조연월일, 외관 이상 유무 상태 등을 확인한 후 지정된 보관실로 입고를 실시한다 플라스틱상자) 혈액제제별, 용량별, 혈액형별로 구분한 후 재고관리가 용이하도록 수량을 규격화시켜 선입선출이 용이하도록 채혈 일자 순으로 지정한 장소나 위치에 보관한다 있도록 관리되어야 한다 6 5 2 4 부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라 처리한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "규격",
+      "처리"
+    ]
+  },
+  {
+    "text": "제조연월일, 외관 이상 유무 상태 등을 확인한 후 지정된 보관실로 입고를 실시한다 플라스틱상자) 혈액제제별, 용량별, 혈액형별로 구분한 후 재고관리가 용이하도록 수량을 규격화시켜 선입선출이 용이하도록 채혈 일자 순으로 지정한 장소나 위치에 보관한다 있도록 관리되어야 한다 6 5 2 4 부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라 처리한다 6 5 2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "조건",
+      "규격"
+    ]
+  },
+  {
+    "text": "용량별, 혈액형별로 구분한 후 재고관리가 용이하도록 수량을 규격화시켜 선입선출이 용이하도록 채혈 일자 순으로 지정한 장소나 위치에 보관한다 있도록 관리되어야 한다 6 5 2 4 부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라 처리한다 6 5 2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "변경",
+      "조건"
+    ]
+  },
+  {
+    "text": "일자 순으로 지정한 장소나 위치에 보관한다 있도록 관리되어야 한다 6 5 2 4 부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라 처리한다 6 5 2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "변경",
+      "조건"
+    ]
+  },
+  {
+    "text": "관리되어야 한다 6 5 2 4 부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라 처리한다 6 5 2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "부적합한 완제품은 즉시 부적합품 보관구역으로 옮겨 관리하며 폐기 처리 절차에 따라 처리한다 6 5 2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다  다만 사용기한이 짧거나 희귀혈액 및",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "따라 처리한다 6 5 2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "방법",
+      "변경",
+      "조건",
+      "판단"
+    ]
+  },
+  {
+    "text": "2 5 완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "방법",
+      "변경",
+      "조건",
+      "판단"
+    ]
+  },
+  {
+    "text": "완제품인 혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "방법",
+      "변경",
+      "조건",
+      "판단"
+    ]
+  },
+  {
+    "text": "혈액제제를 보관하는 장소는 그 보관조건의 적절성을 밸리데이션 등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "등을 통해 평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "평가하여야 하며, 이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "이는 보관소 구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "변경",
+      "기준"
+    ]
+  },
+  {
+    "text": "구성 인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "변경",
+      "기준"
+    ]
+  },
+  {
+    "text": "인자의 변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "변경",
+      "기준"
+    ]
+  },
+  {
+    "text": "변경 시에나 주기적으로 재실시하여 그 적절성이 지속적으로 판단될 수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "변경",
+      "기준"
+    ]
+  },
+  {
+    "text": "수 있도록 하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form 해당사항 없음",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "하여야 한다 6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form 해당사항 없음 참고문헌 Reference",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "6 5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form 해당사항 없음 참고문헌 Reference 혈액관리법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "5 3 출고 시의 선입선출방법 혈액제제의 출하는 선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form 해당사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령\n\n의약품 등의 안전에 관한 규칙_총리령",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "선입선출을 원칙으로 한다 다만 사용기한이 짧거나 희귀혈액 및 Page: 17 of 18 Standard Code Title 제조관리 기준서 Standard Code of Manufacturing Management Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form 해당사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1  의약품 제조 및 품질관리 기준\n\n8 3 2 별표 3 의 4  생물학적제제등 제조 및 품질관리 기준",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "생물학적",
+      "제조"
+    ]
+  },
+  {
+    "text": "Document No Revision No Effective Date SCMM 규정한다 관련 문서 및 양식 Related document & Form 해당사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1 의약품 제조 및 품질관리 기준 8 3 2 별표 3 의 4 생물학적제제등 제조 및 품질관리 기준 8 3 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "생물학적",
+      "제조"
+    ]
+  },
+  {
+    "text": "문서 및 양식 Related document & Form 해당사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1 의약품 제조 및 품질관리 기준 8 3 2 별표 3 의 4 생물학적제제등 제조 및 품질관리 기준 8 3 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처 Page: 18 of 18",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "생물학적",
+      "제조"
+    ]
+  }
+]

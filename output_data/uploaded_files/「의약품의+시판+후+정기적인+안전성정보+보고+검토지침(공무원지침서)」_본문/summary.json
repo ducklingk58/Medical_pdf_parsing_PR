@@ -5,7 +5,7 @@
   "rag_chunks_count": 408,
   "total_words": 3152,
   "total_tokens_estimate": 4097.6,
-  "processing_timestamp": "2025-07-22T17:34:48.157086",
+  "processing_timestamp": "2025-07-24T10:13:29.806027",
   "settings": {
     "similarity_threshold": 0.7,
     "chunk_size": 512,

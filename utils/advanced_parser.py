@@ -16,6 +16,8 @@ import logging
 from PIL import Image
 import io
 import base64
+import uuid
+from datetime import datetime
 
 # LayoutParser imports
 import layoutparser as lp
@@ -43,34 +45,49 @@ class AdvancedParser:
         self.temp_dir = Path(tempfile.mkdtemp())
         self.logger.info(f"고급 파싱기 초기화 완료 (GPU: {use_gpu})")
     
-    def _init_layout_model(self) -> lp.Detectron2LayoutModel:
+    def _init_layout_model(self):
         """LayoutParser 모델 초기화"""
         try:
-            # Detectron2 기반 레이아웃 모델 (테이블/이미지 감지에 최적화)
-            model = lp.Detectron2LayoutModel(
-                config_path='lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config',
-                label_map={0: "Text", 1: "Title", 2: "List", 3: "Table", 4: "Figure"},
-                extra_config=["MODEL.ROI_HEADS.SCORE_THRESH_TEST", 0.8]
-            )
-            self.logger.info("LayoutParser 모델 초기화 성공")
-            return model
+            # 사용 가능한 모델 확인
+            if hasattr(lp, 'Detectron2LayoutModel'):
+                # Detectron2 기반 레이아웃 모델 (테이블/이미지 감지에 최적화)
+                model = lp.Detectron2LayoutModel(
+                    config_path='lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config',
+                    label_map={0: "Text", 1: "Title", 2: "List", 3: "Table", 4: "Figure"},
+                    extra_config=["MODEL.ROI_HEADS.SCORE_THRESH_TEST", 0.8]
+                )
+                self.logger.info("LayoutParser Detectron2 모델 초기화 성공")
+                return model
+            elif hasattr(lp, 'PaddleDetectionLayoutModel'):
+                # PaddleDetection 기반 모델 사용 (threshold 매개변수 제거)
+                try:
+                    model = lp.PaddleDetectionLayoutModel(
+                        config_path='lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config',
+                        label_map={0: "Text", 1: "Title", 2: "List", 3: "Table", 4: "Figure"}
+                    )
+                    self.logger.info("LayoutParser PaddleDetection 모델 초기화 성공")
+                    return model
+                except Exception as e:
+                    self.logger.warning(f"PaddleDetectionLayoutModel 초기화 실패: {str(e)}")
+                    return None
+            else:
+                # 기본 모델 사용
+                self.logger.warning("LayoutParser 고급 모델을 사용할 수 없습니다. 기본 모드로 실행합니다.")
+                return None
         except Exception as e:
             self.logger.error(f"LayoutParser 모델 초기화 실패: {str(e)}")
-            raise
+            self.logger.info("LayoutParser 없이 기본 모드로 실행합니다.")
+            return None
     
     def _init_paddle_ocr(self) -> PaddleOCR:
         """PaddleOCR 시스템 초기화"""
         try:
-            # 기본 PaddleOCR 시스템
-            ocr_system = PaddleOCR(
-                use_gpu=self.use_gpu,
-                show_log=False,
-                lang='en'
-            )
-            self.logger.info("PaddleOCR 시스템 초기화 성공")
+            # 가장 기본적인 초기화
+            ocr_system = PaddleOCR()  # 모든 매개변수 제거
+            self.logger.info("PaddleOCR 시스템 초기화 성공 (기본 설정)")
             return ocr_system
         except Exception as e:
-            self.logger.error(f"PaddleOCR 시스템 초기화 실패: {str(e)}")
+            self.logger.error(f"PaddleOCR 초기화 실패: {str(e)}")
             raise
     
     def pdf_to_images(self, pdf_path: str, dpi: int = 300) -> List[Tuple[int, np.ndarray]]:
@@ -104,11 +121,16 @@ class AdvancedParser:
             
         except Exception as e:
             self.logger.error(f"PDF 이미지 변환 실패: {str(e)}")
-            raise
+            return []  # 빈 리스트 반환으로 변경
     
     def detect_layout_elements(self, image: np.ndarray, page_num: int) -> List[Dict[str, Any]]:
         """LayoutParser를 사용한 레이아웃 요소 감지"""
         try:
+            # LayoutParser 모델이 없는 경우 기본 요소 반환
+            if self.layout_model is None:
+                self.logger.info(f"LayoutParser 모델이 없어 기본 레이아웃 감지를 사용합니다 (페이지 {page_num})")
+                return self._detect_basic_layout_elements(image, page_num)
+            
             # LayoutParser로 레이아웃 분석
             layout = self.layout_model.detect(image)
             
@@ -133,59 +155,169 @@ class AdvancedParser:
             
         except Exception as e:
             self.logger.error(f"레이아웃 감지 실패 (페이지 {page_num}): {str(e)}")
+            return self._detect_basic_layout_elements(image, page_num)
+    
+    def _detect_basic_layout_elements(self, image: np.ndarray, page_num: int) -> List[Dict[str, Any]]:
+        """기본 레이아웃 요소 감지 (LayoutParser 없이)"""
+        try:
+            # 이미지 크기 기반으로 기본 영역 설정
+            height, width = image.shape[:2]
+            
+            elements = [
+                {
+                    'id': f"page_{page_num}_text_region",
+                    'type': 'Text',
+                    'confidence': 0.8,
+                    'bbox': {
+                        'x': 0,
+                        'y': 0,
+                        'width': width,
+                        'height': height
+                    },
+                    'page_num': page_num
+                }
+            ]
+            
+            self.logger.info(f"페이지 {page_num} 기본 레이아웃 감지 완료: {len(elements)}개 요소")
+            return elements
+            
+        except Exception as e:
+            self.logger.error(f"기본 레이아웃 감지 실패 (페이지 {page_num}): {str(e)}")
             return []
     
     def extract_table_content(self, image: np.ndarray, bbox: Dict[str, int]) -> Optional[Dict[str, Any]]:
-        """PaddleOCR을 사용한 테이블 내용 추출"""
+        """향상된 테이블 내용 추출 - 구조화된 테이블 파싱"""
         try:
             # 테이블 영역 자르기
             x, y, w, h = bbox['x'], bbox['y'], bbox['width'], bbox['height']
             table_image = image[y:y+h, x:x+w]
             
-            # 임시 파일로 저장
-            temp_path = self.temp_dir / f"table_temp_{bbox['x']}_{bbox['y']}.png"
-            cv2.imwrite(str(temp_path), table_image)
+            # 그레이스케일 변환
+            gray = cv2.cvtColor(table_image, cv2.COLOR_BGR2GRAY)
             
-            # PaddleOCR로 텍스트 추출
-            result = self.ocr_system.ocr(str(temp_path), cls=True)
+            # 이진화
+            _, binary = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
             
-            if result and len(result) > 0:
-                # 텍스트 추출
-                texts = []
-                for line in result[0]:
-                    if line and len(line) >= 2:
-                        text = line[1][0]  # 텍스트 내용
-                        confidence = line[1][1]  # 신뢰도
-                        texts.append({
-                            'text': text,
-                            'confidence': confidence
-                        })
+            # 수평선과 수직선 감지
+            horizontal_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (w//10, 1))
+            vertical_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, h//10))
+            
+            horizontal_lines = cv2.morphologyEx(binary, cv2.MORPH_OPEN, horizontal_kernel)
+            vertical_lines = cv2.morphologyEx(binary, cv2.MORPH_OPEN, vertical_kernel)
+            
+            # 격자 생성
+            grid = cv2.addWeighted(horizontal_lines, 0.5, vertical_lines, 0.5, 0.0)
+            
+            # 셀 윤곽선 찾기
+            contours, _ = cv2.findContours(grid, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+            
+            # 셀 정보 수집 및 정렬
+            cells = []
+            for contour in contours:
+                area = cv2.contourArea(contour)
+                if area > 100:  # 최소 셀 면적
+                    cell_x, cell_y, cell_w, cell_h = cv2.boundingRect(contour)
+                    cells.append({
+                        'x': cell_x,
+                        'y': cell_y,
+                        'width': cell_w,
+                        'height': cell_h,
+                        'area': area
+                    })
+            
+            # 셀을 행/열로 정렬
+            cells = sorted(cells, key=lambda c: (c['y'], c['x']))
+            
+            # 행과 열 수 계산
+            if cells:
+                y_coords = sorted(list(set([cell['y'] for cell in cells])))
+                x_coords = sorted(list(set([cell['x'] for cell in cells])))
+                rows = len(y_coords)
+                cols = len(x_coords)
                 
-                # 간단한 테이블 구조 생성
-                if texts:
-                    # 텍스트를 DataFrame으로 변환
-                    df_data = []
-                    for text_info in texts:
-                        df_data.append([text_info['text']])
-                    
-                    df = pd.DataFrame(df_data, columns=['Content'])
-                    
-                    # 결과 구성
-                    extracted_table = {
-                        'texts': texts,
-                        'dataframe': df,
-                        'bbox': bbox,
-                        'extraction_method': 'PaddleOCR_Basic'
-                    }
-                    
-                    # 임시 파일 삭제
-                    temp_path.unlink(missing_ok=True)
-                    
-                    return extracted_table
+                # 셀에 행/열 인덱스 할당
+                for cell in cells:
+                    cell['row'] = y_coords.index(cell['y'])
+                    cell['col'] = x_coords.index(cell['x'])
+            else:
+                rows = cols = 0
             
-            # 임시 파일 삭제
-            temp_path.unlink(missing_ok=True)
-            return None
+            # 셀별 텍스트 추출
+            cell_texts = []
+            table_data = []
+            
+            for cell in cells:
+                # 셀 영역 자르기
+                cell_x, cell_y, cell_w, cell_h = cell['x'], cell['y'], cell['width'], cell['height']
+                cell_image = table_image[cell_y:cell_y+cell_h, cell_x:cell_x+cell_w]
+                
+                # 임시 파일로 저장
+                temp_path = self.temp_dir / f"cell_{cell_x}_{cell_y}.png"
+                cv2.imwrite(str(temp_path), cell_image)
+                
+                # PaddleOCR로 텍스트 추출
+                result = self.ocr_system.ocr(str(temp_path), cls=True)
+                
+                # 임시 파일 삭제
+                temp_path.unlink(missing_ok=True)
+                
+                text = ""
+                confidence = 0.0
+                
+                if result and len(result) > 0 and result[0]:
+                    texts = []
+                    confidences = []
+                    for line in result[0]:
+                        if line and len(line) >= 2:
+                            cell_text = line[1][0].strip()
+                            cell_conf = line[1][1]
+                            if cell_text:
+                                texts.append(cell_text)
+                                confidences.append(cell_conf)
+                    
+                    text = " ".join(texts)
+                    confidence = np.mean(confidences) if confidences else 0.0
+                
+                cell_texts.append({
+                    'text': text,
+                    'confidence': confidence,
+                    'bbox': cell,
+                    'row': cell.get('row', 0),
+                    'col': cell.get('col', 0)
+                })
+            
+            # 2차원 배열로 구조화
+            if rows > 0 and cols > 0:
+                table_array = [['' for _ in range(cols)] for _ in range(rows)]
+                
+                for cell_text in cell_texts:
+                    row = cell_text.get('row', 0)
+                    col = cell_text.get('col', 0)
+                    if row < rows and col < cols:
+                        table_array[row][col] = cell_text['text']
+                
+                table_data = table_array
+            else:
+                # 구조화되지 않은 경우 단순 리스트
+                table_data = [cell['text'] for cell in cell_texts]
+            
+            # 결과 구성
+            extracted_table = {
+                'table_id': str(uuid.uuid4()),
+                'bbox': bbox,
+                'structure': {
+                    'rows': rows,
+                    'columns': cols,
+                    'cells': cells
+                },
+                'table_data': table_data,
+                'cell_texts': cell_texts,
+                'extraction_method': 'PaddleOCR_Structured',
+                'extraction_timestamp': datetime.now().isoformat(),
+                'confidence': np.mean([cell['confidence'] for cell in cell_texts]) if cell_texts else 0.0
+            }
+            
+            return extracted_table
             
         except Exception as e:
             self.logger.error(f"테이블 내용 추출 실패: {str(e)}")

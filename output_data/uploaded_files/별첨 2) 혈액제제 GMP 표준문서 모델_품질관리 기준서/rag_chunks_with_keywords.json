@@ -1,0 +1,5877 @@
+[
+  {
+    "text": "Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "Standard",
+      "Code",
+      "Title"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "No Effective Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Date SCQM 품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "품질관리 기준서 Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Standard Code of Quality Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "검토자 Reviewed by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "text": "by 승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "by"
+    ]
+  },
+  {
+    "text": "승인자 Approved by Page: 1 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "text": "Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "Standard"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "Code"
+    ]
+  },
+  {
+    "text": "of Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "of"
+    ]
+  },
+  {
+    "text": "Quality Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "text": "No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "No",
+      "Date"
+    ]
+  },
+  {
+    "text": "이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Revision"
+    ]
+  },
+  {
+    "text": "개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "text": "XX XX 내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "text": "내역 Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "text": "Contents 최초 제정 SCQM 작성자 Written by OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "OOO Page: 2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "2 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "Code"
+    ]
+  },
+  {
+    "text": "Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목적 Purpose",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "of",
+      "No"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에\n\n업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데",
+    "token_estimate": 21,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "Revision History 목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에 업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데 목적이 있다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "목차 Table of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에 업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데 목적이 있다 적용범위 Scope",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "범위"
+    ]
+  },
+  {
+    "text": "of Contents Page: 3 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에 업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데 목적이 있다 적용범위 Scope OO 혈액원에서 제조되는 혈액제제의 원자재 입고부터 최종 제품 출하에 이르기까지\n\n혈액제제 제조의 전 공정에 대하여 요구되는 품질관리 사항에 적용한다",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "No Effective Date SCQM 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에 업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데 목적이 있다 적용범위 Scope OO 혈액원에서 제조되는 혈액제제의 원자재 입고부터 최종 제품 출하에 이르기까지 혈액제제 제조의 전 공정에 대하여 요구되는 품질관리 사항에 적용한다 책임과 권한 Role & Responsibility",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에 업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데 목적이 있다 적용범위 Scope OO 혈액원에서 제조되는 혈액제제의 원자재 입고부터 최종 제품 출하에 이르기까지 혈액제제 제조의 전 공정에 대하여 요구되는 품질관리 사항에 적용한다 책임과 권한 Role & Responsibility 제조관리자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 제조되는 모든 혈액제제의 품질 보증에 업무에 대한 기준을 정하고 그 기준에 따라 혈액제제의 품질을 관리하도록 하는데 목적이 있다 적용범위 Scope OO 혈액원에서 제조되는 혈액제제의 원자재 입고부터 최종 제품 출하에 이르기까지 혈액제제 제조의 전 공정에 대하여 요구되는 품질관리 사항에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 \n\n3 1 2 본 기준서에 따라 수행되는 모든 품질관련 업무의 최종 승인의 책임이 있다 \n\n3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다",
+    "token_estimate": 38,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "공정에 대하여 요구되는 품질관리 사항에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 품질관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "승인"
+    ]
+  },
+  {
+    "text": "요구되는 품질관리 사항에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 품질관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 품질관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "내용을 최종 승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 품질관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "승인하고 서명할 책임이 있다 3 1 2 본 기준서에 따라 수행되는 모든 품질관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "품질관련 업무의 최종 승인의 책임이 있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "있다 3 1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "1 3 본 기준서에 따른 품질관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "책임과 권한이 있다 제조부서 책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "책임자 3 2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "기준서의"
+    ]
+  },
+  {
+    "text": "2 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "기준서의"
+    ]
+  },
+  {
+    "text": "1 본 기준서의 내용을 확인하고 서명할 책임이 있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "기준서의"
+    ]
+  },
+  {
+    "text": "있다 관리, 감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "책임과"
+    ]
+  },
+  {
+    "text": "감독할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "책임과"
+    ]
+  },
+  {
+    "text": "권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "권한이"
+    ]
+  },
+  {
+    "text": "품질부서 책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "기준서의"
+    ]
+  },
+  {
+    "text": "책임자 3 3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "있다",
+      "기준서의"
+    ]
+  },
+  {
+    "text": "3 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "시스템",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "시스템",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "text": "내용을 작성 또는 확인하고 서명할 책임이 있다 독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "수행할 책임이 있다 Page: 4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "4 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "Standard Code of Quality Management Document No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "No Effective Date SCQM 용어정의 Definition 품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "품질(보증) 시스템 을 포함한다 수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "수의약품 제조 및 품질관리 활동)을 가능하도록 구성하는 체계이다 약어 Abbreviation ALCOA: Attributable, Legible, Contemporaneous, Original or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "text": "or a true copy, Accurate GMP: Good Manufacturing Procedure OOS: Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "text": "Out of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "text": "of Specification SOP: Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "Standard Operating Procedure 품질관리의 기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "기준 Standard of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "of Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "of"
+    ]
+  },
+  {
+    "text": "Quality Management 품질 경영 6 1 1 품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "품질 경영의 원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "원칙 책임 있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "있는 경영진)의 책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "책임이다 6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "6 1 1 2 각 혈액원은 관련 법령에 따라 적절한 인원의 제조관리자를 선임하고, 제조관리의 업무 를 책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "책임질 제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "제조부서 책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "책임자와 품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "품질(보증)관리 업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "업무를 책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "책임질 품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리 기준서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "품질부서 책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리 기준서 제품표준서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "책임자를 선임한 다 문서 시스템의 구성 Page: 5 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리 기준서 제품표준서 <그림 1  문서 시스템의 구성 - 4 대 기준서의 구성>",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리 기준서 제품표준서 <그림 1 문서 시스템의 구성 - 4 대 기준서의 구성> 기준서의 운용",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리 기준서 제품표준서 <그림 1 문서 시스템의 구성 - 4 대 기준서의 구성> 기준서의 운용 품질 경영 실현을 위하여 구축한 4 개의 기준서는 각각 다음에 따라 구성한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Effective Date SCQM 6 2 2 각 혈액원은 수행하는 활동의 성격 및 절차에 따라 다음의 4 대 기준서를 구축한다 품질관리 기준서 제조관리 기준서 제조위생관리 기준서 제품표준서 <그림 1 문서 시스템의 구성 - 4 대 기준서의 구성> 기준서의 운용 품질 경영 실현을 위하여 구축한 4 개의 기준서는 각각 다음에 따라 구성한다 6 3 1 품질관리 기준서\n\n6 3 1 1 혈액제제 제조 및 품질관리 업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "기준서 제조위생관리 기준서 제품표준서 <그림 1 문서 시스템의 구성 - 4 대 기준서의 구성> 기준서의 운용 품질 경영 실현을 위하여 구축한 4 개의 기준서는 각각 다음에 따라 구성한다 6 3 1 품질관리 기준서 6 3 1 1 혈액제제 제조 및 품질관리 업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "<그림 1 문서 시스템의 구성 - 4 대 기준서의 구성> 기준서의 운용 품질 경영 실현을 위하여 구축한 4 개의 기준서는 각각 다음에 따라 구성한다 6 3 1 품질관리 기준서 6 3 1 1 혈액제제 제조 및 품질관리 업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "구성> 기준서의 운용 품질 경영 실현을 위하여 구축한 4 개의 기준서는 각각 다음에 따라 구성한다 6 3 1 품질관리 기준서 6 3 1 1 혈액제제 제조 및 품질관리 업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "경영 실현을 위하여 구축한 4 개의 기준서는 각각 다음에 따라 구성한다 6 3 1 품질관리 기준서 6 3 1 1 혈액제제 제조 및 품질관리 업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서\n\n6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원",
+    "token_estimate": 20,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "혈액제제 제조 및 품질관리 업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "업무 수행을 위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "위한 전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "전반적인 품질(보증) 관리 업무에 대한 기 준 및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "및 절차를 기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "기술한다 6 3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "3 1 2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "2 품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "품질관리 기준서는 다음 항목을 포함한다 취 시의 오염 방지책 6 3 2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 또는 부속시설의 관리와 원자재 관리, 보관 업무 등을 포함한 기준을 명시한다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "2 제조관리 기준서 6 3 2 1 제조관리 기준서는 혈액제제의 제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 또는 부속시설의 관리와 원자재 관리, 보관 업무 등을 포함한 기준을 명시한다 6 3 2 2 제조관리 기준서는 다음의 각 항목을 포함한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "제조관리"
+    ]
+  },
+  {
+    "text": "제조관리와 관련한 전반적인 사항과 기기 및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 또는 부속시설의 관리와 원자재 관리, 보관 업무 등을 포함한 기준을 명시한다 6 3 2 2 제조관리 기준서는 다음의 각 항목을 포함한다 6 3 3 제조위생관리 기준서",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "text": "및 생산 지원 Page: 6 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 또는 부속시설의 관리와 원자재 관리, 보관 업무 등을 포함한 기준을 명시한다 6 3 2 2 제조관리 기준서는 다음의 각 항목을 포함한다 6 3 3 제조위생관리 기준서 6 3 3 1 제조위생관리 기준서는 혈액제제 제조 환경을 규정하고 작업실 및 제조설비의 청결 유지",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "Quality Management Document No Revision No Effective Date SCQM 또는 부속시설의 관리와 원자재 관리, 보관 업무 등을 포함한 기준을 명시한다 6 3 2 2 제조관리 기준서는 다음의 각 항목을 포함한다 6 3 3 제조위생관리 기준서 6 3 3 1 제조위생관리 기준서는 혈액제제 제조 환경을 규정하고 작업실 및 제조설비의 청결 유지 와 작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조\n\n소 제조 위생을 유지/관리하기 위한 기준을 명시한다",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "명시한다 6 3 2 2 제조관리 기준서는 다음의 각 항목을 포함한다 6 3 3 제조위생관리 기준서 6 3 3 1 제조위생관리 기준서는 혈액제제 제조 환경을 규정하고 작업실 및 제조설비의 청결 유지 와 작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "포함한다 6 3 3 제조위생관리 기준서 6 3 3 1 제조위생관리 기준서는 혈액제제 제조 환경을 규정하고 작업실 및 제조설비의 청결 유지 와 작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "제조위생관리 기준서 6 3 3 1 제조위생관리 기준서는 혈액제제 제조 환경을 규정하고 작업실 및 제조설비의 청결 유지 와 작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "작업실 및 제조설비의 청결 유지 와 작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "유지 와 작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "작업원의 위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "위생관리에 관한 기준을 정함으로써 제조 및 품질관리 기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "기준에 적합한 제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "제조 소 제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "제조 위생을 유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "유지/관리하기 위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "위한 기준을 명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM A  제품명",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "명시한다 6 3 3 2 제조위생관리 기준서는 다음 각 항목을 포함한다 6 3 4 제품표준서 6 3 4 1 제품표준서는 품목마다 작성하여야 하며, 다음 사항을 포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM A 제품명 B  제조번호 또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한\n\nC  사용된 혈액의 시험번호, 허가 받은 혈액의 분량\n\nD  상세한 제조방법 및 작업 중 주의사항",
+    "token_estimate": 25,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "품질",
+      "관리",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "포함하여야 한다 Page: 7 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM A 제품명 B 제조번호 또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한 C 사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E  공정 별 수율 관리 기준",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM A 제품명 B 제조번호 또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한 C 사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E 공정 별 수율 관리 기준 F  표시재료의 견본",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM A 제품명 B 제조번호 또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한 C 사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E 공정 별 수율 관리 기준 F 표시재료의 견본 시험 및 검사지시(의뢰)서에 관한 사항",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "Quality Management Document No Revision No Effective Date SCQM A 제품명 B 제조번호 또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한 C 사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E 공정 별 수율 관리 기준 F 표시재료의 견본 시험 및 검사지시(의뢰)서에 관한 사항 실시하여야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "text": "Document No Revision No Effective Date SCQM A 제품명 B 제조번호 또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한 C 사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E 공정 별 수율 관리 기준 F 표시재료의 견본 시험 및 검사지시(의뢰)서에 관한 사항 실시하여야 한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "text": "또는 혈액관리번호, 제조 연월일 및 유효기한 또는 사용기한 C 사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E 공정 별 수율 관리 기준 F 표시재료의 견본 시험 및 검사지시(의뢰)서에 관한 사항 실시하여야 한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "사용된 혈액의 시험번호, 허가 받은 혈액의 분량 D 상세한 제조방법 및 작업 중 주의사항 E 공정 별 수율 관리 기준 F 표시재료의 견본 시험 및 검사지시(의뢰)서에 관한 사항 실시하여야 한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다  상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO-",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "중 주의사항 E 공정 별 수율 관리 기준 F 표시재료의 견본 시험 및 검사지시(의뢰)서에 관한 사항 실시하여야 한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "시험 및 검사지시(의뢰)서에 관한 사항 실시하여야 한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "시스템",
+      "방지",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "text": "검사지시(의뢰)서에 관한 사항 실시하여야 한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "시스템",
+      "방지",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "text": "한다 의뢰의 승인, 시험(검사) 지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "시스템",
+      "방지",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "text": "지시, 시험(검사) 결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "시스템",
+      "방지",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "결과의 확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "시스템",
+      "방지",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "확인 및 성적서의 작성 업무를 규정하여야 하며, 혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "혈액원의 상황에 따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "따라 전자시스템을 이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방지"
+    ]
+  },
+  {
+    "text": "이용하여 시험 및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "및 검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "검사지시(의뢰)를 할 수 있다 상세 사항은 “시험의뢰 및 지시, 성적서 작성 절차(OOO- 시험/검사용 검체의 채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 5 3 검체 채취는 사전에 책임자에 의하여 지정된 담당자가 수행한다  해당 담당자는 적절한",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "채취자, 채취량, 채취장소, 채취방법 및 채취 시 주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 5 3 검체 채취는 사전에 책임자에 의하여 지정된 담당자가 수행한다 해당 담당자는 적절한 있어야 하며, 이를 품질부서 책임자 등이 보증한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "주의사항과 채취 시의 오염방지책 법 또한 규정되어야 한다 Page: 8 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 5 3 검체 채취는 사전에 책임자에 의하여 지정된 담당자가 수행한다 해당 담당자는 적절한 있어야 하며, 이를 품질부서 책임자 등이 보증한다 검체 채취를 요할 수 있다  이러한 검체의 채취는 반드시 무균성이 보증되는 절차 및 환\n\n경에서 이루어져야 하며, 그 취급 방법 또한 상세 규정되어야 한다  일반적으로 검체를\n\n채취하기에 적절한 장소를 구분하여 요구되는 환경 조건의 조성이 이루어져야 하며, 해",
+    "token_estimate": 37,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "text": "지정된 담당자가 수행한다 해당 담당자는 적절한 있어야 하며, 이를 품질부서 책임자 등이 보증한다 검체 채취를 요할 수 있다 이러한 검체의 채취는 반드시 무균성이 보증되는 절차 및 환 경에서 이루어져야 하며, 그 취급 방법 또한 상세 규정되어야 한다 일반적으로 검체를 채취하기에 적절한 장소를 구분하여 요구되는 환경 조건의 조성이 이루어져야 하며, 해 당 품목이 보관되어 있는 장소라 하더라도 오염방지대책이 고려되어있으면 해당 장소에\n\n서 검체 채취를 진행하여도 무방하다 \n\n도록 주의하여야 한다  이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며,",
+    "token_estimate": 27,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "절차",
+      "방지",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "경에서 이루어져야 하며, 그 취급 방법 또한 상세 규정되어야 한다 일반적으로 검체를 채취하기에 적절한 장소를 구분하여 요구되는 환경 조건의 조성이 이루어져야 하며, 해 당 품목이 보관되어 있는 장소라 하더라도 오염방지대책이 고려되어있으면 해당 장소에 서 검체 채취를 진행하여도 무방하다 도록 주의하여야 한다 이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며, 안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "조치",
+      "방지",
+      "방법",
+      "조건",
+      "규정"
+    ]
+  },
+  {
+    "text": "채취하기에 적절한 장소를 구분하여 요구되는 환경 조건의 조성이 이루어져야 하며, 해 당 품목이 보관되어 있는 장소라 하더라도 오염방지대책이 고려되어있으면 해당 장소에 서 검체 채취를 진행하여도 무방하다 도록 주의하여야 한다 이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며, 안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도 록 하여야 한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "조치",
+      "방지",
+      "조건",
+      "규정",
+      "하며"
+    ]
+  },
+  {
+    "text": "구분하여 요구되는 환경 조건의 조성이 이루어져야 하며, 해 당 품목이 보관되어 있는 장소라 하더라도 오염방지대책이 고려되어있으면 해당 장소에 서 검체 채취를 진행하여도 무방하다 도록 주의하여야 한다 이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며, 안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도 록 하여야 한다 시험/검사 결과를 관련 부서에 통지하는 방법",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "조치",
+      "방지",
+      "방법",
+      "조건",
+      "규정"
+    ]
+  },
+  {
+    "text": "하며, 해 당 품목이 보관되어 있는 장소라 하더라도 오염방지대책이 고려되어있으면 해당 장소에 서 검체 채취를 진행하여도 무방하다 도록 주의하여야 한다 이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며, 안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도 록 하여야 한다 시험/검사 결과를 관련 부서에 통지하는 방법 함, 관련 부서에 통지한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "조치",
+      "방지",
+      "방법",
+      "규정",
+      "결과"
+    ]
+  },
+  {
+    "text": "보관되어 있는 장소라 하더라도 오염방지대책이 고려되어있으면 해당 장소에 서 검체 채취를 진행하여도 무방하다 도록 주의하여야 한다 이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며, 안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도 록 하여야 한다 시험/검사 결과를 관련 부서에 통지하는 방법 함, 관련 부서에 통지한다 승인하여야 한다 \n\n등에 따라 시험 결과 및 자료를 제시, 통지하여야 한다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "조치",
+      "방지",
+      "방법",
+      "자료",
+      "승인"
+    ]
+  },
+  {
+    "text": "진행하여도 무방하다 도록 주의하여야 한다 이를 위하여 충분한 교육 및 필요한 안전장비가 규정되어야 하며, 안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도 록 하여야 한다 시험/검사 결과를 관련 부서에 통지하는 방법 함, 관련 부서에 통지한다 승인하여야 한다 등에 따라 시험 결과 및 자료를 제시, 통지하여야 한다 6 6 4 시험 결과를 문서로 작성하였을 경우 그 원본의 관리는 품질(보증) 부서에서 실시한다",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "방법",
+      "자료"
+    ]
+  },
+  {
+    "text": "안전사고 발생 시 행동요령 등을 규정하여 즉시 작업자에 대한 안전 조치가 이루어지도 록 하여야 한다 시험/검사 결과를 관련 부서에 통지하는 방법 함, 관련 부서에 통지한다 승인하여야 한다 등에 따라 시험 결과 및 자료를 제시, 통지하여야 한다 6 6 4 시험 결과를 문서로 작성하였을 경우 그 원본의 관리는 품질(보증) 부서에서 실시한다 전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "절차",
+      "시스템"
+    ]
+  },
+  {
+    "text": "록 하여야 한다 시험/검사 결과를 관련 부서에 통지하는 방법 함, 관련 부서에 통지한다 승인하여야 한다 등에 따라 시험 결과 및 자료를 제시, 통지하여야 한다 6 6 4 시험 결과를 문서로 작성하였을 경우 그 원본의 관리는 품질(보증) 부서에서 실시한다 전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 \n\n석 및 최종 결과 확인이 이루어져야 한다",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "및 자료를 제시, 통지하여야 한다 6 6 4 시험 결과를 문서로 작성하였을 경우 그 원본의 관리는 품질(보증) 부서에서 실시한다 전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "자료"
+    ]
+  },
+  {
+    "text": "경우 그 원본의 관리는 품질(보증) 부서에서 실시한다 전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "결과"
+    ]
+  },
+  {
+    "text": "품질(보증) 부서에서 실시한다 전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "결과"
+    ]
+  },
+  {
+    "text": "실시한다 전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "시스템",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "전자시스템에 의한 시험 의뢰/지시/결과 통보 등의 절차를 진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "text": "진행하는 경우 해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "해당 문서는 책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "책 임자에 의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "의해 전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "시험"
+    ]
+  },
+  {
+    "text": "전자결재 되어야 하며, 지정된 전산 상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 시험/검사용 시설 및 장비의 점검",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "상 저장, 관리가 되어야 한다 석 및 최종 결과 확인이 이루어져야 한다 6 6 6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 시험/검사용 시설 및 장비의 점검 6 7 1 품질부서 책임자 등은 품질관리에 관한 전문적인 지식이나 충분한 경험이 있는 자를",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "6 시험 결과 기록서 등에는 다음 사항 등이 포함되어야 한다 Page: 9 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 시험/검사용 시설 및 장비의 점검 6 7 1 품질부서 책임자 등은 품질관리에 관한 전문적인 지식이나 충분한 경험이 있는 자를 시험 시설 및 기구 관리 담당자로 지정한다 \n\n시험기기 및 기록장치 등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인\n\n및 밸리데이션을 실시하여 그 기록들을 보관한다",
+    "token_estimate": 25,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date SCQM 시험/검사용 시설 및 장비의 점검 6 7 1 품질부서 책임자 등은 품질관리에 관한 전문적인 지식이나 충분한 경험이 있는 자를 시험 시설 및 기구 관리 담당자로 지정한다 시험기기 및 기록장치 등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인 및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "6 7 1 품질부서 책임자 등은 품질관리에 관한 전문적인 지식이나 충분한 경험이 있는 자를 시험 시설 및 기구 관리 담당자로 지정한다 시험기기 및 기록장치 등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인 및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "시험",
+      "시설"
+    ]
+  },
+  {
+    "text": "7 1 품질부서 책임자 등은 품질관리에 관한 전문적인 지식이나 충분한 경험이 있는 자를 시험 시설 및 기구 관리 담당자로 지정한다 시험기기 및 기록장치 등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인 및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다 보관용 검체의 관리",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "시험",
+      "시설"
+    ]
+  },
+  {
+    "text": "책임자 등은 품질관리에 관한 전문적인 지식이나 충분한 경험이 있는 자를 시험 시설 및 기구 관리 담당자로 지정한다 시험기기 및 기록장치 등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인 및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다 보관용 검체의 관리 수행에 필요한 양을 취하여 시험을 실시한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "시험",
+      "시설"
+    ]
+  },
+  {
+    "text": "충분한 경험이 있는 자를 시험 시설 및 기구 관리 담당자로 지정한다 시험기기 및 기록장치 등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인 및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다 보관용 검체의 관리 수행에 필요한 양을 취하여 시험을 실시한다 6 8 2 품질부서 책임자는 보관 검체를 관리할 전반적 책임과 검체 관리 담당자를 지정하고",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "시험",
+      "시설"
+    ]
+  },
+  {
+    "text": "등에 대해서는 시험에 지장이 없도록 정기적으로 점검, 교정 확인 및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다 보관용 검체의 관리 수행에 필요한 양을 취하여 시험을 실시한다 6 8 2 품질부서 책임자는 보관 검체를 관리할 전반적 책임과 검체 관리 담당자를 지정하고 보관 검체의 등록 및 사용, 폐기 사항을 승인하여야 한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "승인",
+      "등록"
+    ]
+  },
+  {
+    "text": "및 밸리데이션을 실시하여 그 기록들을 보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다 보관용 검체의 관리 수행에 필요한 양을 취하여 시험을 실시한다 6 8 2 품질부서 책임자는 보관 검체를 관리할 전반적 책임과 검체 관리 담당자를 지정하고 보관 검체의 등록 및 사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "승인",
+      "등록"
+    ]
+  },
+  {
+    "text": "보관한다 시설 및 장비를 사용, 점검, 유지보수, 교정, 적격성평가, 세척(소독) 등을 실시하여야 한다 보관용 검체의 관리 수행에 필요한 양을 취하여 시험을 실시한다 6 8 2 품질부서 책임자는 보관 검체를 관리할 전반적 책임과 검체 관리 담당자를 지정하고 보관 검체의 등록 및 사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "text": "등을 실시하여야 한다 보관용 검체의 관리 수행에 필요한 양을 취하여 시험을 실시한다 6 8 2 품질부서 책임자는 보관 검체를 관리할 전반적 책임과 검체 관리 담당자를 지정하고 보관 검체의 등록 및 사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예  기준 및 시험방법 등)과 시험용 검체를 수탁자에게",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "승인",
+      "등록"
+    ]
+  },
+  {
+    "text": "품질부서 책임자는 보관 검체를 관리할 전반적 책임과 검체 관리 담당자를 지정하고 보관 검체의 등록 및 사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "승인",
+      "등록"
+    ]
+  },
+  {
+    "text": "보관 검체의 등록 및 사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "승인",
+      "등록",
+      "기준",
+      "규격"
+    ]
+  },
+  {
+    "text": "등록 및 사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "승인",
+      "등록",
+      "기준",
+      "규격"
+    ]
+  },
+  {
+    "text": "사용, 폐기 사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "승인",
+      "기준",
+      "규격",
+      "결과"
+    ]
+  },
+  {
+    "text": "사항을 승인하여야 한다 승인을 얻은 후 사용하여야 한다 위탁 시험/검사하는 경우 검체의 송부방법 및 시험/검사 결과의 판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "방법",
+      "승인",
+      "기준",
+      "규격"
+    ]
+  },
+  {
+    "text": "판정 방법 6 9 1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "방법",
+      "기준",
+      "규격",
+      "검사"
+    ]
+  },
+  {
+    "text": "1 위탁 시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "방법",
+      "기준",
+      "규격",
+      "검사"
+    ]
+  },
+  {
+    "text": "시험/검사 시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "방법",
+      "기준",
+      "규격",
+      "검사"
+    ]
+  },
+  {
+    "text": "시 해당되는 규격(예 기준 및 시험방법 등)과 시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "시험용 검체를 수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "수탁자에게 제공하며, 수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "수탁자는 검체에 대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "대한 시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "기준",
+      "시험"
+    ]
+  },
+  {
+    "text": "시험을 완료한 후 해당 시험 기록을 위탁자에게 제공하여야 한다 마련되어야 한다 설정되어야 한다 6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 유지 범위, 온도 유지 시간, 최대 적재 가능한 체적(양)에 대한 검증이 이루어져야 한다",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "검증",
+      "범위"
+    ]
+  },
+  {
+    "text": "6 9 2 2 운송 수단은 일반적으로 백(Bag) 또는 박스(Box) 형태일 수 있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 유지 범위, 온도 유지 시간, 최대 적재 가능한 체적(양)에 대한 검증이 이루어져야 한다 해당 위탁 기관에 시뮬레이션 운송을 통한 운송의 적절조건 및 최악의 조건을 파악하여",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "검증",
+      "조건"
+    ]
+  },
+  {
+    "text": "있으며, 사용 절차와 온도 Page: 10 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 유지 범위, 온도 유지 시간, 최대 적재 가능한 체적(양)에 대한 검증이 이루어져야 한다 해당 위탁 기관에 시뮬레이션 운송을 통한 운송의 적절조건 및 최악의 조건을 파악하여 이를 문서화 하고 관련자에게 교육하여야 한다 \n\n해당 시험 결과의 최종 적/부 여부는 제조처의 제조관리자가 수행한다",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "검증"
+    ]
+  },
+  {
+    "text": "of Quality Management Document No Revision No Effective Date SCQM 유지 범위, 온도 유지 시간, 최대 적재 가능한 체적(양)에 대한 검증이 이루어져야 한다 해당 위탁 기관에 시뮬레이션 운송을 통한 운송의 적절조건 및 최악의 조건을 파악하여 이를 문서화 하고 관련자에게 교육하여야 한다 해당 시험 결과의 최종 적/부 여부는 제조처의 제조관리자가 수행한다 또는 품질협정서 등에 따라 책임 범위 등은 변경될 수 있다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "검증",
+      "변경"
+    ]
+  },
+  {
+    "text": "유지 범위, 온도 유지 시간, 최대 적재 가능한 체적(양)에 대한 검증이 이루어져야 한다 해당 위탁 기관에 시뮬레이션 운송을 통한 운송의 적절조건 및 최악의 조건을 파악하여 이를 문서화 하고 관련자에게 교육하여야 한다 해당 시험 결과의 최종 적/부 여부는 제조처의 제조관리자가 수행한다 또는 품질협정서 등에 따라 책임 범위 등은 변경될 수 있다 출하 승인\n\n합한 제품만이 수혈용 및 분획용으로 출하될 수 있도록 관리하여야 한다  또한 제품 출\n\n용 유무 등을 종합적으로 확인하여야 한다 \n\n의 고유 업무로서 위임되지 않도록 지정한다",
+    "token_estimate": 27,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "검증",
+      "승인"
+    ]
+  },
+  {
+    "text": "하고 관련자에게 교육하여야 한다 해당 시험 결과의 최종 적/부 여부는 제조처의 제조관리자가 수행한다 또는 품질협정서 등에 따라 책임 범위 등은 변경될 수 있다 출하 승인 합한 제품만이 수혈용 및 분획용으로 출하될 수 있도록 관리하여야 한다 또한 제품 출 용 유무 등을 종합적으로 확인하여야 한다 의 고유 업무로서 위임되지 않도록 지정한다 적서를 포함하여 제조 지시 및 기록 상의 모든 내용이 적절하게 기록/처리되었는지를 검",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "text": "수행한다 또는 품질협정서 등에 따라 책임 범위 등은 변경될 수 있다 출하 승인 합한 제품만이 수혈용 및 분획용으로 출하될 수 있도록 관리하여야 한다 또한 제품 출 용 유무 등을 종합적으로 확인하여야 한다 의 고유 업무로서 위임되지 않도록 지정한다 적서를 포함하여 제조 지시 및 기록 상의 모든 내용이 적절하게 기록/처리되었는지를 검 토한다 \n\n한다  또한 출하 승인이 기각된 제품은 지정된 폐기 절차 등을 진행한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "승인"
+    ]
+  },
+  {
+    "text": "승인 합한 제품만이 수혈용 및 분획용으로 출하될 수 있도록 관리하여야 한다 또한 제품 출 용 유무 등을 종합적으로 확인하여야 한다 의 고유 업무로서 위임되지 않도록 지정한다 적서를 포함하여 제조 지시 및 기록 상의 모든 내용이 적절하게 기록/처리되었는지를 검 토한다 한다 또한 출하 승인이 기각된 제품은 지정된 폐기 절차 등을 진행한다 6 10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "승인",
+      "기간"
+    ]
+  },
+  {
+    "text": "출 용 유무 등을 종합적으로 확인하여야 한다 의 고유 업무로서 위임되지 않도록 지정한다 적서를 포함하여 제조 지시 및 기록 상의 모든 내용이 적절하게 기록/처리되었는지를 검 토한다 한다 또한 출하 승인이 기각된 제품은 지정된 폐기 절차 등을 진행한다 6 10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "승인",
+      "기간",
+      "지시"
+    ]
+  },
+  {
+    "text": "유무 등을 종합적으로 확인하여야 한다 의 고유 업무로서 위임되지 않도록 지정한다 적서를 포함하여 제조 지시 및 기록 상의 모든 내용이 적절하게 기록/처리되었는지를 검 토한다 한다 또한 출하 승인이 기각된 제품은 지정된 폐기 절차 등을 진행한다 6 10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "제조",
+      "GMP",
+      "승인",
+      "기간"
+    ]
+  },
+  {
+    "text": "지시 및 기록 상의 모든 내용이 적절하게 기록/처리되었는지를 검 토한다 한다 또한 출하 승인이 기각된 제품은 지정된 폐기 절차 등을 진행한다 6 10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "GMP",
+      "승인",
+      "기간",
+      "지시"
+    ]
+  },
+  {
+    "text": "기록/처리되었는지를 검 토한다 한다 또한 출하 승인이 기각된 제품은 지정된 폐기 절차 등을 진행한다 6 10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다  이러한 교육은 기본적인 GMP 교육을 포함하며,",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "GMP",
+      "승인",
+      "기간",
+      "처리"
+    ]
+  },
+  {
+    "text": "절차 등을 진행한다 6 10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "GMP",
+      "승인",
+      "기간",
+      "한다"
+    ]
+  },
+  {
+    "text": "10 5 출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "GMP",
+      "승인",
+      "기간",
+      "한다",
+      "교육을"
+    ]
+  },
+  {
+    "text": "출하 승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "GMP",
+      "승인",
+      "기간",
+      "한다",
+      "교육을"
+    ]
+  },
+  {
+    "text": "승인 이력은 기록 및 정해진 기간 동안 유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기간"
+    ]
+  },
+  {
+    "text": "유지/보관되어야 한다 작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "기준",
+      "한다"
+    ]
+  },
+  {
+    "text": "작업원 교육 6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "기준",
+      "교육을"
+    ]
+  },
+  {
+    "text": "6 11 1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "기준",
+      "교육을"
+    ]
+  },
+  {
+    "text": "1 GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "기준",
+      "교육을"
+    ]
+  },
+  {
+    "text": "GMP 업무에 종사하는 작업원은 자신이 수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "기준",
+      "판단"
+    ]
+  },
+  {
+    "text": "수행하는 업무 교육을 포함한 지속적인 교육을 실시하여 인위적인 과오가 발생하지 않도록 하여야 한다 항목을 수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "기준",
+      "판단"
+    ]
+  },
+  {
+    "text": "수립하고 이를 교육하여야 한다 이러한 교육은 기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "기본적인 GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "GMP 교육을 포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "포함하며, Page: 11 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "판단"
+    ]
+  },
+  {
+    "text": "of Quality Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "판단"
+    ]
+  },
+  {
+    "text": "Management Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "판단"
+    ]
+  },
+  {
+    "text": "Document No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "판단"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "판단"
+    ]
+  },
+  {
+    "text": "Effective Date SCQM 판단 시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "판단"
+    ]
+  },
+  {
+    "text": "시 사용할 수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "교육"
+    ]
+  },
+  {
+    "text": "수 있다 6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "교육"
+    ]
+  },
+  {
+    "text": "6 11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "교육"
+    ]
+  },
+  {
+    "text": "11 4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "교육"
+    ]
+  },
+  {
+    "text": "4 품질부서는 GMP 소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "GMP",
+      "승인",
+      "교육"
+    ]
+  },
+  {
+    "text": "소속 인원의 교육 계획을 수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "교육",
+      "품질부서"
+    ]
+  },
+  {
+    "text": "수립하여 관리하며, 특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "교육",
+      "품질부서"
+    ]
+  },
+  {
+    "text": "특히 다음의 계획을 수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "책임자",
+      "교육",
+      "품질부서"
+    ]
+  },
+  {
+    "text": "수립하여 품질부서 책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "책임자",
+      "교육",
+      "품질부서"
+    ]
+  },
+  {
+    "text": "책임자 등의 승인을 받는다 No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "책임자",
+      "교육",
+      "계획"
+    ]
+  },
+  {
+    "text": "No 교육 구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "교육",
+      "책임자",
+      "계획"
+    ]
+  },
+  {
+    "text": "구분 계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "교육",
+      "책임자",
+      "담당자"
+    ]
+  },
+  {
+    "text": "계획 수립 시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "책임자",
+      "교육",
+      "담당자"
+    ]
+  },
+  {
+    "text": "시기 담 당 계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "교육",
+      "책임자",
+      "담당자"
+    ]
+  },
+  {
+    "text": "계획 승인 신입(전입)사원 교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시)",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "승인",
+      "교육",
+      "책임자",
+      "담당자"
+    ]
+  },
+  {
+    "text": "교육 신입(전입)사원 입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "담당자",
+      "품질보증"
+    ]
+  },
+  {
+    "text": "입사 시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "책임자",
+      "담당자",
+      "교육",
+      "품질보증"
+    ]
+  },
+  {
+    "text": "시기 품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "책임자",
+      "담당자",
+      "교육",
+      "품질보증"
+    ]
+  },
+  {
+    "text": "품질보증 담당자 품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "책임자",
+      "담당자",
+      "품질보증",
+      "교육"
+    ]
+  },
+  {
+    "text": "품질부서 책임자 2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "책임자",
+      "교육",
+      "담당자",
+      "부서"
+    ]
+  },
+  {
+    "text": "2 정기 교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "담당자",
+      "부서"
+    ]
+  },
+  {
+    "text": "교육 차기 사업 년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등)",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "담당자",
+      "부서"
+    ]
+  },
+  {
+    "text": "년도 시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "책임자",
+      "교육",
+      "담당자",
+      "부서"
+    ]
+  },
+  {
+    "text": "시작 직전 월 품질보증 담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시)",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "담당자",
+      "부서"
+    ]
+  },
+  {
+    "text": "담당자 품질부서 책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "담당자",
+      "부서"
+    ]
+  },
+  {
+    "text": "책임자 3 부서(팀) 교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "부서",
+      "해당"
+    ]
+  },
+  {
+    "text": "교육 차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "해당",
+      "부서"
+    ]
+  },
+  {
+    "text": "차기 사업 년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "해당",
+      "부서"
+    ]
+  },
+  {
+    "text": "년도 시작 직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "교육",
+      "책임자",
+      "해당",
+      "부서"
+    ]
+  },
+  {
+    "text": "직전 월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "책임자",
+      "교육",
+      "해당",
+      "부서"
+    ]
+  },
+  {
+    "text": "월 해당 팀 책임자 부서 책임자 또는 팀 내 교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자 책임자 <표 1  교육 구분 및 계획 수립 정보의 예>",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "교육",
+      "책임자",
+      "해당"
+    ]
+  },
+  {
+    "text": "교육 필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자 책임자 <표 1 교육 구분 및 계획 수립 정보의 예> 불만처리",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "처리",
+      "처리",
+      "교육"
+    ]
+  },
+  {
+    "text": "필요 시 담당자 부서 책임자 5 외부위탁 교육 수시 (발생 시) 품질보증 담당자 품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자 책임자 <표 1 교육 구분 및 계획 수립 정보의 예> 불만처리 6 12 1 해당 혈액원에서 제조하여 출하한 혈액제제에 대하여 사용자의 불만이 발생되었을 경우",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "제조",
+      "처리",
+      "처리"
+    ]
+  },
+  {
+    "text": "품질부서 책임자 품질보증 담당자 해당 부서(팀) 기타 교육 (문서시행 교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자 책임자 <표 1 교육 구분 및 계획 수립 정보의 예> 불만처리 6 12 1 해당 혈액원에서 제조하여 출하한 혈액제제에 대하여 사용자의 불만이 발생되었을 경우 신속하게 원인 조사 및 대책 마련 등을 실시하여야 한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "제조",
+      "처리",
+      "처리"
+    ]
+  },
+  {
+    "text": "교육 등) 수시 (해당 교육 발생 시) 교육 지정자 기타 해당 교육에 책임자 또는 품질부서 따른 교육자 책임자 <표 1 교육 구분 및 계획 수립 정보의 예> 불만처리 6 12 1 해당 혈액원에서 제조하여 출하한 혈액제제에 대하여 사용자의 불만이 발생되었을 경우 신속하게 원인 조사 및 대책 마련 등을 실시하여야 한다 6 12 2 불만 제품이란 일반적으로 다음의 해당하는 경우를 의미한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "제조",
+      "처리",
+      "처리"
+    ]
+  },
+  {
+    "text": "해당 교육에 책임자 또는 품질부서 따른 교육자 책임자 <표 1 교육 구분 및 계획 수립 정보의 예> 불만처리 6 12 1 해당 혈액원에서 제조하여 출하한 혈액제제에 대하여 사용자의 불만이 발생되었을 경우 신속하게 원인 조사 및 대책 마련 등을 실시하여야 한다 6 12 2 불만 제품이란 일반적으로 다음의 해당하는 경우를 의미한다 6 12 2 1 제품 사용 중 발생한 제품 품질에 대한 결함\n\n6 12 2 2 표시 또는 계약한 규격과 상이\n\n6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항\n\n6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염",
+    "token_estimate": 44,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "제조",
+      "규격",
+      "처리"
+    ]
+  },
+  {
+    "text": "제품이란 일반적으로 다음의 해당하는 경우를 의미한다 6 12 2 1 제품 사용 중 발생한 제품 품질에 대한 결함 6 12 2 2 표시 또는 계약한 규격과 상이 6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "규격",
+      "12",
+      "제품",
+      "발생한"
+    ]
+  },
+  {
+    "text": "중 발생한 제품 품질에 대한 결함 6 12 2 2 표시 또는 계약한 규격과 상이 6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "규격",
+      "12",
+      "발생한",
+      "사항"
+    ]
+  },
+  {
+    "text": "대한 결함 6 12 2 2 표시 또는 계약한 규격과 상이 6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "규격",
+      "12",
+      "사항",
+      "대한"
+    ]
+  },
+  {
+    "text": "6 12 2 2 표시 또는 계약한 규격과 상이 6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "규격",
+      "12",
+      "사항",
+      "표시"
+    ]
+  },
+  {
+    "text": "12 2 2 표시 또는 계약한 규격과 상이 6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "규격",
+      "12"
+    ]
+  },
+  {
+    "text": "상이 6 12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "12",
+      "사항"
+    ]
+  },
+  {
+    "text": "12 2 3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "12",
+      "사항"
+    ]
+  },
+  {
+    "text": "3 물량(용량, 중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "12",
+      "사항"
+    ]
+  },
+  {
+    "text": "중량, 개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "12",
+      "사항"
+    ]
+  },
+  {
+    "text": "개수 등) 상이로 인한 사항 6 12 2 5 운송 중 발생한 제품의 손상 또는 변질, 오염 6 12 2 6 기타 사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성\n\n6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "처리",
+      "처리"
+    ]
+  },
+  {
+    "text": "사용자 상에서 제시하는 품질 상의 불만 사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "사항 Page: 12 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다  불만 처리 위원회의 조직도의 예는 다음과 같다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "기준",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "결과",
+      "처리",
+      "통보",
+      "처리",
+      "불만"
+    ]
+  },
+  {
+    "text": "of Quality Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "결과",
+      "처리",
+      "통보"
+    ]
+  },
+  {
+    "text": "Quality Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "결과",
+      "처리",
+      "통보"
+    ]
+  },
+  {
+    "text": "Management Document No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "No Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "No Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "Effective Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "Date SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "SCQM 6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "6 12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "12 3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "3 불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "불만 처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "처리 위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "위원회의 구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "구성 6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "6 12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "12 3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "3 1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "1 각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "각 혈액원은 불만 사항의 신속하고 정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자 <그림 2  불만처리 위원회의 조직도(예시)>",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "처리"
+    ]
+  },
+  {
+    "text": "정확한 처리를 위하여 불만처리 위원회를 구성한다 결과 및 대책 통보의 목적을 갖는다 의 관련자가 참여하도록 한다 불만 처리 위원회의 조직도의 예는 다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자 <그림 2 불만처리 위원회의 조직도(예시)> A  발생한 불만의 원인 분석 및 불만처리 의뢰 결과 분석\n\nB  불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석",
+    "token_estimate": 21,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "결과",
+      "분석"
+    ]
+  },
+  {
+    "text": "다음과 같다 위원장 제조관리자 간사 품질부서 책임자 위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자 <그림 2 불만처리 위원회의 조직도(예시)> A 발생한 불만의 원인 분석 및 불만처리 의뢰 결과 분석 B 불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석 C  재발방지 대책 및 품질 시스템 개선",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "개선"
+    ]
+  },
+  {
+    "text": "위원 위원 위원 위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자 <그림 2 불만처리 위원회의 조직도(예시)> A 발생한 불만의 원인 분석 및 불만처리 의뢰 결과 분석 B 불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석 C 재발방지 대책 및 품질 시스템 개선 D  불만품의 처리방법",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "개선"
+    ]
+  },
+  {
+    "text": "위원 위원 위원 제조부서 책임자 총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자 <그림 2 불만처리 위원회의 조직도(예시)> A 발생한 불만의 원인 분석 및 불만처리 의뢰 결과 분석 B 불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석 C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E  정기적 불만 사항 분석",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "시스템",
+      "개선"
+    ]
+  },
+  {
+    "text": "총무팀장 제제 책임자 공급 책임자 보관 책임자 품질관리/보증 책임자 <그림 2 불만처리 위원회의 조직도(예시)> A 발생한 불만의 원인 분석 및 불만처리 의뢰 결과 분석 B 불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석 C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F  기타 관련 사항",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "시스템",
+      "개선",
+      "방지"
+    ]
+  },
+  {
+    "text": "책임자 보관 책임자 품질관리/보증 책임자 <그림 2 불만처리 위원회의 조직도(예시)> A 발생한 불만의 원인 분석 및 불만처리 의뢰 결과 분석 B 불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석 C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차\n\n6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "시스템",
+      "개선"
+    ]
+  },
+  {
+    "text": "분석 B 불만처리와 관련한 불만 제기자 불만 요인 및 품질상의 문제 분석 C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "시스템"
+    ]
+  },
+  {
+    "text": "불만 요인 및 품질상의 문제 분석 C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "시스템"
+    ]
+  },
+  {
+    "text": "문제 분석 C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "시스템"
+    ]
+  },
+  {
+    "text": "C 재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "시스템"
+    ]
+  },
+  {
+    "text": "재발방지 대책 및 품질 시스템 개선 D 불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "시스템"
+    ]
+  },
+  {
+    "text": "불만품의 처리방법 E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "방법"
+    ]
+  },
+  {
+    "text": "E 정기적 불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "기준"
+    ]
+  },
+  {
+    "text": "불만 사항 분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "기준"
+    ]
+  },
+  {
+    "text": "분석 F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "기준"
+    ]
+  },
+  {
+    "text": "F 기타 관련 사항 6 12 4 불만 처리 절차 6 12 4 1 사용자(의료기관 관계자 등)로부터 최초 불만이 접수되면 품질(보증)부서 담당자는 불만 사항과 관련한 정보를 기록하고 이력 관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 12 4 2 품질보증 담당자가 발생한 불만 관련하여 기록한 정보(불만 제기자, 불만의 종류, 불만\n\n대상 제품명, 불만 대상 제품의 제조번호 및 제조연월일 등)는 불만 처리 위원회로 전달",
+    "token_estimate": 28,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "관리한다 Page: 13 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 12 4 2 품질보증 담당자가 발생한 불만 관련하여 기록한 정보(불만 제기자, 불만의 종류, 불만 대상 제품명, 불만 대상 제품의 제조번호 및 제조연월일 등)는 불만 처리 위원회로 전달 탈 사항 및 대상 제품의 시험 성적서 등을 취합하여 면밀히 검토한다",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "대상"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date SCQM 6 12 4 2 품질보증 담당자가 발생한 불만 관련하여 기록한 정보(불만 제기자, 불만의 종류, 불만 대상 제품명, 불만 대상 제품의 제조번호 및 제조연월일 등)는 불만 처리 위원회로 전달 탈 사항 및 대상 제품의 시험 성적서 등을 취합하여 면밀히 검토한다 6 12 4 3 불만 처리 위원회에서 발생한 불만에 대한 원인 분석과 대책(보상 대책 포함)이 마련되",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "제조",
+      "대상",
+      "분석"
+    ]
+  },
+  {
+    "text": "담당자가 발생한 불만 관련하여 기록한 정보(불만 제기자, 불만의 종류, 불만 대상 제품명, 불만 대상 제품의 제조번호 및 제조연월일 등)는 불만 처리 위원회로 전달 탈 사항 및 대상 제품의 시험 성적서 등을 취합하여 면밀히 검토한다 6 12 4 3 불만 처리 위원회에서 발생한 불만에 대한 원인 분석과 대책(보상 대책 포함)이 마련되 리 위원회의 결정 사항(원인, 처리 방안, 보상 대책)을 전달한다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "제조",
+      "대상",
+      "분석",
+      "검토"
+    ]
+  },
+  {
+    "text": "불만 대상 제품명, 불만 대상 제품의 제조번호 및 제조연월일 등)는 불만 처리 위원회로 전달 탈 사항 및 대상 제품의 시험 성적서 등을 취합하여 면밀히 검토한다 6 12 4 3 불만 처리 위원회에서 발생한 불만에 대한 원인 분석과 대책(보상 대책 포함)이 마련되 리 위원회의 결정 사항(원인, 처리 방안, 보상 대책)을 전달한다 6 12 4 4 최종적으로 사용자와의 불만 처리가 완료되면 품질보증 담당자는 해당 불만 이력 사항을\n\n기재하고 주기적 경향성 분석을 통해 빈번하게 발생되는 불만 사항을 도출하고 이를 불\n\n만 처리 위원회의 논제로 상정하여 재발방지 대책을 수립, 개선한다",
+    "token_estimate": 36,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "제조",
+      "개선",
+      "방지",
+      "대상"
+    ]
+  },
+  {
+    "text": "분석과 대책(보상 대책 포함)이 마련되 리 위원회의 결정 사항(원인, 처리 방안, 보상 대책)을 전달한다 6 12 4 4 최종적으로 사용자와의 불만 처리가 완료되면 품질보증 담당자는 해당 불만 이력 사항을 기재하고 주기적 경향성 분석을 통해 빈번하게 발생되는 불만 사항을 도출하고 이를 불 만 처리 위원회의 논제로 상정하여 재발방지 대책을 수립, 개선한다 6 12 4 5 불만 발생 처리 과정에서 발생되는 모든 결정사항은 문서화하여야 한다  특히 최초 불만",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "개선",
+      "방지",
+      "과정",
+      "분석"
+    ]
+  },
+  {
+    "text": "4 4 최종적으로 사용자와의 불만 처리가 완료되면 품질보증 담당자는 해당 불만 이력 사항을 기재하고 주기적 경향성 분석을 통해 빈번하게 발생되는 불만 사항을 도출하고 이를 불 만 처리 위원회의 논제로 상정하여 재발방지 대책을 수립, 개선한다 6 12 4 5 불만 발생 처리 과정에서 발생되는 모든 결정사항은 문서화하여야 한다 특히 최초 불만 수행하여야 한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "개선",
+      "방지",
+      "과정",
+      "분석"
+    ]
+  },
+  {
+    "text": "최종적으로 사용자와의 불만 처리가 완료되면 품질보증 담당자는 해당 불만 이력 사항을 기재하고 주기적 경향성 분석을 통해 빈번하게 발생되는 불만 사항을 도출하고 이를 불 만 처리 위원회의 논제로 상정하여 재발방지 대책을 수립, 개선한다 6 12 4 5 불만 발생 처리 과정에서 발생되는 모든 결정사항은 문서화하여야 한다 특히 최초 불만 수행하여야 한다 제품회수",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "개선",
+      "방지",
+      "과정",
+      "분석"
+    ]
+  },
+  {
+    "text": "사용자와의 불만 처리가 완료되면 품질보증 담당자는 해당 불만 이력 사항을 기재하고 주기적 경향성 분석을 통해 빈번하게 발생되는 불만 사항을 도출하고 이를 불 만 처리 위원회의 논제로 상정하여 재발방지 대책을 수립, 개선한다 6 12 4 5 불만 발생 처리 과정에서 발생되는 모든 결정사항은 문서화하여야 한다 특히 최초 불만 수행하여야 한다 제품회수 6 13 1 혈액제제에 대한 회수를 효과적으로 처리하기 위해 회수절차를 작성하여야 하며, 혈액제",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "절차",
+      "개선",
+      "방지",
+      "과정"
+    ]
+  },
+  {
+    "text": "분석을 통해 빈번하게 발생되는 불만 사항을 도출하고 이를 불 만 처리 위원회의 논제로 상정하여 재발방지 대책을 수립, 개선한다 6 12 4 5 불만 발생 처리 과정에서 발생되는 모든 결정사항은 문서화하여야 한다 특히 최초 불만 수행하여야 한다 제품회수 6 13 1 혈액제제에 대한 회수를 효과적으로 처리하기 위해 회수절차를 작성하여야 하며, 혈액제 제 회수 및 점검을 위한 담당자를 지정하여야 한다  이러한 상세 절차 및 책임과 권한은",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "개선",
+      "방지",
+      "과정",
+      "효과"
+    ]
+  },
+  {
+    "text": "재발방지 대책을 수립, 개선한다 6 12 4 5 불만 발생 처리 과정에서 발생되는 모든 결정사항은 문서화하여야 한다 특히 최초 불만 수행하여야 한다 제품회수 6 13 1 혈액제제에 대한 회수를 효과적으로 처리하기 위해 회수절차를 작성하여야 하며, 혈액제 제 회수 및 점검을 위한 담당자를 지정하여야 한다 이러한 상세 절차 및 책임과 권한은 6 13 2 의료기관에 공급되어 수혈자에게 건강상의 위해 우려가 있다고 판단되는 경우 즉시 혈액",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "개선",
+      "방지",
+      "과정",
+      "효과"
+    ]
+  },
+  {
+    "text": "결정사항은 문서화하여야 한다 특히 최초 불만 수행하여야 한다 제품회수 6 13 1 혈액제제에 대한 회수를 효과적으로 처리하기 위해 회수절차를 작성하여야 하며, 혈액제 제 회수 및 점검을 위한 담당자를 지정하여야 한다 이러한 상세 절차 및 책임과 권한은 6 13 2 의료기관에 공급되어 수혈자에게 건강상의 위해 우려가 있다고 판단되는 경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "조치",
+      "절차",
+      "지침"
+    ]
+  },
+  {
+    "text": "혈액제제에 대한 회수를 효과적으로 처리하기 위해 회수절차를 작성하여야 하며, 혈액제 제 회수 및 점검을 위한 담당자를 지정하여야 한다 이러한 상세 절차 및 책임과 권한은 6 13 2 의료기관에 공급되어 수혈자에게 건강상의 위해 우려가 있다고 판단되는 경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "관리",
+      "조치",
+      "절차",
+      "지침"
+    ]
+  },
+  {
+    "text": "위해 회수절차를 작성하여야 하며, 혈액제 제 회수 및 점검을 위한 담당자를 지정하여야 한다 이러한 상세 절차 및 책임과 권한은 6 13 2 의료기관에 공급되어 수혈자에게 건강상의 위해 우려가 있다고 판단되는 경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고",
+    "token_estimate": 11,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "관리",
+      "조치",
+      "절차"
+    ]
+  },
+  {
+    "text": "지정하여야 한다 이러한 상세 절차 및 책임과 권한은 6 13 2 의료기관에 공급되어 수혈자에게 건강상의 위해 우려가 있다고 판단되는 경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "관리",
+      "조치",
+      "절차"
+    ]
+  },
+  {
+    "text": "2 의료기관에 공급되어 수혈자에게 건강상의 위해 우려가 있다고 판단되는 경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "관리",
+      "조치",
+      "대상"
+    ]
+  },
+  {
+    "text": "있다고 판단되는 경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "관리",
+      "조치",
+      "대상"
+    ]
+  },
+  {
+    "text": "경우 즉시 혈액 제제 추적 및 회수 등 적절한 조치를 취하고, 『혈액관리업무 점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "점검사항 보고지침』에 따라 보건복지부장관 및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "및 혈액관리본부장에게 보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "보고하여야 한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "조치",
+      "대상"
+    ]
+  },
+  {
+    "text": "한다 식품의약품안전처의 명령이 있을 경우 『약사법』 제 39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "39 조에 근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "근거하여 대상을 선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "선정하고 수에 관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "관한 규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "규정』 등에 따라 식품의약품안전처장 등에게 보고하고 처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 하 방지 및 품질 유지를 수행한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "조치"
+    ]
+  },
+  {
+    "text": "처리하며, 관련자에게 회수가 원활하게 이루어질 수 있도록 하여야 한다 일탈 처리 이상발생 상황을 포함하여 모든 일탈 상황에 대한 조치 체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 하 방지 및 품질 유지를 수행한다 6 14 2 일탈은 제품 품질에 미치는 영향 등을 고려하여 경미한 일탈(Non-Critical Deviation) 및\n\n중대한 일탈(Critical Deviation)로 구분 가능하다",
+    "token_estimate": 19,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "체계를 확립하여 제품의 품질저 Page: 14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 하 방지 및 품질 유지를 수행한다 6 14 2 일탈은 제품 품질에 미치는 영향 등을 고려하여 경미한 일탈(Non-Critical Deviation) 및 중대한 일탈(Critical Deviation)로 구분 가능하다 여 분석하고 이를 문서화하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "방지",
+      "기준",
+      "분석"
+    ]
+  },
+  {
+    "text": "14 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 하 방지 및 품질 유지를 수행한다 6 14 2 일탈은 제품 품질에 미치는 영향 등을 고려하여 경미한 일탈(Non-Critical Deviation) 및 중대한 일탈(Critical Deviation)로 구분 가능하다 여 분석하고 이를 문서화하여야 한다 6 14 4 일탈 발생 시 최초 수행하여야 하는 부분은 초동 조치 및 근본 원인(Root Cause)을 파악",
+    "token_estimate": 17,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "Effective Date SCQM 하 방지 및 품질 유지를 수행한다 6 14 2 일탈은 제품 품질에 미치는 영향 등을 고려하여 경미한 일탈(Non-Critical Deviation) 및 중대한 일탈(Critical Deviation)로 구분 가능하다 여 분석하고 이를 문서화하여야 한다 6 14 4 일탈 발생 시 최초 수행하여야 하는 부분은 초동 조치 및 근본 원인(Root Cause)을 파악 한 초동 조치의 적절성도 판단되어야 한다 \n\n될 수 있다는 점에서 매우 중요하다  근본 원인은 일탈 발생 부서에서 자체 파악할 수\n\n있으나, 그러하지 못할 경우 또는 주관 부서에서 판단하기에 근본 원인 파악이 완료되지\n\n않았다고 판단되는 경우에는 관련자를 소집하여 이러한 근본 원인 분석 활동을 수행(전",
+    "token_estimate": 43,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "조치",
+      "방지",
+      "분석",
+      "판단"
+    ]
+  },
+  {
+    "text": "초동 조치 및 근본 원인(Root Cause)을 파악 한 초동 조치의 적절성도 판단되어야 한다 될 수 있다는 점에서 매우 중요하다 근본 원인은 일탈 발생 부서에서 자체 파악할 수 있으나, 그러하지 못할 경우 또는 주관 부서에서 판단하기에 근본 원인 파악이 완료되지 않았다고 판단되는 경우에는 관련자를 소집하여 이러한 근본 원인 분석 활동을 수행(전 면 조사활동)할 수 있다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "조치",
+      "분석",
+      "판단",
+      "근본",
+      "원인"
+    ]
+  },
+  {
+    "text": "원인(Root Cause)을 파악 한 초동 조치의 적절성도 판단되어야 한다 될 수 있다는 점에서 매우 중요하다 근본 원인은 일탈 발생 부서에서 자체 파악할 수 있으나, 그러하지 못할 경우 또는 주관 부서에서 판단하기에 근본 원인 파악이 완료되지 않았다고 판단되는 경우에는 관련자를 소집하여 이러한 근본 원인 분석 활동을 수행(전 면 조사활동)할 수 있다 재발 방지를 위한 예방조치 활동으로 구분할 수 있으며, 관련자의 논의를 거쳐 수립된\n\n이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 \n\n원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여",
+    "token_estimate": 34,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "예방",
+      "조치",
+      "방지",
+      "자료"
+    ]
+  },
+  {
+    "text": "완료되지 않았다고 판단되는 경우에는 관련자를 소집하여 이러한 근본 원인 분석 활동을 수행(전 면 조사활동)할 수 있다 재발 방지를 위한 예방조치 활동으로 구분할 수 있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "예방",
+      "조치",
+      "제조"
+    ]
+  },
+  {
+    "text": "근본 원인 분석 활동을 수행(전 면 조사활동)할 수 있다 재발 방지를 위한 예방조치 활동으로 구분할 수 있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "예방",
+      "조치",
+      "제조"
+    ]
+  },
+  {
+    "text": "수행(전 면 조사활동)할 수 있다 재발 방지를 위한 예방조치 활동으로 구분할 수 있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "예방",
+      "조치",
+      "제조"
+    ]
+  },
+  {
+    "text": "조사활동)할 수 있다 재발 방지를 위한 예방조치 활동으로 구분할 수 있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "예방",
+      "조치",
+      "제조"
+    ]
+  },
+  {
+    "text": "수 있다 재발 방지를 위한 예방조치 활동으로 구분할 수 있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "예방",
+      "조치",
+      "제조"
+    ]
+  },
+  {
+    "text": "구분할 수 있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "자료"
+    ]
+  },
+  {
+    "text": "있으며, 관련자의 논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "자료"
+    ]
+  },
+  {
+    "text": "논의를 거쳐 수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "자료"
+    ]
+  },
+  {
+    "text": "수립된 이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방지",
+      "자료"
+    ]
+  },
+  {
+    "text": "이러한 처리 계획은 품질부서 책임자 등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3  일탈 처리 절차도(예시)>",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "등에 의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "의하여 승인 후에 수행되어야 한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "한다 원인 제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "제거 및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "및 재발방지가 완전히 이루어졌는지 확인하고 이에 대한 근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방지"
+    ]
+  },
+  {
+    "text": "근거자료를 첨부하여 제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "자료"
+    ]
+  },
+  {
+    "text": "제조관리자의 최종 승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "승인"
+    ]
+  },
+  {
+    "text": "승인을 받아 일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "text": "일탈 처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "변경",
+      "기준"
+    ]
+  },
+  {
+    "text": "처리를 완료한다 Page: 15 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 시 발생할 수 있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "변경",
+      "기준"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date SCQM <그림 3 일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 시 발생할 수 있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예  Major/Minor) 변경을 승인하기 위한 절차",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "text": "일탈 처리 절차도(예시)> 변경관리 Page: 16 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 시 발생할 수 있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다  예를 들어 제조공정에 영향을 줄 수 있는",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "Standard Code of Quality Management Document No Revision No Effective Date SCQM 시 발생할 수 있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "절차",
+      "제조",
+      "공정",
+      "승인"
+    ]
+  },
+  {
+    "text": "Code of Quality Management Document No Revision No Effective Date SCQM 시 발생할 수 있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "수 있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "있는 문제점을 사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "사전에 파악하고 변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "변경 적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "적용 여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "여부를 판단하여야 한다 6 15 2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "2 변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "변경하고자 하는 사안의 중대성을 판단하여(예 Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "Major/Minor) 변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "변경을 승인하기 위한 절차 혹은 평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "평가를 차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "공정",
+      "변경"
+    ]
+  },
+  {
+    "text": "차등적으로 실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "변경",
+      "대상"
+    ]
+  },
+  {
+    "text": "실시할 필요가 있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "변경",
+      "대상"
+    ]
+  },
+  {
+    "text": "있다 예를 들어 제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "변경",
+      "대상"
+    ]
+  },
+  {
+    "text": "제조공정에 영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "변경",
+      "대상"
+    ]
+  },
+  {
+    "text": "영향을 줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "변경",
+      "대상",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "줄 수 있는 다 6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "변경",
+      "조건",
+      "대상",
+      "기준"
+    ]
+  },
+  {
+    "text": "6 15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "변경",
+      "조건",
+      "대상",
+      "기준"
+    ]
+  },
+  {
+    "text": "15 3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "변경",
+      "조건",
+      "대상",
+      "기준"
+    ]
+  },
+  {
+    "text": "3 변경관리 대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "변경",
+      "조건",
+      "대상",
+      "기준"
+    ]
+  },
+  {
+    "text": "대상의 예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "대상",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "text": "예와 그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "그 중요도는 다음과 같이 구분할 수 있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "있다 구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "구분 세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "세부 사항 중요도 구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "구분 표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "표 규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "변경",
+      "조건",
+      "기준",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "text": "규정 기설정된 기준 및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "변경",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "및 규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "변경",
+      "조건",
+      "규정"
+    ]
+  },
+  {
+    "text": "규정의 변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "변경",
+      "조건",
+      "규정"
+    ]
+  },
+  {
+    "text": "변경 Major 기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "변경",
+      "조건"
+    ]
+  },
+  {
+    "text": "기기 및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "변경",
+      "조건"
+    ]
+  },
+  {
+    "text": "및 설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "변경",
+      "조건"
+    ]
+  },
+  {
+    "text": "설비의 구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "구조 변경 Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "Major 기기 및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "및 설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "설비의 중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "중요부품 교체 Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "Major 변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "변 기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "기기/설비의 변경 기기/설비 자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "자체의 교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "교체 Major 경 기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "기기/설비의 설정된 가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "가동조건의 변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "변경 Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템",
+      "방법"
+    ]
+  },
+  {
+    "text": "Minor 관 기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "기기/설비의 이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "이동 Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Minor 리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "리 원자재의 성분, 함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "함량, 구조 등의 변경 Major 원자재 원자재의 공급선 변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2  변경관리의 대상 별 중요도 구분의 예>",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "변경 Minor 대 원자재의 제조업체 변경 Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조업체",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "Major 상 제조공정의 변경 Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Major 별 공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "공정/시험방법 공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "공정검사의 변경 제조조건의 변경 Minor Minor 시험방법의 변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "변경 Major 의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "의 제조구역의 설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "설계(Lay-Out)의 변경 Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Major 지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "지원환경 및 시스템 제조지역의 변경 Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 15 5 변경관리 절차",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Major 예 관리항목의 변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 15 5 변경관리 절차 않는 것이 바람직하다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "변경",
+      "대상"
+    ]
+  },
+  {
+    "text": "변경 Minor 시 기타사항 사안에 맞게 구분 <표 2 변경관리의 대상 별 중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 15 5 변경관리 절차 않는 것이 바람직하다 영향(주변 환경, 기기/설비, 공정, 안전 등의 예상되는 모든 항목)을 확인하는 과정을 거",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "공정",
+      "과정"
+    ]
+  },
+  {
+    "text": "중요도 구분의 예> 단되는 경우에는 변경관리 절차를 진행하여야 한다 Page: 17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 15 5 변경관리 절차 않는 것이 바람직하다 영향(주변 환경, 기기/설비, 공정, 안전 등의 예상되는 모든 항목)을 확인하는 과정을 거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "17 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 15 5 변경관리 절차 않는 것이 바람직하다 영향(주변 환경, 기기/설비, 공정, 안전 등의 예상되는 모든 항목)을 확인하는 과정을 거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다 상을 위한 행위를 실시하여야 한다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 15 5 변경관리 절차 않는 것이 바람직하다 영향(주변 환경, 기기/설비, 공정, 안전 등의 예상되는 모든 항목)을 확인하는 과정을 거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다 상을 위한 행위를 실시하여야 한다 6 15 5 4 변경 사항의 적절성 또는 유효성 평가를 위하여 품질 위험 관리(Quality Management",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "6 15 5 변경관리 절차 않는 것이 바람직하다 영향(주변 환경, 기기/설비, 공정, 안전 등의 예상되는 모든 항목)을 확인하는 과정을 거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다 상을 위한 행위를 실시하여야 한다 6 15 5 4 변경 사항의 적절성 또는 유효성 평가를 위하여 품질 위험 관리(Quality Management Tool)을 이용할 수 있으며, 적절성 또는 유효성의 평가를 수행한 이력 및 판단에 대한 근",
+    "token_estimate": 14,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "예상되는 모든 항목)을 확인하는 과정을 거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다 상을 위한 행위를 실시하여야 한다 6 15 5 4 변경 사항의 적절성 또는 유효성 평가를 위하여 품질 위험 관리(Quality Management Tool)을 이용할 수 있으며, 적절성 또는 유효성의 평가를 수행한 이력 및 판단에 대한 근 거는 문서화 시켜야 한다",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "위험"
+    ]
+  },
+  {
+    "text": "과정을 거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다 상을 위한 행위를 실시하여야 한다 6 15 5 4 변경 사항의 적절성 또는 유효성 평가를 위하여 품질 위험 관리(Quality Management Tool)을 이용할 수 있으며, 적절성 또는 유효성의 평가를 수행한 이력 및 판단에 대한 근 거는 문서화 시켜야 한다 자율점검",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "위험"
+    ]
+  },
+  {
+    "text": "거 쳐 관련자의 검토 및 최종 제조관리자의 승인된 사항만을 적용하여야 한다 상을 위한 행위를 실시하여야 한다 6 15 5 4 변경 사항의 적절성 또는 유효성 평가를 위하여 품질 위험 관리(Quality Management Tool)을 이용할 수 있으며, 적절성 또는 유효성의 평가를 수행한 이력 및 판단에 대한 근 거는 문서화 시켜야 한다 자율점검 6 16 1 혈액제제 제조공정을 포함하여 제품의 품질에 관여되는 모든 시스템이 효과적으로 잘",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "행위를 실시하여야 한다 6 15 5 4 변경 사항의 적절성 또는 유효성 평가를 위하여 품질 위험 관리(Quality Management Tool)을 이용할 수 있으며, 적절성 또는 유효성의 평가를 수행한 이력 및 판단에 대한 근 거는 문서화 시켜야 한다 자율점검 6 16 1 혈액제제 제조공정을 포함하여 제품의 품질에 관여되는 모든 시스템이 효과적으로 잘 추진 및 발전을 위한 자율점검을 실시한다 \n\n풍부한 자)가 자율점검 실시자로서 업무를 수행하여야 한다  이러한 자율점검 실시자는",
+    "token_estimate": 16,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "관리(Quality Management Tool)을 이용할 수 있으며, 적절성 또는 유효성의 평가를 수행한 이력 및 판단에 대한 근 거는 문서화 시켜야 한다 자율점검 6 16 1 혈액제제 제조공정을 포함하여 제품의 품질에 관여되는 모든 시스템이 효과적으로 잘 추진 및 발전을 위한 자율점검을 실시한다 풍부한 자)가 자율점검 실시자로서 업무를 수행하여야 한다 이러한 자율점검 실시자는 반드시 내부 인원일 필요는 없으며, 외부 인원에 의하여 실시 가능하다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "수행한 이력 및 판단에 대한 근 거는 문서화 시켜야 한다 자율점검 6 16 1 혈액제제 제조공정을 포함하여 제품의 품질에 관여되는 모든 시스템이 효과적으로 잘 추진 및 발전을 위한 자율점검을 실시한다 풍부한 자)가 자율점검 실시자로서 업무를 수행하여야 한다 이러한 자율점검 실시자는 반드시 내부 인원일 필요는 없으며, 외부 인원에 의하여 실시 가능하다 6 16 3 자율점검 절차",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "절차",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "근 거는 문서화 시켜야 한다 자율점검 6 16 1 혈액제제 제조공정을 포함하여 제품의 품질에 관여되는 모든 시스템이 효과적으로 잘 추진 및 발전을 위한 자율점검을 실시한다 풍부한 자)가 자율점검 실시자로서 업무를 수행하여야 한다 이러한 자율점검 실시자는 반드시 내부 인원일 필요는 없으며, 외부 인원에 의하여 실시 가능하다 6 16 3 자율점검 절차 6 16 3 2 자율점검 계획 시에는 GMP 의 전반적인 사항이 확인 가능하도록 일정과 범위를",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "절차",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "text": "모든 시스템이 효과적으로 잘 추진 및 발전을 위한 자율점검을 실시한다 풍부한 자)가 자율점검 실시자로서 업무를 수행하여야 한다 이러한 자율점검 실시자는 반드시 내부 인원일 필요는 없으며, 외부 인원에 의하여 실시 가능하다 6 16 3 자율점검 절차 6 16 3 2 자율점검 계획 시에는 GMP 의 전반적인 사항이 확인 가능하도록 일정과 범위를 선정하되, 특히 해당 혈액원에서 요구되는 필요 부분(예를 들어 지속적으로 발생되는",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "절차",
+      "GMP",
+      "시스템",
+      "범위",
+      "효과"
+    ]
+  },
+  {
+    "text": "풍부한 자)가 자율점검 실시자로서 업무를 수행하여야 한다 이러한 자율점검 실시자는 반드시 내부 인원일 필요는 없으며, 외부 인원에 의하여 실시 가능하다 6 16 3 자율점검 절차 6 16 3 2 자율점검 계획 시에는 GMP 의 전반적인 사항이 확인 가능하도록 일정과 범위를 선정하되, 특히 해당 혈액원에서 요구되는 필요 부분(예를 들어 지속적으로 발생되는 일탈사항 또는 지난 품질 규격 이탈 사항, 제품품질평가 단계에서 확인되는 취약 공정",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "절차",
+      "품질평가",
+      "공정"
+    ]
+  },
+  {
+    "text": "인원일 필요는 없으며, 외부 인원에 의하여 실시 가능하다 6 16 3 자율점검 절차 6 16 3 2 자율점검 계획 시에는 GMP 의 전반적인 사항이 확인 가능하도록 일정과 범위를 선정하되, 특히 해당 혈액원에서 요구되는 필요 부분(예를 들어 지속적으로 발생되는 일탈사항 또는 지난 품질 규격 이탈 사항, 제품품질평가 단계에서 확인되는 취약 공정 또는 관리 부분 등)에 대한 점검이 이루어질 수 있도록 한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "품질평가"
+    ]
+  },
+  {
+    "text": "3 자율점검 절차 6 16 3 2 자율점검 계획 시에는 GMP 의 전반적인 사항이 확인 가능하도록 일정과 범위를 선정하되, 특히 해당 혈액원에서 요구되는 필요 부분(예를 들어 지속적으로 발생되는 일탈사항 또는 지난 품질 규격 이탈 사항, 제품품질평가 단계에서 확인되는 취약 공정 또는 관리 부분 등)에 대한 점검이 이루어질 수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "품질평가"
+    ]
+  },
+  {
+    "text": "가능하도록 일정과 범위를 선정하되, 특히 해당 혈액원에서 요구되는 필요 부분(예를 들어 지속적으로 발생되는 일탈사항 또는 지난 품질 규격 이탈 사항, 제품품질평가 단계에서 확인되는 취약 공정 또는 관리 부분 등)에 대한 점검이 이루어질 수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "품질평가",
+      "공정"
+    ]
+  },
+  {
+    "text": "들어 지속적으로 발생되는 일탈사항 또는 지난 품질 규격 이탈 사항, 제품품질평가 단계에서 확인되는 취약 공정 또는 관리 부분 등)에 대한 점검이 이루어질 수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "품질평가",
+      "공정"
+    ]
+  },
+  {
+    "text": "지속적으로 발생되는 일탈사항 또는 지난 품질 규격 이탈 사항, 제품품질평가 단계에서 확인되는 취약 공정 또는 관리 부분 등)에 대한 점검이 이루어질 수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "품질평가",
+      "공정"
+    ]
+  },
+  {
+    "text": "관리 부분 등)에 대한 점검이 이루어질 수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "개선",
+      "방지",
+      "검증",
+      "자율점검"
+    ]
+  },
+  {
+    "text": "점검이 이루어질 수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "개선",
+      "방지",
+      "검증",
+      "자율점검",
+      "16"
+    ]
+  },
+  {
+    "text": "수 있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "개선",
+      "방지",
+      "검증",
+      "자율점검",
+      "16"
+    ]
+  },
+  {
+    "text": "있도록 한다 6 16 3 3 자율점검 계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "검증"
+    ]
+  },
+  {
+    "text": "계획 시에는 자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "검증"
+    ]
+  },
+  {
+    "text": "자격 검증 완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "검증"
+    ]
+  },
+  {
+    "text": "완료된 자율점검 실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "실시자를 함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "함께 지정하며, 내부 인원으로 실사자를 지정한 경우 가급적 피감사부서 외 소속의 실사자를 포함하여 수행한다 6 16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 16 3 5 자율점검 시 발견된 사항에 대하여 기한을 두고 처리하며, 자율점검 발견사항의 처리",
+    "token_estimate": 15,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "16 3 4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 16 3 5 자율점검 시 발견된 사항에 대하여 기한을 두고 처리하며, 자율점검 발견사항의 처리 통해 완료한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "개선",
+      "방지",
+      "기준"
+    ]
+  },
+  {
+    "text": "4 자율점검 수행 시에는 발견사항 및 지적사항에 대한 개선 대책과 재발방지 대책을 Page: 18 of 19 Standard Code Title 품질관리 기준서 Standard Code of Quality Management Document No Revision No Effective Date SCQM 6 16 3 5 자율점검 시 발견된 사항에 대하여 기한을 두고 처리하며, 자율점검 발견사항의 처리 통해 완료한다 협력업체 평가 관련 사항\n\n6 17 1 혈액제제를 제조, 보관, 운송함에 있어 필요한 원자재 및 서비스를 제공하는 협력업체를\n\n선정, 평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의",
+    "token_estimate": 30,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "개선"
+    ]
+  },
+  {
+    "text": "Effective Date SCQM 6 16 3 5 자율점검 시 발견된 사항에 대하여 기한을 두고 처리하며, 자율점검 발견사항의 처리 통해 완료한다 협력업체 평가 관련 사항 6 17 1 혈액제제를 제조, 보관, 운송함에 있어 필요한 원자재 및 서비스를 제공하는 협력업체를 선정, 평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "승인"
+    ]
+  },
+  {
+    "text": "5 자율점검 시 발견된 사항에 대하여 기한을 두고 처리하며, 자율점검 발견사항의 처리 통해 완료한다 협력업체 평가 관련 사항 6 17 1 혈액제제를 제조, 보관, 운송함에 있어 필요한 원자재 및 서비스를 제공하는 협력업체를 선정, 평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "승인"
+    ]
+  },
+  {
+    "text": "통해 완료한다 협력업체 평가 관련 사항 6 17 1 혈액제제를 제조, 보관, 운송함에 있어 필요한 원자재 및 서비스를 제공하는 협력업체를 선정, 평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "제조, 보관, 운송함에 있어 필요한 원자재 및 서비스를 제공하는 협력업체를 선정, 평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "text": "제공하는 협력업체를 선정, 평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form 해당 사항 없음",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "승인"
+    ]
+  },
+  {
+    "text": "평가 및 승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form 해당 사항 없음 참고문헌 Reference",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "승인"
+    ]
+  },
+  {
+    "text": "승인하고 지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form 해당 사항 없음 참고문헌 Reference 혈액관리법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "절차",
+      "승인"
+    ]
+  },
+  {
+    "text": "지속적인 협력업체 관리를 통하여 공급되는 원자재 및 서비스의 품질 보증 및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form 해당 사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령\n\n혈액관리업무 점검사항 보고지침_질병관리본부\n\n의약품 등의 안전에 관한 규칙_총리령",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "평가",
+      "의약품",
+      "품질",
+      "관리"
+    ]
+  },
+  {
+    "text": "및 품질향상을 도모하여야 한다 점검 관리 업체 등이 포함되며, 각 협력업체가 제공하는 원자재 및 서비스의 종류와 중요도에 따라 이를 적절하게 평가할 수 있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form 해당 사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 혈액관리업무 점검사항 보고지침_질병관리본부 의약품 등의 안전에 관한 규칙_총리령 8 4 1 별표 1  의약품 제조 및 품질관리 기준\n\n8 4 2 별표 3 의 4  혈액제제 제조 및 품질관리 기준",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "평가",
+      "의약품",
+      "품질",
+      "관리"
+    ]
+  },
+  {
+    "text": "있는 절차가 마련되어야 한다 관련 문서 및 양식 Related document & form 해당 사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 혈액관리업무 점검사항 보고지침_질병관리본부 의약품 등의 안전에 관한 규칙_총리령 8 4 1 별표 1 의약품 제조 및 품질관리 기준 8 4 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 8 4 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "절차"
+    ]
+  },
+  {
+    "text": "document & form 해당 사항 없음 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 혈액관리업무 점검사항 보고지침_질병관리본부 의약품 등의 안전에 관한 규칙_총리령 8 4 1 별표 1 의약품 제조 및 품질관리 기준 8 4 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 8 4 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처 Page: 19 of 19",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "보고",
+      "의약품",
+      "품질",
+      "관리",
+      "제조"
+    ]
+  }
+]

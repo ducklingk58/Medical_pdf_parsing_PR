@@ -1,0 +1,4253 @@
+[
+  {
+    "id": "5872ed96-64cd-4017-844d-9a08cb462010",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 1,
+      "content_length": 28,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "88e066d7-d057-44bc-a646-d981bafce035",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 2,
+      "content_length": 46,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1b19f053-dec4-45d1-89a2-c607c9ddd2bb",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 3,
+      "content_length": 102,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b78970ba-0396-4412-ae6a-4c423ac18a36",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 4,
+      "content_length": 105,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5b80da65-ceb6-4310-bfc9-f528ef19b1e1",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 5,
+      "content_length": 113,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c192f55a-214e-4afa-ad68-6ec7553a0e9e",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 6,
+      "content_length": 117,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3bccb8b1-8840-470f-87f7-25bdf285cfc2",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 7,
+      "content_length": 132,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4d0d3b3a-fa3a-4637-aa49-61c97068054b",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 8,
+      "content_length": 136,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e0e985a3-70eb-4ec6-a8ef-8123ae6bb331",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 9,
+      "content_length": 151,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "afada78a-f9a6-417e-94a1-e318de460c86",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 10,
+      "content_length": 166,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a04112fe-b541-478e-bedf-c4910b92b376",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 11,
+      "content_length": 170,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "51a6ffd4-c07d-4d06-8871-032e7d4afc08",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 12,
+      "content_length": 182,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2c794658-7999-43d6-b053-889011071d18",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 13,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6f9dc805-74aa-44c9-8546-15aafecf26f0",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 14,
+      "content_length": 190,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a2b010c9-8998-49c4-b459-ffd897c94497",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 15,
+      "content_length": 193,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c8b63c37-e1a4-4863-a82c-1f1d58236f3b",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 16,
+      "content_length": 201,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a28788f9-3a07-432b-899c-7234e9d4eff9",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 17,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "feeae946-79ff-4d92-9164-583df6c3485b",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 18,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3e9f6071-c0d1-4088-8f38-3e9b5bd9798f",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 19,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e681e4fe-1eec-4f73-8bed-4bdd6929195b",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 20,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "32da9eb9-b317-411d-a4df-0cb43ea0dd81",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 21,
+      "content_length": 248,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e1e2ca79-0105-4d99-ba6a-cf215e1e0b97",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 22,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a468d9da-9402-4e26-8e55-8023189458a6",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-15 의약품동등성시험 검토서 작성기준 Guidance on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 23,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8dad9de9-4d38-41ea-99a7-da4c1f167219",
+    "text": "on Pharmaceutical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 24,
+      "content_length": 263,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "487e5a04-4233-4701-8a92-f441e14ef97a",
+    "text": "Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 25,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "019d47ea-4912-45f7-87da-71b350ad2242",
+    "text": "및 이름 작성자 약효동등성과 주무관 윤은주 검토자 약효동등성과 연구관 서현옥 약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 26,
+      "content_length": 263,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9e2c0bb5-acc6-4a38-a90a-583718987d58",
+    "text": "약효동등성과 과 장 김소희 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 27,
+      "content_length": 290,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "68330546-01a2-4e31-9f4b-42107a6e5817",
+    "text": "제ᆞ개정 점검표 의약품동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 28,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6972f7b9-27fd-4199-b77c-ffff6f7093de",
+    "text": "검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 29,
+      "content_length": 250,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7c2d5018-beac-4bf5-8e6b-4690a06d55d2",
+    "text": "체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 30,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c03960fa-756c-4493-a867-35d7e6d45675",
+    "text": "이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 \n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 \n\n□ 일회성 지시ㆍ명령에 해당하는 내용입니까 \n\n□ 외국 규정을 단순 번역하거나 설명하는 내용입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 31,
+      "content_length": 320,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3023051e-56bc-4cb3-9907-d428220ff1e1",
+    "text": "우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 32,
+      "content_length": 256,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a0854663-d1bc-47a1-8531-130a6b39a4df",
+    "text": "경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 33,
+      "content_length": 219,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8fb04947-1bdd-44a5-9161-2d96b0010fbd",
+    "text": "사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 34,
+      "content_length": 298,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "68f1da35-9546-4431-be08-7eabb860a7f5",
+    "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 35,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9b37ad05-6730-40cf-bd1d-db6408e5cb85",
+    "text": "일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까  (공무원용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 36,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f2471844-91d5-461e-a1f3-4e51bd9d6bf7",
+    "text": "외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 37,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "df21bead-d7b9-4b24-b7a0-7b9a85b04477",
+    "text": "설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 38,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6cdf9c46-f87a-4615-b615-a945d8817123",
+    "text": "직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 39,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0581f4bf-9b6c-4ad1-8755-f1877d592984",
+    "text": "쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 40,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a8963896-265a-4d21-afff-efe949e8b0d2",
+    "text": "상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 41,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a773e049-7a1f-4b7a-bebc-366d460db154",
+    "text": "하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 42,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3a3d588d-4ab5-4466-b14c-8beaa4102785",
+    "text": "적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 43,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f1240557-1f50-4982-b079-3cc0817897b1",
+    "text": "통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 44,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6a5dffd4-9b6d-4155-a50a-498223962c08",
+    "text": "행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 45,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cd7e77ba-3e76-402b-b8b0-38d238274ff0",
+    "text": "절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 윤 은 주",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 46,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9bd7ac4d-046e-47bb-8a4c-2f2693c02d56",
+    "text": "(공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 윤 은 주 김 소 희",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 47,
+      "content_length": 209,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3e7edca4-44b6-408d-9ed6-9e4aaf542825",
+    "text": "□ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 윤 은 주 김 소 희 이 지침서는 의약품동등성시험 검토서 작성기준의 세부 지침을 정한 것으\n\n로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 \n\n본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 48,
+      "content_length": 312,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "af3cff7f-3207-4f49-93f6-412224beb62c",
+    "text": "일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 윤 은 주 김 소 희 이 지침서는 의약품동등성시험 검토서 작성기준의 세부 지침을 정한 것으 로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다  또한, 본",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 49,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6570e944-2b08-4b46-a885-78394ee67c3c",
+    "text": "상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 윤 은 주 김 소 희 이 지침서는 의약품동등성시험 검토서 작성기준의 세부 지침을 정한 것으 로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 50,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6f33c54a-5e26-4c46-8606-8e28c4c6cd15",
+    "text": "소 희 이 지침서는 의약품동등성시험 검토서 작성기준의 세부 지침을 정한 것으 로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 51,
+      "content_length": 248,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "750b5c88-50f5-455f-9ecc-1e3ba4a5b710",
+    "text": "로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 52,
+      "content_length": 254,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9e17d6b2-47e4-4a12-a047-24bccd7787e3",
+    "text": "지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 53,
+      "content_length": 239,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "25f14ecd-8e3c-4829-b908-fefc97f5f0aa",
+    "text": "가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 54,
+      "content_length": 226,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "06e3ad53-38eb-4487-a87d-e0f91e939de7",
+    "text": "것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 55,
+      "content_length": 225,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ab45de61-41b8-4a72-a4f6-c4fffa8dd54a",
+    "text": "아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2023년 5월 22일 현재 유효한 법규를 토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험\n\n및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 56,
+      "content_length": 314,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12b88592-095f-432b-a0ae-7add25a5af39",
+    "text": "토대로 작성되었으므로 이후 최 신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 57,
+      "content_length": 242,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b197d767-d317-4b30-9ea5-1d75965d9b0d",
+    "text": "신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 58,
+      "content_length": 230,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "18541287-afab-4178-a3ab-339ba9610b52",
+    "text": "개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 59,
+      "content_length": 231,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "662e81ed-a6aa-4b7c-87fc-9994ba5ad226",
+    "text": "법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 60,
+      "content_length": 232,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c72994a8-2e7b-4828-bd26-79fb8bb5e561",
+    "text": "내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 61,
+      "content_length": 246,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3030ee27-ef02-4185-852e-ebf9b033ff79",
+    "text": "적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 62,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "932caf5d-71e5-4222-b089-5ab38e659625",
+    "text": "수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화:",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 63,
+      "content_length": 274,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "27e05638-6a7b-44c1-bd05-c39073721931",
+    "text": "있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 64,
+      "content_length": 280,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d8bc54d5-ac03-47b3-9b8d-a010a41101a8",
+    "text": "약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 65,
+      "content_length": 252,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cf3ec16e-fc53-4909-9fde-65c1d9d31dfa",
+    "text": "문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해\n\n시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 66,
+      "content_length": 340,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1adf70cb-93ad-4e9e-aab0-185750b3d50a",
+    "text": "적 정을 기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 67,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5213a2c5-bf4f-40cb-9b7c-21b955e6fe3b",
+    "text": "기하게 하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1  의약품동등성시험 검토서 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 68,
+      "content_length": 254,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e3bdcfd5-c3df-43dc-adf6-bb15ab01adf0",
+    "text": "유효일 이 편람은 발간일로부터 유효함 연락처 이 편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 69,
+      "content_length": 256,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "02b24a7b-50a9-4d3b-a896-01ad52f5dbf8",
+    "text": "편람에 대하여 문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 70,
+      "content_length": 233,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d745574c-04cd-4a08-a826-df3409a6eebf",
+    "text": "문의사항 및 추가의견이 있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 71,
+      "content_length": 233,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "df54fb88-56d1-4b5d-95ac-164b1feeee95",
+    "text": "있는 경우 약효동등성과(전화: 0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 72,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0fe11d37-23e2-4437-8941-f2b840e90ace",
+    "text": "0433155, 이메일: yunej0614@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항>\n\n[붙임2-1] 비교용출시험보고서 평가서(일반",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 73,
+      "content_length": 303,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2d550cde-e525-4d4f-800a-8d0b5a37fa10",
+    "text": "허가(신고) 또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 74,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "11d7e0e1-8f57-4ef0-9090-550d24e96d40",
+    "text": "또는 변경허가(신고) 신청 시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 75,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "68961740-346b-4c02-93c5-bd5a87d3c196",
+    "text": "시의 비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 76,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0763fafa-382c-4fa6-9d7e-cc5024169896",
+    "text": "비교용출시험 및 비교붕해 시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 77,
+      "content_length": 280,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f7a47b4c-7848-4e7c-ae1c-122941e31f19",
+    "text": "시험의 의약품동등성 검토를 위하여 심사자로 하여금 검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 78,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "57d76f88-810e-4674-9bde-cb2ba110986b",
+    "text": "검토서 작성에 적정을 기하게 하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 79,
+      "content_length": 298,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "736079f4-e990-482c-9d8d-1e838a8b7f18",
+    "text": "하 기 위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 80,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0f7ffdee-3844-41a1-8a98-6d68f69f379a",
+    "text": "위함이다 3 1 의약품동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 81,
+      "content_length": 312,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c9c5c307-9e92-4f5c-ade9-4b6ed917fff6",
+    "text": "양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 82,
+      "content_length": 317,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "85e49f53-6ab6-4f16-bd8a-1a76c4bab132",
+    "text": "다음과 같다 구 성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 83,
+      "content_length": 304,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3287a32b-0999-4a5b-bd15-4246bc8648e2",
+    "text": "성 내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 84,
+      "content_length": 299,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "982292aa-5aba-441b-89aa-3b88e55dfaf0",
+    "text": "내용 및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 85,
+      "content_length": 301,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "16698b94-589f-41f1-a268-bce26357b516",
+    "text": "및 설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관 과장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 86,
+      "content_length": 301,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f323764d-ea61-4ca5-a9a1-c72c61c2a85e",
+    "text": "설명 의약품동등성시험 검토서 (표지) [붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관 과장 ① 신청자 ② 접수번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 87,
+      "content_length": 312,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2a6f1ac8-ff9b-456f-8978-0043dd73aa66",
+    "text": "[붙임1-1] 검토의견[회사-제품명] <보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관 과장 ① 신청자 ② 접수번호 ③ 문서번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 88,
+      "content_length": 298,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f12f7851-2b3d-4f22-9552-32f6e7471b83",
+    "text": "<보완사항> [붙임1-2] 검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관 과장 ① 신청자 ② 접수번호 ③ 문서번호 ④ 제품명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 89,
+      "content_length": 283,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b46cba8e-810a-481b-a85f-680a523156a2",
+    "text": "검토의견[회사-제품명] <시정사항> [붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관 과장 ① 신청자 ② 접수번호 ③ 문서번호 ④ 제품명 ⑤ 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 90,
+      "content_length": 273,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6800e16c-f40a-4d2b-aac2-f35d947a4bbf",
+    "text": "[붙임2-1] 비교용출시험보고서 평가서(일반 제제) [붙임2-2] 비교용출시험보고서 평가서(장용 성·서방성제제) [붙임2-3] 비교붕해시험보고서 평가서 [붙임3] 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임] 의약품동등성시험 검토서 양식 의약품동등성시험 검토서 □ 자료제출의약품 / ■ 제네릭의약품 (□허가, ■허가 후 변경, □재평가, □기타) 년 월 일 담당자 연구관 과장 ① 신청자 ② 접수번호 ③ 문서번호 ④ 제품명 ⑤ 구분 회사명을 기재하고 개인인 경우 성명을 기재한다 접수번호와 접수일자를 기재한다  지방청,타과에서 의뢰된 경우 관련공문번호,일자를 기재한다 과 처리기한과 총 처리기한을 기재하고 보완이 나간 경우, 보완 요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 “품목허가(신고)”또는 “허가(신고)후 변경”을 기재하고 허가(신고) 후변경인 경우 “원료약품및분량 변경”,“제조방법 변경”, “제조소 변경”중 하나를 기재한다 “제조”또는 “수입”, “일반”또는 “전문”,제형,분류번호 기재한 다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 91,
+      "content_length": 524,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4f527c59-b8c4-402d-84ef-9cf04c87a02f",
+    "text": "⑤ 구분 회사명을 기재하고 개인인 경우 성명을 기재한다 접수번호와 접수일자를 기재한다 지방청,타과에서 의뢰된 경우 관련공문번호,일자를 기재한다 과 처리기한과 총 처리기한을 기재하고 보완이 나간 경우, 보완 요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 “품목허가(신고)”또는 “허가(신고)후 변경”을 기재하고 허가(신고) 후변경인 경우 “원료약품및분량 변경”,“제조방법 변경”, “제조소 변경”중 하나를 기재한다 “제조”또는 “수입”, “일반”또는 “전문”,제형,분류번호 기재한 다 ⑥ 원료약품 분량 단위제형중 주성분명,규격,분량을 기재한다 ⑦ 효능․효과 ⑧ 용법․용량 ⑨ 저장방법 및 사용(유효)기간\n\n신청사항의 효능․효과를 기재한다 신청사항의 용법․용량을 기재한다\n\n신청사항의 저장방법 및 사용(유효)기간을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 92,
+      "content_length": 407,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a865566a-ca6c-46fe-8770-8a07bd0f46ce",
+    "text": "요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 “품목허가(신고)”또는 “허가(신고)후 변경”을 기재하고 허가(신고) 후변경인 경우 “원료약품및분량 변경”,“제조방법 변경”, “제조소 변경”중 하나를 기재한다 “제조”또는 “수입”, “일반”또는 “전문”,제형,분류번호 기재한 다 ⑥ 원료약품 분량 단위제형중 주성분명,규격,분량을 기재한다 ⑦ 효능․효과 ⑧ 용법․용량 ⑨ 저장방법 및 사용(유효)기간 신청사항의 효능․효과를 기재한다 신청사항의 용법․용량을 기재한다 신청사항의 저장방법 및 사용(유효)기간을 기재한다 ⑩ 관련조항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 93,
+      "content_length": 297,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "039cc2cf-7aa5-463a-8c39-ecc5e74f618f",
+    "text": "기재한다 신청제품명을 기재한다 “품목허가(신고)”또는 “허가(신고)후 변경”을 기재하고 허가(신고) 후변경인 경우 “원료약품및분량 변경”,“제조방법 변경”, “제조소 변경”중 하나를 기재한다 “제조”또는 “수입”, “일반”또는 “전문”,제형,분류번호 기재한 다 ⑥ 원료약품 분량 단위제형중 주성분명,규격,분량을 기재한다 ⑦ 효능․효과 ⑧ 용법․용량 ⑨ 저장방법 및 사용(유효)기간 신청사항의 효능․효과를 기재한다 신청사항의 용법․용량을 기재한다 신청사항의 저장방법 및 사용(유효)기간을 기재한다 ⑩ 관련조항 ‧의약품등의 안전에 관한 규칙(총리령) ‧의약품의 품목허가·신고·심사규정(식약처고시) ‧의약품동등성시험기준(식약처고시) *규정은 현 고시번호와 고시일자를 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 94,
+      "content_length": 374,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9b9fee5a-8ef8-4ef0-802f-278cb81ebe77",
+    "text": "변경”, “제조소 변경”중 하나를 기재한다 “제조”또는 “수입”, “일반”또는 “전문”,제형,분류번호 기재한 다 ⑥ 원료약품 분량 단위제형중 주성분명,규격,분량을 기재한다 ⑦ 효능․효과 ⑧ 용법․용량 ⑨ 저장방법 및 사용(유효)기간 신청사항의 효능․효과를 기재한다 신청사항의 용법․용량을 기재한다 신청사항의 저장방법 및 사용(유효)기간을 기재한다 ⑩ 관련조항 ‧의약품등의 안전에 관한 규칙(총리령) ‧의약품의 품목허가·신고·심사규정(식약처고시) ‧의약품동등성시험기준(식약처고시) *규정은 현 고시번호와 고시일자를 기재한다 ⑪ 제출자료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 95,
+      "content_length": 298,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cceb410c-adbe-420a-a6ed-cf85f9f53fc5",
+    "text": "변경”중 하나를 기재한다 “제조”또는 “수입”, “일반”또는 “전문”,제형,분류번호 기재한 다 ⑥ 원료약품 분량 단위제형중 주성분명,규격,분량을 기재한다 ⑦ 효능․효과 ⑧ 용법․용량 ⑨ 저장방법 및 사용(유효)기간 신청사항의 효능․효과를 기재한다 신청사항의 용법․용량을 기재한다 신청사항의 저장방법 및 사용(유효)기간을 기재한다 ⑩ 관련조항 ‧의약품등의 안전에 관한 규칙(총리령) ‧의약품의 품목허가·신고·심사규정(식약처고시) ‧의약품동등성시험기준(식약처고시) *규정은 현 고시번호와 고시일자를 기재한다 ⑪ 제출자료 ⑫ 검토결과 ※ 시정/보완사항/ 보완이행사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 96,
+      "content_length": 313,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ddd366b7-fb56-4844-ab6e-f5c037703ab2",
+    "text": "“일반”또는 “전문”,제형,분류번호 기재한 다 ⑥ 원료약품 분량 단위제형중 주성분명,규격,분량을 기재한다 ⑦ 효능․효과 ⑧ 용법․용량 ⑨ 저장방법 및 사용(유효)기간 신청사항의 효능․효과를 기재한다 신청사항의 용법․용량을 기재한다 신청사항의 저장방법 및 사용(유효)기간을 기재한다 ⑩ 관련조항 ‧의약품등의 안전에 관한 규칙(총리령) ‧의약품의 품목허가·신고·심사규정(식약처고시) ‧의약품동등성시험기준(식약처고시) *규정은 현 고시번호와 고시일자를 기재한다 ⑪ 제출자료 ⑫ 검토결과 ※ 시정/보완사항/ 보완이행사항 “비교용출시험결과보고서”(의동고시조건, 기준 및 시험방법 또는 공정 서)”또는“비교붕해시험결과보고서”를 기재하고 대조약 기재 (대조약:(주) ○○제약 ○○정) “적합”,“시정적합”,또는 “보완”중 하나를 기재한다 시정적합 또는 보완인 경우 시정내용 또는 보완내용에 대하여 간략히 기술한다 또는 보완 접수 후 보완이행 사항을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 97,
+      "content_length": 472,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e764298f-2448-4916-bf24-2976ad6a95dc",
+    "text": "규칙(총리령) ‧의약품의 품목허가·신고·심사규정(식약처고시) ‧의약품동등성시험기준(식약처고시) *규정은 현 고시번호와 고시일자를 기재한다 ⑪ 제출자료 ⑫ 검토결과 ※ 시정/보완사항/ 보완이행사항 “비교용출시험결과보고서”(의동고시조건, 기준 및 시험방법 또는 공정 서)”또는“비교붕해시험결과보고서”를 기재하고 대조약 기재 (대조약:(주) ○○제약 ○○정) “적합”,“시정적합”,또는 “보완”중 하나를 기재한다 시정적합 또는 보완인 경우 시정내용 또는 보완내용에 대하여 간략히 기술한다 또는 보완 접수 후 보완이행 사항을 기재한다 ※ 참고사항: 결재 시 참고가 될 사항을 기재한다  1  신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경”",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 98,
+      "content_length": 360,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1684a294-79ec-45ef-ae27-e30ecdb8ed43",
+    "text": "보완이행사항 “비교용출시험결과보고서”(의동고시조건, 기준 및 시험방법 또는 공정 서)”또는“비교붕해시험결과보고서”를 기재하고 대조약 기재 (대조약:(주) ○○제약 ○○정) “적합”,“시정적합”,또는 “보완”중 하나를 기재한다 시정적합 또는 보완인 경우 시정내용 또는 보완내용에 대하여 간략히 기술한다 또는 보완 접수 후 보완이행 사항을 기재한다 ※ 참고사항: 결재 시 참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 99,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c482411a-d68f-44b1-a05b-662ee6742e0c",
+    "text": "기준 및 시험방법 또는 공정 서)”또는“비교붕해시험결과보고서”를 기재하고 대조약 기재 (대조약:(주) ○○제약 ○○정) “적합”,“시정적합”,또는 “보완”중 하나를 기재한다 시정적합 또는 보완인 경우 시정내용 또는 보완내용에 대하여 간략히 기술한다 또는 보완 접수 후 보완이행 사항을 기재한다 ※ 참고사항: 결재 시 참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1  검토의견(보완사항) 1-2  검토의견(시정사항) 2-1  비교용출시험보고서 평가서(일반제제) 2-2  비교용출시험보고서 평가서(장용성·서방성제제) 2-3  비교붕해시험보고서 평가서 3  비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 100,
+      "content_length": 374,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cec73383-097e-4565-8a2c-afbd91a28734",
+    "text": "경우 시정내용 또는 보완내용에 대하여 간략히 기술한다 또는 보완 접수 후 보완이행 사항을 기재한다 ※ 참고사항: 결재 시 참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 101,
+      "content_length": 285,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "599df372-0eaf-4545-8106-3151aaaaccef",
+    "text": "기술한다 또는 보완 접수 후 보완이행 사항을 기재한다 ※ 참고사항: 결재 시 참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 102,
+      "content_length": 267,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "36d092a3-309c-4c63-acea-3ef69fc86b83",
+    "text": "또는 보완 접수 후 보완이행 사항을 기재한다 ※ 참고사항: 결재 시 참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 103,
+      "content_length": 291,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c55c03c4-67a5-450d-98ed-2a3816002249",
+    "text": "※ 참고사항: 결재 시 참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가  관련 규정 :",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 104,
+      "content_length": 277,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "09a9c37f-510b-4d55-9c35-8d6cac2b724f",
+    "text": "참고가 될 사항을 기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나  검토의견 :",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 105,
+      "content_length": 273,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f685821c-296c-45d1-b116-e4d268da7580",
+    "text": "기재한다 1 신청목적: “품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나 검토의견 : 다  보완사항 :",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 106,
+      "content_length": 272,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "578aab0a-0376-4fa9-8121-d5a740763363",
+    "text": "“품목허가(신고)” 또는 “허가(신고) 후 변경” ※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나 검토의견 : 다 보완사항 : [붙임 1-2] 검토의견[회사명 - 제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 107,
+      "content_length": 283,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "60de7546-353d-46f0-8adc-868bf60e774f",
+    "text": "※ 붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나 검토의견 : 다 보완사항 : [붙임 1-2] 검토의견[회사명 - 제품명] <시정사항>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 108,
+      "content_length": 262,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "38dbfd11-eea9-4619-b398-fdae91c01f42",
+    "text": "붙임 1-1 검토의견(보완사항) 1-2 검토의견(시정사항) 2-1 비교용출시험보고서 평가서(일반제제) 2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나 검토의견 : 다 보완사항 : [붙임 1-2] 검토의견[회사명 - 제품명] <시정사항> “12  의약품동등성시험 정보”를 다음과 같이 시정하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 109,
+      "content_length": 300,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "51ee9cc2-b4ae-45a7-8658-8c1ac5542a64",
+    "text": "2-2 비교용출시험보고서 평가서(장용성·서방성제제) 2-3 비교붕해시험보고서 평가서 3 비교용출시험보고서 검토의견 또는 비교붕해시험보고서 검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나 검토의견 : 다 보완사항 : [붙임 1-2] 검토의견[회사명 - 제품명] <시정사항> “12 의약품동등성시험 정보”를 다음과 같이 시정하여 주시기 바랍니다 가  시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 110,
+      "content_length": 296,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6aaa51d9-26f3-4cfe-ba77-df6473cc2300",
+    "text": "검토의견 [붙임 1-1] 검토의견 [회사명 - 제품명] <보완사항> 과 다음의 자료를 보완하여 제출하여 주시기 바랍니다 가 관련 규정 : 나 검토의견 : 다 보완사항 : [붙임 1-2] 검토의견[회사명 - 제품명] <시정사항> “12 의약품동등성시험 정보”를 다음과 같이 시정하여 주시기 바랍니다 가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 111,
+      "content_length": 365,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2668a203-a586-4b03-ae97-69150e93999e",
+    "text": "의약품동등성시험 정보”를 다음과 같이 시정하여 주시기 바랍니다 가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 112,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "95b6a2e1-71e8-4d8f-8b00-bb6784b9ffa5",
+    "text": "정보”를 다음과 같이 시정하여 주시기 바랍니다 가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 113,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "838dd4cc-4265-4334-ab61-992a5eea0f42",
+    "text": "다음과 같이 시정하여 주시기 바랍니다 가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 114,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "06eeabcb-cd15-4029-9bd2-3479bf817388",
+    "text": "같이 시정하여 주시기 바랍니다 가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 115,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7bf1831a-c269-4bbb-a1f6-a5228c8e45fe",
+    "text": "주시기 바랍니다 가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 116,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bb090057-4dc0-4e98-9858-1888dddacc01",
+    "text": "가 시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 117,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7928317c-8397-4ebf-83d7-fbc9cc466662",
+    "text": "시험약 OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 118,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "731746c2-5168-4b7b-8216-ffe9fc215419",
+    "text": "OOOO [㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 119,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4264303d-1861-40a7-b9e7-6551551e1f1a",
+    "text": "[㈜□□제약]과 대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약 OOOO",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 120,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9a6891a0-93fa-460e-ae15-22add2d95af5",
+    "text": "대조약 ●●●● [㈜■■제약]을 2×2 교차시험으로 각 1 정씩 건강한 성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약 OOOO (AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=30)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 121,
+      "content_length": 304,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bce2a099-0f5f-4b36-8c8c-b43a67e42f5a",
+    "text": "성인에게 공복 시 단회 경구투여하여 30명의 혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약 OOOO (AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=30) : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 122,
+      "content_length": 303,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6eafd6fa-2185-45e0-9b31-01a96bfd0f94",
+    "text": "혈중 ▲▲▲을 측정한 결과, 비 교평가항목치(AUCt, Cmax)를 로그변환하여 통계처리하였을 때, 평균치 차의 90%신뢰구 간이 log 0 8에서 log 1 25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약 OOOO (AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=30) : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 123,
+      "content_length": 365,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d76690f4-3a10-4a00-be63-9c9a761040c9",
+    "text": "25 이내로서 생물학적으로 동등함을 입증하였다 비교평가항목 참고평가항목 구분 AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약 OOOO (AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=30) : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나  의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 124,
+      "content_length": 323,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "04798dbf-11ce-4927-8347-ec8e0ad099d8",
+    "text": "AUC0-72hr (ng·hr/mL) Cmax (ng/mL) Tmax(hr) 대조약 시험약 OOOO (AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=30) : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 125,
+      "content_length": 323,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8f8bd6a4-cfce-45d2-821f-af46c579d007",
+    "text": "OOOO (AUCt, Cmax, t1/2 ; 평균값±표준편차, Tmax ; 중앙값(범위), n=30) : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다  이에 따라 해당 자료로서 생물학적동등성을 입증하였다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 126,
+      "content_length": 311,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9e404183-225f-46e3-8a18-0bd8b9d6977f",
+    "text": "중앙값(범위), n=30) : 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 127,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7f56b6d0-55d5-4685-9ff9-7d3a34614387",
+    "text": ": 투약시간부터 최종혈중농도 정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 128,
+      "content_length": 292,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "abb90226-44f6-4bba-a2fb-d93f88f8fde8",
+    "text": "정량시간 t까지의 혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 129,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "519f4c2a-8930-4e70-82e0-e9f10249cdce",
+    "text": "혈중농도-시간곡선하면적 AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 130,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9a683dd5-441b-4379-9b88-60822494e534",
+    "text": "AUCt Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 131,
+      "content_length": 278,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a3f667e3-fb88-4205-9457-5b3906826fc9",
+    "text": "Cmax : 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 132,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "af218b77-3369-4e34-9e72-68e17517a3cf",
+    "text": ": 최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 133,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "556fb533-156f-4095-990d-18bd73e5b25b",
+    "text": "최고혈중농도 Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 134,
+      "content_length": 279,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6a181685-161b-4115-95ef-fe7e78545bee",
+    "text": "Tmax : 최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 135,
+      "content_length": 280,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ca61443f-c5c1-43ce-9e6d-d6801ddc2d90",
+    "text": "최고혈중농도 도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 136,
+      "content_length": 278,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ea8d1c8e-26fc-48ec-906d-ff52648e7e39",
+    "text": "도달시간 t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 137,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7c01be7f-a54c-4829-bb30-7bdf34777c23",
+    "text": "t1/2 : 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 138,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "802e7571-005e-4a58-af10-add564227ff8",
+    "text": ": 말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 139,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5afb57ab-434c-4bb5-9cc1-5e7203d4bd62",
+    "text": "말단 소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 140,
+      "content_length": 279,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "33386550-9454-49db-aa05-e647864cbb60",
+    "text": "소실 반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 141,
+      "content_length": 280,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "153fce47-3144-41d4-9eb3-0deb7844f2b7",
+    "text": "반감기 * 비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 142,
+      "content_length": 284,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7a63ba2e-b9c5-4ca6-83ed-fc4fcf831db6",
+    "text": "비교평가항목치를 로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 143,
+      "content_length": 281,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b1d29232-445e-4f89-839d-c20d01cfd66b",
+    "text": "로그변환한 평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 144,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "44170706-ec61-459f-85ad-34d5753cee05",
+    "text": "평균치 차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 145,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "af1ad15d-e683-42d2-8715-a69386f3be17",
+    "text": "차의 90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 146,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "25660cd3-b737-4f83-ac5e-5cc1e5ac0ec8",
+    "text": "90%신뢰구간 나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 147,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f5a06ec1-ef0a-4c34-b7a4-ab160af0eb30",
+    "text": "나 의약품동등성시험기준 제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 148,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ebc12f85-03a7-4540-8cb0-6b568879e131",
+    "text": "제7조제2항에 따라, 시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 149,
+      "content_length": 269,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "80fe2720-dab8-480f-b722-2902523fba8d",
+    "text": "시험약 △△△△ [㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 150,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7483c30c-4a8e-4b4d-b8b6-cd1140f6b7b4",
+    "text": "[㈜□□제약]은 대조 약 OOOO [㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 151,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0bf6dc10-727d-408b-842c-d3188212c2c2",
+    "text": "[㈜□□제약]과의 비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 152,
+      "content_length": 262,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "431b14eb-6748-4ce7-a07a-1b694de870b3",
+    "text": "비교용출시험자료를 제출하였으며, 대조약과 용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 153,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "38807264-38a6-4fc6-a4b0-699cea177552",
+    "text": "용출양 상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 154,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1a70ac49-405a-413b-a610-57f39595a84a",
+    "text": "상이 동등하였다 이에 따라 해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 155,
+      "content_length": 269,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "43ba8a18-ef64-4007-9fed-ebaa8e2cf05d",
+    "text": "해당 자료로서 생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 156,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0feca838-f627-44f4-8c2c-d836ebd3da5a",
+    "text": "생물학적동등성을 입증하였다 비교용출시험보고서 평가서(일반제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 157,
+      "content_length": 271,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "17aa0d6b-c914-464e-8fb8-c0ddd6fc0fac",
+    "text": "제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 158,
+      "content_length": 236,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "13222bdc-98a4-4492-b03e-4368e15cb727",
+    "text": "제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 )",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 159,
+      "content_length": 278,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "eb0d9eb0-3481-4634-82be-5a8d0946b846",
+    "text": "주성분 표시량 시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 160,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "37a8eb88-8c8e-4fec-91d6-9889bcdf8d2a",
+    "text": "시험기관 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 161,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e599e345-7250-46a0-b8dc-86f2a3c4ea18",
+    "text": "시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 162,
+      "content_length": 236,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c6b59aa8-2f5b-4856-9b09-e5becf8bc964",
+    "text": "시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 163,
+      "content_length": 256,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e4b57d4e-a179-46a0-af68-ca9a53c8bdff",
+    "text": "검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 164,
+      "content_length": 261,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "02fd8100-faeb-40eb-b5b2-b24b71bee7f7",
+    "text": "기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 165,
+      "content_length": 262,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "49cad9b9-2acb-47da-8cee-2c34627168bd",
+    "text": "함량시험 용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 166,
+      "content_length": 260,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "19066e19-53f1-48a0-a84e-fc5414d12fcd",
+    "text": "용출시험 근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 167,
+      "content_length": 263,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "37926f96-a64f-4afd-bc72-54420c0b1581",
+    "text": "근거 분석법 검증 용출률 계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 168,
+      "content_length": 276,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1b91dcb4-91fd-4fb5-b8b8-e01992386246",
+    "text": "계산 첨가제중 방해인자 제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 169,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ef0f33ed-a0fe-4c77-96e2-c600d296c895",
+    "text": "제제종류 수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 170,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5bb049ab-f9f8-4299-a066-a7c25ea126f1",
+    "text": "수용성 제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 171,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a6b9dc60-b24a-48ae-ad1e-76506c67daa4",
+    "text": "제제 제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 172,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "492dc11c-1da7-4555-8fd2-119842fcbb95",
+    "text": "제형특성 필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 173,
+      "content_length": 269,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5e851a49-2f4c-4225-9e92-266a88ccdc67",
+    "text": "필름코팅정 동등성판정방법 유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 174,
+      "content_length": 271,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b56eb2d2-9fd2-4cf3-880d-81a41a413ad7",
+    "text": "유사성 인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 175,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "abbc7591-61b6-486b-ae44-cfdb5e49b1e8",
+    "text": "인자 시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 176,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e1b98a80-a2c8-4f01-b62d-c6b0ae2351f7",
+    "text": "시험결과 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 177,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a556df5f-377f-4293-a058-315ca224a147",
+    "text": "평균용출률(%) 과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 178,
+      "content_length": 257,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a8a86f3b-987d-4734-863b-7c17720fd7cb",
+    "text": "과 변이계수 용출 액 평균용출 률 85% 도달 시간(분) 종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산\n\n제제종류 수용성 제제 제형특성 시험결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 179,
+      "content_length": 285,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cd8a0001-3183-496b-826e-e14e7ce6edb9",
+    "text": "종합의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 180,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "78632e97-ef92-4eee-b723-b7e9d80c82b0",
+    "text": "기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 181,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "96856868-11b7-43c5-a744-ddbe2ddd4576",
+    "text": "검토의견만 작성한다 ) ※ 참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 182,
+      "content_length": 264,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "051bfb32-6f1e-41fd-a39d-e1e4fbe9e4c2",
+    "text": "참고사항 f2값 판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 183,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8382b37f-eaae-4d19-8ac9-ebdaac0bfbc2",
+    "text": "판정 비교용출시험보고서 평가서 (장용성·서방성제제) 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 184,
+      "content_length": 265,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0868e9a4-da01-4c08-a971-914c4cb1e171",
+    "text": "제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 185,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4093d353-9f2a-4c3a-9567-be895bfbd444",
+    "text": "제조일자 (사용기간) 생산규모 평균함량(%) 대조약 시험약 주성분명 시험기관 주성분 표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 186,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0b24287f-b5ec-4d89-a128-63819c0c57e0",
+    "text": "표시량 시험책임자 시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 187,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fba91bdc-b110-471d-b0e8-29039fcc8ba9",
+    "text": "시험방법 시험장치 회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 188,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cd11ea15-1d68-4700-99b2-2e1b647cd443",
+    "text": "회전수 검체수 양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 189,
+      "content_length": 211,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "445bb963-967f-4f0c-82bc-89b395bf096a",
+    "text": "양 (mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 190,
+      "content_length": 208,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1bbc7e0d-afe6-49f4-a875-c51b1e4db38b",
+    "text": "(mL) 기타 분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 191,
+      "content_length": 213,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2ef2f9dc-1025-4a90-86fa-f7107d52fc54",
+    "text": "분석법 함량시험 용출시험 근거 분석법 검증 용출률 계산 제제종류 수용성 제제 제형특성 시험결과 첨가제중 방해인자 필름코팅정 동등성판정방법 유사성 인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 192,
+      "content_length": 314,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "95fb6e01-d4fc-4df0-a95b-e5652e5eb4ff",
+    "text": "인자 비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 193,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2d4e25e9-5f57-4404-aab0-7a982f1a816a",
+    "text": "비교시점에서의 평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 194,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c18a4654-6410-40a3-a360-5e17405b1801",
+    "text": "평균용출률(%) 과 변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 195,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ca8130bd-571a-40c9-bdd9-dbdc18113719",
+    "text": "변이계수 용출 액 평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 196,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3dd8a32-2d2a-4ca5-9cb6-452091f78ee5",
+    "text": "평균용출 률 80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 197,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "47d26e2f-eacd-4cfa-a6cb-90642eaafcdc",
+    "text": "80% 도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 198,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cc7f7012-5662-4cc0-99d6-0c6d5572c47c",
+    "text": "도달 시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 199,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "319792e5-d641-45a5-8d8d-b7a713d3d4c3",
+    "text": "시간(분) 장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 200,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e141bea5-f177-46ab-bfdb-eef6672b757d",
+    "text": "장용‧서 방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 201,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1be96e7a-85ed-4ee2-ada4-2e50c947fa9b",
+    "text": "방 15분 30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 202,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1c77259e-ef46-48e5-90ea-051397989c70",
+    "text": "30분 60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 203,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "86abc475-d3fc-4f03-881b-8a823075da0e",
+    "text": "60분 90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 204,
+      "content_length": 255,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c953a82d-338b-4ad6-be14-1113753defb7",
+    "text": "90분 2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 205,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2c0b15a4-c520-45b5-8da0-d5f6c45f3819",
+    "text": "2시간 3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 206,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d45a120f-cb29-4695-9558-a2c09f2e74c5",
+    "text": "3시간 5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 207,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2ede196f-7e4f-4593-a46e-4e923ff57a33",
+    "text": "5시간 6시간 8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 208,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3b168d20-565f-4820-86f6-4c8d08bcf818",
+    "text": "8시간 10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 209,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1ca95199-f43f-4f12-b199-53a7b4d9e117",
+    "text": "10시 간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 210,
+      "content_length": 258,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6c7691f2-05a7-4e77-b1c8-b5224bd8429c",
+    "text": "간 12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 211,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e32f4717-717e-4515-9eba-e7780e1f406b",
+    "text": "12시 간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 212,
+      "content_length": 262,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cabcbea7-9253-4a8a-b072-af5e568d73af",
+    "text": "간 24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 213,
+      "content_length": 263,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9bb7a8c8-7d91-469a-9f62-b78e437dc24c",
+    "text": "24시 간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 214,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fdbe1aa8-a255-4e79-b3a2-c98f45a3559d",
+    "text": "간 종합의견 ※ 참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 215,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9887f35f-be9c-4ca5-be88-d9342a4d4c0e",
+    "text": "참고사항 “동등”,“비동등”또는 “보완”을 기재한다 (비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 216,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "14dc91ef-6b8c-481b-9744-f4d938bf58e6",
+    "text": "(비교용출시험결과에 대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 217,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7d2deab3-4d63-4059-9d1b-45de4a43a9c3",
+    "text": "대한 검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 218,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ac757aff-e1ee-4707-913f-2a29cc90b340",
+    "text": "검토의견만 작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 219,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "186702bf-996b-49a6-9f0b-9043f19bd50a",
+    "text": "작성한다 ) -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 220,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12aceb1a-c8a7-4197-9711-b0ab9779dac6",
+    "text": ") -검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 221,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f95c98f4-3c8f-4032-9136-6ab386d36a98",
+    "text": "-검액조제방법,검량선범위의 적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 222,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "70c23f60-fffa-4358-9ff7-fd415c9126d9",
+    "text": "적절성,기준 및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 223,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a7f3327f-9230-4b8c-919a-618a578590f8",
+    "text": "및 시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 224,
+      "content_length": 234,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c95968dc-797e-46a6-8314-4a5a1130b30e",
+    "text": "시험방법에 설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 225,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8ecc1836-c27b-456e-8bd4-224b19e25b02",
+    "text": "설정된 용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 226,
+      "content_length": 234,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "70d38abd-9332-4ec7-87f6-55c590be7d79",
+    "text": "용출시험조건 등 기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 227,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6a0ab84a-b4c0-4ae8-8b9b-8f1099d3b2f1",
+    "text": "기재 -비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 228,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b7865035-550f-4125-a3f0-cd54e7be5cac",
+    "text": "-비교용출시험 그래프 f2값 판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 229,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f8dab152-d036-497d-a63e-bd7495dbb2a0",
+    "text": "판정 비교붕해시험보고서 평가서 제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 230,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ee031959-54e3-4f82-bc4c-d436bc705df5",
+    "text": "제조회사 제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 231,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4f7d2529-3847-4980-940e-2d8c4e890f2a",
+    "text": "제품명(성분명) 제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 232,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9686d03b-b9bb-4a80-b1b3-a6e1e871e653",
+    "text": "제조번호 제조일자 (사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 233,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cbe81b80-d62f-4ab1-8174-99c5dc7d2ae0",
+    "text": "(사용기간) 생산규모 대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 234,
+      "content_length": 221,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c1d72d7b-fa01-425b-99e7-b9500d9254ee",
+    "text": "대조약 시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 235,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9a45522e-0591-4802-95ea-23bd3957ee92",
+    "text": "시험약 주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 236,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1f073b96-acd6-4be8-9c3b-1afeeea1cb1a",
+    "text": "주성분명 주성분 표시량 시험기관 시험책임자 시험장치 회전수 검체수 양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 )",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 237,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4309ba46-85a4-42ce-9857-8a9679b8e3d9",
+    "text": "양 (mL) 시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 238,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "41c85384-9040-4c8b-87e9-6d2344551048",
+    "text": "시험방법 붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 239,
+      "content_length": 228,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "790e397f-2517-4127-b445-78ef723c5580",
+    "text": "붕해시험법 함량시험법 분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 240,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "99c165ef-2ad4-481d-84f0-0dfddf497508",
+    "text": "분석법 제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 241,
+      "content_length": 221,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e6e2e611-c5ed-4b1a-a5dc-f3505d5b7799",
+    "text": "제형특성 붕해시험법 비교용출시험 불가능 사유 대조약의 기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견\n\n방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 242,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a104b50d-6c7a-4822-ab7b-a5bc0a65578b",
+    "text": "기준 및 시험방법 시험결과 시험액 판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 243,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1355c05b-4f0f-4621-be3e-b97dbf0263b0",
+    "text": "판정기준 대조약 시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 244,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f9be0044-d406-4c7d-b30f-68dd55f9f737",
+    "text": "시험약 분 개수 분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 245,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "af4fe470-b84c-4bf6-9643-a9de63698a0d",
+    "text": "분 개수 대조약과 시험약의 최종 붕해시간이 5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 246,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3b948f8b-40e8-4b5b-b054-1c2965b1c7fe",
+    "text": "5분 이내일 것 대한약전 붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 247,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fa511dd3-0dd3-492c-a68a-0b9b43ad79e4",
+    "text": "붕해시험법 기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 248,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6dd182be-e914-4dcc-b79c-ab5073d48430",
+    "text": "기준 제형 시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 249,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29d4857f-6782-4ebb-b30e-45c74a0c4515",
+    "text": "시험액 보조판 사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 250,
+      "content_length": 241,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a1dd2d2f-037c-47a8-8775-b4ccbab113e6",
+    "text": "사용 시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 251,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e7107139-0497-417b-a7a9-e8215a9e2cdc",
+    "text": "시험시간 (분) 판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 252,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "421a324c-16bb-4f6d-afa7-fb9be6632372",
+    "text": "판정 검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 253,
+      "content_length": 240,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "40310ec2-d395-458f-997c-f5970bd2ce31",
+    "text": "검토의견 “동등”,“비동등”또는 “보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 254,
+      "content_length": 247,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e5c30789-0611-41df-970a-650be5b7f8d7",
+    "text": "“보완”을 기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 255,
+      "content_length": 235,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "848f13d2-9a37-4ae1-a2c7-301dbc639bcf",
+    "text": "기재한다 (비교붕해시험결과에 대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 256,
+      "content_length": 239,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "016a54e0-f7f2-4b5d-98c2-2a99c5238cf5",
+    "text": "대한 검토의견만 작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 257,
+      "content_length": 230,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0eb59445-4d63-48de-a8d7-a3e6e5b87899",
+    "text": "작성한다 ) ※ 참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 258,
+      "content_length": 237,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7720ddfe-a6a0-4852-9898-21de18da1cf6",
+    "text": "참고사항 평균함량 보조판 사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 259,
+      "content_length": 240,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "94cc7be1-018e-4aca-acd7-c6173b6ca64a",
+    "text": "사용 판정 비교용출(붕해)시험보고서 검토의견 방법 또는 공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 260,
+      "content_length": 250,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4e2f292b-249e-4bd5-8f44-d795872b47f1",
+    "text": "공정서)”또는“비교붕해시험결과보고서”를 기재한다 ① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 261,
+      "content_length": 226,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7fd80086-b144-45d4-bccc-1e014fb155d4",
+    "text": "① 원료약품 및 그 분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 262,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0e852797-64da-4cb5-ac3c-cf75c689bc9d",
+    "text": "분량 ② 제조방법 ③ 완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 263,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b97e61a5-a500-40b5-bf8f-84fb82eb7aa2",
+    "text": "완제의약품 제조소 ① 원료약품 및 그 분량: (예시)변경없음 ② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 264,
+      "content_length": 284,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d41ee2df-1c26-41e1-b79c-cf883636fbd0",
+    "text": "② 제조방법: (예시)경미한 변경 공정 변경 전 변경 후 변경수준 주성분 제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 265,
+      "content_length": 294,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0505a668-4096-4e30-bee8-41cd3667a93f",
+    "text": "제조원 제조업체명 (대조약 제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 266,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c86ca8dc-8930-46d0-aad7-2b03f3d84eed",
+    "text": "제조원) 제조업체명 (시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 267,
+      "content_length": 265,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "81fc665e-e44e-4921-aac0-fede63584d46",
+    "text": "(시험약 제조원) 경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가  결과요약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 268,
+      "content_length": 262,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a11671e5-1067-4f62-9054-ba11b8a7f91f",
+    "text": "경미한 변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 269,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5e82959a-a3d5-47b1-9c0c-1311d11575ad",
+    "text": "변경 (완제의약품의 품질에 미치는 영향이 경미한 경우) 일반제제 공정조건 범위 외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 270,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9fa3734b-90e2-4a13-a9f7-be2600e797a3",
+    "text": "외 변경 (타정압) 경미한 변경 ③ 완제의약품 제조소: (예시)변경없음 (예시)의약품동등성시험기준(식약처고시)[별표3]의 경미한 변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나  검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 271,
+      "content_length": 301,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bffd5d0e-d84b-4ba1-8df6-9f531151d0c0",
+    "text": "변경(허가(신고)사항 중 기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 272,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c36cc8b3-0183-4d4a-8146-296fbe4f646c",
+    "text": "기준 및 시험방법 또는 공정서에 설정된 시험조건에서의 비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가  결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 273,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c4aee80c-8e9e-4a83-bc0a-d7535885903e",
+    "text": "비교용출시험자료) 3 2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가 결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에 따라 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 274,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b54c87cf-567b-4e6e-8777-da3738c51920",
+    "text": "2 P 5 4 뱃지분석자료)를 제출하였으며, 시험약과 대조약의 함량 차이가 5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가 결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에 따라 기재한다 (예시1)대조약과 시험약 모두 15분 이내에 표시량의 85%이상 용출되어 동등함  (대조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 275,
+      "content_length": 290,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "955748a8-4d28-403e-8f8e-8f4ab48a492c",
+    "text": "5%이내로 시험약으로서 적합함 공정관리에 따름) 가 결과요약 물 특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가 결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에 따라 기재한다 (예시1)대조약과 시험약 모두 15분 이내에 표시량의 85%이상 용출되어 동등함 (대조 (예시2)대조약과 시험약의 평균용출률의 변이계수가 기준에 적합한 경우로,유사성 인자를",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 276,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "38624cb9-ffad-4dd2-b939-beb4b25decc3",
+    "text": "특이성 (기준) 직선성 (기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가 결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에 따라 기재한다 (예시1)대조약과 시험약 모두 15분 이내에 표시량의 85%이상 용출되어 동등함 (대조 (예시2)대조약과 시험약의 평균용출률의 변이계수가 기준에 적합한 경우로,유사성 인자를 사용하여 동등성을 판정함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 277,
+      "content_length": 273,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "910cf3a2-00db-4a31-8a5f-388154797907",
+    "text": "(기준) 정확성 (기준) 정밀성 (기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가 결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에 따라 기재한다 (예시1)대조약과 시험약 모두 15분 이내에 표시량의 85%이상 용출되어 동등함 (대조 (예시2)대조약과 시험약의 평균용출률의 변이계수가 기준에 적합한 경우로,유사성 인자를 사용하여 동등성을 판정함 인자(f2)의 값이 50이상(58)으로 동등함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 278,
+      "content_length": 286,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c9c6ca73-b5e7-4500-a23b-846b4719402a",
+    "text": "(기준) 정량한계 (기준) 나 검토의견: 각 용출액에 대한 특이성, 직선성, 정확성, 정밀성, 정량한계 밸리데이션 결과,기준에 적합함 가 결과요약: 의약품동등성시험기준[별표6] 용출양상의 동등성 판정기준(제21조 관련)에 따라 기재한다 (예시1)대조약과 시험약 모두 15분 이내에 표시량의 85%이상 용출되어 동등함 (대조 (예시2)대조약과 시험약의 평균용출률의 변이계수가 기준에 적합한 경우로,유사성 인자를 사용하여 동등성을 판정함 인자(f2)의 값이 50이상(58)으로 동등함 (예시3) 대조약과 시험약의 평균용출률의 변이계수가 기준에 적합하지 않은 경우로,\n\n부트스트랩을 이용한 유사성 인자의 90%신뢰구간으로 평가함 \n\n85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초\n\n시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 279,
+      "content_length": 435,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1140e71b-37bf-4999-a2c9-e0db2987b7ee",
+    "text": "용출되어 동등함 (대조 (예시2)대조약과 시험약의 평균용출률의 변이계수가 기준에 적합한 경우로,유사성 인자를 사용하여 동등성을 판정함 인자(f2)의 값이 50이상(58)으로 동등함 (예시3) 대조약과 시험약의 평균용출률의 변이계수가 기준에 적합하지 않은 경우로, 부트스트랩을 이용한 유사성 인자의 90%신뢰구간으로 평가함 85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초 시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 280,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b97fc50f-9efd-402a-a7f1-8c4690bbc5ce",
+    "text": "(예시2)대조약과 시험약의 평균용출률의 변이계수가 기준에 적합한 경우로,유사성 인자를 사용하여 동등성을 판정함 인자(f2)의 값이 50이상(58)으로 동등함 (예시3) 대조약과 시험약의 평균용출률의 변이계수가 기준에 적합하지 않은 경우로, 부트스트랩을 이용한 유사성 인자의 90%신뢰구간으로 평가함 85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초 시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함 나  검토사례: 동일성분의 기검토 사례를 참고하여 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 281,
+      "content_length": 303,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b20a6f4b-1f30-48e8-ba34-21d4c66526d0",
+    "text": "인자를 사용하여 동등성을 판정함 인자(f2)의 값이 50이상(58)으로 동등함 (예시3) 대조약과 시험약의 평균용출률의 변이계수가 기준에 적합하지 않은 경우로, 부트스트랩을 이용한 유사성 인자의 90%신뢰구간으로 평가함 85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초 시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함 나 검토사례: 동일성분의 기검토 사례를 참고하여 기재한다 (예시)기존사례와 비교한 결과,해당성분을 함유한 동일제형은 고시의 시험조건인3가지",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 282,
+      "content_length": 304,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f62bf93a-6623-4dd1-b562-3136c9cd23f0",
+    "text": "동등함 (예시3) 대조약과 시험약의 평균용출률의 변이계수가 기준에 적합하지 않은 경우로, 부트스트랩을 이용한 유사성 인자의 90%신뢰구간으로 평가함 85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초 시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함 나 검토사례: 동일성분의 기검토 사례를 참고하여 기재한다 (예시)기존사례와 비교한 결과,해당성분을 함유한 동일제형은 고시의 시험조건인3가지 시험액에서15분에 도달하는 경향을 보임",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 283,
+      "content_length": 286,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e1b5206f-1ddb-4bbc-9e29-12fab13e6b71",
+    "text": "평균용출률의 변이계수가 기준에 적합하지 않은 경우로, 부트스트랩을 이용한 유사성 인자의 90%신뢰구간으로 평가함 85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초 시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함 나 검토사례: 동일성분의 기검토 사례를 참고하여 기재한다 (예시)기존사례와 비교한 결과,해당성분을 함유한 동일제형은 고시의 시험조건인3가지 시험액에서15분에 도달하는 경향을 보임 다  물리화학적 특성(용해도 등):주성분 규격의 성상 또는 용해도를 참고하여 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 284,
+      "content_length": 314,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "eb34656d-5fcc-4aa3-8a81-25926031f56e",
+    "text": "90%신뢰구간으로 평가함 85% 이상인 경우로,대조약 또는 시험약의 평균용출률이 85% 이상인 최초 시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함 나 검토사례: 동일성분의 기검토 사례를 참고하여 기재한다 (예시)기존사례와 비교한 결과,해당성분을 함유한 동일제형은 고시의 시험조건인3가지 시험액에서15분에 도달하는 경향을 보임 다 물리화학적 특성(용해도 등):주성분 규격의 성상 또는 용해도를 참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 285,
+      "content_length": 308,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "03c227e9-beb8-4334-bb79-18cef7da57f3",
+    "text": "시점(45분)까지 포함, 부트스트랩을 이용한 유사성 인자의 90% 신뢰구간 하한치가 50이상(58)으로 동등함 나 검토사례: 동일성분의 기검토 사례를 참고하여 기재한다 (예시)기존사례와 비교한 결과,해당성분을 함유한 동일제형은 고시의 시험조건인3가지 시험액에서15분에 도달하는 경향을 보임 다 물리화학적 특성(용해도 등):주성분 규격의 성상 또는 용해도를 참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라  검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 \n\n(예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 286,
+      "content_length": 332,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ce83ded0-852d-4bf5-a4fd-8bb2a756c8a8",
+    "text": "사례를 참고하여 기재한다 (예시)기존사례와 비교한 결과,해당성분을 함유한 동일제형은 고시의 시험조건인3가지 시험액에서15분에 도달하는 경향을 보임 다 물리화학적 특성(용해도 등):주성분 규격의 성상 또는 용해도를 참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨\n\n치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 287,
+      "content_length": 313,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c4997fdc-1628-4644-a5ca-0fb46e75cf6d",
+    "text": "도달하는 경향을 보임 다 물리화학적 특성(용해도 등):주성분 규격의 성상 또는 용해도를 참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 288,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "60d674bd-c81a-48dc-8800-22ca37896242",
+    "text": "성상 또는 용해도를 참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 289,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a835297e-6111-4c11-8fcd-d611a597829f",
+    "text": "용해도를 참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 290,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a4d77f73-e666-4b5e-89d5-f113ec82a138",
+    "text": "참고하여 기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 291,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6c3c1838-8c97-4d2e-a361-e69f5ff75457",
+    "text": "기재한다 (예시)이 약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 292,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b9986b89-bb0b-47ed-9644-022020433df8",
+    "text": "약은 빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 293,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f2e6a343-10ca-48f1-96a5-07d9bbb6dc3b",
+    "text": "빛에 의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 294,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0f0fb28e-ca66-4a84-a62f-50bf2b68873e",
+    "text": "의해 분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 295,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ee545d80-9ad3-492c-bbbf-a10664d4f6d7",
+    "text": "분해되며 클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 296,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ab172adb-0022-4d4f-a5e0-fca5403a1627",
+    "text": "클로로포름에 잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 297,
+      "content_length": 258,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e4127a3f-f8a2-44c3-93a2-c45e925bc9f5",
+    "text": "잘 녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 298,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cc2cc30f-1fd7-4663-a9bf-d52dcaa9c582",
+    "text": "녹고 물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 299,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "dad24683-6fc3-4b65-aedb-57abfc44649e",
+    "text": "물에거의 녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 300,
+      "content_length": 297,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ba62bec3-ff23-4241-a75b-4c242ab7b40e",
+    "text": "녹지 않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 301,
+      "content_length": 309,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e0f6f687-02eb-4079-a079-60dc6c94af5a",
+    "text": "않는다 라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 302,
+      "content_length": 310,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1da9c9f0-1251-4cf6-83a7-ca1988047254",
+    "text": "라 검토의견: 비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 303,
+      "content_length": 317,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8177ce00-7b92-4d6e-a661-b12294dec32a",
+    "text": "비교용출시험결과에 대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 304,
+      "content_length": 314,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a4f6af6f-c127-4020-a4b7-9afa3c0084fc",
+    "text": "대한 검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 305,
+      "content_length": 307,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "86df1b0a-a53b-4c97-b62f-045da0717b16",
+    "text": "검토의견을 기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 306,
+      "content_length": 313,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c9d2ef20-692a-4473-9b25-0165be766ece",
+    "text": "기재한다 (예시)비교용출시험 결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 307,
+      "content_length": 316,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "39e91cc2-c71a-478b-8df9-8185420f616b",
+    "text": "결과가 기존의 자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 308,
+      "content_length": 304,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "637ecd8b-18d3-41f4-b92f-ac6864e4ceb7",
+    "text": "자료와 유사한 경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 309,
+      "content_length": 300,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7c22ed41-5dd8-4954-aa74-611a866fd785",
+    "text": "경향이 관찰되는 바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 310,
+      "content_length": 296,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "26d1ba18-0164-434c-834c-5adf573fb985",
+    "text": "바,신청 품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 311,
+      "content_length": 296,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e875ca76-0287-4513-ae15-44cdd686b892",
+    "text": "품목의 비교용출시험은 적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 312,
+      "content_length": 300,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3d21d6d6-2353-4c8b-bea8-a10115266e03",
+    "text": "적합하다고 사료됨 치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 313,
+      "content_length": 292,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e353d8fd-2931-48d2-a28f-94894df9a43e",
+    "text": "치료영역이 좁지 않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 314,
+      "content_length": 286,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "710ad1e3-fdde-48ff-96e1-24d8dd316e4a",
+    "text": "않음을 입증하는 자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 315,
+      "content_length": 281,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "607430fc-f1e9-4dc2-8f7a-8efbce3ace13",
+    "text": "자료, 분석제어시스템을 갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 316,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8749166a-1590-4948-bce5-ea8b2275aaba",
+    "text": "갖춘 시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 317,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "349ccf45-6cc6-418c-aaca-1cfde1582dc9",
+    "text": "시험장비(기기)에서 실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 318,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6312f9b1-f8a7-4cf3-a683-4c1ee2f9d6c1",
+    "text": "실시하였음 확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 319,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29cd562f-33de-43d8-8be3-cad4e0b6f5b2",
+    "text": "확인(시험책임자 종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 320,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b143e466-bb78-49bf-97a9-38400877916b",
+    "text": "종합의견 참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 321,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "81a530f7-8fd6-41f5-b71a-db15aa629aae",
+    "text": "참조)하는 자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명 김지명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 322,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "19fea03a-3bfa-45c6-9a1e-d61740596cae",
+    "text": "자료,통계방법 및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명 김지명 엄소영",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 323,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "899cf563-fcb2-4dee-9047-f5d262bb1101",
+    "text": "및 판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명 김지명 엄소영 엄소영",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 324,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "93fd23a6-c623-44a8-9b3d-56e868e2e49c",
+    "text": "판정기준의 타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명 김지명 엄소영 엄소영 엄소영",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 325,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "66da3d0d-cffa-4584-869a-8ce449233948",
+    "text": "타당성 자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명 김지명 엄소영 엄소영 엄소영 윤은주",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 326,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "514fed67-1784-4b9b-8914-c15fa9d184a6",
+    "text": "자료 등) 연번 연도 개정 이력 편람코드 개정 번호 제정 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 GRP-MaPP-심사기준-15 편람명 의약품동등성 검토서 작성지침 상동 의약품동등성시험 검토서 작성지침 상 동 상 동 상 동 의약품동등성시험 검토서 작성기준 상 동 상 동 상 동 상 동 작성자 김세은 김소희 김민정 김지명 김지명 엄소영 엄소영 엄소영 윤은주 윤은주",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 327,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  }
+]

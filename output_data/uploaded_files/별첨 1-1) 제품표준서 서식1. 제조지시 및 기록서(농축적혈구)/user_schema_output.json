@@ -1,0 +1,2407 @@
+[
+  {
+    "id": "9eaa5c41-43d8-45b5-96de-2546944f2cfe",
+    "text": "제조 지시 및 기록서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 1,
+      "content_length": 11,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d789673f-aef2-4324-a82f-1a2ac0ea8ad3",
+    "text": "제조 지시 및 기록서 혈액관리번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 2,
+      "content_length": 18,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4be8fec6-cb1e-4484-acbd-6d9b774bf99e",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 3,
+      "content_length": 25,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a5a86005-950e-4597-857f-a543bfe903e3",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 4,
+      "content_length": 73,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8f420ef8-f84d-4755-b036-aaf5cd91fad5",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 5,
+      "content_length": 76,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "02a82da3-8aa6-4e03-ab53-7aa95d45d1f3",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 6,
+      "content_length": 81,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d43e9293-5211-4005-ad3e-23b4e651c142",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 7,
+      "content_length": 86,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "28642417-beaa-4c69-b562-680366cd0c47",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 8,
+      "content_length": 91,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "20aae0d9-a5aa-4223-bf95-0bcae52fd086",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 9,
+      "content_length": 96,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "93de1163-dc2a-4ad5-832b-1db4ad935778",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 10,
+      "content_length": 100,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5e806b1e-9717-419b-becb-7489fb4f8b69",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 11,
+      "content_length": 104,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8ed9272b-ecbe-455a-a94b-dbc73ce7c66d",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 12,
+      "content_length": 108,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71d41f8d-027b-4515-bfb5-6402973885f7",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 13,
+      "content_length": 116,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7b9a9140-1a74-43e7-acd6-39b675e834bb",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 14,
+      "content_length": 121,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f32dfd72-2ce6-4549-aac2-d68a65328384",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 15,
+      "content_length": 126,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d2ee102e-004c-4c3f-a989-671b1dc75035",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 16,
+      "content_length": 130,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "655afcbe-7f9e-4bfc-bbb5-4def223cca12",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 17,
+      "content_length": 134,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4775ce97-96c1-4210-a478-852836236811",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 18,
+      "content_length": 142,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ad12f147-f41e-453e-bfe6-4f8bc3190bdd",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 19,
+      "content_length": 147,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8cb04f90-6927-41f3-bd53-340a1daf6f84",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 20,
+      "content_length": 152,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "dab86b22-e382-4157-b66a-0b4765288650",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 21,
+      "content_length": 158,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c928fe51-d64a-40a9-9658-ea0e24ec0c0e",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 22,
+      "content_length": 166,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3a079dbf-03c5-4cb1-9280-1009d6a6a5d3",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 23,
+      "content_length": 172,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "920aae19-c6c5-4a4a-a8cf-36afa596215d",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 24,
+      "content_length": 176,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "156ef30a-6522-4433-a386-f481faec6aee",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 25,
+      "content_length": 182,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "81e92335-f4d3-4181-9d92-86438549b64f",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 26,
+      "content_length": 190,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "02e00e2d-ac23-4a8c-ae61-0734867ce2f4",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 27,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "afaf6bf3-f1c3-4b3a-8499-0cf2b724d343",
+    "text": "제조 지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 28,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c8013fcc-89ac-49fe-aeff-e85a052d01a7",
+    "text": "지시 및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 29,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "51ccdb71-016f-4730-9f68-7346fcf52590",
+    "text": "및 기록서 혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 30,
+      "content_length": 206,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4ca0f8a7-1bec-4ccd-97af-109f02930ae9",
+    "text": "혈액관리번호 ○○○혈액원 채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 31,
+      "content_length": 205,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f35f9a1b-c7c9-4a19-b899-8b65bad95836",
+    "text": "채혈백 종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 32,
+      "content_length": 195,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3d79a743-713c-4d29-b2b3-580430259913",
+    "text": "종류 □ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 33,
+      "content_length": 197,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0e1a8a77-5f6e-4657-839d-c344c97c9d20",
+    "text": "□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 34,
+      "content_length": 202,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71510c15-e1b1-4fad-8d49-b52d4b167218",
+    "text": "□ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 35,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "85c7911b-a333-47a8-a394-1a2a141ddda8",
+    "text": "삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 36,
+      "content_length": 206,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "86fe662b-5d81-4619-9494-7abb7af0fd95",
+    "text": "□ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 37,
+      "content_length": 211,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9e54dcb6-c6c8-44d9-95b7-e8a320e9ff05",
+    "text": "성분채혈백 (□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 38,
+      "content_length": 207,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8518533d-3fc0-4db5-8487-08729757a3cf",
+    "text": "(□ 혈소판, □ 혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 39,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "78daaf3e-6833-4ee4-a115-b7bd545d4077",
+    "text": "혈장) 혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 40,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "740e3372-bc22-4851-91f1-dd77b79e8a28",
+    "text": "혈액형 채혈일시 채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 41,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "60865eec-f532-465d-a8ae-9d79124a970c",
+    "text": "채혈장소 채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 42,
+      "content_length": 213,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5fb4beca-ea6c-4e14-9f7d-94b313603024",
+    "text": "채혈용량 채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 43,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3c9bd39c-df88-4ad2-8f85-ceb24c818dbe",
+    "text": "채혈장비 문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 44,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "86fa3edf-cedf-4757-ab5d-0b5da2453e19",
+    "text": "문진자 채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 45,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0ac021e8-1448-4fb5-9736-bb27afc633a2",
+    "text": "채혈자 명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 46,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2c3377bf-4707-407e-9c50-8dfe9a2183ec",
+    "text": "명 칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 47,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0e0d5fad-dccd-4b0a-ad15-9f5830b25719",
+    "text": "칭 종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 48,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e353666e-ac44-4afc-a353-a36cdef98eb3",
+    "text": "종류(제조사) 고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 49,
+      "content_length": 217,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4184e25c-83a0-482f-af43-b17024452b78",
+    "text": "고유번호 사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 50,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "58944c2b-df0e-4ed7-85c7-12857f0f8645",
+    "text": "사용목적 비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 51,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a13ce131-e7ab-437f-aa2b-3d76ec7199f0",
+    "text": "비 고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 52,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "02bbe4f7-fbd9-42da-a815-3dbde4e463d0",
+    "text": "고 혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 53,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3ed90dc-2e53-4d95-b8dd-e4c15afc6d29",
+    "text": "혈액백 □A사 □B사 제조번호 혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 54,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "765faed4-af09-4244-9b0b-90cdfbed7b9e",
+    "text": "혈액보관 원심분리기 □A사 □B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 55,
+      "content_length": 217,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e0685828-8c67-42c9-bfbf-712cda8749e7",
+    "text": "□B사 혈액 분리 제제실 혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 56,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a6ef0d25-3ad5-4ca0-b7eb-27f9dfcb05f3",
+    "text": "혈장추출기 □수동 □자동 제제 분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 57,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "505d83fc-9391-4387-a4f1-7d5a1018a456",
+    "text": "분리 제제실 봉합기 □A사 □B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 58,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5cd5ff34-8d57-4fee-b881-081f4f8b66ca",
+    "text": "□B사 백 밀봉 제제실 급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 59,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d4eb2835-5be4-4e3b-842d-5ae1ec7a04e0",
+    "text": "급속동결기 동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 60,
+      "content_length": 191,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "64f341d0-1ab6-44f7-92fa-9873132c2b32",
+    "text": "동결제제 제조 동결실 자동무게측정기 제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1  농축 적혈구의 제조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 61,
+      "content_length": 201,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "65b44100-27ef-43cf-90a4-ad7a30e6aba9",
+    "text": "제제 무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 62,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ab7995f7-03cb-4869-ab77-e6b266a53e7b",
+    "text": "무게 측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 63,
+      "content_length": 187,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "37a05154-ed95-463c-9752-f38f7816d55e",
+    "text": "측정 제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 64,
+      "content_length": 187,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "235ab105-02c5-4e42-aaf1-4f265e7012d5",
+    "text": "제제실 무균백줄연결장치 □A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 65,
+      "content_length": 190,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "034c9bfa-3a74-4068-a1fe-e7578cd8b3a3",
+    "text": "□A사 □B사 장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 66,
+      "content_length": 183,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ada0db32-a024-4b96-b17c-4bccc9f90993",
+    "text": "장비관리번호 보조백 연결 제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 67,
+      "content_length": 193,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "81c53fe9-f21b-4025-9c4d-363e7cc43984",
+    "text": "제제실 검사항목 검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 68,
+      "content_length": 188,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "569f63b5-8d62-4a41-a0d3-fc38c31c9024",
+    "text": "검사일시 검사결과 확인자 검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 69,
+      "content_length": 192,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "22a685c1-0ca4-402e-af9d-83eb2c78444b",
+    "text": "검사기관 혈액형 RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 70,
+      "content_length": 183,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "aeadd494-d84d-4929-8119-975c4e28cdfe",
+    "text": "RH NAT HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 71,
+      "content_length": 182,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e288e765-c35c-464f-ac48-bf003535b71e",
+    "text": "HIV HBV HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 72,
+      "content_length": 184,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f2f1079d-50ca-4778-bb9c-613925c1f61a",
+    "text": "HCV 출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 73,
+      "content_length": 178,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b27d6826-11d5-40eb-adad-4a6a859bbfad",
+    "text": "출하 검토 및 승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 74,
+      "content_length": 189,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4104d3a2-e127-4aba-bd11-228519c61af5",
+    "text": "승인일자 승 인 자(서명) 제 조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 75,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "671f036c-c02e-4b7a-8d06-e82091111be1",
+    "text": "조 일 시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 76,
+      "content_length": 192,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4a949eae-d5bc-4003-940f-e992d27750de",
+    "text": "시 유 효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 77,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4d557340-bff4-4405-9947-5a6c87e0ea62",
+    "text": "효 기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 78,
+      "content_length": 195,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3171d826-0e11-418b-aaa0-dfcffd1f2741",
+    "text": "기 간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 79,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "be326328-b9df-4531-9070-89cfef284ea4",
+    "text": "간 Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 80,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "15f5b5bf-fdf6-46e2-93d5-26d1e78e2002",
+    "text": "Page: 1 of 5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 81,
+      "content_length": 208,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a5561ccc-99f0-4ad3-ab18-5a9d6148550b",
+    "text": "5 제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 82,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d5e482da-77c0-4707-909c-9501c856d867",
+    "text": "제조 지시 및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 83,
+      "content_length": 204,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d52576f3-fa75-48b0-b7f7-fe40046e915d",
+    "text": "및 기록서 혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 84,
+      "content_length": 204,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "23321b2b-15ec-4fdf-994b-a50343a715dc",
+    "text": "혈액관리번호 5-1 농축 적혈구의 제조 단위공정 원심분리 순서 작업 절차 작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추\n\n출기에 장착한 후 1~2분 정치시킨다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 85,
+      "content_length": 241,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e47c9bc7-4cae-4a86-aee2-4d7b7071be77",
+    "text": "작업 내용 원심분리기의 온도조건을 설정하고 사전 가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 86,
+      "content_length": 219,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "aa219f82-8a73-40b2-ab50-784968e9ef95",
+    "text": "가동시킨다 혈액의 용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 87,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c8aaf4ff-3d83-4a9c-8404-6444bea533f6",
+    "text": "용량을 확인한다 용량 ㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 88,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d166fdd8-0fa6-4f18-8614-e339e23d5ebf",
+    "text": "㎖ 프로그램 번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 89,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a8682997-6ef6-4983-95dd-ca759a753c85",
+    "text": "번호 혈액백을 넣는다 번 원심분리기를 본 가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 90,
+      "content_length": 211,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "89dba180-4f76-4036-8f4d-5e149af7bdde",
+    "text": "가동시킨다 원심분리가 종료된 후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 91,
+      "content_length": 203,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4d69c068-a247-48b9-8de8-805905433b2c",
+    "text": "후 혈액의 분리상 태를 확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 92,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8101b384-64bb-4519-93b8-5f3a2dbe6c9e",
+    "text": "확인한다 □정상 □이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 93,
+      "content_length": 194,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c84366dd-f552-4c0d-ab03-2eee97f26b05",
+    "text": "□이상 특이 사항 단위공정 농축 적혈구의 분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 94,
+      "content_length": 207,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1021896f-bd34-48bd-b082-a73a4d427eba",
+    "text": "분리 순서 작업 절차 작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 95,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0595aca3-5a9d-4e91-a234-3bace8662448",
+    "text": "작업 내용 6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 96,
+      "content_length": 192,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5888391e-8073-4c97-b5d5-7b75e6c4da33",
+    "text": "6 원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 97,
+      "content_length": 193,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b9d89531-c4a8-4b45-a26a-fd73e3031764",
+    "text": "원심분리가 완료된 혈액백을 혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 98,
+      "content_length": 204,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ed8eed8d-cf53-44ca-ac56-ececf376b4bc",
+    "text": "혈장추 출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 99,
+      "content_length": 191,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "061bf00b-a342-4c1d-bbed-c760c3e01d1c",
+    "text": "출기에 장착한 후 1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 100,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "405daed3-b9ce-4fe3-8982-16a414779478",
+    "text": "1~2분 정치시킨다 ※ 백에 연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 101,
+      "content_length": 203,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "455a9f46-4dd7-43df-be68-9a5a0ca1cdec",
+    "text": "연결된 줄의 이상유무 확인 □정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 102,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4f2b7cf3-bc50-4ae3-b06e-898af79e7c62",
+    "text": "□정상 □이상 ※ 추출기의 종류 □자동 □수동 7 분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호\n\n9 농축 적혈구의 용량을 확인한 후, 보",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 103,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f444580d-3e36-4277-ba0d-dfe1ab32ec0d",
+    "text": "분리된 적혈구와 혈장을 분절하여 혈 장을 보조백으로 이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 104,
+      "content_length": 207,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "03c0a958-b555-4288-a02f-0e8b1dd702fc",
+    "text": "이송시킨다 ※ 혈액의 탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 105,
+      "content_length": 191,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "45c54618-bbd2-40f9-b1a7-1130dcecbe00",
+    "text": "탁도 측정 □정상 □이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 106,
+      "content_length": 187,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71eea180-f309-4b80-a814-b1c6aaa5d3c1",
+    "text": "□이상 8 혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 107,
+      "content_length": 182,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5fbfcc3b-759f-4eaa-a415-378fe3c3f104",
+    "text": "혈장의 이송이 완료되면 연결된 줄을 잠근 후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 108,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8f7df7ee-c9c9-461f-bee7-73d39c510c88",
+    "text": "후, 무게를 측정한다 무게 g ○○○혈액원 작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 109,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0075fd2b-50d0-475c-9112-5477305e0a6f",
+    "text": "작업일시 작업자 확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 110,
+      "content_length": 180,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d8b9b644-82c0-4390-b5f6-564e7f52fefc",
+    "text": "확인자 번 작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 111,
+      "content_length": 180,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f3d5f7d4-7d50-4699-b12e-31cf75610d0e",
+    "text": "작업일시 작업자 확인자 Page: 2 of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 112,
+      "content_length": 195,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "96c03479-5d20-47f3-b7cc-32aaa9cd618d",
+    "text": "of 5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 113,
+      "content_length": 177,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a9a09e94-b3b1-4155-b4e9-1d3b57802666",
+    "text": "5 제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 114,
+      "content_length": 177,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4fbe91d2-ade7-4f6d-b1cc-34fcf3e692fe",
+    "text": "제조 지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 115,
+      "content_length": 180,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3d636be4-4898-4b47-961e-8d238a052028",
+    "text": "지시 및 기록서 혈액관리번호 9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 116,
+      "content_length": 191,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d64a6cab-c382-4374-8a95-92924a06d126",
+    "text": "9 농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 117,
+      "content_length": 178,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "af85af9e-3bd7-4e71-b155-efec688aa139",
+    "text": "농축 적혈구의 용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 118,
+      "content_length": 182,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f9229cbb-91f8-424d-a5cc-6992251e6eff",
+    "text": "용량을 확인한 후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 119,
+      "content_length": 180,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "211ecc12-41de-412d-b6b8-b7c8c947cc36",
+    "text": "후, 보 정이 필요한 경우 잠근 줄을 풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 120,
+      "content_length": 195,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "27df122d-6082-49cf-88f4-e7a235605c07",
+    "text": "풀어 적 혈구 용적률을 조정한다 용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 121,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1313ca9e-f552-4259-817c-e9cc3760fd12",
+    "text": "용적 확인 □ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 122,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0199f603-3cf2-476c-b326-cd172e2d18bf",
+    "text": "□ 용량 g 10 봉합기를 사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 123,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "602427c3-b7d2-457a-b2bd-2039948fc5f9",
+    "text": "사용하여 농축 적혈구가 담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 124,
+      "content_length": 195,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "45a5a6fa-9465-46f7-9d17-44728e7d70b5",
+    "text": "담 긴 백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 125,
+      "content_length": 187,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e0e0f58e-9194-46a4-96a1-0740dd9ca8a2",
+    "text": "백에 연결된 줄을 봉합하고 이상 □정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 126,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f9cf886e-63b7-490a-a9a1-a1bf7944b3c4",
+    "text": "□정상 □이상 유무를 확인한다 ※ 봉합위치 : 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 127,
+      "content_length": 206,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "73b6248a-ffd8-4ce9-ad4b-5d1cefe1ce58",
+    "text": ": 백으로부터 8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 128,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e56803b6-416d-4489-9b6e-8154b66d9f07",
+    "text": "8~10㎝ 특이 사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 129,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5f0163b3-9f5d-4ac2-8b26-aee400c39b9f",
+    "text": "사항 단위공정 무게측정 및 보관소 이송 순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 130,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b66483b8-b0fc-48c8-8be7-84be7f3153ec",
+    "text": "순서 작업 절차 작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 131,
+      "content_length": 193,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "13ab36c4-bb28-4e04-8ec6-dd3b96ce793d",
+    "text": "작업 내용 11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 132,
+      "content_length": 192,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5225b7da-16ff-4a2d-9832-355eeff3d43a",
+    "text": "11 농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 133,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9424c26c-1831-446e-9e20-40b3facf4b95",
+    "text": "농축 적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 134,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1f4129d5-7030-4301-b850-c3c61dcba84b",
+    "text": "적혈구가 담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 135,
+      "content_length": 193,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ffe9eb3e-08c1-4555-b5fc-9e7021ac6b11",
+    "text": "담긴 백에 혈액원 표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 136,
+      "content_length": 201,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d023eac9-47f2-4f3c-badf-253f2b969792",
+    "text": "표 시라벨 부착여부 확인 후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 137,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "586c68f6-813a-4ca7-9864-b87298eb62af",
+    "text": "후, 자동저울 라벨부착 확인□ 을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 138,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6691fdeb-c264-4a70-9fe3-9da8f0bdcf4e",
+    "text": "을 사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 139,
+      "content_length": 192,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "db480c6a-61f8-4c83-bd1d-899e6b0383a1",
+    "text": "사용하여 무게를 측정하고 기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2  (신선)동결혈장의 제조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 140,
+      "content_length": 208,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d47d1457-10f4-4f66-893f-9b6a28a6b778",
+    "text": "기준 에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 141,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9699e433-d7d9-4abd-b057-080f72240b56",
+    "text": "에 적합한지 확인한다 무게 g 12 무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 142,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a82a2e32-bbbc-424b-b80d-2f37ac2cef31",
+    "text": "무게측정이 완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 143,
+      "content_length": 197,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "65264c43-c7b0-498c-ba50-6e7ff7d14f31",
+    "text": "완료된 농축 적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 144,
+      "content_length": 197,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "10a8ace7-a88e-4a49-accd-427574546b4f",
+    "text": "적혈구를 보관용 상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 145,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f7b95ec7-d008-4fd2-b532-aae7ea958cbf",
+    "text": "상자에 담은 후 이송대기 장 소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 146,
+      "content_length": 205,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "94d5a4cf-ab39-4e1d-97d2-bab2ef230c4e",
+    "text": "소로 옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 147,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b8c27f99-e3fb-410e-809e-75366fb007df",
+    "text": "옮긴다 □정상 □이상 13 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 148,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7a9fefda-b625-479c-ab3e-4df8451315b9",
+    "text": "때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 149,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d7038aec-51fb-4cb3-9958-7ec977dfb6fe",
+    "text": "제품의 이상유 무를 확인하고 인계한다 □정상 □이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 150,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e54790e1-c0ac-45c9-b72c-f357b35e9533",
+    "text": "□이상 특이 사항 ○○○혈액원 작업일시 작업자 확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1  농축 적혈구의 제조공정 9가 완",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 151,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f3105742-8542-42f0-8c53-afe9ccf0fd66",
+    "text": "확인자 Page: 3 of 5 제조 지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 152,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "15daed3c-92a0-44b0-bd95-e32cec7d5143",
+    "text": "지시 및 기록서 혈액관리번호 5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 153,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e181239c-b261-4a3b-a1d1-e84e6f7b45fe",
+    "text": "5-2 (신선)동결혈장의 제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 154,
+      "content_length": 205,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "94fdf1f4-2e89-405a-b3a1-3667b80e0395",
+    "text": "제조 단위공정 혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 155,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e720e074-65ac-4cd5-bea6-72e18a35c045",
+    "text": "혈장의 분리, 라벨 부착 및 동결 순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 156,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fde55a3d-5566-4519-8551-02565dc6a770",
+    "text": "순서 작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 157,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "02990917-d982-4b4f-a056-2dee6d0f6480",
+    "text": "작업 절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 158,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f4bfb6c9-41eb-4bc2-add9-f2b860e8ca1f",
+    "text": "절차 작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 159,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "473ac7ba-fdcd-4b8e-8972-51678009ee12",
+    "text": "작업 내용 1 혈장을 구분에 따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 160,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3389c07-6ffd-4640-bf10-5b59ba395b15",
+    "text": "따라 분류한다 □신선동결혈장 ※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 161,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b7eb6d59-778f-4124-ad5a-d006035b9b3e",
+    "text": "※ 신선동결혈장은 채혈후 8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) :",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 162,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7b388bbc-6e19-438d-b3b5-78fd24009549",
+    "text": "8시간 이내 동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 163,
+      "content_length": 205,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f9e8dbbb-2505-4902-8d20-bb8c626bd83e",
+    "text": "동결 □동결혈장 ※ 동결혈장은 채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 164,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "efa1ac88-7fdc-4392-97f7-4359355c9f46",
+    "text": "채혈후 8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 165,
+      "content_length": 206,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "817be222-a6fe-4736-a551-0f1d7e3e13b6",
+    "text": "8~72시간 사이에 동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 166,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "feb6884d-a287-4f0f-a2a2-6fd4ac07b9a5",
+    "text": "동결 5-1 농축 적혈구의 제조공정 9가 완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 167,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "390beed7-44c2-4ad5-b815-ebe27c6789fe",
+    "text": "완 료된 후 혈장이 담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 168,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e4998528-9a7a-4186-98c2-690fcbb29a23",
+    "text": "담긴 백에 연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 169,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3ef37048-d2e4-4611-ba8e-2f1bfba6dbc0",
+    "text": "연결된 줄을 봉합하고 이상유무를 확인한다 □정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 170,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f1fbf72b-5941-4a9c-bcae-8c46737a685f",
+    "text": "□정상 □이상 ※ 봉합위치 3 봉합이 완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 171,
+      "content_length": 221,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ed74c394-1ade-43f7-8d44-bfef0030c02f",
+    "text": "완료된 혈장백에 라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 172,
+      "content_length": 208,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "010328f4-0de6-41dd-b4cd-63dcab17c551",
+    "text": "라벨을 부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 173,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b033fa0f-0208-4c7d-942e-549fc7cc33ee",
+    "text": "부 □수혈용 착한다 □분획제제용 4 라벨이 부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 174,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "00f5df2f-d38a-4116-8ce0-ae0e79bf5ac4",
+    "text": "부착된 혈장백을 자동저울을 이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 175,
+      "content_length": 208,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "952a491a-a22b-44e9-90cb-c9127ef1b23e",
+    "text": "이용하여 무게를 측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 176,
+      "content_length": 201,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4f35d1ad-43c0-4e51-baee-7174367f3479",
+    "text": "측정한다 ※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 177,
+      "content_length": 199,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fed2a394-647f-4790-97ca-11fe4c8f9761",
+    "text": "※ 기준(수혈용) : 무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 178,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e9f40fc3-272b-48fd-98b7-75aa1ce9d557",
+    "text": "무게 g 5 급속동결기의 운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 179,
+      "content_length": 208,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c63af072-1a77-4e55-a18a-99067c927c23",
+    "text": "운전상태 이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5 혈액관리번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 180,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "15766c32-82d4-4584-b831-95225ee95fe1",
+    "text": "이상유무를 확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5 혈액관리번호 특이",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 181,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0a10793a-a690-4077-8a7a-b972430d98e9",
+    "text": "확인한다 □정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5 혈액관리번호 특이 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 182,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "744f919e-4d11-428c-b09e-783b59deaf39",
+    "text": "□정상 □이상 6 급속동결기에 혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5 혈액관리번호 특이 사항 제조 지시 및 기록서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 183,
+      "content_length": 203,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "efe8ad2d-1e75-4ca3-a6c0-ad6a6ff3f2dc",
+    "text": "혈장을 넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5 혈액관리번호 특이 사항 제조 지시 및 기록서 ○○○혈액원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 184,
+      "content_length": 193,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4569f1a3-cb5b-46a1-88aa-1dd2a7d55ba3",
+    "text": "넣은 후 정해 진 방법에 따라 동결시킨다 □정상 □이상 7 급속동결이 완료된 혈장백을 보관용 상자에 담은 후 이송대기 장소로 옮 □정상 □이상 긴다 8 보관소로 이송할 때 제품의 이상유 무를 확인하고 인계한다 □정상 □이상 ○○○혈액원 작업일시 작업자 확인자 Page: 4 of 5 혈액관리번호 특이 사항 제조 지시 및 기록서 ○○○혈액원 Page: 5 of 5",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 185,
+      "content_length": 202,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  }
+]

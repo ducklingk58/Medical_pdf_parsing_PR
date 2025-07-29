@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "c6b0a747-e630-4a51-80ac-f9edc07ce708",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 1,
+      "content_length": 28,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d9b08cac-77e6-418a-8ca5-2f4288ec53d1",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 2,
+      "content_length": 49,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "14effc30-835b-4216-8a81-f78e29efe602",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 3,
+      "content_length": 77,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "dcf8fe73-574d-4faf-9d1e-f53ebf4adb17",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 4,
+      "content_length": 80,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29ee70a3-a3b3-4eb5-b101-e5a3434de450",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 5,
+      "content_length": 88,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fe1069c9-9ec9-4afe-b4d7-177c315b733f",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 6,
+      "content_length": 92,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "88d2b571-cea6-46d7-9d25-5ac4c20b8329",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 7,
+      "content_length": 108,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6f8f85bb-6830-4270-8e18-ff68719b7820",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 8,
+      "content_length": 112,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "666151ce-d829-4c46-abcf-e4af68a816cc",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 9,
+      "content_length": 128,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4ecb09a4-8ec9-40f1-bf91-82c8aef7d327",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 10,
+      "content_length": 132,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5cc727bb-85fc-48a9-a134-642ad06b1b2d",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 11,
+      "content_length": 148,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d7c72384-eef0-4a45-8441-4c57b6387064",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 12,
+      "content_length": 151,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "630b9680-bf19-40c6-a7f9-d8ac773a10e9",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 13,
+      "content_length": 156,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "916397be-6390-4a7c-9ed2-d6a753451305",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 14,
+      "content_length": 159,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "36126fba-1baf-4388-9abd-74bf759699bb",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 15,
+      "content_length": 167,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a365ffba-90ba-4da6-9fc7-bbcf6a759909",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 16,
+      "content_length": 170,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "644e084c-8b86-4f6b-a674-17c4b9bea231",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 17,
+      "content_length": 176,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "60d3958a-d502-4ac0-83ee-b516f6a65eaa",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 18,
+      "content_length": 179,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e63e03ce-0866-4cfb-8b6d-0d335fb80b56",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 19,
+      "content_length": 196,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "38bf7afd-a912-4c77-84f6-507ad0b28eee",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 20,
+      "content_length": 217,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f48c7105-d353-4fc8-b3ce-6e57b61bf05f",
+    "text": "MFDS/MaPP : GRP-MaPP-허가업무-07 의약품 허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 21,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "137dba52-d92d-432a-b1e8-862defed9b28",
+    "text": "허가증 및 등록증 재발급 업무 Re-issuance of Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 22,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d0e0199a-af09-4a2a-8a3e-a595e723473a",
+    "text": "Drug License 구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 23,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0f7f4043-1d98-42b9-86fb-88f926674603",
+    "text": "구분 소속 및 이름 작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 24,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2a9a9a4c-533e-4af8-99c5-d965f938e67b",
+    "text": "작성자 허가총괄담당관 주무관 박 향 검토자 허가총괄담당관 사무관 김지선 승인자 허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 25,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bcad5b3d-66f8-4869-9c16-953ccfc69adc",
+    "text": "허가총괄담당관 과 장 이수정 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 의약품 허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 26,
+      "content_length": 279,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6a7515a5-20ea-4bb0-8d05-1241d298d6ef",
+    "text": "허가증 및 등록증 재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 27,
+      "content_length": 229,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "213e9403-67d3-46f0-b6f1-b23c10f08a41",
+    "text": "재발급 업무 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 28,
+      "content_length": 248,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "861638e8-8280-436e-bad5-8c6ef38e7daf",
+    "text": "체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 29,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0bad545b-7587-4b13-a373-cee4686a64f7",
+    "text": "이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 \n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 \n\n□ 일회성 지시ㆍ명령에 해당하는 내용입니까 \n\n□ 외국 규정을 단순 번역하거나 설명하는 내용입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 30,
+      "content_length": 320,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7f0c08ef-9cc9-482d-aa7e-f89d827b3373",
+    "text": "우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 31,
+      "content_length": 256,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c5a02d04-ddbf-411e-93b5-eb460be2d8b5",
+    "text": "경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 32,
+      "content_length": 219,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f7519750-3a65-41c6-8e11-c22bb33b2d9e",
+    "text": "사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 □ 예 ■ 아니오 나열한 것입니까 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 33,
+      "content_length": 298,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "53a73f19-6e43-4253-8a9e-a28b50d90d3c",
+    "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 34,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f0766c0a-a174-4c3e-bb9e-8f89026fd0f0",
+    "text": "일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까  (공무원용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 35,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29ac19af-735d-4004-b0e7-0ec716ba32fd",
+    "text": "외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 36,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f0e86a1d-3245-4bab-83f2-075b33660fb3",
+    "text": "설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 37,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "69f29089-c2fb-4fc7-b5a8-1caf5e00373a",
+    "text": "직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 38,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f972b473-53af-4fc4-956a-3dd70a83e388",
+    "text": "쉽게 정리한 자료입니까 ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 39,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4afe7720-70bb-49b1-8256-30e739a8225b",
+    "text": "상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 40,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "391ecd03-769d-47df-b448-4ab735b42606",
+    "text": "하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 41,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "10f36bee-9131-408f-964d-eb4743f392b8",
+    "text": "적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 42,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ae2bdbf8-4756-4538-bc0c-684fda09e169",
+    "text": "통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 43,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "36f84752-3bae-43e7-89b9-ca8a6db213c7",
+    "text": "행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 44,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "487d5a84-065d-4de4-b60c-4bf563592abf",
+    "text": "절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이 수 정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 45,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c80ef032-247e-4268-8bdd-d1d7b29437cc",
+    "text": "(공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이 수 정 이 지침서는 의약품 허가증 및 등록증 재발급 업무의 세부 지침을 정한 것으로서\n\n식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 \n\n본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 46,
+      "content_length": 325,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "14957b97-8aed-4cfc-80e1-959dc7707fce",
+    "text": "상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이 수 정 이 지침서는 의약품 허가증 및 등록증 재발급 업무의 세부 지침을 정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다  또한,",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 47,
+      "content_length": 245,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "58db5ac3-452e-4939-93f2-cd5eb5e0c1da",
+    "text": "진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 이 수 정 이 지침서는 의약품 허가증 및 등록증 재발급 업무의 세부 지침을 정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 48,
+      "content_length": 255,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71c00f77-c3bb-4e54-a015-d0171cbe5c6f",
+    "text": "정 이 지침서는 의약품 허가증 및 등록증 재발급 업무의 세부 지침을 정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 49,
+      "content_length": 248,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9928ef86-b11b-43e5-9b20-8a225e5d1f33",
+    "text": "정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 50,
+      "content_length": 258,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "04ce99eb-2fcb-4912-b4dc-91f22a0862e5",
+    "text": "본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 51,
+      "content_length": 225,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "66a6d9a0-123c-4082-b7a7-e3a4f67b193b",
+    "text": "대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 52,
+      "content_length": 223,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4bf56b3e-d5d9-4f79-9b98-ae0bcb98fdb3",
+    "text": "법적 효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 53,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "80bdae8f-a3c8-4eef-a06d-593544df49b7",
+    "text": "효력을 가지는 것이 아니므로 본문의 기술 방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 54,
+      "content_length": 260,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "263ae9bd-d3e0-4190-801f-cfa35a313b99",
+    "text": "참고로만 활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 55,
+      "content_length": 219,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f2dd0a32-61a9-45ca-be94-1e44ddd86dea",
+    "text": "활용하시기 바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 56,
+      "content_length": 219,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "53b866ed-f35e-44fc-8cac-a15b499c34e9",
+    "text": "바랍니다 또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 57,
+      "content_length": 216,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7913c870-8a41-4d9d-9f3f-584614815f94",
+    "text": "또한, 본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개 유효일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 58,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "270f374b-01cc-49f4-9f98-e3ee4fded7ca",
+    "text": "본 지침서는 2021년 12월 30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 59,
+      "content_length": 233,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2db2da5b-33d0-4c69-9a72-db956d052b19",
+    "text": "30일 현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 60,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d915d2cd-1abc-4791-8dda-4d9ba681e706",
+    "text": "현재 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 지침서(편람)에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화:",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 61,
+      "content_length": 262,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3a927d41-7db3-4e6e-883f-7addc0f5b70e",
+    "text": "내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 지침서(편람)에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 62,
+      "content_length": 232,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b6ed69ab-58da-4c62-bfdd-871e8a29f7e9",
+    "text": "등에 따라 달리 적용될 수 있음을 알려드립니다 ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 허가총괄담당관으로 문의하시기 바랍니다 <개요> 목적 이 지침서(편람)는 의약품 허가증 및 등록증 재발급 업무처리 절차를 기술하기 위함이다 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 지침서(편람)에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 허가증 및 원료의약품 등록증(이하 “허가증 및 등록증”)를\n\n잃어버리거나 못쓰게 된 경우 또는 허가증 및 등록증의 기재사항이 변경된 경우에\n\n허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 63,
+      "content_length": 372,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f928ad3f-3a47-4905-bb40-88ebfeb9a016",
+    "text": "위함이다 공개여부 공개 유효일 이 지침서(편람)는 발간일로부터 유효함 연락처 이 지침서(편람)에 대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 허가증 및 원료의약품 등록증(이하 “허가증 및 등록증”)를 잃어버리거나 못쓰게 된 경우 또는 허가증 및 등록증의 기재사항이 변경된 경우에 허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다  의약품 제조판매품목, 수입품목 허가증 및 원료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 64,
+      "content_length": 280,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "37ce205d-0b05-4545-bc21-684dd82ecb66",
+    "text": "대하여 문의사항 및 추가의견이 있는 경우 허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 허가증 및 원료의약품 등록증(이하 “허가증 및 등록증”)를 잃어버리거나 못쓰게 된 경우 또는 허가증 및 등록증의 기재사항이 변경된 경우에 허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 65,
+      "content_length": 252,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "11a64b4c-3a37-4537-8673-5be0138e1b99",
+    "text": "허가총괄담당관(전화: <목차> 의약품 제조판매품목, 수입품목 허가증 및 원료의약품 등록증(이하 “허가증 및 등록증”)를 잃어버리거나 못쓰게 된 경우 또는 허가증 및 등록증의 기재사항이 변경된 경우에 허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다 3 1  허가증 및 등록증",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 66,
+      "content_length": 244,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "760c135d-56c1-4b2d-8068-f869ac189f19",
+    "text": "허가증 및 원료의약품 등록증(이하 “허가증 및 등록증”)를 잃어버리거나 못쓰게 된 경우 또는 허가증 및 등록증의 기재사항이 변경된 경우에 허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 67,
+      "content_length": 254,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7f38ff1a-d01e-4d3a-9fc9-b001b3a079f1",
+    "text": "경우 또는 허가증 및 등록증의 기재사항이 변경된 경우에 허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지 제10호서식]을 말한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 68,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "281d3006-6763-4784-8765-b8d181ae9665",
+    "text": "허가증 및 등록증의 기재사항이 변경된 경우에 허가증 및 등록증을 재발급해주는 업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지 제10호서식]을 말한다 원료의약품 등록증은 「의약품 등의 안전에 관한 규칙」 [별지 제17호서식]을 말한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 69,
+      "content_length": 262,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "16db077f-cfaf-4773-a30e-c4bfeec6e6ae",
+    "text": "업무의 세부절차를 문서화하여 업무의 정확성, 일관성 및 투명성을 확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지 제10호서식]을 말한다 원료의약품 등록증은 「의약품 등의 안전에 관한 규칙」 [별지 제17호서식]을 말한다 3 2  허가증 및 등록증 재발급 업무 담당자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 70,
+      "content_length": 245,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "85680505-c73a-41d7-ac2d-46e516d965e7",
+    "text": "확보하기 위한 것이다 의약품 제조판매품목, 수입품목 허가증 및 원료 의약품 등록증의 재발급에 대하여 기술하고자 한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지 제10호서식]을 말한다 원료의약품 등록증은 「의약품 등의 안전에 관한 규칙」 [별지 제17호서식]을 말한다 3 2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 71,
+      "content_length": 250,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f3037309-7ec2-4920-b2ce-416cf6807b20",
+    "text": "등록증의 재발급에 대하여 기술하고자 한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지 제10호서식]을 말한다 원료의약품 등록증은 「의약품 등의 안전에 관한 규칙」 [별지 제17호서식]을 말한다 3 2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3  의약품 통합정보시스템",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 72,
+      "content_length": 225,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "01174404-693e-466f-9e75-d7df08e9aedc",
+    "text": "한다 3 1 허가증 및 등록증 의약품 제조판매품목 및 수입품목허가증은 「의약품 등의 안전에 관한 규칙」 [별지 제10호서식]을 말한다 원료의약품 등록증은 「의약품 등의 안전에 관한 규칙」 [별지 제17호서식]을 말한다 3 2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처\n\n전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다  의약품",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 73,
+      "content_length": 296,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "126a44e0-f4fb-4c69-8f40-dcf93aacccbd",
+    "text": "말한다 원료의약품 등록증은 「의약품 등의 안전에 관한 규칙」 [별지 제17호서식]을 말한다 3 2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 74,
+      "content_length": 280,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f3cbc77b-07b1-4a92-a8b2-9c96eb55ae99",
+    "text": "규칙」 [별지 제17호서식]을 말한다 3 2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 75,
+      "content_length": 255,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "54311908-ebb2-497c-8d0e-f7caecb105c8",
+    "text": "[별지 제17호서식]을 말한다 3 2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 76,
+      "content_length": 266,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "69b48714-3b3f-4d3d-a067-e3b19b145692",
+    "text": "2 허가증 및 등록증 재발급 업무 담당자 허가증 및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1  허가증 및 등록증 재발급 신청서 접수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 77,
+      "content_length": 273,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "19c9072a-30dd-461c-b36f-045637a8f95d",
+    "text": "및 등록증 재발급 업무를 담당하는 허가총괄담당관 소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 78,
+      "content_length": 274,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "abf98ca3-1c97-411a-987d-827acef897d8",
+    "text": "소속 직원을 말한다 3 3 의약품 통합정보시스템 인터넷을 이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2  허가증 및 등록증 재발급 신청사항 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 79,
+      "content_length": 274,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "01cc243c-50ee-48c8-a716-9921fa254578",
+    "text": "이용하여 민원서류, 구비자료 등을 접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 80,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "297ad8c7-94ad-49c0-ae97-34cd85fc73ae",
+    "text": "접수할 수 있도록 구현된 식품의약품안전처 전자민원시스템으로 의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3  허가증 및 등록증 재발급",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 81,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "84f9394e-1a40-441c-b9b6-c41599f3158f",
+    "text": "의약품안전관리를 위한 의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 82,
+      "content_length": 248,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "affec1d8-6abe-4fca-8975-35480fb18ace",
+    "text": "의약품 행정통합시스템을 말한다 의약품 안전나라(https://nedrug mfds go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 83,
+      "content_length": 281,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ecf8821e-726b-4ee5-8b9e-9a3951330445",
+    "text": "go kr)(대외용) 및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 84,
+      "content_length": 239,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5539a90d-25e3-4c9b-b119-7f6d01eeeeb8",
+    "text": "및 의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 85,
+      "content_length": 232,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "67fecae8-6534-47c4-9de4-00e617388198",
+    "text": "의약품 통합정보시스템(대내용)을 포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 86,
+      "content_length": 239,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b0280acf-e9a0-4112-927a-be326fbe327e",
+    "text": "포함한다 내용과 절차는 다음과 같다 4 1 허가증 및 등록증 재발급 신청서 접수 허가총괄담당관에 접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청\n\n[붙임1] 허가증 및 등록증 재발급 표준 운영 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 87,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9b0a601d-87a9-437a-9a6c-ecef218f112d",
+    "text": "접수된 신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 88,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bd1e15b5-3da5-4a07-a516-d708e59c5555",
+    "text": "신청서 및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 89,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "30b07413-b237-47fb-97f3-1770b8b53318",
+    "text": "및 수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 90,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "47e35f14-11b4-4812-b4cd-64eefdbe3295",
+    "text": "수수료를 확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 91,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "21fb074c-d2d6-4e4c-83e1-4dcd249092fe",
+    "text": "확인한다 4 2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 92,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ed20511f-2f86-49de-ab8c-91f349d44086",
+    "text": "2 허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 93,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6c72dc37-7dc7-4b6b-b2f8-95b3fa4443b2",
+    "text": "허가증 및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 94,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "691a6c8a-6a0d-447a-a586-d08e6ce5e526",
+    "text": "및 등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 95,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d4aac9d7-8c2f-4b4b-bdce-12d09a5ef465",
+    "text": "등록증 재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 96,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "65337219-74e2-4dca-abed-a626fdf7ff24",
+    "text": "재발급 신청사항 확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관  허가총괄담당관)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 97,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4155064e-a14e-4ac5-8d04-76ad6b9f6331",
+    "text": "확인 「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 98,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6c8263ad-3c1b-4594-bc00-3b43892f657e",
+    "text": "「의약품 통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 99,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "52f8de64-5a87-41d8-bf71-841b2e487a3e",
+    "text": "통합정보시스템」품목대장의 허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 100,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "18e4dbf1-6159-4e89-a1fa-717e60b2b349",
+    "text": "허가사항을 확인한다 4 3 허가증 및 등록증 재발급 등록증을 재발급한다 의약품안전나라(https://nedrug mfds go kr)에서 출력 가능하다 종 목 전자민원 방문·우편 민원 의약품등 허가증, 승인서 등의 재발급 신청 [붙임1] 허가증 및 등록증 재발급 표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서\n\n■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021  3  8 > [ ]등록증 [ ]허가증 [ ]승인서\n\n[ ]지정서 [ ]신고증 [ ] 적합판정서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 101,
+      "content_length": 357,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2e0a89ab-851f-435e-9ae6-056f9883b181",
+    "text": "표준 운영 절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 102,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cf3038b2-381c-4654-b2ab-b0e74b17655b",
+    "text": "절차 협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 103,
+      "content_length": 213,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "33d2a023-e712-4bd6-9daa-dbed1759a0ac",
+    "text": "협조부서 신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 104,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "eaf1be66-2f0f-4f10-8792-ebdd5e6c86b9",
+    "text": "신청자 신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 105,
+      "content_length": 213,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6cff9aec-025d-455d-9462-5ce00266c35a",
+    "text": "신청 통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 106,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "352b926d-cb8d-46cb-acec-5b9039669fdc",
+    "text": "통지 등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 107,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c48d06b3-839d-407f-9595-58e6c6a1d112",
+    "text": "등록증 등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 108,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c22dcc73-0bdf-4c2c-b8d1-850177eda0e9",
+    "text": "등 발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 109,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d9b57e00-9e29-4760-8fe9-b74104b0d52a",
+    "text": "발급 처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 110,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "66f7c4c7-00af-472c-9d1f-88bf3ede66b4",
+    "text": "처리부서 허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 111,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "794950e3-52b1-4e1a-bc03-5c349326a62c",
+    "text": "허가총괄담당관 접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 112,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a829a567-cfa1-4831-8b30-82e900d6eb0e",
+    "text": "접수 (고객지원담당관 허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: )",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 113,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4fdddf94-1205-44c6-9ec3-e803ce344184",
+    "text": "허가총괄담당관) 서류검토 (허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 114,
+      "content_length": 232,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71d65821-3f3f-4ea8-8823-bb968b27fb53",
+    "text": "(허가총괄담당관) (허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 115,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cd0e08c3-3e4c-48e0-9f7c-196fff7a9197",
+    "text": "(허가총괄담당관) [붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 116,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "68ec3e0f-d55a-4355-b99f-3dccfa93a032",
+    "text": "[붙임2] 허가증 및 등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 117,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "814952f6-5292-4f54-86a1-b8638d85e96c",
+    "text": "등록증 재발급 신청서 ■ 의약품 등의 안전에 관한 규칙 [별지 제72호서식] <개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유\n\n「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 118,
+      "content_length": 271,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d9ac3f44-eea6-40eb-90cd-eb40ef0209e5",
+    "text": "<개정 2021 3 8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 119,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "50eed534-c510-4a66-9c70-76c5ef0e9165",
+    "text": "8 > [ ]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 120,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12e95e15-2ad8-4ad9-bfd7-67251325beb9",
+    "text": "]등록증 [ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 121,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3c582ca2-7e58-4faf-9415-af012fb01479",
+    "text": "[ ]허가증 [ ]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 122,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "061e6d27-976f-49f6-8af9-ea01cd777875",
+    "text": "]승인서 [ ]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 123,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5f684ff9-ac18-467a-adfc-d1b41bf35305",
+    "text": "]지정서 [ ]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 124,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ad65f33d-0a1e-4d02-bb41-884af061d356",
+    "text": "]신고증 [ ] 적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 125,
+      "content_length": 299,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "312bd322-5df2-468b-b720-965012fa73fd",
+    "text": "적합판정서 재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 126,
+      "content_length": 293,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "067766b8-d4db-42b6-98da-849b5b7875ee",
+    "text": "재발급 신청서 접수번호 접수일 발급일 처리기간 7일 성명 생년월일 신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 127,
+      "content_length": 321,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a6c5e4a3-b9cb-4c2c-b6b3-c9f7197301be",
+    "text": "신청인 명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 128,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "77e56c06-f26a-42b5-93f1-25eda62066de",
+    "text": "명칭 전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 129,
+      "content_length": 289,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f245d437-2342-49b7-9141-86cc5634f53a",
+    "text": "전화번호 소재지(우편번호: ) 허가ㆍ등록ㆍ승인ㆍ지정ㆍ신고ㆍ적합판정 번호 업종구분 신청내용 재발급 받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 130,
+      "content_length": 320,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "27d24e25-f40b-49ad-96c4-dee097d9dd64",
+    "text": "받으려는 사항 신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 131,
+      "content_length": 281,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "48826b62-e650-43a7-8e16-e9c2435f7883",
+    "text": "신청사유 「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 132,
+      "content_length": 280,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4bb31366-ff5f-43ef-9b11-c04d6fa46a5e",
+    "text": "「의약품 등의 안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 133,
+      "content_length": 282,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b5614f67-d43c-4d8a-8a43-19b1903c711d",
+    "text": "안전에 관한 규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 134,
+      "content_length": 280,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "21457f95-a7fb-4118-88b7-13f146f74c66",
+    "text": "규칙」 제96조제1항에 따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 135,
+      "content_length": 280,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d29f5731-29e9-41ab-9540-a82beddec2a5",
+    "text": "따라 위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 136,
+      "content_length": 269,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "84c6a203-ed6a-4391-abdd-e7f6a2085eb1",
+    "text": "위와 같이 등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 137,
+      "content_length": 270,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9a94994b-30a9-4de0-8000-42e0b56f87cd",
+    "text": "등록증ㆍ허가증ㆍ승인서ㆍ지정서ㆍ신고증 ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 138,
+      "content_length": 266,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "031da211-d60f-4174-b651-33445c8f825f",
+    "text": "ㆍ적합판정서의 재발급을 신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 139,
+      "content_length": 250,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "37b320d5-2e0c-4b1e-9a52-3fe7e36dee5d",
+    "text": "신청합니다 년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 140,
+      "content_length": 239,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "01d5922f-c181-423c-a564-7d5fe6c8fc51",
+    "text": "년 월 일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 141,
+      "content_length": 237,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c7e641bb-8953-45cd-a69d-a472af550e50",
+    "text": "일 신청인 (서명 또는 인) 담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 142,
+      "content_length": 246,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ad35ef1d-f246-464c-aa0a-b6c1bbabd2cb",
+    "text": "담당자 성명 담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 143,
+      "content_length": 234,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f1a1e5b5-0e62-4c32-b458-cd752978e42c",
+    "text": "담당자 전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 144,
+      "content_length": 231,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "477ff614-66dc-4f20-b44e-08f3d6abbb62",
+    "text": "전화번호 식품의약품안전처장ㆍ지방식품의약품안전청장 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ 특별자치도지사ㆍ시장ㆍ군수ㆍ구청장 귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 145,
+      "content_length": 260,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "97d5ec31-19ca-4d04-b32c-12f6d72a0bd5",
+    "text": "귀하 허가증 등이 못 쓰게 되었거나 허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 146,
+      "content_length": 225,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "617cf3dc-5c89-493a-96de-d8c5a0fa94b5",
+    "text": "허가증 등의 기재사항 변경으로 수수료 첨부서류 인한 경우에는 그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 147,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "66261b52-e34b-49cf-a70c-f1ba5fdd2549",
+    "text": "그 허가증 등(전자문서로 발급받은 경우는 각각 식품의약품안전처장이 정하여 제외합니다) 고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 148,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "17926034-108b-41fd-87d3-9cdf10e1ecbd",
+    "text": "고시한 금액 처리 절차 신청서 작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 149,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ee997056-362c-40d1-b131-04397751aa3f",
+    "text": "작성 è 접 수 è 검 토 è 결 재 è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 150,
+      "content_length": 236,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5fc34479-d601-4e70-bae6-1b5fd58867ef",
+    "text": "è 등록증 등 작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 151,
+      "content_length": 227,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "71183d3b-e3da-4ed5-832a-2f796d43f496",
+    "text": "작성 è 발 급 신청인 식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨)  끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 152,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "17623310-e50c-4789-9243-476219e88303",
+    "text": "식품의약품안전처, 지방식품의약품안전청, 시ㆍ도, 시ㆍ군ㆍ구 [붙임3-1] 허가증 및 등록증 재발급 공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 153,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "607eecec-a932-4b8b-99b0-23d1157fd76f",
+    "text": "공문(품목허가증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 154,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "099ad3c0-517f-46ba-a265-d45901e0a9ca",
+    "text": "전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 155,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "758b4b42-73aa-4c88-a685-cb6d90631ba0",
+    "text": "주소 ) (경유) 제목 의약품 품목 허가증 재발급[〇〇제약(주)-제품명] 목) 허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 156,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "90a4ca5f-bb7d-481f-a7c8-57f517522959",
+    "text": "허가증 재발급 신청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명]",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 157,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "09deb1c1-1b14-4d09-848f-49f774bb7479",
+    "text": "「의약품 등의 안전에 관한 규칙」 하여 주시기 바랍니다 붙임 : 품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 158,
+      "content_length": 234,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6c6c4dbd-7423-417b-af13-5ca80a5e4985",
+    "text": "품목허가증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 159,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6f6c3b7e-15e3-4c59-b36d-bf246fb2157d",
+    "text": "식 품 의 약 품 안 전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨)  끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 160,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2aecfb35-0f0d-4ad8-a528-8def58797724",
+    "text": "전 처 장 [붙임3-2] 허가증 및 등록증 재발급 공문(원료의약품 등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 161,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a1dac31d-9482-4977-9730-38576ba88b99",
+    "text": "등록증) 식 품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 162,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0bb432f8-4c9b-406b-93ca-bdac39285100",
+    "text": "품 의 약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 163,
+      "content_length": 193,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1598e4dc-4122-4502-8bd3-cbff77a29ea8",
+    "text": "약 품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 164,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bb656749-d012-4e64-bb2f-23d1454077de",
+    "text": "품 안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 165,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0bd26b51-52ef-4550-8043-f437e7870e26",
+    "text": "안 전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 166,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7ecdc753-6bc4-49c7-86bf-c0367cd17d4c",
+    "text": "전 처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 167,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c89de656-e415-42eb-83ae-752fffc17228",
+    "text": "처 수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 168,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8c89f7e8-0ee6-448b-b964-7366bc6855c5",
+    "text": "수신자 〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 169,
+      "content_length": 215,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "52f9b5bd-bf20-4158-99c8-bcf0fc6118c7",
+    "text": "〇〇제약(주), 대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 170,
+      "content_length": 228,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "793b32c9-092a-4958-a40f-a972076b9f79",
+    "text": "대표 : 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 171,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1f8b55c5-8b28-4523-be42-f68e4f65fa8d",
+    "text": ": 〇〇〇귀하 (우〇, 주소 ) (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 172,
+      "content_length": 234,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0d3b416a-6076-4255-81cb-98ffc198dbe3",
+    "text": ") (경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 173,
+      "content_length": 221,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e25427f3-7d62-4ded-b771-d9f14e1d4bdc",
+    "text": "(경유) 제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 174,
+      "content_length": 222,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "40dc0ece-81d8-4dcf-bd6a-2b619fc5a824",
+    "text": "제목 원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 175,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9f1ff52b-9b37-4429-9854-9783b20c9451",
+    "text": "원료의약품 등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 176,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a1ac1e92-cf56-4440-aa89-9c4a93b8aae0",
+    "text": "등록증 재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동 상동 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 177,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ac3ad173-ab2c-4209-87d1-c945b65ccaee",
+    "text": "재발급[〇〇제약(주)-제품명] 청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동 상동 작성자 도희정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 178,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fedd024b-1bad-4887-b4c6-4b015b93264f",
+    "text": "청(접수번호)에 대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동 상동 작성자 도희정 송주경",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 179,
+      "content_length": 205,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a8fa06db-ab44-47ad-9988-acc6deddb8a4",
+    "text": "대하여 「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동 상동 작성자 도희정 송주경 박병길",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 180,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4432d969-9dc1-4115-80cb-081a45c49ada",
+    "text": "「의약품 등의 안전에 관한 규칙」 제96조에 따라 등록증 하여 주시기 바랍니다 붙임 : 원료의약품 등록증 1부(별첨) 끝 식 품 의 약 품 안 전 처 장 연번 연도 개정 이력 편람코드 개정번호 GRP-MaPP-허가업무-06 제정 상동 상동 GRP-MaPP-허가업무-07 편람명 의약품 허가증 등 재발급 업무 상동 상동 상동 작성자 도희정 송주경 박병길 박향",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 181,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  }
+]

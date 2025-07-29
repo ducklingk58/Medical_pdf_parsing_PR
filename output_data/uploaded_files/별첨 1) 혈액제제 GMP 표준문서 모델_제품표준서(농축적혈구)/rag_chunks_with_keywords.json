@@ -1,0 +1,5408 @@
+[
+  {
+    "text": "Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "Title"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "Title",
+      "Approval"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "Title",
+      "Approval",
+      "작성자",
+      "Prepared"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "검토",
+      "검토",
+      "by",
+      "Title"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "검토",
+      "검토",
+      "by",
+      "Title"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "검토",
+      "검토",
+      "by",
+      "Title"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "검토",
+      "검토",
+      "by",
+      "Title"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "검토",
+      "검토",
+      "by",
+      "Title"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Title 승인 Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "Approval 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "검토",
+      "검토",
+      "by"
+    ]
+  },
+  {
+    "text": "by 승인자 Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "승인",
+      "표준",
+      "No",
+      "제품표준서",
+      "Master"
+    ]
+  },
+  {
+    "text": "Approved by Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "제품표준서",
+      "Master",
+      "Date"
+    ]
+  },
+  {
+    "text": "Standard Code Document No SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "제품표준서",
+      "Master",
+      "Revision"
+    ]
+  },
+  {
+    "text": "SCMF-01 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "제품표준서",
+      "Master",
+      "Revision"
+    ]
+  },
+  {
+    "text": "제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "제품표준서",
+      "Master"
+    ]
+  },
+  {
+    "text": "Master formula Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "Master",
+      "Revision"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "Revision",
+      "Effective"
+    ]
+  },
+  {
+    "text": "Effective Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Date",
+      "No",
+      "Effective",
+      "제품표준서"
+    ]
+  },
+  {
+    "text": "Date 제품표준서 (농축적혈구) Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Date",
+      "No",
+      "제품표준서",
+      "Master"
+    ]
+  },
+  {
+    "text": "Master Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Date",
+      "No",
+      "Master",
+      "Revision"
+    ]
+  },
+  {
+    "text": "Formula 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Date",
+      "No",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "Role 성명 / 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Date",
+      "No",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "/ 서명 / 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "/ 일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "일자 Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "Name / Signature / Date Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Date",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "Page: 1 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "Page",
+      "of"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "Date",
+      "of"
+    ]
+  },
+  {
+    "text": "Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "Date",
+      "Standard"
+    ]
+  },
+  {
+    "text": "Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "Date",
+      "Code"
+    ]
+  },
+  {
+    "text": "Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "Date",
+      "Title"
+    ]
+  },
+  {
+    "text": "(농축 적혈구) Master formula Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Revision",
+      "No",
+      "Date",
+      "농축"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Revision",
+      "No",
+      "Date",
+      "Contents"
+    ]
+  },
+  {
+    "text": "개정 이력 Revision History No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "Revision",
+      "No",
+      "Contents"
+    ]
+  },
+  {
+    "text": "No 개정일 Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "No",
+      "Contents",
+      "Date"
+    ]
+  },
+  {
+    "text": "Revised Date 내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "Contents",
+      "No",
+      "Date"
+    ]
+  },
+  {
+    "text": "내역 Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "Contents",
+      "SCMF",
+      "01"
+    ]
+  },
+  {
+    "text": "Contents 최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "Contents",
+      "SCMF",
+      "01"
+    ]
+  },
+  {
+    "text": "최초 제정 SCMF-01 작성자 Written by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "SCMF",
+      "01",
+      "No"
+    ]
+  },
+  {
+    "text": "by OOO Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "No",
+      "Revision",
+      "Page"
+    ]
+  },
+  {
+    "text": "Page: 2 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "No",
+      "Revision",
+      "Page"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "of",
+      "No",
+      "Revision",
+      "12"
+    ]
+  },
+  {
+    "text": "Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "of",
+      "Document"
+    ]
+  },
+  {
+    "text": "No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "No",
+      "Revision",
+      "of",
+      "SCMF"
+    ]
+  },
+  {
+    "text": "SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Revision",
+      "No",
+      "of",
+      "SCMF"
+    ]
+  },
+  {
+    "text": "Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC)",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Revision",
+      "No",
+      "of",
+      "Title"
+    ]
+  },
+  {
+    "text": "formula Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "Revision",
+      "No",
+      "of",
+      "formula"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "표준",
+      "Revision",
+      "No",
+      "of"
+    ]
+  },
+  {
+    "text": "No Effective Date 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일)",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "변경",
+      "표준",
+      "No"
+    ]
+  },
+  {
+    "text": "Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "변경",
+      "표준",
+      "of"
+    ]
+  },
+  {
+    "text": "History 목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "변경",
+      "표준",
+      "of"
+    ]
+  },
+  {
+    "text": "목차 Table of Contents Page: 3 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "변경",
+      "표준",
+      "of"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "변경",
+      "표준",
+      "No"
+    ]
+  },
+  {
+    "text": "12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "변경",
+      "표준",
+      "No"
+    ]
+  },
+  {
+    "text": "Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "방법",
+      "변경",
+      "표준"
+    ]
+  },
+  {
+    "text": "Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "방법",
+      "변경",
+      "기간"
+    ]
+  },
+  {
+    "text": "Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "방법",
+      "변경",
+      "기간"
+    ]
+  },
+  {
+    "text": "No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634)",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "방법",
+      "변경",
+      "기간"
+    ]
+  },
+  {
+    "text": "Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "제조",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "허가",
+      "의약품",
+      "제조",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "적혈구) Master formula Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1  제품정보>",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "제품 개요 Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "Product Summary 구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "구분 내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "내용 혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "혈액제제명 Red Blood Cells (약어: RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "RBC) 구분 전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "전문의약품/단일제/주사제 허가 연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "의약품",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "연월일 (변경 연월일) 허가 받은 혈액 및 분량 인적혈구농축액 100 mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "허가",
+      "제조",
+      "방법",
+      "변경"
+    ]
+  },
+  {
+    "text": "mL 성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "제조",
+      "방법",
+      "기간",
+      "표준"
+    ]
+  },
+  {
+    "text": "성상 사람의 혈액으로부터 혈장의 대부분을 제거한 농적색의 액상제제 포장단위 저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "제조",
+      "방법",
+      "기간",
+      "표준"
+    ]
+  },
+  {
+    "text": "저장방법 사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "제조",
+      "방법",
+      "기간",
+      "표준"
+    ]
+  },
+  {
+    "text": "사용(유효)기간 기타 혈액제제류 (634) 제조처 OO 혈액원 <표 1 제품정보> Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "제조",
+      "기간",
+      "표준",
+      "효과"
+    ]
+  },
+  {
+    "text": "Page: 4 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다 2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "효과",
+      "결정",
+      "결정",
+      "No"
+    ]
+  },
+  {
+    "text": "제품표준서 (농축 적혈구) Master formula Revision No Effective Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다 2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야 한다  산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "표준",
+      "효과",
+      "결정",
+      "결정",
+      "효능효과"
+    ]
+  },
+  {
+    "text": "Date 효능효과, 용법용량 및 사용상의 주의사항 Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다 2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야 한다 산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등 결정질(Crystalloid)을 사람적혈구농축액과 함께 수혈함으로써 사람보존혈액 수혈에",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "효과",
+      "결정",
+      "결정",
+      "효능효과",
+      "용법용량"
+    ]
+  },
+  {
+    "text": "Efficacy, Dosage, Caution to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다 2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야 한다 산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등 결정질(Crystalloid)을 사람적혈구농축액과 함께 수혈함으로써 사람보존혈액 수혈에 대치할 수 있다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "효과",
+      "결정",
+      "결정",
+      "산소운반능과",
+      "요구되는"
+    ]
+  },
+  {
+    "text": "to Using 효능효과 산소운반능과 적혈구의 보충이 요구되는 정상혈액량을 가진 빈혈환자의 치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다 2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야 한다 산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등 결정질(Crystalloid)을 사람적혈구농축액과 함께 수혈함으로써 사람보존혈액 수혈에 대치할 수 있다 1,200 mL 이상의 출혈에 대해서는 사람적혈구농축액과 결정질 용액의 수혈이 필요하다",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "효과",
+      "결정",
+      "결정",
+      "산소운반능과",
+      "요구되는"
+    ]
+  },
+  {
+    "text": "치료에 사용된다 용법용량 2 2 1 반드시 수혈용 세트를 통해서 정맥으로 수혈해야 한다 2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야 한다 산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등 결정질(Crystalloid)을 사람적혈구농축액과 함께 수혈함으로써 사람보존혈액 수혈에 대치할 수 있다 1,200 mL 이상의 출혈에 대해서는 사람적혈구농축액과 결정질 용액의 수혈이 필요하다 사용 상의 주의사항\n\n2 3 2 사람적혈구농축액의 경우에도 사람보존혈액과 마찬가지로 수혈부작용이 초래할 수",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "결정",
+      "결정",
+      "한다",
+      "결정질",
+      "사람적혈구농축액과"
+    ]
+  },
+  {
+    "text": "2 2 2 수혈양은 적혈구용적율(Hct)이나 혈색소(Hb)보다는 환자의 임상상태에 따라 결정해야 한다 산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등 결정질(Crystalloid)을 사람적혈구농축액과 함께 수혈함으로써 사람보존혈액 수혈에 대치할 수 있다 1,200 mL 이상의 출혈에 대해서는 사람적혈구농축액과 결정질 용액의 수혈이 필요하다 사용 상의 주의사항 2 3 2 사람적혈구농축액의 경우에도 사람보존혈액과 마찬가지로 수혈부작용이 초래할 수 있으며, 과량의 수혈로 인한 혈액량과다증(hypervolemia)도 일으킬 수 있다",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "결정",
+      "결정",
+      "결정질",
+      "사람적혈구농축액과",
+      "있다"
+    ]
+  },
+  {
+    "text": "따라 결정해야 한다 산소운반능과 혈액량보충이 동시에 요구되는 경우에는 생리식염수 등 결정질(Crystalloid)을 사람적혈구농축액과 함께 수혈함으로써 사람보존혈액 수혈에 대치할 수 있다 1,200 mL 이상의 출혈에 대해서는 사람적혈구농축액과 결정질 용액의 수혈이 필요하다 사용 상의 주의사항 2 3 2 사람적혈구농축액의 경우에도 사람보존혈액과 마찬가지로 수혈부작용이 초래할 수 있으며, 과량의 수혈로 인한 혈액량과다증(hypervolemia)도 일으킬 수 있다 2 3 3 적혈구용적율(Hct)이 높기 때문에 점도가 증가되어 있어 혈류장애를 초래할 수 있다",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "결정",
+      "결정",
+      "있다",
+      "결정질",
+      "사람적혈구농축액과"
+    ]
+  },
+  {
+    "text": "수혈함으로써 사람보존혈액 수혈에 대치할 수 있다 1,200 mL 이상의 출혈에 대해서는 사람적혈구농축액과 결정질 용액의 수혈이 필요하다 사용 상의 주의사항 2 3 2 사람적혈구농축액의 경우에도 사람보존혈액과 마찬가지로 수혈부작용이 초래할 수 있으며, 과량의 수혈로 인한 혈액량과다증(hypervolemia)도 일으킬 수 있다 2 3 3 적혈구용적율(Hct)이 높기 때문에 점도가 증가되어 있어 혈류장애를 초래할 수 있다 점도를 감소시켜 수혈속도를 빠르게 하기 위해서는 50~150mL의 생리식염수에 희석할",
+    "token_estimate": 9,
+    "type": "text_chunk",
+    "keywords": [
+      "결정",
+      "결정",
+      "있다",
+      "초래할",
+      "수혈함으로써"
+    ]
+  },
+  {
+    "text": "출혈에 대해서는 사람적혈구농축액과 결정질 용액의 수혈이 필요하다 사용 상의 주의사항 2 3 2 사람적혈구농축액의 경우에도 사람보존혈액과 마찬가지로 수혈부작용이 초래할 수 있으며, 과량의 수혈로 인한 혈액량과다증(hypervolemia)도 일으킬 수 있다 2 3 3 적혈구용적율(Hct)이 높기 때문에 점도가 증가되어 있어 혈류장애를 초래할 수 있다 점도를 감소시켜 수혈속도를 빠르게 하기 위해서는 50~150mL의 생리식염수에 희석할 수 있으며, 경우에 따라 알부민 또는 적합한 혈장과 혼합하여 수혈할 수 있다",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "결정",
+      "결정",
+      "있다",
+      "초래할",
+      "있으며"
+    ]
+  },
+  {
+    "text": "2 사람적혈구농축액의 경우에도 사람보존혈액과 마찬가지로 수혈부작용이 초래할 수 있으며, 과량의 수혈로 인한 혈액량과다증(hypervolemia)도 일으킬 수 있다 2 3 3 적혈구용적율(Hct)이 높기 때문에 점도가 증가되어 있어 혈류장애를 초래할 수 있다 점도를 감소시켜 수혈속도를 빠르게 하기 위해서는 50~150mL의 생리식염수에 희석할 수 있으며, 경우에 따라 알부민 또는 적합한 혈장과 혼합하여 수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염,",
+    "token_estimate": 13,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "초래할",
+      "있으며",
+      "수혈"
+    ]
+  },
+  {
+    "text": "일으킬 수 있다 2 3 3 적혈구용적율(Hct)이 높기 때문에 점도가 증가되어 있어 혈류장애를 초래할 수 있다 점도를 감소시켜 수혈속도를 빠르게 하기 위해서는 50~150mL의 생리식염수에 희석할 수 있으며, 경우에 따라 알부민 또는 적합한 혈장과 혼합하여 수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는\n\n발열성 수혈 부작용 등이 초래될 수 있다  또한, 과량의 수혈로 인한",
+    "token_estimate": 21,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "수혈",
+      "부작용",
+      "일으킬"
+    ]
+  },
+  {
+    "text": "위해서는 50~150mL의 생리식염수에 희석할 수 있으며, 경우에 따라 알부민 또는 적합한 혈장과 혼합하여 수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "수혈",
+      "부작용",
+      "위해서는"
+    ]
+  },
+  {
+    "text": "있으며, 경우에 따라 알부민 또는 적합한 혈장과 혼합하여 수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "수혈",
+      "부작용",
+      "있으며"
+    ]
+  },
+  {
+    "text": "또는 적합한 혈장과 혼합하여 수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "수혈",
+      "부작용",
+      "적합한"
+    ]
+  },
+  {
+    "text": "혈장과 혼합하여 수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "수혈",
+      "부작용",
+      "혈장과"
+    ]
+  },
+  {
+    "text": "수혈할 수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "있다",
+      "수혈",
+      "부작용",
+      "수혈할"
+    ]
+  },
+  {
+    "text": "수 있다 2 3 4 수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "표준",
+      "있다",
+      "수혈",
+      "부작용"
+    ]
+  },
+  {
+    "text": "수혈 시에는 용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "표준",
+      "수혈",
+      "부작용",
+      "있다"
+    ]
+  },
+  {
+    "text": "용혈성 수혈 부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "위험",
+      "표준",
+      "수혈",
+      "부작용",
+      "있다"
+    ]
+  },
+  {
+    "text": "부작용(hemolytic transfusion reactions)의 위험이 따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "위험",
+      "표준",
+      "부작용"
+    ]
+  },
+  {
+    "text": "따르며 감염, 후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "있다",
+      "No"
+    ]
+  },
+  {
+    "text": "후천성면역결핍증 및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "있다",
+      "No"
+    ]
+  },
+  {
+    "text": "및 거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "있다",
+      "No"
+    ]
+  },
+  {
+    "text": "거대세포바이러스 감염증 같은 혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "혈액"
+    ]
+  },
+  {
+    "text": "혈액 매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "혈액"
+    ]
+  },
+  {
+    "text": "매개 감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "있다"
+    ]
+  },
+  {
+    "text": "감염과 알러지성 또는 발열성 수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1  제조공정 흐름도>",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "있다"
+    ]
+  },
+  {
+    "text": "수혈 부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "있다"
+    ]
+  },
+  {
+    "text": "부작용 등이 초래될 수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "있다"
+    ]
+  },
+  {
+    "text": "수 있다 또한, 과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "있다"
+    ]
+  },
+  {
+    "text": "과량의 수혈로 인한 혈액량과다증(hypervolemia) 등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "등도 일으킬 수 있다 Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "Page: 5 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "적혈구) Master formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "formula Revision No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "표준",
+      "검사",
+      "시험"
+    ]
+  },
+  {
+    "text": "No Effective Date 제조공정 흐름도 Process Flow 공혈자 선별 채혈 제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술)",
+    "token_estimate": 10,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "제제화 혈액 선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "선별 검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "검사 포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "포장 완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "완제품 <그림 1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "1 제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "제조공정 흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "흐름도> SCMF-01 1 차 일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "일치검사 2 차 일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "일치검사 완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "완제품 시험항목 기재 필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "필요 Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Page: 6 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Date 상세 공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "공정 별 제조방법 Manufacturing Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "Method for Each Step (*상세기술) 구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 %",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "구분 공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "공정명 상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "상세공정 제조방법 비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "text": "비고 혈액정보관리시스템을 사용하여 공혈자 선별 헌혈자 신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "방법",
+      "요구사항"
+    ]
+  },
+  {
+    "text": "신분 확인 및 헌혈적격여부를 확인하고 문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "확인",
+      "70"
+    ]
+  },
+  {
+    "text": "문진을 채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "70",
+      "이소프로필"
+    ]
+  },
+  {
+    "text": "채혈장소: 헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "70",
+      "이소프로필"
+    ]
+  },
+  {
+    "text": "헌혈의집, 헌혈차량 등 실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "튜브",
+      "70"
+    ]
+  },
+  {
+    "text": "실시한다 : 70 % 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "튜브",
+      "70"
+    ]
+  },
+  {
+    "text": "% 이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "튜브",
+      "이소프로필"
+    ]
+  },
+  {
+    "text": "이소프로필 채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "튜브",
+      "이소프로필"
+    ]
+  },
+  {
+    "text": "채혈부위 소독 소독요구사항에 준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "요구사항",
+      "검사",
+      "튜브",
+      "소독"
+    ]
+  },
+  {
+    "text": "준하여 1 단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "검사",
+      "튜브",
+      "단계",
+      "채혈"
+    ]
+  },
+  {
+    "text": "단계 소독방법 또는 2 단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "검사",
+      "채혈",
+      "튜브",
+      "단계"
+    ]
+  },
+  {
+    "text": "단계 소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "소독방법으로 헌혈자의 채혈부위를 소독한다 알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방법",
+      "조건",
+      "검사",
+      "채혈"
+    ]
+  },
+  {
+    "text": "알코올과 2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "2%클로헥시딘 : 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": ": 70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "70 % 이소프로필 알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "알코올 소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "소독 후 10 % 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "% 포비돈요오드 채혈 검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "채혈",
+      "튜브"
+    ]
+  },
+  {
+    "text": "검체 수집 헌혈자 확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "튜브",
+      "검체"
+    ]
+  },
+  {
+    "text": "확인 후 Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "튜브",
+      "운송한다"
+    ]
+  },
+  {
+    "text": "Plain 튜브, SST 튜브, EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "튜브",
+      "운송한다"
+    ]
+  },
+  {
+    "text": "EDTA 튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "검체를"
+    ]
+  },
+  {
+    "text": "튜브에 검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "검체를"
+    ]
+  },
+  {
+    "text": "검사용 검체를 수집한다 검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "검체를"
+    ]
+  },
+  {
+    "text": "검체량: 각각의 튜브 적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "적량 헌혈자로부터 정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건:",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "정맥천자를 실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "실시한 채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래)",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "채혈량: 채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래)",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "채혈 시간부터 채혈바늘을 제거한 시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "시간을 확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "조건",
+      "검사",
+      "운송한다",
+      "전혈은"
+    ]
+  },
+  {
+    "text": "확인한다 수집된 검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "검사",
+      "운송한다"
+    ]
+  },
+  {
+    "text": "검체와 전혈은 채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "검사",
+      "혈액"
+    ]
+  },
+  {
+    "text": "채혈 운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "검사",
+      "혈액"
+    ]
+  },
+  {
+    "text": "운송조건: 장소에서 제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "검사",
+      "혈액"
+    ]
+  },
+  {
+    "text": "제제화를 위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "위한 제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "제조소로 혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "혈액(검체)운송상자에 운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "운송 운송한다 이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "이후 검체는 혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "혈액검사센터로 운송한다 혈액 또는 검체를 필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "표준"
+    ]
+  },
+  {
+    "text": "필요한 경우 냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "표준"
+    ]
+  },
+  {
+    "text": "냉매제와 함께 각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "표준"
+    ]
+  },
+  {
+    "text": "각각 넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "조건",
+      "대상",
+      "표준"
+    ]
+  },
+  {
+    "text": "넣고 봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "대상"
+    ]
+  },
+  {
+    "text": "봉인하여 운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "대상"
+    ]
+  },
+  {
+    "text": "운송한다 전혈은 원심분리 한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "한 후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "후 제제화 농축 혈장추출기를 사용하여 상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "상층의 혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "혈장을 제거 농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "농축적혈구를 용량 조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "조건: 제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "제조한다 전혈유래) 전혈유래) Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "Page: 7 of 12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "12 Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "Title 구분 공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "공정명 혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "혈액 선별 검사 수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "수집한 검체 대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "대상 포장 완제품 보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "대상"
+    ]
+  },
+  {
+    "text": "보관 Standard Code Document No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "No 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다  제제화",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "Master formula Revision No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "No Effective Date 상세공정 제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "규정"
+    ]
+  },
+  {
+    "text": "제조방법 혈액매개 혈액관리법 시행규칙에 정의된 감염인자 혈액 적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래),",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "규정",
+      "표준"
+    ]
+  },
+  {
+    "text": "적격여부 검사 항목에 대해 검사 검사를 실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다  이",
+    "token_estimate": 6,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "규정",
+      "표준",
+      "검사",
+      "실시한다"
+    ]
+  },
+  {
+    "text": "실시한다 ABO 혈액형 검사 혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "규정",
+      "표준",
+      "검사",
+      "실시한다"
+    ]
+  },
+  {
+    "text": "혈액관리업무 표준업무규정에 따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "규정",
+      "표준",
+      "검사",
+      "사용하여"
+    ]
+  },
+  {
+    "text": "따라 혈액형검사기구를 사용하여 검사를 실시한다 적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "규정",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "적혈구 항체 선별검사 혈액관리업무 표준업무규정에 따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "규정",
+      "표준",
+      "결과"
+    ]
+  },
+  {
+    "text": "따라 비예기항체검사기구를 사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "결과",
+      "검사",
+      "적혈구",
+      "완료된"
+    ]
+  },
+  {
+    "text": "사용하여 적혈구 항체선별검사를 실시한다 봉합기를 사용하여 제제화 완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2  상세 공정 별 제조 방법>",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "완료된 완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "완료액과 혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "혈장을 분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "분리한다 제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "제제화 완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목:",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "완료된 완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "결과",
+      "검사"
+    ]
+  },
+  {
+    "text": "완료액의 주백을 사용함으로 혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건:",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "결과"
+    ]
+  },
+  {
+    "text": "혈장을 분리하면 250 mL ± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "결과"
+    ]
+  },
+  {
+    "text": "± 25 mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "결과"
+    ]
+  },
+  {
+    "text": "mL (400mL 전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "결과"
+    ]
+  },
+  {
+    "text": "전혈 유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "결과"
+    ]
+  },
+  {
+    "text": "유래), 유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "결과"
+    ]
+  },
+  {
+    "text": "유래) 농축 적혈구 제제가 된다 이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "이 각각의 농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "농축적혈구에 OO 혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "혈액원 라벨을 부착한다 제조 완료된 농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "농축 적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "적혈구 제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "제제는 혈액선별 검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "검사 결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "표준"
+    ]
+  },
+  {
+    "text": "결과에 따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "따라 최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "최종 적/부판정을 실시한다 <표 2 상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2]",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "상세 공정 별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "별 제조 방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "조건"
+    ]
+  },
+  {
+    "text": "방법> SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "방법",
+      "조건",
+      "기준"
+    ]
+  },
+  {
+    "text": "SCMF-01 비고 검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "조건",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "검사항목: 검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "조건",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "검사항목: 검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "조건",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "검사항목: 비예기항체검사 포장 후 보관조건: Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2]",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "조건",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "Page: 8 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "기준",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2]",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "기준",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "기준",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "적혈구) Master formula Revision No Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2]",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "Effective Date 공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "공정 중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "중 검사항목 in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "in-process Control 구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "구분 공정명 상세 공정 검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "기준",
+      "검사"
+    ]
+  },
+  {
+    "text": "검사항목 기준 혈압 [혈액관리법 별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "대상",
+      "기준",
+      "검사",
+      "혈액관리법"
+    ]
+  },
+  {
+    "text": "별표 1 의 2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "대상",
+      "검사",
+      "별표",
+      "따른다"
+    ]
+  },
+  {
+    "text": "2] 에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "대상",
+      "검사",
+      "따른다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "에 따른다 공혈자 선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "대상",
+      "검사",
+      "따른다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "선별 헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "대상",
+      "검사",
+      "따른다",
+      "채혈"
+    ]
+  },
+  {
+    "text": "헌혈지원자의 적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "검사",
+      "제공"
+    ]
+  },
+  {
+    "text": "적정성 확인 체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "검사",
+      "제공"
+    ]
+  },
+  {
+    "text": "체중 체온 [혈액관리법 별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "대상",
+      "검사",
+      "제공"
+    ]
+  },
+  {
+    "text": "별표 1 의 2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "2] 에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "에 따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "따른다 [혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "[혈액관리법 별표 1 의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "의 2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "2] 에 따른다 채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "채혈 금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "금지 대상자 [혈액관리법 별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "공정",
+      "대상",
+      "검사"
+    ]
+  },
+  {
+    "text": "별표 1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "1 의 2] 에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "에 따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "따른다 채혈 채혈 전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "전 채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "채혈 후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "후 1 차 일치 검사 2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "2 차 일치 검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "검사 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "검사",
+      "측정",
+      "제공"
+    ]
+  },
+  {
+    "text": "에 따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "측정",
+      "제공",
+      "따른다"
+    ]
+  },
+  {
+    "text": "따른다 관련 SOP(OOO-XX) 에 따른다 제제공정 입고 시 제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3  각 공정 별 검사항목 및 기준>",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "검사",
+      "측정"
+    ]
+  },
+  {
+    "text": "제제공정 완료 시 혈액 정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "검사",
+      "측정"
+    ]
+  },
+  {
+    "text": "정보 및 육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "검사",
+      "측정"
+    ]
+  },
+  {
+    "text": "육안확인 중량측정 중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "검사",
+      "측정"
+    ]
+  },
+  {
+    "text": "중량측정 혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "검사",
+      "측정"
+    ]
+  },
+  {
+    "text": "혈액 정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "검사",
+      "관련"
+    ]
+  },
+  {
+    "text": "정보 및 육안확인 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "공정",
+      "기준",
+      "표준",
+      "검사"
+    ]
+  },
+  {
+    "text": "에 따른다 관련 SOP(OOO-XX) 에 따른다 관련 SOP(OOO-XX) 에 따른다 포장공정 라벨 부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "부착 상태 및 혈 액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "액정보, 포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "text": "포장 확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "확인 관련 SOP(OOO-XX) 에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "에 따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "따른다 <표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "<표 3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "3 각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "각 공정 별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "별 검사항목 및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "및 기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "기준> Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "text": "Page: 9 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "제품표준서 (농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "표준"
+    ]
+  },
+  {
+    "text": "(농축 적혈구) Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "Master formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "formula Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "No Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "Effective Date 제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "제조관리 및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "측정"
+    ]
+  },
+  {
+    "text": "및 품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "공정",
+      "측정",
+      "OOO"
+    ]
+  },
+  {
+    "text": "품질관리에 필요한 시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "공정",
+      "측정",
+      "OOO"
+    ]
+  },
+  {
+    "text": "시설 및 기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "기기 Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "Facilities and Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "Equipment Required for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "for Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "Manufacturing and Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "Quality Control 구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "구분 사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "사용공정 시설 및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "및 기기명 관리번호 용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "공정",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "용도 체중계 OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "OOO-OO 체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "체중 측정 공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "공혈자 선별 혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "혈압계 OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "OOO-OO 혈압 측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "측정 체온계 OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "OOO-OO 체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "체온 측정 혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "혈장 성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "OOO",
+      "OO",
+      "혈액",
+      "원심분리기"
+    ]
+  },
+  {
+    "text": "성분채혈기 OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "OOO",
+      "OO",
+      "혈액",
+      "원심분리기"
+    ]
+  },
+  {
+    "text": "OOO-OO 성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "OOO",
+      "OO",
+      "혈액",
+      "원심분리기"
+    ]
+  },
+  {
+    "text": "성분헌혈 채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "채혈 전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "전혈 혼합기 OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "OOO-OO 전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "전혈 냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "냉장고 OOO-OO 혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "혈액/검체 보관 혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "혈액"
+    ]
+  },
+  {
+    "text": "혈장추출기 OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "측정",
+      "OOO",
+      "OO",
+      "원심분리기"
+    ]
+  },
+  {
+    "text": "OOO-OO 혈장 분리 원심분리기 1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "1 OOO-OO 혈액 원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "원심분리 원심분리기 2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "2 OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "OOO-OO 혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "혈액 원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "원심분리 원심분리기 3 OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "OOO-OO 혈액 원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "원심분리 제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "제제 및 포장공정 원심분리기 4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "공정",
+      "시험",
+      "측정",
+      "OOO",
+      "OO"
+    ]
+  },
+  {
+    "text": "4 OOO-OO 혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "시스템",
+      "시험",
+      "측정",
+      "OOO"
+    ]
+  },
+  {
+    "text": "혈액 원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "시스템",
+      "시험",
+      "측정",
+      "OOO"
+    ]
+  },
+  {
+    "text": "원심분리 원심분리기 5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "5 OOO-OO 혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "혈액 원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "원심분리 원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "원심분리기 6 OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "OOO-OO 혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "혈액 원심분리 튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "관리",
+      "시스템",
+      "시험",
+      "측정"
+    ]
+  },
+  {
+    "text": "튜브봉합기 OOO-OO 봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "봉합 혈액자동무게측정기 OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "OOO-OO 혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "혈액중량 측정 공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "공기조화기 OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "OOO-OO 청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "청정도 유지 냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "냉장고 1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "시스템",
+      "시험"
+    ]
+  },
+  {
+    "text": "1 OOO-OO 시험 전 검체 보관 기타 및 공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4  제조 및 품질관리에 사용하는 기기설비 목록>",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "공통 냉장고 2 덤웨이터 OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "OOO-OO OOO-OO 적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "적합 검체 보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "보관 제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "제제 운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "운송 혈액자동무게측정기 OOO-OO 입고혈액 중량 측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "측정 혈액정보 시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "시스템 OOO-OO 혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "시스템"
+    ]
+  },
+  {
+    "text": "혈액정보 관리 Clean Bench OOO-OO 무균시험용 배양기 1 OOO-OO 검체 배양 품질 시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and",
+    "token_estimate": 12,
+    "type": "text_chunk",
+    "keywords": [
+      "정보",
+      "품질",
+      "관리",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "시험 배양기 2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "2 OOO-OO 검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "검체 배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "배양 냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "냉장고 OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "OOO-OO 시약 보관 OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "OOO-OO <표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "<표 4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "4 제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "제조 및 품질관리에 사용하는 기기설비 목록> Page: 10 of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5  원료혈액의 시험항목 및 기준 및 시험방법>",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "of 12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "12 Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "Standard Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "Code Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "Document No SCMF-01 Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "제품표준서 (농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "(농축 적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "적혈구) Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "Master formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "formula Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "No Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "Effective Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "Date 혈액제제의 기준 및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "및 시험방법 Specification and Test Method of Raw Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6  자재의 시험항목 및 기준 및 시험방법>",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "Materials and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "and Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "Finished Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "Product 원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "원료 혈액 구분 명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "명칭 시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "시험항목 기준 및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "및 시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "시험방법 무균시험 원료 전혈 <표 5 원료혈액의 시험항목 및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7  완제품 시험항목 및 기준 및 시험방법>",
+    "token_estimate": 8,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "및 기준 및 시험방법> 자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "자재 구분 명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "명칭 시험항목 기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험항목",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "기준 및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "시험",
+      "시험방법",
+      "확인시험"
+    ]
+  },
+  {
+    "text": "및 시험방법 확인시험 혈액백 자재 확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula",
+    "token_estimate": 5,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험방법"
+    ]
+  },
+  {
+    "text": "확인시험 성분채혈 Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "Kit 확인시험 표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "표시자재 라벨 OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "방법",
+      "기준",
+      "표준",
+      "시험",
+      "시험항목"
+    ]
+  },
+  {
+    "text": "OOO-XX 에 따른다 <표 6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방법",
+      "기준",
+      "표준",
+      "시험"
+    ]
+  },
+  {
+    "text": "6 자재의 시험항목 및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방법",
+      "기준",
+      "표준",
+      "시험"
+    ]
+  },
+  {
+    "text": "및 기준 및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방법",
+      "기준",
+      "표준",
+      "시험"
+    ]
+  },
+  {
+    "text": "및 시험방법> 혈액제제 구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다",
+    "token_estimate": 3,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방법",
+      "기준",
+      "표준",
+      "시험"
+    ]
+  },
+  {
+    "text": "구분 명칭 시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다 참고문헌 Reference",
+    "token_estimate": 2,
+    "type": "text_chunk",
+    "keywords": [
+      "제조",
+      "방법",
+      "기준",
+      "표준",
+      "시험"
+    ]
+  },
+  {
+    "text": "시험항목 기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다 참고문헌 Reference 혈액관리법",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "기준",
+      "표준"
+    ]
+  },
+  {
+    "text": "기준 및 시험방법 완제품 OO 혈액원 농축적혈구 <표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령\n\n의약품 등의 안전에 관한 규칙_총리령",
+    "token_estimate": 7,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "text": "<표 7 완제품 시험항목 및 기준 및 시험방법> Page: 11 of 12 Standard Code Document No Title 제품표준서 (농축 적혈구) Master formula Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 9 3 1 별표 1  의약품 제조 및 품질관리 기준\n\n9 3 2 별표 3 의 4  혈액제제 제조 및 품질관리 기준",
+    "token_estimate": 22,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "text": "Revision No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 9 3 1 별표 1 의약품 제조 및 품질관리 기준 9 3 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 SCMF-01",
+    "token_estimate": 1,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "text": "No Effective Date 첨부문서 Attachments 제조 지시 및 기록서 <별첨 1>에 첨부한다 표시자재의 견본 <별첨 2>에 첨부한다 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 9 3 1 별표 1 의약품 제조 및 품질관리 기준 9 3 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 SCMF-01 Page: 12 of 12",
+    "token_estimate": 4,
+    "type": "text_chunk",
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "기준"
+    ]
+  }
+]

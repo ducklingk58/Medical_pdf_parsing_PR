@@ -1,0 +1,2 @@
+2025-07-24 10:09:55,833 - table_parser_test - INFO - test_table_parser:23 - 테이블 파서 테스트 시작
+2025-07-24 10:09:55,835 - table_parser_test - ERROR - test_table_parser:33 - 테스트할 PDF 파일이 없습니다.

@@ -14,146 +14,253 @@ import shutil
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from config.settings import Settings
-from utils.pdf_processor import PDFProcessor
-from Medical_pdf_processor_enhanced import EnhancedPDFProcessor
-from utils.logger import setup_logger
+# 필요한 모듈들 import (오류 처리 포함)
+try:
+    from config.settings import Settings
+except ImportError:
+    # Settings 클래스가 없을 경우 기본값 사용
+    class Settings:
+        OUTPUT_DIR = Path("output_data")
+        INPUT_DIR = Path("input_pdfs")
+        MAX_WORKERS = 4
+        SIMILARITY_THRESHOLD = 0.7
+        SENTENCE_MODEL = "all-MiniLM-L6-v2"
+        REMOVE_PAGE_NUMBERS = True
+        REMOVE_HEADERS_FOOTERS = True
 
-def load_summary_data(output_dir: str):
-    """배치 처리 요약 데이터 로드"""
-    summary_path = Path(output_dir) / "batch_summary.json"
-    if summary_path.exists():
+try:
+    from utils.pdf_processor import PDFProcessor
+except ImportError:
+    PDFProcessor = None
+
+try:
+    # 절대 경로로 import 시도
+    import sys
+    import os
+    
+    # 현재 파일의 절대 경로를 기준으로 상위 디렉토리 추가
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.dirname(current_dir)
+    sys.path.insert(0, parent_dir)
+    
+    from Medical_pdf_processor_enhanced import EnhancedPDFProcessor
+    print("✅ EnhancedPDFProcessor import 성공")
+except ImportError as e:
+    print(f"❌ EnhancedPDFProcessor import 실패: {e}")
+    st.error("EnhancedPDFProcessor를 찾을 수 없습니다. Medical_pdf_processor_enhanced.py 파일이 필요합니다.")
+    EnhancedPDFProcessor = None
+
+try:
+    from utils.rag_optimized_parser import RAGOptimizedParser
+except ImportError:
+    RAGOptimizedParser = None
+
+try:
+    from utils.logger import setup_logger
+except ImportError:
+    def setup_logger():
+        import logging
+        logging.basicConfig(level=logging.INFO)
+        return logging.getLogger(__name__)
+
+def process_batch_pdfs(uploaded_files, output_dir: str, chunk_options: dict = None):
+    """다중 PDF 파일 배치 처리"""
+    import time
+    
+    if not uploaded_files:
+        st.error("처리할 파일이 없습니다.")
+        return False
+    
+    # 배치 처리 결과 저장
+    batch_results = {
+        'total_files': len(uploaded_files),
+        'successful': 0,
+        'failed': 0,
+        'start_time': time.time(),
+        'results': []
+    }
+    
+    # 진행률 표시
+    progress_bar = st.progress(0)
+    status_text = st.empty()
+    
+    # 청크 옵션 설정 (고정값)
+    if chunk_options is None:
+        chunk_options = {
+            'chunk_size': 500,
+            'chunk_overlap': 100,
+            'merge_small_chunks': True,
+            'use_gpu': False,
+            'enable_keyword_extraction': True,
+            'keyword_count': 5
+        }
+    
+    # 향상된 처리기 초기화
+    use_gpu = chunk_options.get('use_gpu', False)
+    
+    if EnhancedPDFProcessor is None:
+        st.error("❌ EnhancedPDFProcessor를 사용할 수 없습니다. Medical_pdf_processor_enhanced.py 파일을 확인해주세요.")
+        return False
+    
+    try:
+        processor = EnhancedPDFProcessor(use_gpu=use_gpu)
+    except Exception as e:
+        st.error(f"❌ EnhancedPDFProcessor 초기화 실패: {str(e)}")
+        return False
+    
+    # 배치 처리 시작
+    st.info(f"🚀 배치 처리 시작: {len(uploaded_files)}개 파일")
+    
+    # 결과 테이블 초기화
+    results_df = pd.DataFrame(columns=['파일명', '상태', '처리 시간', '오류 메시지'])
+    
+    for i, uploaded_file in enumerate(uploaded_files):
         try:
-            with open(summary_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except Exception as e:
-            st.error(f"요약 파일 로드 오류: {str(e)}")
-    return None
-
-def load_individual_summaries(output_dir: str):
-    """개별 파일 요약 데이터 로드"""
-    summaries = []
-    output_path = Path(output_dir)
-    
-    try:
-        for summary_file in output_path.rglob("summary.json"):
+            # 진행률 업데이트
+            progress = (i + 1) / len(uploaded_files)
+            progress_bar.progress(progress)
+            status_text.text(f"처리 중... {i+1}/{len(uploaded_files)}: {uploaded_file.name}")
+            
+            # 개별 파일 처리 시작 시간
+            start_time = time.time()
+            
+            # 임시 파일로 저장
+            with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
+                tmp_file.write(uploaded_file.getvalue())
+                tmp_path = tmp_file.name
+            
+            # 출력 디렉토리 생성
+            output_path = Path(output_dir) / "uploaded_files" / uploaded_file.name.replace('.pdf', '')
+            output_path.mkdir(parents=True, exist_ok=True)
+            
+            # PDF 처리
             try:
-                with open(summary_file, 'r', encoding='utf-8') as f:
-                    summary = json.load(f)
-                    summary['filename'] = summary_file.parent.name
-                    summary['file_path'] = str(summary_file.parent)
-                    summaries.append(summary)
+                result = processor.process_pdf_enhanced(
+                    pdf_path=tmp_path,
+                    output_dir=str(output_path)
+                )
+                # process_pdf_enhanced는 성공 시 summary를 반환하고, 실패 시 예외를 발생시킴
+                success = True
             except Exception as e:
-                st.error(f"개별 요약 파일 로드 오류: {summary_file} - {str(e)}")
-    except Exception as e:
-        st.error(f"요약 파일 검색 오류: {str(e)}")
-    
-    return summaries
-
-def format_time(seconds):
-    """초를 읽기 쉬운 시간 형식으로 변환"""
-    if seconds < 60:
-        return f"{seconds:.1f}초"
-    elif seconds < 3600:
-        minutes = seconds / 60
-        return f"{minutes:.1f}분"
-    else:
-        hours = seconds / 3600
-        return f"{hours:.1f}시간"
-
-def process_uploaded_pdf(uploaded_file, output_dir: str, use_enhanced: bool = True):
-    """업로드된 PDF 파일 처리"""
-    try:
-        # 임시 파일로 저장
-        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
-            tmp_file.write(uploaded_file.getvalue())
-            tmp_path = tmp_file.name
-        
-        # 출력 디렉토리 생성
-        output_path = Path(output_dir) / "uploaded_files" / uploaded_file.name.replace('.pdf', '')
-        output_path.mkdir(parents=True, exist_ok=True)
-        
-        # PDF 처리기 초기화 (향상된 처리기 사용)
-        if use_enhanced:
-            processor = EnhancedPDFProcessor(use_gpu=False)
-            # PDF 처리
-            with st.spinner(f"향상된 PDF 처리 중: {uploaded_file.name}..."):
-                summary = processor.process_pdf_enhanced(str(tmp_path), str(output_path))
-        else:
-            processor = PDFProcessor()
-            # PDF 처리
-            with st.spinner(f"기본 PDF 처리 중: {uploaded_file.name}..."):
-                summary = processor.process_pdf(str(tmp_path), str(output_path))
-        
-        # 임시 파일 삭제
-        os.unlink(tmp_path)
-        
-        return summary, str(output_path)
-        
-    except Exception as e:
-        st.error(f"PDF 처리 중 오류 발생: {str(e)}")
-        return None, None
-
-def find_json_files(output_dir: str):
-    """출력 디렉토리에서 모든 JSON 파일 찾기"""
-    json_files = []
-    output_path = Path(output_dir)
-    
-    try:
-        for json_file in output_path.rglob("*.json"):
+                st.error(f"PDF 처리 중 오류 발생: {str(e)}")
+                success = False
+            
+            # 처리 시간 계산
+            processing_time = time.time() - start_time
+            
+            # 결과 저장 (개별 파일 정보 포함)
+            result = {
+                'filename': uploaded_file.name,
+                'status': '성공' if success else '실패',
+                'processing_time': processing_time,
+                'error_message': '' if success else '처리 실패',
+                'output_path': str(output_path) if success else None,
+                'output_files': []
+            }
+            
+            # 성공한 경우 출력 파일 목록 수집
+            if success and output_path.exists():
+                try:
+                    # 주요 출력 파일들 확인
+                    output_files = []
+                    for file_path in output_path.glob("*"):
+                        if file_path.is_file():
+                            file_info = {
+                                'name': file_path.name,
+                                'path': str(file_path),
+                                'size': file_path.stat().st_size,
+                                'type': file_path.suffix
+                            }
+                            output_files.append(file_info)
+                    result['output_files'] = output_files
+                except Exception as e:
+                    st.warning(f"출력 파일 정보 수집 실패 ({uploaded_file.name}): {str(e)}")
+            
+            batch_results['results'].append(result)
+            
+            if success:
+                batch_results['successful'] += 1
+            else:
+                batch_results['failed'] += 1
+            
+            # 결과 테이블 업데이트
+            new_row = pd.DataFrame([{
+                '파일명': uploaded_file.name,
+                '상태': '✅ 성공' if success else '❌ 실패',
+                '처리 시간': f"{processing_time:.1f}초",
+                '오류 메시지': '' if success else '처리 실패'
+            }])
+            results_df = pd.concat([results_df, new_row], ignore_index=True)
+            
+            # 임시 파일 정리
             try:
-                # 파일 크기 확인
-                file_size = json_file.stat().st_size
+                os.unlink(tmp_path)
+            except:
+                pass
                 
-                # 파일 정보 수집
-                file_info = {
-                    'name': json_file.name,
-                    'path': str(json_file),
-                    'relative_path': str(json_file.relative_to(output_path)),
-                    'size': file_size,
-                    'size_mb': file_size / (1024 * 1024),
-                    'parent_dir': json_file.parent.name,
-                    'modified_time': datetime.fromtimestamp(json_file.stat().st_mtime)
-                }
-                json_files.append(file_info)
-            except Exception as e:
-                st.error(f"JSON 파일 정보 수집 오류: {json_file} - {str(e)}")
-    except Exception as e:
-        st.error(f"JSON 파일 검색 오류: {str(e)}")
+        except Exception as e:
+            # 오류 처리
+            processing_time = time.time() - start_time if 'start_time' in locals() else 0
+            
+            result = {
+                'filename': uploaded_file.name,
+                'status': '실패',
+                'processing_time': processing_time,
+                'error_message': str(e)
+            }
+            
+            batch_results['results'].append(result)
+            batch_results['failed'] += 1
+            
+            # 결과 테이블 업데이트
+            new_row = pd.DataFrame([{
+                '파일명': uploaded_file.name,
+                '상태': '❌ 실패',
+                '처리 시간': f"{processing_time:.1f}초",
+                '오류 메시지': str(e)
+            }])
+            results_df = pd.concat([results_df, new_row], ignore_index=True)
     
-    return json_files
-
-def load_json_content(file_path: str):
-    """JSON 파일 내용 로드"""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except Exception as e:
-        st.error(f"JSON 파일 로드 오류: {str(e)}")
-        return None
-
-def format_json_for_display(data, max_depth=3, current_depth=0):
-    """JSON 데이터를 표시용으로 포맷팅"""
-    if current_depth >= max_depth:
-        if isinstance(data, dict):
-            return f"{{...}} ({len(data)} items)"
-        elif isinstance(data, list):
-            return f"[...] ({len(data)} items)"
-        else:
-            return str(data)
+    # 배치 처리 완료
+    batch_results['end_time'] = time.time()
+    batch_results['total_time'] = batch_results['end_time'] - batch_results['start_time']
     
-    if isinstance(data, dict):
-        formatted = {}
-        for key, value in data.items():
-            formatted[key] = format_json_for_display(value, max_depth, current_depth + 1)
-        return formatted
-    elif isinstance(data, list):
-        if len(data) > 10:  # 리스트가 너무 길면 처음 5개만 표시
-            return [format_json_for_display(item, max_depth, current_depth + 1) for item in data[:5]] + [f"... ({len(data) - 5} more items)"]
-        else:
-            return [format_json_for_display(item, max_depth, current_depth + 1) for item in data]
-    else:
-        return data
+    # 진행률 완료
+    progress_bar.progress(1.0)
+    status_text.text("✅ 배치 처리 완료!")
+    
+    # 배치 결과 저장
+    batch_summary_path = Path(output_dir) / "batch_summary.json"
+    with open(batch_summary_path, 'w', encoding='utf-8') as f:
+        json.dump(batch_results, f, ensure_ascii=False, indent=2)
+    
+    # 결과 표시
+    st.success(f"🎉 배치 처리 완료!")
+    
+    # 통계 표시
+    col1, col2, col3, col4 = st.columns(4)
+    with col1:
+        st.metric("총 파일 수", batch_results['total_files'])
+    with col2:
+        st.metric("성공", batch_results['successful'])
+    with col3:
+        st.metric("실패", batch_results['failed'])
+    with col4:
+        st.metric("총 처리 시간", f"{batch_results['total_time']:.1f}초")
+    
+    # 성공률 계산
+    success_rate = (batch_results['successful'] / batch_results['total_files']) * 100
+    st.metric("성공률", f"{success_rate:.1f}%")
+    
+    # 결과 테이블 표시
+    st.subheader("📋 처리 결과 상세")
+    st.dataframe(results_df, use_container_width=True)
+    
+    # 실패한 파일이 있으면 경고
+    if batch_results['failed'] > 0:
+        st.warning(f"⚠️ {batch_results['failed']}개 파일이 실패했습니다. 위의 결과 테이블을 확인하세요.")
+    
+    return batch_results['successful'] > 0
 
 def main():
     st.set_page_config(
@@ -177,87 +284,9 @@ def main():
         st.rerun()
     
     # 탭 생성
-    tab1, tab2, tab3, tab4 = st.tabs(["📊 배치 처리 결과", "📁 PDF 업로드 & 파싱", "🔍 개별 파일 분석", "📄 JSON 미리보기"])
+    tab1, tab2, tab3, tab4 = st.tabs(["📁 PDF 업로드 & 파싱", "🔍 개별 파일 분석", "📄 JSON 미리보기", "📊 배치 처리 결과"])
     
     with tab1:
-        # 배치 요약 표시
-        st.header("📈 배치 처리 요약")
-        batch_summary = load_summary_data(output_dir)
-        
-        if batch_summary:
-            # 메트릭 카드
-            col1, col2, col3, col4 = st.columns(4)
-            
-            with col1:
-                st.metric(
-                    "총 파일 수", 
-                    batch_summary['total_files'],
-                    help="처리 대상이었던 총 PDF 파일 수"
-                )
-            
-            with col2:
-                st.metric(
-                    "성공한 파일 수", 
-                    batch_summary['successful_files'],
-                    delta=batch_summary['successful_files'] - batch_summary['failed_files'],
-                    help="성공적으로 처리된 파일 수"
-                )
-            
-            with col3:
-                st.metric(
-                    "실패한 파일 수", 
-                    batch_summary['failed_files'],
-                    delta=batch_summary['failed_files'] - batch_summary['successful_files'],
-                    delta_color="inverse",
-                    help="처리 중 오류가 발생한 파일 수"
-                )
-            
-            with col4:
-                success_rate = batch_summary['success_rate'] * 100
-                st.metric(
-                    "성공률", 
-                    f"{success_rate:.1f}%",
-                    help="성공한 파일의 비율"
-                )
-            
-            # 처리 시간 정보
-            col1, col2 = st.columns(2)
-            with col1:
-                st.metric(
-                    "총 처리 시간",
-                    format_time(batch_summary['total_processing_time']),
-                    help="전체 배치 처리에 소요된 시간"
-                )
-            
-            with col2:
-                st.metric(
-                    "평균 처리 시간",
-                    format_time(batch_summary['average_processing_time']),
-                    help="파일당 평균 처리 시간"
-                )
-            
-            # 성공률 파이 차트
-            fig = go.Figure(data=[
-                go.Pie(
-                    labels=['성공', '실패'],
-                    values=[batch_summary['successful_files'], batch_summary['failed_files']],
-                    hole=0.3,
-                    marker_colors=['#00FF00', '#FF0000'],
-                    textinfo='label+percent',
-                    textfont_size=14
-                )
-            ])
-            fig.update_layout(
-                title="처리 결과 분포",
-                showlegend=True,
-                height=400
-            )
-            st.plotly_chart(fig, use_container_width=True)
-            
-        else:
-            st.warning("⚠️ 배치 요약 데이터를 찾을 수 없습니다. 출력 디렉토리를 확인해주세요.")
-    
-    with tab2:
         st.header("📁 PDF 파일 업로드 & 파싱")
         st.markdown("""
         ### 🚀 대량 PDF 파싱 기능
@@ -276,461 +305,285 @@ def main():
         # 파일 업로드 섹션
         st.subheader("📤 PDF 파일 업로드")
         
-        # 단일 파일 업로드
-        uploaded_file = st.file_uploader(
-            "PDF 파일을 선택하세요",
-            type=['pdf'],
-            help="처리할 PDF 파일을 업로드하세요"
+        # 업로드 모드 선택
+        upload_mode = st.radio(
+            "업로드 모드 선택",
+            ["📄 단일 파일", "📁 다중 파일 (배치 처리)"],
+            help="단일 파일 또는 여러 파일을 한번에 업로드할 수 있습니다"
         )
         
-        if uploaded_file is not None:
-            st.success(f"✅ 파일 업로드 완료: {uploaded_file.name}")
+        if upload_mode == "📄 단일 파일":
+            # 단일 파일 업로드
+            uploaded_file = st.file_uploader(
+                "PDF 파일을 선택하세요",
+                type=['pdf'],
+                help="처리할 PDF 파일을 업로드하세요"
+            )
             
-            # 파일 정보 표시
-            col1, col2 = st.columns(2)
-            with col1:
-                st.metric("파일명", uploaded_file.name)
-            with col2:
-                st.metric("파일 크기", f"{uploaded_file.size / 1024:.1f} KB")
+            if uploaded_file is not None:
+                st.success(f"✅ 파일 업로드 완료: {uploaded_file.name}")
+                
+                # 파일 정보 표시
+                col1, col2 = st.columns(2)
+                with col1:
+                    st.metric("파일명", uploaded_file.name)
+                with col2:
+                    st.metric("파일 크기", f"{uploaded_file.size / 1024:.1f} KB")
+                
+                uploaded_files = [uploaded_file]
+        else:
+            # 다중 파일 업로드
+            uploaded_files = st.file_uploader(
+                "PDF 파일들을 선택하세요 (최대 100개)",
+                type=['pdf'],
+                accept_multiple_files=True,
+                help="처리할 PDF 파일들을 업로드하세요 (Ctrl+클릭으로 여러 파일 선택)"
+            )
             
-            # 처리 옵션 설정
+            if uploaded_files:
+                st.success(f"✅ {len(uploaded_files)}개 파일 업로드 완료!")
+                
+                # 파일 정보 표시
+                st.subheader("📋 업로드된 파일 목록")
+                
+                # 파일 정보를 데이터프레임으로 표시
+                file_info = []
+                total_size = 0
+                for i, file in enumerate(uploaded_files, 1):
+                    size_kb = file.size / 1024
+                    total_size += size_kb
+                    file_info.append({
+                        "번호": i,
+                        "파일명": file.name,
+                        "크기 (KB)": f"{size_kb:.1f}",
+                        "상태": "대기 중"
+                    })
+                
+                df = pd.DataFrame(file_info)
+                st.dataframe(df, use_container_width=True)
+                
+                # 전체 통계
+                col1, col2, col3 = st.columns(3)
+                with col1:
+                    st.metric("총 파일 수", len(uploaded_files))
+                with col2:
+                    st.metric("총 크기", f"{total_size:.1f} KB")
+                with col3:
+                    st.metric("평균 크기", f"{total_size/len(uploaded_files):.1f} KB")
+                
+                # 파일 개수 제한 경고
+                if len(uploaded_files) > 100:
+                    st.warning("⚠️ 100개 이상의 파일이 업로드되었습니다. 처리 시간이 오래 걸릴 수 있습니다.")
+                elif len(uploaded_files) > 50:
+                    st.info("ℹ️ 50개 이상의 파일이 업로드되었습니다. 배치 처리를 권장합니다.")
+        
+        # 처리 옵션 설정
+        if 'uploaded_files' in locals() and uploaded_files:
             st.subheader("⚙️ 처리 옵션")
+            
+            # 처리 모드 통일 (향상된 처리로 고정)
+            processing_mode = ("enhanced", "🚀 향상된 처리 (Table Transformer + 패턴 기반)")
+            st.info(f"📋 처리 모드: {processing_mode[1]}")
+            st.caption("모든 PDF는 Microsoft Table Transformer와 패턴 기반 표 인식을 사용하여 처리됩니다.")
+            
+            # GPU 및 기타 옵션
             col1, col2 = st.columns(2)
             with col1:
-                use_enhanced = st.checkbox(
-                    "🚀 향상된 처리 사용", 
-                    value=True,
-                    help="LayoutParser + PaddleOCR 기반 고급 테이블/이미지 파싱"
-                )
-            with col2:
                 use_gpu = st.checkbox(
                     "🎮 GPU 가속 사용", 
                     value=False,
                     help="GPU 가속으로 처리 속도 향상 (GPU 필요)"
                 )
-            
-            # 처리 버튼
-            if st.button("🚀 PDF 파싱 시작", type="primary"):
-                # 처리 실행
-                summary, output_path = process_uploaded_pdf(uploaded_file, output_dir, use_enhanced)
-                
-                if summary:
-                    st.success("✅ PDF 파싱 완료!")
-                    
-                    # 결과 표시
-                    st.subheader("📊 파싱 결과")
-                    col1, col2, col3, col4 = st.columns(4)
-                    
-                    with col1:
-                        st.metric("텍스트 블록", summary['text_blocks_count'])
-                    with col2:
-                        st.metric("표", summary['tables_count'])
-                    with col3:
-                        st.metric("이미지", summary['images_count'])
-                    with col4:
-                        st.metric("RAG 청크", summary['rag_chunks_count'])
-                    
-                    # 추가 정보
-                    col1, col2 = st.columns(2)
-                    with col1:
-                        st.metric("총 단어 수", f"{summary['total_words']:,}")
-                    with col2:
-                        st.metric("추정 토큰 수", f"{summary['total_tokens_estimate']:,.0f}")
-                    
-                    # 결과 파일 다운로드
-                    st.subheader("📥 결과 파일 다운로드")
-                    
-                    # 마크다운 파일
-                    md_path = Path(output_path) / "final_markdown.md"
-                    if md_path.exists():
-                        with open(md_path, 'r', encoding='utf-8') as f:
-                            md_content = f.read()
-                        st.download_button(
-                            label="📄 마크다운 파일 다운로드",
-                            data=md_content,
-                            file_name=f"{uploaded_file.name.replace('.pdf', '')}_parsed.md",
-                            mime="text/markdown"
-                        )
-                    
-                    # JSON 메타데이터
-                    metadata_path = Path(output_path) / "metadata.json"
-                    if metadata_path.exists():
-                        with open(metadata_path, 'r', encoding='utf-8') as f:
-                            metadata_content = f.read()
-                        st.download_button(
-                            label="📋 메타데이터 JSON 다운로드",
-                            data=metadata_content,
-                            file_name=f"{uploaded_file.name.replace('.pdf', '')}_metadata.json",
-                            mime="application/json"
-                        )
-                    
-                    # 요약 정보
-                    summary_path = Path(output_path) / "summary.json"
-                    if summary_path.exists():
-                        with open(summary_path, 'r', encoding='utf-8') as f:
-                            summary_content = f.read()
-                        st.download_button(
-                            label="📊 요약 정보 JSON 다운로드",
-                            data=summary_content,
-                            file_name=f"{uploaded_file.name.replace('.pdf', '')}_summary.json",
-                            mime="application/json"
-                        )
-        
-        # 대량 처리 안내
-        st.markdown("---")
-        st.subheader("📚 대량 처리 방법")
-        st.markdown("""
-        ### 배치 처리로 대량 PDF 파싱하기
-        
-        터미널에서 다음 명령어를 실행하세요:
-        
-        ```bash
-        # 기본 실행 (input_pdfs 폴더의 모든 PDF 처리)
-        python run_processing.py
-        
-        # 워커 수 지정 (더 빠른 처리)
-        python run_processing.py --workers 8
-        
-        # 커스텀 입력/출력 디렉토리
-        python run_processing.py --input ./my_pdfs --output ./my_results
-        
-        # 검증 보고서 생성
-        python run_processing.py --create-report
-        ```
-        
-        ### 처리 성능
-        - **4코어 CPU**: 약 2-3초/파일
-        - **8코어 CPU**: 약 1-2초/파일  
-        - **500개 파일**: 약 10-15분 (8코어 기준)
-        """)
-    
-    with tab3:
-        # 개별 파일 상세 정보
-        st.header("📋 개별 파일 상세 정보")
-        individual_summaries = load_individual_summaries(output_dir)
-        
-        if individual_summaries:
-            # 데이터프레임으로 변환
-            df = pd.DataFrame(individual_summaries)
-            
-            # 기본 통계 정보
-            st.subheader("📊 기본 통계")
-            col1, col2, col3, col4 = st.columns(4)
-            
-            with col1:
-                st.metric("평균 텍스트 블록", f"{df['text_blocks_count'].mean():.1f}")
             with col2:
-                st.metric("평균 표 수", f"{df['tables_count'].mean():.1f}")
-            with col3:
-                st.metric("평균 이미지 수", f"{df['images_count'].mean():.1f}")
-            with col4:
-                st.metric("평균 RAG 청크", f"{df['rag_chunks_count'].mean():.1f}")
-            
-            # 통계 차트
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                fig1 = px.histogram(
-                    df, 
-                    x='text_blocks_count', 
-                    title="텍스트 블록 수 분포",
-                    nbins=20,
-                    color_discrete_sequence=['#1f77b4']
+                merge_small_chunks = st.checkbox(
+                    "🔗 작은 청크 병합",
+                    value=True,
+                    help="100자 미만의 작은 청크를 인근 청크와 병합합니다"
                 )
-                fig1.update_layout(xaxis_title="텍스트 블록 수", yaxis_title="파일 수")
-                st.plotly_chart(fig1, use_container_width=True)
             
-            with col2:
-                fig2 = px.histogram(
-                    df, 
-                    x='tables_count', 
-                    title="표 수 분포",
-                    nbins=20,
-                    color_discrete_sequence=['#ff7f0e']
-                )
-                fig2.update_layout(xaxis_title="표 수", yaxis_title="파일 수")
-                st.plotly_chart(fig2, use_container_width=True)
-            
-            # 추가 통계 차트
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                fig3 = px.histogram(
-                    df, 
-                    x='images_count', 
-                    title="이미지 수 분포",
-                    nbins=20,
-                    color_discrete_sequence=['#2ca02c']
-                )
-                fig3.update_layout(xaxis_title="이미지 수", yaxis_title="파일 수")
-                st.plotly_chart(fig3, use_container_width=True)
-            
-            with col2:
-                fig4 = px.histogram(
-                    df, 
-                    x='rag_chunks_count', 
-                    title="RAG 청크 수 분포",
-                    nbins=20,
-                    color_discrete_sequence=['#d62728']
-                )
-                fig4.update_layout(xaxis_title="RAG 청크 수", yaxis_title="파일 수")
-                st.plotly_chart(fig4, use_container_width=True)
-            
-            # 상세 테이블
-            st.subheader("📄 파일별 상세 정보")
-            
-            # 컬럼 선택
-            columns_to_show = st.multiselect(
-                "표시할 컬럼 선택",
-                options=['filename', 'text_blocks_count', 'tables_count', 'images_count', 
-                        'rag_chunks_count', 'total_words', 'total_tokens_estimate'],
-                default=['filename', 'text_blocks_count', 'tables_count', 'images_count', 'rag_chunks_count']
-            )
-            
-            if columns_to_show:
-                display_df = df[columns_to_show].copy()
-                st.dataframe(display_df, use_container_width=True)
-            
-            # 파일 선택하여 상세 보기
-            st.subheader("🔍 개별 파일 상세 보기")
-            selected_file = st.selectbox(
-                "파일 선택",
-                options=df['filename'].tolist(),
-                help="상세 정보를 확인할 파일을 선택하세요"
-            )
-            
-            if selected_file:
-                file_summary = df[df['filename'] == selected_file].iloc[0]
-                
-                # 파일 정보 카드
-                col1, col2, col3, col4 = st.columns(4)
-                with col1:
-                    st.metric("텍스트 블록", file_summary['text_blocks_count'])
-                with col2:
-                    st.metric("표", file_summary['tables_count'])
-                with col3:
-                    st.metric("이미지", file_summary['images_count'])
-                with col4:
-                    st.metric("RAG 청크", file_summary['rag_chunks_count'])
-                
-                # 추가 정보
-                col1, col2 = st.columns(2)
-                with col1:
-                    st.metric("총 단어 수", f"{file_summary['total_words']:,}")
-                with col2:
-                    st.metric("추정 토큰 수", f"{file_summary['total_tokens_estimate']:,.0f}")
-                
-                # 파일 경로 정보
-                st.info(f"📁 파일 경로: {file_summary['file_path']}")
-                
-                # 처리 설정 정보
-                if 'settings' in file_summary:
-                    st.subheader("⚙️ 처리 설정")
-                    settings_df = pd.DataFrame([file_summary['settings']])
-                    st.dataframe(settings_df, use_container_width=True)
-        
-        else:
-            st.warning("⚠️ 개별 파일 요약 데이터를 찾을 수 없습니다.")
-    
-    with tab4:
-        # JSON 파일 미리보기
-        st.header("📄 JSON 파일 미리보기")
-        st.markdown("파싱된 JSON 파일들을 탐색하고 미리보기할 수 있습니다.")
-        
-        # JSON 파일 목록 로드
-        json_files = find_json_files(output_dir)
-        
-        if json_files:
-            st.subheader("📁 JSON 파일 목록")
-            
-            # 파일 정보를 데이터프레임으로 변환
-            df_files = pd.DataFrame(json_files)
-            df_files['modified_time'] = pd.to_datetime(df_files['modified_time'])
-            
-            # 파일 크기별 색상 구분
-            def get_size_color(size_mb):
-                if size_mb < 1:
-                    return "🟢"
-                elif size_mb < 5:
-                    return "🟡"
-                else:
-                    return "🔴"
-            
-            df_files['size_icon'] = df_files['size_mb'].apply(get_size_color)
-            df_files['display_name'] = df_files['size_icon'] + " " + df_files['name']
-            
-            # 파일 선택
-            selected_file_display = st.selectbox(
-                "JSON 파일 선택",
-                options=df_files['display_name'].tolist(),
-                help="미리보기할 JSON 파일을 선택하세요"
-            )
-            
-            if selected_file_display:
-                # 선택된 파일 정보 가져오기
-                selected_file_info = df_files[df_files['display_name'] == selected_file_display].iloc[0]
-                
-                # 파일 정보 표시
-                col1, col2, col3, col4 = st.columns(4)
-                with col1:
-                    st.metric("파일명", selected_file_info['name'])
-                with col2:
-                    st.metric("파일 크기", f"{selected_file_info['size_mb']:.2f} MB")
-                with col3:
-                    st.metric("수정 시간", selected_file_info['modified_time'].strftime("%Y-%m-%d %H:%M"))
-                with col4:
-                    st.metric("상위 디렉토리", selected_file_info['parent_dir'])
-                
-                # 파일 경로 표시
-                st.info(f"📁 파일 경로: {selected_file_info['relative_path']}")
-                
-                # JSON 내용 로드 및 표시
-                st.subheader("📋 JSON 내용 미리보기")
-                
-                # 표시 옵션
-                col1, col2 = st.columns(2)
-                with col1:
-                    max_depth = st.slider("최대 깊이", 1, 5, 3, help="JSON 구조의 최대 표시 깊이")
-                with col2:
-                    show_raw = st.checkbox("원본 JSON 표시", help="원본 JSON 형식으로 표시")
-                
-                # JSON 내용 로드
-                json_content = load_json_content(selected_file_info['path'])
-                
-                if json_content is not None:
-                    if show_raw:
-                        # 원본 JSON 표시
-                        st.json(json_content)
+            # 처리 버튼 (단일/배치 처리 구분)
+            if upload_mode == "📄 단일 파일":
+                if st.button("🚀 PDF 파싱 시작", type="primary"):
+                    st.info("단일 파일 처리 기능은 현재 개발 중입니다. 배치 처리 모드를 사용해주세요.")
+            else:
+                # 배치 처리 버튼
+                if st.button("🚀 배치 PDF 파싱 시작", type="primary"):
+                    # 청크 설정 옵션 (고정값)
+                    chunk_options = {
+                        'chunk_size': 500,
+                        'chunk_overlap': 100,
+                        'merge_small_chunks': merge_small_chunks,
+                        'use_gpu': use_gpu,
+                        'enable_keyword_extraction': True,
+                        'keyword_count': 5
+                    }
+                    
+                    # 배치 처리 실행
+                    success = process_batch_pdfs(uploaded_files, output_dir, chunk_options)
+                    
+                    if success:
+                        st.success("✅ 배치 PDF 파싱 완료!")
                     else:
-                        # 포맷팅된 JSON 표시
-                        formatted_content = format_json_for_display(json_content, max_depth)
-                        st.json(formatted_content)
-                    
-                    # JSON 구조 분석
-                    st.subheader("🔍 JSON 구조 분석")
-                    
-                    def analyze_json_structure(data, path=""):
-                        """JSON 구조 분석"""
-                        structure = {}
-                        if isinstance(data, dict):
-                            for key, value in data.items():
-                                current_path = f"{path}.{key}" if path else key
-                                if isinstance(value, (dict, list)):
-                                    structure[current_path] = {
-                                        'type': type(value).__name__,
-                                        'size': len(value) if hasattr(value, '__len__') else 'N/A'
-                                    }
-                                    # 재귀적으로 분석 (깊이 제한)
-                                    if len(current_path.split('.')) < 3:
-                                        sub_structure = analyze_json_structure(value, current_path)
-                                        structure.update(sub_structure)
-                                else:
-                                    structure[current_path] = {
-                                        'type': type(value).__name__,
-                                        'value': str(value)[:50] + "..." if len(str(value)) > 50 else str(value)
-                                    }
-                        elif isinstance(data, list):
-                            if data:
-                                # 첫 번째 요소로 타입 추정
-                                sample = data[0]
-                                structure[f"{path}[0]" if path else "[0]"] = {
-                                    'type': f"list of {type(sample).__name__}",
-                                    'size': len(data)
-                                }
-                        return structure
-                    
-                    structure_analysis = analyze_json_structure(json_content)
-                    
-                    if structure_analysis:
-                        # 구조를 데이터프레임으로 변환
-                        structure_df = pd.DataFrame([
-                            {
-                                '경로': path,
-                                '타입': info['type'],
-                                '크기': info.get('size', 'N/A'),
-                                '값': info.get('value', 'N/A')
-                            }
-                            for path, info in structure_analysis.items()
-                        ])
-                        
-                        st.dataframe(structure_df, use_container_width=True)
-                    
-                    # 다운로드 버튼
-                    st.subheader("📥 파일 다운로드")
-                    with open(selected_file_info['path'], 'r', encoding='utf-8') as f:
-                        file_content = f.read()
-                    
-                    st.download_button(
-                        label="📄 JSON 파일 다운로드",
-                        data=file_content,
-                        file_name=selected_file_info['name'],
-                        mime="application/json"
-                    )
-                else:
-                    st.error("JSON 파일을 로드할 수 없습니다.")
-            
-            # 파일 목록 테이블
-            st.subheader("📊 전체 JSON 파일 목록")
-            
-            # 필터링 옵션
-            col1, col2 = st.columns(2)
-            with col1:
-                min_size = st.number_input("최소 파일 크기 (MB)", 0.0, 100.0, 0.0, 0.1)
-            with col2:
-                file_type_filter = st.selectbox(
-                    "파일 타입 필터",
-                    ["전체", "summary.json", "metadata.json", "기타"],
-                    help="특정 타입의 JSON 파일만 표시"
-                )
-            
-            # 필터링 적용
-            filtered_df = df_files.copy()
-            if min_size > 0:
-                filtered_df = filtered_df[filtered_df['size_mb'] >= min_size]
-            
-            if file_type_filter != "전체":
-                if file_type_filter == "summary.json":
-                    filtered_df = filtered_df[filtered_df['name'] == 'summary.json']
-                elif file_type_filter == "metadata.json":
-                    filtered_df = filtered_df[filtered_df['name'] == 'metadata.json']
-                else:
-                    filtered_df = filtered_df[~filtered_df['name'].isin(['summary.json', 'metadata.json'])]
-            
-            # 표시할 컬럼 선택
-            display_columns = ['name', 'size_mb', 'parent_dir', 'modified_time']
-            display_df = filtered_df[display_columns].copy()
-            display_df.columns = ['파일명', '크기 (MB)', '상위 디렉토리', '수정 시간']
-            display_df['수정 시간'] = display_df['수정 시간'].dt.strftime("%Y-%m-%d %H:%M")
-            
-            st.dataframe(display_df, use_container_width=True)
-            
-            # 통계 정보
-            st.subheader("📈 JSON 파일 통계")
-            col1, col2, col3, col4 = st.columns(4)
-            
-            with col1:
-                st.metric("총 JSON 파일 수", len(df_files))
-            with col2:
-                st.metric("총 크기", f"{df_files['size_mb'].sum():.2f} MB")
-            with col3:
-                st.metric("평균 파일 크기", f"{df_files['size_mb'].mean():.2f} MB")
-            with col4:
-                st.metric("최대 파일 크기", f"{df_files['size_mb'].max():.2f} MB")
+                        st.error("❌ 배치 처리 중 오류가 발생했습니다.")
+    
+    # 탭4: 배치 처리 결과
+    with tab4:
+        st.header("📊 배치 처리 결과")
         
+        # 배치 처리 결과 파일 확인
+        batch_summary_path = Path(output_dir) / "batch_summary.json"
+        
+        if batch_summary_path.exists():
+            try:
+                with open(batch_summary_path, 'r', encoding='utf-8') as f:
+                    batch_results = json.load(f)
+                
+                st.success("✅ 배치 처리 결과를 찾았습니다!")
+                
+                # 배치 처리 요약 정보
+                st.subheader("📋 배치 처리 요약")
+                
+                col1, col2, col3, col4 = st.columns(4)
+                with col1:
+                    st.metric("총 파일 수", batch_results.get('total_files', 0))
+                with col2:
+                    st.metric("성공", batch_results.get('successful', 0))
+                with col3:
+                    st.metric("실패", batch_results.get('failed', 0))
+                with col4:
+                    total_time = batch_results.get('total_time', 0)
+                    st.metric("총 처리 시간", f"{total_time:.1f}초")
+                
+                # 성공률
+                total_files = batch_results.get('total_files', 1)
+                successful = batch_results.get('successful', 0)
+                success_rate = (successful / total_files) * 100 if total_files > 0 else 0
+                st.metric("성공률", f"{success_rate:.1f}%")
+                
+                # 상세 결과 테이블
+                st.subheader("📋 상세 처리 결과")
+                
+                if 'results' in batch_results and batch_results['results']:
+                    results_df = pd.DataFrame(batch_results['results'])
+                    
+                    # 컬럼명 한글화 (새로운 컬럼 포함)
+                    if len(results_df.columns) >= 6:
+                        results_df.columns = ['파일명', '상태', '처리 시간', '오류 메시지', '출력 경로', '출력 파일']
+                    else:
+                        results_df.columns = ['파일명', '상태', '처리 시간', '오류 메시지']
+                    
+                    # 상태에 따른 색상 적용
+                    def color_status(val):
+                        if val == '성공':
+                            return 'background-color: lightgreen'
+                        else:
+                            return 'background-color: lightcoral'
+                    
+                    styled_df = results_df.style.applymap(color_status, subset=['상태'])
+                    st.dataframe(styled_df, use_container_width=True)
+                    
+                    # 개별 파일 다운로드 섹션
+                    st.subheader("📥 개별 파일 결과 다운로드")
+                    
+                    # 성공한 파일들만 필터링
+                    successful_results = [r for r in batch_results['results'] if r['status'] == '성공']
+                    
+                    if successful_results:
+                        st.info(f"✅ {len(successful_results)}개 파일의 개별 결과를 다운로드할 수 있습니다.")
+                        
+                        # 파일별 다운로드 옵션
+                        for i, result in enumerate(successful_results):
+                            filename = result['filename']
+                            output_files = result.get('output_files', [])
+                            
+                            with st.expander(f"📄 {filename} - 결과 파일 다운로드"):
+                                if output_files:
+                                    # 주요 파일들 그룹화
+                                    json_files = [f for f in output_files if f['type'] == '.json']
+                                    md_files = [f for f in output_files if f['type'] == '.md']
+                                    other_files = [f for f in output_files if f['type'] not in ['.json', '.md']]
+                                    
+                                    # JSON 파일 다운로드
+                                    if json_files:
+                                        st.write("**📋 JSON 파일들:**")
+                                        for file_info in json_files:
+                                            try:
+                                                with open(file_info['path'], 'r', encoding='utf-8') as f:
+                                                    file_content = f.read()
+                                                
+                                                st.download_button(
+                                                    label=f"📥 {file_info['name']} ({(file_info['size']/1024):.1f}KB)",
+                                                    data=file_content,
+                                                    file_name=f"{filename.replace('.pdf', '')}_{file_info['name']}",
+                                                    mime="application/json",
+                                                    help=f"{file_info['name']} 파일 다운로드"
+                                                )
+                                            except Exception as e:
+                                                st.error(f"파일 로드 실패: {file_info['name']} - {str(e)}")
+                                    
+                                    # 마크다운 파일 다운로드
+                                    if md_files:
+                                        st.write("**📝 마크다운 파일들:**")
+                                        for file_info in md_files:
+                                            try:
+                                                with open(file_info['path'], 'r', encoding='utf-8') as f:
+                                                    file_content = f.read()
+                                                
+                                                st.download_button(
+                                                    label=f"📥 {file_info['name']} ({(file_info['size']/1024):.1f}KB)",
+                                                    data=file_content,
+                                                    file_name=f"{filename.replace('.pdf', '')}_{file_info['name']}",
+                                                    mime="text/markdown",
+                                                    help=f"{file_info['name']} 파일 다운로드"
+                                                )
+                                            except Exception as e:
+                                                st.error(f"파일 로드 실패: {file_info['name']} - {str(e)}")
+                                    
+                                    # 기타 파일들
+                                    if other_files:
+                                        st.write("**📁 기타 파일들:**")
+                                        for file_info in other_files:
+                                            st.write(f"• {file_info['name']} ({(file_info['size']/1024):.1f}KB)")
+                                else:
+                                    st.warning("출력 파일 정보를 찾을 수 없습니다.")
+                    else:
+                        st.warning("⚠️ 성공적으로 처리된 파일이 없습니다.")
+                
+                # 배치 결과 다운로드
+                st.subheader("📥 배치 결과 다운로드")
+                with open(batch_summary_path, 'r', encoding='utf-8') as f:
+                    batch_summary_content = f.read()
+                
+                st.download_button(
+                    label="📊 배치 처리 결과 다운로드",
+                    data=batch_summary_content,
+                    file_name="batch_summary.json",
+                    mime="application/json",
+                    help="배치 처리 결과를 JSON 파일로 다운로드합니다"
+                )
+                
+            except Exception as e:
+                st.error(f"배치 처리 결과 로드 실패: {str(e)}")
         else:
-            st.warning("⚠️ JSON 파일을 찾을 수 없습니다. 출력 디렉토리를 확인해주세요.")
+            st.info("ℹ️ 배치 처리 결과가 없습니다. 배치 처리를 먼저 실행해주세요.")
+            
+            # 배치 처리 가이드
+            st.subheader("📖 배치 처리 사용법")
+            st.markdown("""
+            1. **PDF 업로드 & 파싱** 탭으로 이동
+            2. **업로드 모드**에서 **"📁 다중 파일 (배치 처리)"** 선택
+            3. 여러 PDF 파일을 선택하여 업로드
+            4. **"🚀 배치 PDF 파싱 시작"** 버튼 클릭
+            5. 처리 완료 후 이 탭에서 결과 확인
+            """)
     
     # 푸터
     st.markdown("---")
-    st.markdown(
-        """
-        <div style='text-align: center; color: #666;'>
-        <p>Medical PDF 파싱 프로젝트 - Unstructured 기반 고급 파싱 시스템</p>
-        <p>개발: Medical_pdf_parsing_PR | 대량 PDF 처리 지원</p>
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
+    st.markdown("""
+    <div style='text-align: center; color: #666;'>
+        <p>🏥 Medical PDF 파싱 시스템 | Powered by Streamlit</p>
+    </div>
+    """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main() 

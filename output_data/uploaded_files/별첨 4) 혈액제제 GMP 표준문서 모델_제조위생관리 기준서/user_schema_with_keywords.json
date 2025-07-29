@@ -1,0 +1,5937 @@
+[
+  {
+    "id": "026d061f-8845-48d2-bff1-95c92c6d67ee",
+    "text": "Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 1,
+      "content_length": 13,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "345e6108-ac26-4af2-af1c-68aecd62ff8d",
+    "text": "Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 2,
+      "content_length": 19,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "Standard",
+      "Code",
+      "Title"
+    ]
+  },
+  {
+    "id": "041dc571-fb61-4467-954f-4d08e5a3fb2e",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 3,
+      "content_length": 80,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "b82a530b-a2a9-4f2b-a99d-5c37715c18a5",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 4,
+      "content_length": 92,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "addafeec-15cb-4f53-9bd1-9b58d4f0005c",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 5,
+      "content_length": 104,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "a68425af-86d2-41a2-a7d0-94b76ddce3c4",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 6,
+      "content_length": 119,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "7702592b-6ce1-4a87-b02b-d005eabb2c4c",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 7,
+      "content_length": 124,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "80a272d0-ce0e-4990-b81d-73d6ed73ecd2",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 8,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Standard",
+      "Code"
+    ]
+  },
+  {
+    "id": "7f614f53-1efc-47a1-9492-a49bca11f339",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 9,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "id": "94726536-75cb-45e7-8a21-d0f452c53d45",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 10,
+      "content_length": 205,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "id": "1d4193d4-c3be-4b4d-9c37-b8992e91bf67",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 11,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "id": "7fa26e00-8abb-4b89-9bd4-321cfb4c0864",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 12,
+      "content_length": 250,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "id": "a4810d22-6017-4441-b41a-b3fdfe90ea9a",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 13,
+      "content_length": 266,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "Standard"
+    ]
+  },
+  {
+    "id": "808fd104-0b3f-47c9-9225-4e56e42a1695",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 14,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "c3c5fe6d-3d30-46a4-af5c-d8a05ace6aaf",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 15,
+      "content_length": 298,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "f3caa216-9bd7-4792-8e4b-73cc7d5fc0fc",
+    "text": "Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 16,
+      "content_length": 303,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "54527763-411a-4ac4-95f5-dda337922075",
+    "text": "Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 17,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "2575904f-399c-4190-bd7c-fb43c04e8f84",
+    "text": "of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 18,
+      "content_length": 287,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "022a85e8-c3c2-4a7c-986c-548447a1847f",
+    "text": "Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 19,
+      "content_length": 345,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "25a1208d-2498-4e85-8891-5111d0284ec9",
+    "text": "Date SCMH 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 20,
+      "content_length": 290,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "b5c01859-5a0d-4a67-a267-1434fa8fe2b6",
+    "text": "제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 21,
+      "content_length": 292,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "f13070ed-91e1-4718-bd11-408481a7a473",
+    "text": "Standard Code of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 22,
+      "content_length": 296,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "5b5f51a0-b262-4f7a-8904-38501805430a",
+    "text": "of Manufacturing Hygiene Management 승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 23,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "166dd6d0-a4cd-4a2f-bc57-997e229d84f4",
+    "text": "승인 Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 24,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "5f8f6a12-f83e-4247-84e0-02dcb1cb802a",
+    "text": "Approval 소속 Dept 직책 Role 성명 / 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 25,
+      "content_length": 297,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "e6fc4c74-280b-49bd-a9fe-cac6b9590cf9",
+    "text": "/ 서명 / 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 26,
+      "content_length": 281,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "3f101ba5-9d6f-4659-ac96-ddce3e9c6e13",
+    "text": "/ 일자 Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 27,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "e56be02c-865f-40ca-9ef7-56808918f08e",
+    "text": "Name / Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 28,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "76d3cc79-1e53-4743-b897-8f9b5075bf54",
+    "text": "/ Signature / Date 작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 29,
+      "content_length": 296,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "0ee05738-df50-4d98-b5f3-2a9e984076fe",
+    "text": "작성자 Prepared by 검토자 Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 30,
+      "content_length": 291,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "검토"
+    ]
+  },
+  {
+    "id": "33d624af-6fcc-486b-9e84-65f1424f3960",
+    "text": "Reviewed by 승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 31,
+      "content_length": 285,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "by"
+    ]
+  },
+  {
+    "id": "dd137c20-46ed-43ac-990e-c09e2b474294",
+    "text": "승인자 Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 32,
+      "content_length": 279,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "id": "82cf1bca-e67a-40d3-aefb-db338e49d6ec",
+    "text": "Approved by Page: 1 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 33,
+      "content_length": 336,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "8cfd4a9f-af68-46b1-93c8-e1344c0a0035",
+    "text": "Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 34,
+      "content_length": 308,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Standard"
+    ]
+  },
+  {
+    "id": "4ce481bb-489e-4ce1-bc77-d5bfc750e55f",
+    "text": "기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 35,
+      "content_length": 307,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Standard"
+    ]
+  },
+  {
+    "id": "01983e99-179a-4fe7-9d6f-a8f76d5f9446",
+    "text": "Code of Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 36,
+      "content_length": 309,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Code"
+    ]
+  },
+  {
+    "id": "334371d0-e923-4d8e-8322-5d15dbbea66c",
+    "text": "Manufacturing Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 37,
+      "content_length": 306,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "id": "b8c4bd2f-11a9-481d-ae2b-66d982f265c8",
+    "text": "Hygiene Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 38,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "id": "1a1f0fec-c9ee-412f-89f5-838885027377",
+    "text": "Management Document No Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 39,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "id": "d8aed617-a373-4bed-9d14-58b36d747728",
+    "text": "Revision No Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 40,
+      "content_length": 291,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "No",
+      "Revision"
+    ]
+  },
+  {
+    "id": "f356b30f-bc11-4306-926a-d11434ff9c56",
+    "text": "Effective Date 개정 이력 Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 41,
+      "content_length": 302,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "Date",
+      "Revision"
+    ]
+  },
+  {
+    "id": "ce240f2f-ed65-4d4a-8d37-3b61b36c3124",
+    "text": "Revision History No 개정일 Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 42,
+      "content_length": 302,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Revision"
+    ]
+  },
+  {
+    "id": "de5ba5ac-451a-4ed3-9dcf-fb127594250b",
+    "text": "Revised Date 2018 XX XX 내역 Contents 최초 제정 SCMH 작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management   5",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 43,
+      "content_length": 340,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Contents"
+    ]
+  },
+  {
+    "id": "11afb52d-eb40-48a9-9f14-b3dce0282f50",
+    "text": "작성자 Written by OOO Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 44,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "d65ba50a-d547-4177-b134-18730c9c067a",
+    "text": "Page: 2 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 45,
+      "content_length": 300,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "1ebb3aae-3805-4145-922a-0a1b2e99bd27",
+    "text": "of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 46,
+      "content_length": 298,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "160e8045-32db-4c22-b5a4-d19131af22b2",
+    "text": "12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 47,
+      "content_length": 356,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "d7713fb0-0ac9-4a8e-be68-c56bb87a44a3",
+    "text": "of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 48,
+      "content_length": 320,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "de9b9561-b096-4668-8400-1669f94f43f6",
+    "text": "Hygiene Management Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 49,
+      "content_length": 315,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "No"
+    ]
+  },
+  {
+    "id": "55eea62c-f533-4888-b5ff-6ad23df40deb",
+    "text": "Document No Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 50,
+      "content_length": 311,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "No"
+    ]
+  },
+  {
+    "id": "5044fd06-ba1c-429e-9021-19f9a5606645",
+    "text": "Revision No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 51,
+      "content_length": 304,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Revision"
+    ]
+  },
+  {
+    "id": "90b1b044-8068-40e3-89c5-3a0ffbc3dc4f",
+    "text": "No Effective Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목적 Purpose",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 52,
+      "content_length": 306,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "No"
+    ]
+  },
+  {
+    "id": "20980a64-c3b3-4a86-abc7-418c80a342f5",
+    "text": "Date SCMH 목차 Table of Contents 표지 Cover 개정 이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 혈액제제 제조를 위하여 요구되는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 53,
+      "content_length": 339,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조업체",
+      "제조",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "id": "e378d883-fbb0-4d3a-a287-ab6eb445e348",
+    "text": "이력 Revision History 목차 Table of Contents 6 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 혈액제제 제조를 위하여 요구되는 책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 54,
+      "content_length": 342,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "a85754fe-26b1-4214-b3e6-f595bc6c9ebc",
+    "text": "of Manufacturing Hygiene Management 5 Page: 3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 혈액제제 제조를 위하여 요구되는 책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 55,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "fe9cf93f-b8ac-4857-be03-3da8bbc33518",
+    "text": "3 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 혈액제제 제조를 위하여 요구되는 책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다 적용범위 Scope",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 56,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "범위"
+    ]
+  },
+  {
+    "id": "0f25e147-c6c5-4dc3-a11f-e2e48833a348",
+    "text": "12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 목적 Purpose 본 문서는 혈액제제 제조업체(이하 “혈액원”)에서 혈액제제 제조를 위하여 요구되는 책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다 적용범위 Scope OO 혈액원의 혈액제제를 제조함에 있어 필요한 원자재 입고부터 최종 혈액제제 출하에\n\n이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 57,
+      "content_length": 362,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "범위"
+    ]
+  },
+  {
+    "id": "9af0bf16-aee0-418d-a002-b9359e98fc54",
+    "text": "문서는 혈액제제 제조업체(이하 “혈액원”)에서 혈액제제 제조를 위하여 요구되는 책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다 적용범위 Scope OO 혈액원의 혈액제제를 제조함에 있어 필요한 원자재 입고부터 최종 혈액제제 출하에 이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적 관리 측면에 적용한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 58,
+      "content_length": 232,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조업체",
+      "제조",
+      "범위"
+    ]
+  },
+  {
+    "id": "01e935d1-a908-4789-b9fc-8099e362b500",
+    "text": "“혈액원”)에서 혈액제제 제조를 위하여 요구되는 책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다 적용범위 Scope OO 혈액원의 혈액제제를 제조함에 있어 필요한 원자재 입고부터 최종 혈액제제 출하에 이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적 관리 측면에 적용한다 책임과 권한 Role & Responsibility",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 59,
+      "content_length": 244,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "범위",
+      "혈액제제"
+    ]
+  },
+  {
+    "id": "b9ec126b-7317-4777-826f-f7687e9aa707",
+    "text": "책임과 권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다 적용범위 Scope OO 혈액원의 혈액제제를 제조함에 있어 필요한 원자재 입고부터 최종 혈액제제 출하에 이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적 관리 측면에 적용한다 책임과 권한 Role & Responsibility 제조관리자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 60,
+      "content_length": 223,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "범위",
+      "책임과"
+    ]
+  },
+  {
+    "id": "fab1382b-bdff-4e7e-af02-e2be76d10c1a",
+    "text": "권한 설정을 통해 우수품질의 혈액제제 제조 및 품질관리 수행을 위한 적합한 제조위생 환경을 조성, 유지하는데 목적이 있다 적용범위 Scope OO 혈액원의 혈액제제를 제조함에 있어 필요한 원자재 입고부터 최종 혈액제제 출하에 이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적 관리 측면에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 \n\n3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 61,
+      "content_length": 302,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "범위"
+    ]
+  },
+  {
+    "id": "157d5c39-9c7e-432a-a6da-ab6d2bccc908",
+    "text": "필요한 원자재 입고부터 최종 혈액제제 출하에 이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적 관리 측면에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 62,
+      "content_length": 221,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "최종"
+    ]
+  },
+  {
+    "id": "b9d57319-af41-4fb2-8ee4-78256428a7f5",
+    "text": "혈액제제 출하에 이르기까지 관련한 모든 제조 관련 작업실 및 작업원, 기기/설비, 작업환경의 위생적 관리 측면에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 63,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "6109cc16-d9e7-4523-8028-cc5e236f6fda",
+    "text": "위생적 관리 측면에 적용한다 책임과 권한 Role & Responsibility 제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 64,
+      "content_length": 227,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "c6d4cb80-2446-4db3-b187-3ab7e26ec235",
+    "text": "제조관리자 3 1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 65,
+      "content_length": 191,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "1c4f1580-4443-412b-8d59-e169a0afee2c",
+    "text": "1 1 본 기준서의 내용을 최종 승인하고 서명할 책임이 있다 3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 66,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "9ea9df5f-10ab-4906-83e0-38c236597e5c",
+    "text": "3 1 3 본 기준서에 따른 제조위생관리 업무 전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 67,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "b2309805-1c48-4b4a-a3b9-b449d440e179",
+    "text": "전반을 관리할 책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 68,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "d3e4b2ac-5db5-4940-b1aa-d4fced4713b0",
+    "text": "책임과 권한이 있다 제조부서 책임자 (제조위생관리 책임자) 3 2 1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 69,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "4793757b-a1e1-4256-861e-5ffefa969f2a",
+    "text": "1 본 기준서의 내용을 작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 70,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "cf8fa97b-30ca-44bc-9175-db8d4bce92cb",
+    "text": "작성 또는 확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 71,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "e7720997-f59a-46a8-b6ef-a9559dc17312",
+    "text": "확인하고 서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 72,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "승인",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "54ddeccb-539c-4894-9a9b-2758fcfe70a6",
+    "text": "서명할 책임이 있다 여부를 확인하고 이를 지도, 감독, 승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 73,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "4558fcd9-b415-48f6-b9c1-b396edb3923d",
+    "text": "승인할 책임과 권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 74,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "기준"
+    ]
+  },
+  {
+    "id": "81ec987f-6c84-4b53-a2d0-7a20d2e753f3",
+    "text": "권한이 있다 품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 75,
+      "content_length": 239,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "0aeed757-6d92-453c-9e44-6b66317cff9d",
+    "text": "품질부서 책임자 3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 76,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "5eaf9bf4-9200-455e-992b-23ab44d5ecf7",
+    "text": "3 3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 77,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "2fd23211-8b01-476e-bc7b-51cb7258f1f9",
+    "text": "3 1 본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 용어정의 Definition",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 78,
+      "content_length": 257,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "있다"
+    ]
+  },
+  {
+    "id": "a9691af3-dd3b-4968-832e-7db08612f507",
+    "text": "본 기준서의 내용을 확인하고 서명할 책임이 있다 확인하고 이를 지도, 감독, 관리할 책임과 권한이 있다 모든 작업원 본 기준서의 내용에 따른 품질관리 활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 용어정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조\n\n시설  통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 79,
+      "content_length": 349,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "id": "a5054bc2-a144-4679-b6a1-9caa7a881b5a",
+    "text": "활동을 수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 용어정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 80,
+      "content_length": 265,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "기준",
+      "규정"
+    ]
+  },
+  {
+    "id": "04908138-35a4-4c37-8b5a-5f36cdcb221d",
+    "text": "수행할 책임이 있다 Page: 4 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 용어정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 81,
+      "content_length": 310,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "기준"
+    ]
+  },
+  {
+    "id": "5be1bcd3-f300-4ff2-a76f-75255e0c2bef",
+    "text": "Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 용어정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다  채혈실, 공급실, 제제실 등이 포함된다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 82,
+      "content_length": 281,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "규정"
+    ]
+  },
+  {
+    "id": "b71659aa-adf6-4dbd-a404-af2471bc7e40",
+    "text": "Document No Revision No Effective Date SCMH 용어정의 Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 83,
+      "content_length": 261,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "규정"
+    ]
+  },
+  {
+    "id": "34849606-b55f-4acb-9306-ed0fa5e63615",
+    "text": "Definition 제조소: 본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 84,
+      "content_length": 228,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "규정"
+    ]
+  },
+  {
+    "id": "fcebb8c0-4089-4299-9eac-df3e5751e761",
+    "text": "본 규정에서 제조소라 함은 혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 85,
+      "content_length": 245,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "id": "0b86b467-ba1a-46cc-b542-059d8be980d3",
+    "text": "혈액제제 제조 및 품질관리 활동을 수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice HVAC: Heating, Ventilation, Air Handling",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 86,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "id": "3ad54869-0cef-4eb6-a8b6-cf4cc836795f",
+    "text": "수행하는 제조 시설 통상적으로 제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 87,
+      "content_length": 278,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "id": "defb0468-3e8e-4bfc-8b03-1cdfa3324425",
+    "text": "제조구역, 보관구역, 품질관리 구역을 모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification SOP: Standard Operation Procedure",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 88,
+      "content_length": 295,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "GMP"
+    ]
+  },
+  {
+    "id": "032b7787-079c-4634-8675-a9a47124af81",
+    "text": "모두 포함하는 개념으로 사용한 다 작업소: 본 규정에서 작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification SOP: Standard Operation Procedure 제조위생 관리 기준 Standard of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 89,
+      "content_length": 330,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "id": "45708866-974c-4868-8620-c6f3ff53137e",
+    "text": "작업소라 함은 각 공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification SOP: Standard Operation Procedure 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 제조위생관리 부서의 구성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 90,
+      "content_length": 313,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "id": "9789b7c5-a932-4064-8115-56c6987a45a8",
+    "text": "공정이 수행되는 작업공간, 작업소의 개념으로 사 용한다 채혈실, 공급실, 제제실 등이 포함된다 보관소: 원자재 및 제품 등을 보관하는 공간을 의미한다 약어 Abbreviation GMP: Good Manufacturing Practice HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification SOP: Standard Operation Procedure 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 제조위생관리 부서의 구성 6 1 1 제조위생관리 책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 \n\n6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 91,
+      "content_length": 401,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "GMP",
+      "기준"
+    ]
+  },
+  {
+    "id": "4ad2c51f-fd9a-43b8-9b35-1ecc5d016f9e",
+    "text": "Manufacturing Practice HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification SOP: Standard Operation Procedure 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 제조위생관리 부서의 구성 6 1 1 제조위생관리 책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는 작업자로 지정한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 92,
+      "content_length": 299,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "제조위생관리",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "f354f0f2-298f-4f81-af68-8acee22a787b",
+    "text": "HVAC: Heating, Ventilation, Air Handling OOS: Out of Specification SOP: Standard Operation Procedure 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 제조위생관리 부서의 구성 6 1 1 제조위생관리 책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는 작업자로 지정한다 6 1 3 제조위생관리 책임자의 지시를 받아 업무를 주도적으로 수행할 인원을 제조위생관리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 93,
+      "content_length": 326,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "지시",
+      "제조위생관리"
+    ]
+  },
+  {
+    "id": "ce892797-6982-40d0-a526-89988588ef55",
+    "text": "Procedure 제조위생 관리 기준 Standard of Manufacturing Hygiene Management 제조위생관리 부서의 구성 6 1 1 제조위생관리 책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는 작업자로 지정한다 6 1 3 제조위생관리 책임자의 지시를 받아 업무를 주도적으로 수행할 인원을 제조위생관리 담당자로 지정한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 94,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "지시",
+      "제조위생관리"
+    ]
+  },
+  {
+    "id": "ad5761d9-e3f1-4175-9ca5-de6fade126b3",
+    "text": "관리 기준 Standard of Manufacturing Hygiene Management 제조위생관리 부서의 구성 6 1 1 제조위생관리 책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는 작업자로 지정한다 6 1 3 제조위생관리 책임자의 지시를 받아 업무를 주도적으로 수행할 인원을 제조위생관리 담당자로 지정한다 6 1 4 제조관리 책임자와 제조위생관리 담당자가 수행하여야 할 주요 업무의 범위는 다음과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 95,
+      "content_length": 281,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "범위",
+      "기준",
+      "지시"
+    ]
+  },
+  {
+    "id": "355e9718-0113-46e1-9acf-5d74b8b501c4",
+    "text": "제조위생관리 책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는 작업자로 지정한다 6 1 3 제조위생관리 책임자의 지시를 받아 업무를 주도적으로 수행할 인원을 제조위생관리 담당자로 지정한다 6 1 4 제조관리 책임자와 제조위생관리 담당자가 수행하여야 할 주요 업무의 범위는 다음과 같다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 96,
+      "content_length": 213,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "범위",
+      "지시",
+      "제조위생관리"
+    ]
+  },
+  {
+    "id": "6b49c0f5-5b0f-4b70-a8de-eae41bf019d1",
+    "text": "책임자를 지정하여 제조소의 모든 제조위생관리 업무를 총괄한다 6 1 2 제조위생관리 책임자는 제조부서 책임자와 같이 관련 업무에 책임과 권한을 갖는 작업자로 지정한다 6 1 3 제조위생관리 책임자의 지시를 받아 업무를 주도적으로 수행할 인원을 제조위생관리 담당자로 지정한다 6 1 4 제조관리 책임자와 제조위생관리 담당자가 수행하여야 할 주요 업무의 범위는 다음과 같다 6 1 4 1 건물 및 시설 등의 위생 유지 관리\n\n6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 97,
+      "content_length": 282,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "범위",
+      "지시"
+    ]
+  },
+  {
+    "id": "5587dd04-bc8e-4c2d-a360-635cef186a4c",
+    "text": "제조위생관리 책임자의 지시를 받아 업무를 주도적으로 수행할 인원을 제조위생관리 담당자로 지정한다 6 1 4 제조관리 책임자와 제조위생관리 담당자가 수행하여야 할 주요 업무의 범위는 다음과 같다 6 1 4 1 건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 98,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "범위",
+      "지시"
+    ]
+  },
+  {
+    "id": "5b5dffff-09bf-4020-9798-4e6586f9501c",
+    "text": "수행할 인원을 제조위생관리 담당자로 지정한다 6 1 4 제조관리 책임자와 제조위생관리 담당자가 수행하여야 할 주요 업무의 범위는 다음과 같다 6 1 4 1 건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 99,
+      "content_length": 193,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "c2e5fa7e-f44a-4bf9-b81c-dd648b2f0b19",
+    "text": "책임자와 제조위생관리 담당자가 수행하여야 할 주요 업무의 범위는 다음과 같다 6 1 4 1 건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 100,
+      "content_length": 176,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "fb3ce119-bef6-4d2f-9c2b-0e0d13adfb0b",
+    "text": "범위는 다음과 같다 6 1 4 1 건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 101,
+      "content_length": 158,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "87fefb4e-995a-43b2-88e2-dc4fdbaee043",
+    "text": "1 4 1 건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 102,
+      "content_length": 159,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "99a98329-5404-42c1-8cb4-9da70746e5d2",
+    "text": "1 건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 103,
+      "content_length": 161,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "35fd0dce-b903-4d9d-9466-e9560d71ceea",
+    "text": "건물 및 시설 등의 위생 유지 관리 6 1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 104,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "b68de4bf-24f4-44e1-8e55-caf3cbd2bdd7",
+    "text": "1 4 2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 105,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "fc93573c-9111-4435-9958-1c725f6e125b",
+    "text": "2 기계설비 및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 106,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "b1594b11-0466-4623-a66b-bbef2a39d8d3",
+    "text": "및 작업실의 세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 107,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "b43b03e1-a854-4ef6-b42c-504353266313",
+    "text": "세척, 소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 108,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "8fab3499-cfe7-4ace-878d-8ac35c523791",
+    "text": "소독, 청소방법의 확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 관리, 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 109,
+      "content_length": 227,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "승인",
+      "제한"
+    ]
+  },
+  {
+    "id": "1306a811-aa09-4a12-9625-85067eaa0e2f",
+    "text": "확인 및 유지관리 확인 6 1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 관리, 확인 작업원의 건강관리 및 건강상태의 파악/조치방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 110,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "조치",
+      "제조",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "id": "2aa509b2-cb24-4774-b679-1ad81988932c",
+    "text": "1 4 3 작업원 위생관리 6 1 4 5 제조소 출입 승인 및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 관리, 확인 작업원의 건강관리 및 건강상태의 파악/조치방법 전염성질환 등의 보균자가 아님을 증명하여야 한다  또한 연 1 회 검진을 실시하여",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 111,
+      "content_length": 274,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "조치",
+      "제조",
+      "방법",
+      "승인"
+    ]
+  },
+  {
+    "id": "94bbe2f1-2b0d-44ce-ae7e-14aa51586d71",
+    "text": "및 제한 6 1 4 6 작업 폐기물의 관리 Page: 5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 관리, 확인 작업원의 건강관리 및 건강상태의 파악/조치방법 전염성질환 등의 보균자가 아님을 증명하여야 한다 또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 112,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "1da83180-974b-4c6f-b171-4fc2b8338401",
+    "text": "5 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 관리, 확인 작업원의 건강관리 및 건강상태의 파악/조치방법 전염성질환 등의 보균자가 아님을 증명하여야 한다 또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 113,
+      "content_length": 262,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "c2683b32-dea8-4f81-bfa6-d0ab1c7cb3f0",
+    "text": "12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 관리, 확인 작업원의 건강관리 및 건강상태의 파악/조치방법 전염성질환 등의 보균자가 아님을 증명하여야 한다 또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다 6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 114,
+      "content_length": 307,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "b8b59081-9b30-4a51-8c38-5ba6084ee9bc",
+    "text": "Revision No Effective Date SCMH 관리, 확인 작업원의 건강관리 및 건강상태의 파악/조치방법 전염성질환 등의 보균자가 아님을 증명하여야 한다 또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다 6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 115,
+      "content_length": 254,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "위험"
+    ]
+  },
+  {
+    "id": "e193162b-df2b-4b0d-8583-a8c1304fbf8b",
+    "text": "건강상태의 파악/조치방법 전염성질환 등의 보균자가 아님을 증명하여야 한다 또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다 6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 116,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "위험"
+    ]
+  },
+  {
+    "id": "2d0b3a94-c124-4e25-8732-5c2e09f2f504",
+    "text": "등의 보균자가 아님을 증명하여야 한다 또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다 6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다 6 2 3 건강상태의 자진신고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 117,
+      "content_length": 211,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "위험",
+      "신고"
+    ]
+  },
+  {
+    "id": "a41bc98d-eabb-4267-98d4-d2947ae1315c",
+    "text": "또한 연 1 회 검진을 실시하여 혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다 6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다 6 2 3 건강상태의 자진신고 건강상태 자진신고이다 \n\n제조위생관리 책임자의 지시를 받는다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 118,
+      "content_length": 224,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "위험",
+      "신고"
+    ]
+  },
+  {
+    "id": "f5cfa801-2802-451b-8d14-554f67ffb607",
+    "text": "혈액제제 제조 및 품질관리 수행을 하기에 적절하다고 판단되는 인원만이 업무를 수행하여야 한다 6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다 6 2 3 건강상태의 자진신고 건강상태 자진신고이다 제조위생관리 책임자의 지시를 받는다 입증하여야 하며, 이를 입증하기까지 혈액제제 제조 및 품질관리 업무 수행을 할 수",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 119,
+      "content_length": 250,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "위험",
+      "신고"
+    ]
+  },
+  {
+    "id": "fe66977b-6c37-432a-9fe7-66d0f580fa62",
+    "text": "6 2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다 6 2 3 건강상태의 자진신고 건강상태 자진신고이다 제조위생관리 책임자의 지시를 받는다 입증하여야 하며, 이를 입증하기까지 혈액제제 제조 및 품질관리 업무 수행을 할 수 없다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 120,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "위험",
+      "신고"
+    ]
+  },
+  {
+    "id": "73f0ba07-2315-49f8-b920-10e3d57f77c4",
+    "text": "2 2 감염병 등으로 인하여 혈액제제의 품질이나 공혈자의 안전에 영향을 미칠 수 있는 작업원은 위험요인이 없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다 6 2 3 건강상태의 자진신고 건강상태 자진신고이다 제조위생관리 책임자의 지시를 받는다 입증하여야 하며, 이를 입증하기까지 혈액제제 제조 및 품질관리 업무 수행을 할 수 없다 6 2 3 4 자진신고 없이 작업 중인 법정전염성 질환의 작업자나 보균자 발생 시 제조위생관리",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 121,
+      "content_length": 252,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "위험",
+      "신고"
+    ]
+  },
+  {
+    "id": "5a4c1f2e-c435-423c-b2a6-566b085a4fad",
+    "text": "없어질 때까지 공혈자 및 혈액제제와 직접 접촉하는 작업에 참여해서는 안 된다 6 2 3 건강상태의 자진신고 건강상태 자진신고이다 제조위생관리 책임자의 지시를 받는다 입증하여야 하며, 이를 입증하기까지 혈액제제 제조 및 품질관리 업무 수행을 할 수 없다 6 2 3 4 자진신고 없이 작업 중인 법정전염성 질환의 작업자나 보균자 발생 시 제조위생관리 품질 영향 등을 확인하여 제품의 후속 공정 진행, 폐기 등을 결정하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 122,
+      "content_length": 236,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "신고"
+    ]
+  },
+  {
+    "id": "fce7b72c-16d9-4a29-9fa3-abe89dd67103",
+    "text": "2 3 건강상태의 자진신고 건강상태 자진신고이다 제조위생관리 책임자의 지시를 받는다 입증하여야 하며, 이를 입증하기까지 혈액제제 제조 및 품질관리 업무 수행을 할 수 없다 6 2 3 4 자진신고 없이 작업 중인 법정전염성 질환의 작업자나 보균자 발생 시 제조위생관리 품질 영향 등을 확인하여 제품의 후속 공정 진행, 폐기 등을 결정하여야 한다 6 2 3 5 또한 제조위생관리 책임자는 혈액제제 제조 및 품질관리 업무를 수행하는 작업원의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 123,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "신고"
+    ]
+  },
+  {
+    "id": "4a1ad341-4f08-405f-9300-6a4eaf61c7e3",
+    "text": "혈액제제 제조 및 품질관리 업무 수행을 할 수 없다 6 2 3 4 자진신고 없이 작업 중인 법정전염성 질환의 작업자나 보균자 발생 시 제조위생관리 품질 영향 등을 확인하여 제품의 후속 공정 진행, 폐기 등을 결정하여야 한다 6 2 3 5 또한 제조위생관리 책임자는 혈액제제 제조 및 품질관리 업무를 수행하는 작업원의 건강상태를 수시로 확인하여 해당 업무에 부적합한(혈액제제 제조 및 품질관리 업무에\n\n부정적 영향을 미칠 수 있는) 건강상태로 판명된 인원에 대하여 보직 변경 등의 적절한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 124,
+      "content_length": 271,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "신고"
+    ]
+  },
+  {
+    "id": "9f631576-c7a5-4914-b7c9-4a6e347bf3a4",
+    "text": "제조위생관리 품질 영향 등을 확인하여 제품의 후속 공정 진행, 폐기 등을 결정하여야 한다 6 2 3 5 또한 제조위생관리 책임자는 혈액제제 제조 및 품질관리 업무를 수행하는 작업원의 건강상태를 수시로 확인하여 해당 업무에 부적합한(혈액제제 제조 및 품질관리 업무에 부정적 영향을 미칠 수 있는) 건강상태로 판명된 인원에 대하여 보직 변경 등의 적절한 조치를 취하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 125,
+      "content_length": 207,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "id": "cb75b266-3a7a-4747-9fec-71e6df36e471",
+    "text": "등을 확인하여 제품의 후속 공정 진행, 폐기 등을 결정하여야 한다 6 2 3 5 또한 제조위생관리 책임자는 혈액제제 제조 및 품질관리 업무를 수행하는 작업원의 건강상태를 수시로 확인하여 해당 업무에 부적합한(혈액제제 제조 및 품질관리 업무에 부정적 영향을 미칠 수 있는) 건강상태로 판명된 인원에 대하여 보직 변경 등의 적절한 조치를 취하여야 한다 작업원의 수세, 소독방법 등 위생에 관한 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 126,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "id": "46bd55dd-6454-49a8-851f-c759da7eea58",
+    "text": "등을 결정하여야 한다 6 2 3 5 또한 제조위생관리 책임자는 혈액제제 제조 및 품질관리 업무를 수행하는 작업원의 건강상태를 수시로 확인하여 해당 업무에 부적합한(혈액제제 제조 및 품질관리 업무에 부정적 영향을 미칠 수 있는) 건강상태로 판명된 인원에 대하여 보직 변경 등의 적절한 조치를 취하여야 한다 작업원의 수세, 소독방법 등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 127,
+      "content_length": 247,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "0186a4de-2f94-467f-8a7d-004083d8ced2",
+    "text": "업무를 수행하는 작업원의 건강상태를 수시로 확인하여 해당 업무에 부적합한(혈액제제 제조 및 품질관리 업무에 부정적 영향을 미칠 수 있는) 건강상태로 판명된 인원에 대하여 보직 변경 등의 적절한 조치를 취하여야 한다 작업원의 수세, 소독방법 등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 128,
+      "content_length": 232,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "id": "eb64082e-91ff-46f3-a158-8879c050cfb1",
+    "text": "제조 및 품질관리 업무에 부정적 영향을 미칠 수 있는) 건강상태로 판명된 인원에 대하여 보직 변경 등의 적절한 조치를 취하여야 한다 작업원의 수세, 소독방법 등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다  손 소독은 최초 제조소",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 129,
+      "content_length": 240,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "id": "c6c8ce01-cb05-4ee7-b633-4ad20208e85d",
+    "text": "적절한 조치를 취하여야 한다 작업원의 수세, 소독방법 등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 130,
+      "content_length": 195,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "조치",
+      "절차",
+      "제조"
+    ]
+  },
+  {
+    "id": "9b85aebc-5c7f-4df5-9938-beb62795be49",
+    "text": "작업원의 수세, 소독방법 등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 131,
+      "content_length": 193,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "eba22a40-49e3-4f4d-b2a3-f93df61c4b83",
+    "text": "소독방법 등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 132,
+      "content_length": 190,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "dd0adaeb-a963-4097-81dc-87a86fe5f3c1",
+    "text": "등 위생에 관한 사항 6 3 1 제조소에 출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 133,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "6166bd19-2e64-4106-a6ed-f1876d2e072a",
+    "text": "출입하여 혈액제제 제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 134,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "df21dd92-77b3-4ef4-a1e2-de7ef4cfa538",
+    "text": "제조 및 품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 135,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "4b54552c-9c80-47f3-a534-82233c928714",
+    "text": "품질관리 업무를 수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 136,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "절차",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "1023c602-9284-4fa1-a0df-b208d9bc42ec",
+    "text": "수행하고자 하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 137,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "지정된"
+    ]
+  },
+  {
+    "id": "45f2ac73-dd52-4019-a26b-971a7c6bda0c",
+    "text": "하는 인원은 지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 소독제를 비치한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 138,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "지정된"
+    ]
+  },
+  {
+    "id": "ecff9519-5e85-44d1-a12b-aaef60a5a1ea",
+    "text": "지정된 장소에서 지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 소독제를 비치한다 을 실시한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 139,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "지정된"
+    ]
+  },
+  {
+    "id": "62fd2074-2dca-4666-9197-3cc9aac709ab",
+    "text": "지정된 절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 소독제를 비치한다 을 실시한다 다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 140,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "절차",
+      "제조",
+      "기준",
+      "지정된"
+    ]
+  },
+  {
+    "id": "02499b70-9593-48b9-b64d-6b92ae304678",
+    "text": "절차에 따라 수세 및 손소독을 실시하여야 한다 6 3 2 손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 소독제를 비치한다 을 실시한다 다 작업소 등의 청소(소독) 방법 및 청소 주기, 청소상태 평가 방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 141,
+      "content_length": 273,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "절차",
+      "제조",
+      "방법"
+    ]
+  },
+  {
+    "id": "36805458-4419-493a-8289-5c067df906dc",
+    "text": "손 소독 시에는 지정된 소독액을 이용하여 손 소독을 실시한다 손 소독은 최초 제조소 Page: 6 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 소독제를 비치한다 을 실시한다 다 작업소 등의 청소(소독) 방법 및 청소 주기, 청소상태 평가 방법 6 4 1 작업소 청소 또는 소독은 각 작업소의 사용 후(공정 진행 후) 즉시 실시함을 원칙으로",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 142,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "id": "935e85f4-6f9d-4685-b18b-b119d0b938f2",
+    "text": "12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 소독제를 비치한다 을 실시한다 다 작업소 등의 청소(소독) 방법 및 청소 주기, 청소상태 평가 방법 6 4 1 작업소 청소 또는 소독은 각 작업소의 사용 후(공정 진행 후) 즉시 실시함을 원칙으로 한다  또한 작업소 사용 전 확인되는 오염인자나 기타 밸리데이션 등을 통한 주기가\n\n지정되었을 경우 사용 전 청소를 실시한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 143,
+      "content_length": 307,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "id": "7740a77d-7a52-4af3-a4f1-56fc39f642c0",
+    "text": "SCMH 소독제를 비치한다 을 실시한다 다 작업소 등의 청소(소독) 방법 및 청소 주기, 청소상태 평가 방법 6 4 1 작업소 청소 또는 소독은 각 작업소의 사용 후(공정 진행 후) 즉시 실시함을 원칙으로 한다 또한 작업소 사용 전 확인되는 오염인자나 기타 밸리데이션 등을 통한 주기가 지정되었을 경우 사용 전 청소를 실시한다 6 4 2 작업소의 사용 중 오염이 발생하였을 경우(예  혈액백의 파손) 즉시 청소 및 소독을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 144,
+      "content_length": 235,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "공정",
+      "방법",
+      "청소",
+      "사용"
+    ]
+  },
+  {
+    "id": "7aedac83-485f-4585-a590-51a24edc7647",
+    "text": "방법 6 4 1 작업소 청소 또는 소독은 각 작업소의 사용 후(공정 진행 후) 즉시 실시함을 원칙으로 한다 또한 작업소 사용 전 확인되는 오염인자나 기타 밸리데이션 등을 통한 주기가 지정되었을 경우 사용 전 청소를 실시한다 6 4 2 작업소의 사용 중 오염이 발생하였을 경우(예 혈액백의 파손) 즉시 청소 및 소독을 지정하여 목적에 적합하게 사용하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 145,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "방법",
+      "사용",
+      "작업소",
+      "청소"
+    ]
+  },
+  {
+    "id": "cf183e25-9cd1-48a2-84e2-5a40f48d788a",
+    "text": "청소 또는 소독은 각 작업소의 사용 후(공정 진행 후) 즉시 실시함을 원칙으로 한다 또한 작업소 사용 전 확인되는 오염인자나 기타 밸리데이션 등을 통한 주기가 지정되었을 경우 사용 전 청소를 실시한다 6 4 2 작업소의 사용 중 오염이 발생하였을 경우(예 혈액백의 파손) 즉시 청소 및 소독을 지정하여 목적에 적합하게 사용하여야 한다 6 4 5 작업소 청소 시 청소 복장은 출입 시 작업복장과 동일하게 규정한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 146,
+      "content_length": 229,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "규정",
+      "청소",
+      "사용",
+      "작업소의"
+    ]
+  },
+  {
+    "id": "0fb8e1ff-1f36-4bcf-8952-d0a056aac361",
+    "text": "또한 작업소 사용 전 확인되는 오염인자나 기타 밸리데이션 등을 통한 주기가 지정되었을 경우 사용 전 청소를 실시한다 6 4 2 작업소의 사용 중 오염이 발생하였을 경우(예 혈액백의 파손) 즉시 청소 및 소독을 지정하여 목적에 적합하게 사용하여야 한다 6 4 5 작업소 청소 시 청소 복장은 출입 시 작업복장과 동일하게 규정한다 6 4 6 작업소의 통상 청소 방법\n\n6 4 6 1 작업자는 작업소에 존재하는 사용 후 원자재 및 폐기물 등을 포함하여 육안으로",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 147,
+      "content_length": 254,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "규정",
+      "사용",
+      "청소",
+      "작업소"
+    ]
+  },
+  {
+    "id": "e2659b6b-8641-4edd-b5bc-a10934c25e9d",
+    "text": "중 오염이 발생하였을 경우(예 혈액백의 파손) 즉시 청소 및 소독을 지정하여 목적에 적합하게 사용하여야 한다 6 4 5 작업소 청소 시 청소 복장은 출입 시 작업복장과 동일하게 규정한다 6 4 6 작업소의 통상 청소 방법 6 4 6 1 작업자는 작업소에 존재하는 사용 후 원자재 및 폐기물 등을 포함하여 육안으로 확인되는 먼지 및 오염물질을 우선 제거한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 148,
+      "content_length": 198,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "규정",
+      "청소",
+      "오염이",
+      "발생하였을"
+    ]
+  },
+  {
+    "id": "e7c9fa1a-3ab5-4e80-92ca-e815de50606b",
+    "text": "즉시 청소 및 소독을 지정하여 목적에 적합하게 사용하여야 한다 6 4 5 작업소 청소 시 청소 복장은 출입 시 작업복장과 동일하게 규정한다 6 4 6 작업소의 통상 청소 방법 6 4 6 1 작업자는 작업소에 존재하는 사용 후 원자재 및 폐기물 등을 포함하여 육안으로 확인되는 먼지 및 오염물질을 우선 제거한다 6 4 6 2 규정된 세정액 또는 소독액을 사용량만큼 분주하여 청소 도구(무진 와이퍼 등)를 적신",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 149,
+      "content_length": 227,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "도구",
+      "방법",
+      "규정",
+      "청소",
+      "즉시"
+    ]
+  },
+  {
+    "id": "5b6b79c3-b10a-45c1-b44d-41e64b03d9ee",
+    "text": "청소 복장은 출입 시 작업복장과 동일하게 규정한다 6 4 6 작업소의 통상 청소 방법 6 4 6 1 작업자는 작업소에 존재하는 사용 후 원자재 및 폐기물 등을 포함하여 육안으로 확인되는 먼지 및 오염물질을 우선 제거한다 6 4 6 2 규정된 세정액 또는 소독액을 사용량만큼 분주하여 청소 도구(무진 와이퍼 등)를 적신 후 밀대 등에 장착하여 사용한다 \n\n벽면, 천장, 기기/설비를 모두 청소 및 소독한다  이 때, 청소 도구는 바닥 등에 닿는\n\n면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 150,
+      "content_length": 290,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "도구",
+      "방법",
+      "규정",
+      "청소",
+      "등에"
+    ]
+  },
+  {
+    "id": "15e68e87-9e56-4c10-9883-bbadaf1c89b2",
+    "text": "먼지 및 오염물질을 우선 제거한다 6 4 6 2 규정된 세정액 또는 소독액을 사용량만큼 분주하여 청소 도구(무진 와이퍼 등)를 적신 후 밀대 등에 장착하여 사용한다 벽면, 천장, 기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 151,
+      "content_length": 203,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "도구",
+      "규정",
+      "청소",
+      "와이퍼",
+      "등에"
+    ]
+  },
+  {
+    "id": "da8dda46-e640-449a-9f03-ba8a12c4268a",
+    "text": "6 4 6 2 규정된 세정액 또는 소독액을 사용량만큼 분주하여 청소 도구(무진 와이퍼 등)를 적신 후 밀대 등에 장착하여 사용한다 벽면, 천장, 기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 152,
+      "content_length": 206,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "도구",
+      "방법",
+      "규정",
+      "청소"
+    ]
+  },
+  {
+    "id": "ea75a26a-a84c-43f6-98c6-72089e99a48b",
+    "text": "소독액을 사용량만큼 분주하여 청소 도구(무진 와이퍼 등)를 적신 후 밀대 등에 장착하여 사용한다 벽면, 천장, 기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 153,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "도구",
+      "방법",
+      "청소",
+      "와이퍼"
+    ]
+  },
+  {
+    "id": "49cb83f1-ef90-4e68-b223-2fba51ff2d97",
+    "text": "도구(무진 와이퍼 등)를 적신 후 밀대 등에 장착하여 사용한다 벽면, 천장, 기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 154,
+      "content_length": 196,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "도구",
+      "방법",
+      "와이퍼",
+      "등에"
+    ]
+  },
+  {
+    "id": "c02e59b0-1d07-45ee-a8c1-3dd36bdb7eeb",
+    "text": "등)를 적신 후 밀대 등에 장착하여 사용한다 벽면, 천장, 기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 155,
+      "content_length": 192,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "도구",
+      "방법",
+      "등에",
+      "청소"
+    ]
+  },
+  {
+    "id": "7a378b38-d5b9-44d9-a7cb-0af6fda0d43b",
+    "text": "적신 후 밀대 등에 장착하여 사용한다 벽면, 천장, 기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 156,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "도구",
+      "방법"
+    ]
+  },
+  {
+    "id": "f811a853-2e98-432f-891d-8acd7c082d5b",
+    "text": "기기/설비를 모두 청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 157,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "도구",
+      "방법"
+    ]
+  },
+  {
+    "id": "259c416e-7a56-4c86-bebc-af8c43b879f7",
+    "text": "청소 및 소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 158,
+      "content_length": 234,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "도구",
+      "방법"
+    ]
+  },
+  {
+    "id": "42d4294a-1940-4f83-9ddb-95556352fe8d",
+    "text": "소독한다 이 때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 159,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "도구",
+      "방법"
+    ]
+  },
+  {
+    "id": "47dec703-9066-4195-bc8d-30bdd2cc45bc",
+    "text": "때, 청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 160,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "도구",
+      "방법"
+    ]
+  },
+  {
+    "id": "3638c65a-db1d-4fb2-be94-b69281a756c4",
+    "text": "청소 도구는 바닥 등에 닿는 면을 적절히 바꾸어가며 사용하고, 한 번 사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 여부와 청소 및 소독의 적절성을 판단한다  이러한 확인자는 해당 부서(팀)의 책임자와",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 161,
+      "content_length": 287,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "도구",
+      "방법"
+    ]
+  },
+  {
+    "id": "30fd9fc7-9b3d-4766-ac5d-5c653f64f9b5",
+    "text": "사용한 면은 다시 사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 여부와 청소 및 소독의 적절성을 판단한다 이러한 확인자는 해당 부서(팀)의 책임자와 시를 지시하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 162,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "id": "01c0d676-a4f2-41e5-bd92-b11a9f98f003",
+    "text": "사용하지 않는다 와이퍼 등을 이용하여 청소를 실시한다 6 4 7 작업소의 청소상태 평가 방법 Page: 7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 여부와 청소 및 소독의 적절성을 판단한다 이러한 확인자는 해당 부서(팀)의 책임자와 시를 지시하여야 한다 6 4 7 2 청소상태 평가 시 가장 기본적으로 육안확인을 실시한다  다만 작업소의 청정도와 수행",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 163,
+      "content_length": 304,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "기준"
+    ]
+  },
+  {
+    "id": "ca680b9b-a79a-4213-bfa5-b4e7b4c94734",
+    "text": "7 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 여부와 청소 및 소독의 적절성을 판단한다 이러한 확인자는 해당 부서(팀)의 책임자와 시를 지시하여야 한다 6 4 7 2 청소상태 평가 시 가장 기본적으로 육안확인을 실시한다 다만 작업소의 청정도와 수행 되는 작업의 성격에 따라 환경모니터링 등을 통해 잔류하는 미생물의 확인, 부유입자 측\n\n정 등의 방법을 통해 청소상태를 평가 할 수 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 164,
+      "content_length": 322,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "모니터링",
+      "방법"
+    ]
+  },
+  {
+    "id": "439883a3-5b7b-4ec4-9346-7c1503c507d2",
+    "text": "여부와 청소 및 소독의 적절성을 판단한다 이러한 확인자는 해당 부서(팀)의 책임자와 시를 지시하여야 한다 6 4 7 2 청소상태 평가 시 가장 기본적으로 육안확인을 실시한다 다만 작업소의 청정도와 수행 되는 작업의 성격에 따라 환경모니터링 등을 통해 잔류하는 미생물의 확인, 부유입자 측 정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 165,
+      "content_length": 237,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "판단"
+    ]
+  },
+  {
+    "id": "09922fee-d45d-422a-881b-6a03677da1f6",
+    "text": "시를 지시하여야 한다 6 4 7 2 청소상태 평가 시 가장 기본적으로 육안확인을 실시한다 다만 작업소의 청정도와 수행 되는 작업의 성격에 따라 환경모니터링 등을 통해 잔류하는 미생물의 확인, 부유입자 측 정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 166,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "지시"
+    ]
+  },
+  {
+    "id": "0c7aa1f5-0ea2-4566-a8cb-3245251deb1c",
+    "text": "청소상태 평가 시 가장 기본적으로 육안확인을 실시한다 다만 작업소의 청정도와 수행 되는 작업의 성격에 따라 환경모니터링 등을 통해 잔류하는 미생물의 확인, 부유입자 측 정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 \n\n에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 167,
+      "content_length": 279,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "id": "decf5f21-90b1-40ec-ae27-e1e09e8340f3",
+    "text": "확인, 부유입자 측 정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 168,
+      "content_length": 199,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "id": "7d44bbee-a9e7-4103-add8-7ff8d74c7aa3",
+    "text": "부유입자 측 정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 169,
+      "content_length": 200,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "id": "76dc0e65-a843-42f0-bbea-b243a8c74d8b",
+    "text": "측 정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 170,
+      "content_length": 198,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "id": "623c5d83-63e1-4d88-a23e-b1a8d6c7fcc7",
+    "text": "정 등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 171,
+      "content_length": 201,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "모니터링",
+      "방법",
+      "한다"
+    ]
+  },
+  {
+    "id": "011a0ee3-e33a-4d9f-8f0c-112a4d4d82e8",
+    "text": "등의 방법을 통해 청소상태를 평가 할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 172,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "공정",
+      "모니터링",
+      "방법"
+    ]
+  },
+  {
+    "id": "ee8597d0-7dff-4ea5-acd1-1cb703f89948",
+    "text": "할 수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 173,
+      "content_length": 205,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "모니터링",
+      "한다",
+      "기록"
+    ]
+  },
+  {
+    "id": "ab910e93-81fd-462c-8a8a-d38eefeddacb",
+    "text": "수 있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 174,
+      "content_length": 206,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "모니터링",
+      "한다",
+      "기록"
+    ]
+  },
+  {
+    "id": "8ac4195c-b3cc-423d-b5c7-8d7b031f4207",
+    "text": "있다 사항 및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 175,
+      "content_length": 210,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "모니터링",
+      "한다",
+      "기록"
+    ]
+  },
+  {
+    "id": "932e8edb-ff68-4a35-af4f-294ec6be05f5",
+    "text": "및 작업자/확인자, 환경모니터링 기록 등이 확인 가능하도록 기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1  세척제의 종류 및 용도의 예시>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 176,
+      "content_length": 228,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "모니터링",
+      "한다",
+      "기록"
+    ]
+  },
+  {
+    "id": "0da2517e-7001-4dc2-82c0-0e7e0eb9e970",
+    "text": "기록, 관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 177,
+      "content_length": 199,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "한다",
+      "기록",
+      "관리되어야"
+    ]
+  },
+  {
+    "id": "908c6f3b-a2dd-489e-a77b-20384e6d9a93",
+    "text": "관리되어야 한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 178,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "한다",
+      "사용농도",
+      "관리되어야"
+    ]
+  },
+  {
+    "id": "92534c00-a16a-4f66-bb3b-eac71053fe4c",
+    "text": "한다 청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 179,
+      "content_length": 197,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "한다",
+      "사용농도",
+      "용도",
+      "청소에"
+    ]
+  },
+  {
+    "id": "79df92c5-0224-4b1d-8ec6-23fc78f96ab9",
+    "text": "청소에 사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 180,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "한다",
+      "사용농도",
+      "용도",
+      "청소에"
+    ]
+  },
+  {
+    "id": "bcb4abdb-44f3-41b7-ac8f-9e5ef7b0d01c",
+    "text": "사용하는 세제 또는 소독제 및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올 작업소 바닥, 벽면, 기기설",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 181,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "한다",
+      "사용농도",
+      "용도",
+      "사용하는"
+    ]
+  },
+  {
+    "id": "723f606a-556d-4004-bf73-b469d5688f1c",
+    "text": "및 기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올 작업소 바닥, 벽면, 기기설 이소프로필알콜",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 182,
+      "content_length": 203,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "한다",
+      "사용농도",
+      "용도",
+      "기구"
+    ]
+  },
+  {
+    "id": "1589daa8-19af-47bd-8126-ec80b53152c6",
+    "text": "기구 제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올 작업소 바닥, 벽면, 기기설 이소프로필알콜 적량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 183,
+      "content_length": 204,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "한다",
+      "사용농도",
+      "용도",
+      "적량"
+    ]
+  },
+  {
+    "id": "997f2cfc-241b-47b4-bbaa-f3a55b2a88ab",
+    "text": "제거능력 등)와 환경에 미치는 영향을 확인하여 선정, 사용하여야 한다 에 사용되는 마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올 작업소 바닥, 벽면, 기기설 이소프로필알콜 적량 비의 표면 등 소독\n\n<표 2  소독제의 종류 및 용도의 예시>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 184,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "공정",
+      "한다",
+      "사용농도",
+      "용도",
+      "적량"
+    ]
+  },
+  {
+    "id": "78bd6c95-4f25-4de1-bf04-ee9572cb9e67",
+    "text": "마감재의 부식이나 변색 등을 일으키지 않는 성분을 선택하여야 한다 세척제명 사용농도 용도 NaOH 공정 진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올 작업소 바닥, 벽면, 기기설 이소프로필알콜 적량 비의 표면 등 소독 <표 2 소독제의 종류 및 용도의 예시> 6 5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 185,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "공정",
+      "도구",
+      "사용농도",
+      "용도"
+    ]
+  },
+  {
+    "id": "3381240c-af06-4a27-9de6-fed07ec9268a",
+    "text": "진행 선반, 폐기 씽크 차아염소산나트륨 적량 등의 소독 <표 1 세척제의 종류 및 용도의 예시> 소독제명 사용농도 용도 에탄올 작업소 바닥, 벽면, 기기설 이소프로필알콜 적량 비의 표면 등 소독 <표 2 소독제의 종류 및 용도의 예시> 6 5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다  또한 청소도구는 별도\n\n로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 186,
+      "content_length": 274,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "적량"
+    ]
+  },
+  {
+    "id": "171b7cf1-ff21-4795-9bff-73da74509e0b",
+    "text": "기기설 이소프로필알콜 적량 비의 표면 등 소독 <표 2 소독제의 종류 및 용도의 예시> 6 5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 187,
+      "content_length": 203,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "청소도구는"
+    ]
+  },
+  {
+    "id": "0a8477c1-336e-4d46-a6bc-049afdac39e8",
+    "text": "표면 등 소독 <표 2 소독제의 종류 및 용도의 예시> 6 5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 188,
+      "content_length": 199,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "청소도구는"
+    ]
+  },
+  {
+    "id": "d1079430-ffbf-4e33-b46f-9474ab07a703",
+    "text": "소독 <표 2 소독제의 종류 및 용도의 예시> 6 5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 189,
+      "content_length": 200,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "청소도구는"
+    ]
+  },
+  {
+    "id": "308f8646-97b1-4aaa-9cc9-2f2b7499e4a0",
+    "text": "<표 2 소독제의 종류 및 용도의 예시> 6 5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 190,
+      "content_length": 258,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "0329affb-59ab-41a8-8511-61f380e67dd7",
+    "text": "5 4 작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 191,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "7afc1362-29b0-4a6d-902f-2a6ab2abf195",
+    "text": "작업에 사용하는 청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 192,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "35f37bf8-a756-4333-a5bb-f1283b987d91",
+    "text": "청소도구는 먼지 및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 193,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "4a7b979c-2500-4ceb-9712-ce83867b5c72",
+    "text": "및 오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 194,
+      "content_length": 255,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "2d4ba17a-98b3-4829-a6ad-67a6bb2bc3d8",
+    "text": "오염물질이 존재하지 않도록 관리되어야 하며, 오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 195,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "38beeb92-1edd-44fa-83f8-74a77ce4bdc4",
+    "text": "오 염물질이 존재하는 경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 196,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "도구",
+      "기준"
+    ]
+  },
+  {
+    "id": "1df527c2-96f5-4599-93e0-7b0510c0bf05",
+    "text": "경우 제거가 가능한 형태 및 재질이어야 한다 또한 청소도구는 별도 로 구분된 공간에 보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다 6 6 2 이러한 작업소 내의 인입 공기관리를 위하여 공기조화시스템(HVAC System) 등을 사용한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 197,
+      "content_length": 305,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "시스템",
+      "도구"
+    ]
+  },
+  {
+    "id": "23667aa6-3fe3-4201-a1eb-38e04d0f74fc",
+    "text": "보관하여 혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다 6 6 2 이러한 작업소 내의 인입 공기관리를 위하여 공기조화시스템(HVAC System) 등을 사용한 다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 198,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "id": "4ccd3c1c-5c70-479a-a06d-5e230ed89602",
+    "text": "혈액제제 제조공정 등에 영향이 없도록 관리한다 Page: 8 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다 6 6 2 이러한 작업소 내의 인입 공기관리를 위하여 공기조화시스템(HVAC System) 등을 사용한 다 6 6 3 공기조화 시스템은 기본적으로 인입되는 공기가 Pre-Filter, Medium-Filter 를 거치도록 구",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 199,
+      "content_length": 321,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "시스템",
+      "기준"
+    ]
+  },
+  {
+    "id": "1f4d146d-5ba4-44df-b7e1-682d01b7f888",
+    "text": "제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다 6 6 2 이러한 작업소 내의 인입 공기관리를 위하여 공기조화시스템(HVAC System) 등을 사용한 다 6 6 3 공기조화 시스템은 기본적으로 인입되는 공기가 Pre-Filter, Medium-Filter 를 거치도록 구 성되며, 작업실의 청정등급에 따라 HEPA-Filter 를 추가적으로 장착함으로써 인입 공기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 200,
+      "content_length": 313,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "시스템",
+      "기준",
+      "Filter"
+    ]
+  },
+  {
+    "id": "a7c5f617-84cb-4544-a622-eba7b08f1448",
+    "text": "Revision No Effective Date SCMH 작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다 6 6 2 이러한 작업소 내의 인입 공기관리를 위하여 공기조화시스템(HVAC System) 등을 사용한 다 6 6 3 공기조화 시스템은 기본적으로 인입되는 공기가 Pre-Filter, Medium-Filter 를 거치도록 구 성되며, 작업실의 청정등급에 따라 HEPA-Filter 를 추가적으로 장착함으로써 인입 공기 질을 요구되는 품질에 적합하도록 관리한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 201,
+      "content_length": 263,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "시스템",
+      "Filter",
+      "인입"
+    ]
+  },
+  {
+    "id": "f160a00e-7183-4a1f-bb9d-675336f0237e",
+    "text": "작업소의 청정도 관리에 관한 사항 자의 관리를 실시한다 6 6 2 이러한 작업소 내의 인입 공기관리를 위하여 공기조화시스템(HVAC System) 등을 사용한 다 6 6 3 공기조화 시스템은 기본적으로 인입되는 공기가 Pre-Filter, Medium-Filter 를 거치도록 구 성되며, 작업실의 청정등급에 따라 HEPA-Filter 를 추가적으로 장착함으로써 인입 공기 질을 요구되는 품질에 적합하도록 관리한다 탁 및 멸균 방법을 규정한다 \n\n6 6 5 또한 작업소는 제조공정을 수행하는데 적절한 온습도가 유지되어야 하며, 각 작업소의\n\n용도별 온습도 관리 기준을 설정하여 미생물 오염 방지 등의 관리를 수행하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 202,
+      "content_length": 348,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "시스템"
+    ]
+  },
+  {
+    "id": "6e313756-e60b-4cd2-8a56-9262890b3df3",
+    "text": "Pre-Filter, Medium-Filter 를 거치도록 구 성되며, 작업실의 청정등급에 따라 HEPA-Filter 를 추가적으로 장착함으로써 인입 공기 질을 요구되는 품질에 적합하도록 관리한다 탁 및 멸균 방법을 규정한다 6 6 5 또한 작업소는 제조공정을 수행하는데 적절한 온습도가 유지되어야 하며, 각 작업소의 용도별 온습도 관리 기준을 설정하여 미생물 오염 방지 등의 관리를 수행하여야 한다 제조시설의 세척/소독 및 평가",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 203,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "id": "abd665d4-f071-481b-bbb3-ea0ea6fee4fc",
+    "text": "구 성되며, 작업실의 청정등급에 따라 HEPA-Filter 를 추가적으로 장착함으로써 인입 공기 질을 요구되는 품질에 적합하도록 관리한다 탁 및 멸균 방법을 규정한다 6 6 5 또한 작업소는 제조공정을 수행하는데 적절한 온습도가 유지되어야 하며, 각 작업소의 용도별 온습도 관리 기준을 설정하여 미생물 오염 방지 등의 관리를 수행하여야 한다 제조시설의 세척/소독 및 평가 6 7 1 혈액제제 제조에 사용하는 기기/설비는 적절한 방법으로 세척(청소)되어야 하고 특히",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 204,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "id": "1cadf4c3-1129-4590-9538-e0f273db993d",
+    "text": "요구되는 품질에 적합하도록 관리한다 탁 및 멸균 방법을 규정한다 6 6 5 또한 작업소는 제조공정을 수행하는데 적절한 온습도가 유지되어야 하며, 각 작업소의 용도별 온습도 관리 기준을 설정하여 미생물 오염 방지 등의 관리를 수행하여야 한다 제조시설의 세척/소독 및 평가 6 7 1 혈액제제 제조에 사용하는 기기/설비는 적절한 방법으로 세척(청소)되어야 하고 특히 혈액제제와 직접 접촉하는 기기/설비가 있는 경우 사용 후 직전 제품의 잔량이 없도록",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 205,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "품질",
+      "관리",
+      "제조",
+      "공정"
+    ]
+  },
+  {
+    "id": "a4679009-0854-4c68-9b8b-bd086c1aa6e4",
+    "text": "또한 작업소는 제조공정을 수행하는데 적절한 온습도가 유지되어야 하며, 각 작업소의 용도별 온습도 관리 기준을 설정하여 미생물 오염 방지 등의 관리를 수행하여야 한다 제조시설의 세척/소독 및 평가 6 7 1 혈액제제 제조에 사용하는 기기/설비는 적절한 방법으로 세척(청소)되어야 하고 특히 혈액제제와 직접 접촉하는 기기/설비가 있는 경우 사용 후 직전 제품의 잔량이 없도록 세척되어야 함은 물론, 필요 시 멸균 또는 소독되어야 한다  이를 위하여 각 기기/설비",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 206,
+      "content_length": 256,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "공정",
+      "방지"
+    ]
+  },
+  {
+    "id": "511daf71-c954-44d1-981c-433ccb065cd7",
+    "text": "기준을 설정하여 미생물 오염 방지 등의 관리를 수행하여야 한다 제조시설의 세척/소독 및 평가 6 7 1 혈액제제 제조에 사용하는 기기/설비는 적절한 방법으로 세척(청소)되어야 하고 특히 혈액제제와 직접 접촉하는 기기/설비가 있는 경우 사용 후 직전 제품의 잔량이 없도록 세척되어야 함은 물론, 필요 시 멸균 또는 소독되어야 한다 이를 위하여 각 기기/설비 별 관리 담당자(또는 세척 담당자)를 지정하여 관리하며, 이에 대한 사항을 다른",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 207,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방지",
+      "방법"
+    ]
+  },
+  {
+    "id": "5448cb9a-4a6d-4a16-adbc-3e9463d3ecfc",
+    "text": "및 평가 6 7 1 혈액제제 제조에 사용하는 기기/설비는 적절한 방법으로 세척(청소)되어야 하고 특히 혈액제제와 직접 접촉하는 기기/설비가 있는 경우 사용 후 직전 제품의 잔량이 없도록 세척되어야 함은 물론, 필요 시 멸균 또는 소독되어야 한다 이를 위하여 각 기기/설비 별 관리 담당자(또는 세척 담당자)를 지정하여 관리하며, 이에 대한 사항을 다른 작업자(또는 책임자)가 확인하여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 208,
+      "content_length": 218,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "평가",
+      "관리",
+      "제조",
+      "방법",
+      "기기"
+    ]
+  },
+  {
+    "id": "4b407fb3-076b-4bbd-9f58-88edcd6be7d5",
+    "text": "1 혈액제제 제조에 사용하는 기기/설비는 적절한 방법으로 세척(청소)되어야 하고 특히 혈액제제와 직접 접촉하는 기기/설비가 있는 경우 사용 후 직전 제품의 잔량이 없도록 세척되어야 함은 물론, 필요 시 멸균 또는 소독되어야 한다 이를 위하여 각 기기/설비 별 관리 담당자(또는 세척 담당자)를 지정하여 관리하며, 이에 대한 사항을 다른 작업자(또는 책임자)가 확인하여야 한다 6 7 2 기기/설비의 세척 또는 소독에 사용하는 세척제(소독제) 및 사용 기구는 규정된 것 만을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 209,
+      "content_length": 264,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방법",
+      "규정",
+      "기기"
+    ]
+  },
+  {
+    "id": "7afdf7ef-0e22-4052-8f3a-d6af55876949",
+    "text": "경우 사용 후 직전 제품의 잔량이 없도록 세척되어야 함은 물론, 필요 시 멸균 또는 소독되어야 한다 이를 위하여 각 기기/설비 별 관리 담당자(또는 세척 담당자)를 지정하여 관리하며, 이에 대한 사항을 다른 작업자(또는 책임자)가 확인하여야 한다 6 7 2 기기/설비의 세척 또는 소독에 사용하는 세척제(소독제) 및 사용 기구는 규정된 것 만을 사용하여야 하며, 이는 각 기기/설비 별 가동 및 보전방법 또는 세척제(소독제) 사용",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 210,
+      "content_length": 240,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방법",
+      "규정",
+      "사용",
+      "기기"
+    ]
+  },
+  {
+    "id": "2545f8da-d340-4714-8274-b9cb00d993b1",
+    "text": "멸균 또는 소독되어야 한다 이를 위하여 각 기기/설비 별 관리 담당자(또는 세척 담당자)를 지정하여 관리하며, 이에 대한 사항을 다른 작업자(또는 책임자)가 확인하여야 한다 6 7 2 기기/설비의 세척 또는 소독에 사용하는 세척제(소독제) 및 사용 기구는 규정된 것 만을 사용하여야 하며, 이는 각 기기/설비 별 가동 및 보전방법 또는 세척제(소독제) 사용 방법 SOP 등에 규정한다  또한 효율적인 기기/설비의 세척 및 소독을 위하여",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 211,
+      "content_length": 243,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방법",
+      "규정",
+      "기기",
+      "세척"
+    ]
+  },
+  {
+    "id": "531173e1-ea49-4660-8788-a5f7b1031fa8",
+    "text": "세척 담당자)를 지정하여 관리하며, 이에 대한 사항을 다른 작업자(또는 책임자)가 확인하여야 한다 6 7 2 기기/설비의 세척 또는 소독에 사용하는 세척제(소독제) 및 사용 기구는 규정된 것 만을 사용하여야 하며, 이는 각 기기/설비 별 가동 및 보전방법 또는 세척제(소독제) 사용 방법 SOP 등에 규정한다 또한 효율적인 기기/설비의 세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 \n\n기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다  이러한 세척(소독)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 212,
+      "content_length": 278,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방법",
+      "기간",
+      "규정",
+      "세척"
+    ]
+  },
+  {
+    "id": "16e474da-a114-4d30-aee9-506df41eda6e",
+    "text": "사용하는 세척제(소독제) 및 사용 기구는 규정된 것 만을 사용하여야 하며, 이는 각 기기/설비 별 가동 및 보전방법 또는 세척제(소독제) 사용 방법 SOP 등에 규정한다 또한 효율적인 기기/설비의 세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 213,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "기간",
+      "규정",
+      "세척",
+      "세척제"
+    ]
+  },
+  {
+    "id": "76601282-f3c4-4f3c-865e-99e1d4583694",
+    "text": "이는 각 기기/설비 별 가동 및 보전방법 또는 세척제(소독제) 사용 방법 SOP 등에 규정한다 또한 효율적인 기기/설비의 세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 214,
+      "content_length": 255,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방법",
+      "기간",
+      "규정",
+      "세척"
+    ]
+  },
+  {
+    "id": "bea4689a-33b9-46b8-b95b-c3ac71b763f8",
+    "text": "방법 SOP 등에 규정한다 또한 효율적인 기기/설비의 세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 215,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방법",
+      "기간",
+      "규정",
+      "세척"
+    ]
+  },
+  {
+    "id": "2e5184af-4c85-4471-917e-bdd84d486c43",
+    "text": "또한 효율적인 기기/설비의 세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 216,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "기간",
+      "세척",
+      "소독",
+      "등을"
+    ]
+  },
+  {
+    "id": "411cc028-db6e-48a2-883f-5f84b78b2316",
+    "text": "기기/설비의 세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 217,
+      "content_length": 228,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "기간",
+      "세척",
+      "소독",
+      "등을"
+    ]
+  },
+  {
+    "id": "367cbfea-f0bf-42f5-b15d-e4cbb989f76a",
+    "text": "세척 및 소독을 위하여 소독 표시서 등을 제거하여 작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 218,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기간",
+      "기준",
+      "세척"
+    ]
+  },
+  {
+    "id": "b7f07d9e-fb80-4dec-bb6e-d6e682ec8ac0",
+    "text": "작업에 혼동이 없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 219,
+      "content_length": 266,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기간",
+      "기준",
+      "한다"
+    ]
+  },
+  {
+    "id": "51fd43df-d752-4f70-8657-35d43e19a7a6",
+    "text": "없도록 해야 한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 220,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기간",
+      "기준",
+      "한다"
+    ]
+  },
+  {
+    "id": "facb450b-61e0-469f-ac29-114fe5591f10",
+    "text": "한다 기간에 도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 221,
+      "content_length": 278,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기간",
+      "기준",
+      "한다"
+    ]
+  },
+  {
+    "id": "211cbade-ea6f-4973-a726-b9137e2691ef",
+    "text": "도래 시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 222,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기간",
+      "기준",
+      "세척"
+    ]
+  },
+  {
+    "id": "aa691ab2-2359-4a99-abed-aebab630ea72",
+    "text": "시에는 재세척 및 재소독을 실시하여야 한다 이러한 세척(소독) 유효기간(Cleaning Holding Time)은 세척 밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 것이다  하지만 해당 기기/설비를 완전히 포장하지 않는 이상 이러한 조치가 지속적이 될",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 223,
+      "content_length": 322,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "조치",
+      "제조",
+      "기간",
+      "기준"
+    ]
+  },
+  {
+    "id": "eb182e2e-46ef-4e68-9710-4869fe9604b3",
+    "text": "밸리데이션 등을 통하여 설정할 수 있다 가장 일반적인 관리사항으로는 노출된 부분을 마감(뚜껑 닫기, 밸브 잠그기 등)하는 Page: 9 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 것이다 하지만 해당 기기/설비를 완전히 포장하지 않는 이상 이러한 조치가 지속적이 될 수 없으므로 세척 밸리데이션 등을 통하여 설정된 세척 유효기간 도래 시에는 지정된\n\n방법으로 재세척을 실시하여 항시 위생적인 상태를 유지하는 것이 가장 효율적이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 224,
+      "content_length": 345,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "조치",
+      "제조",
+      "방법",
+      "기간"
+    ]
+  },
+  {
+    "id": "eb60c321-06b8-4e68-ae5e-d2eb31fad67c",
+    "text": "Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 것이다 하지만 해당 기기/설비를 완전히 포장하지 않는 이상 이러한 조치가 지속적이 될 수 없으므로 세척 밸리데이션 등을 통하여 설정된 세척 유효기간 도래 시에는 지정된 방법으로 재세척을 실시하여 항시 위생적인 상태를 유지하는 것이 가장 효율적이다 작업 전 청소상태 확인 방법\n\n확인한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유하여야 하며, 제조 기록의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 225,
+      "content_length": 312,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "조치",
+      "제조",
+      "방법",
+      "기간"
+    ]
+  },
+  {
+    "id": "decb0def-0d39-4a6c-858a-4fce61289135",
+    "text": "것이다 하지만 해당 기기/설비를 완전히 포장하지 않는 이상 이러한 조치가 지속적이 될 수 없으므로 세척 밸리데이션 등을 통하여 설정된 세척 유효기간 도래 시에는 지정된 방법으로 재세척을 실시하여 항시 위생적인 상태를 유지하는 것이 가장 효율적이다 작업 전 청소상태 확인 방법 확인한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유하여야 하며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 226,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "조치",
+      "제조",
+      "방법",
+      "기간",
+      "세척"
+    ]
+  },
+  {
+    "id": "e6fc538c-587d-4e07-937a-ff9218c2b68b",
+    "text": "이상 이러한 조치가 지속적이 될 수 없으므로 세척 밸리데이션 등을 통하여 설정된 세척 유효기간 도래 시에는 지정된 방법으로 재세척을 실시하여 항시 위생적인 상태를 유지하는 것이 가장 효율적이다 작업 전 청소상태 확인 방법 확인한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유하여야 하며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 8 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 227,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "조치",
+      "제조",
+      "공정",
+      "방법",
+      "기간"
+    ]
+  },
+  {
+    "id": "2b71ac90-1e12-42e0-b47f-2c0ffa48b6e7",
+    "text": "세척 유효기간 도래 시에는 지정된 방법으로 재세척을 실시하여 항시 위생적인 상태를 유지하는 것이 가장 효율적이다 작업 전 청소상태 확인 방법 확인한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유하여야 하며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 8 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 228,
+      "content_length": 250,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "기간",
+      "세척"
+    ]
+  },
+  {
+    "id": "89b3faca-2969-49d1-b4f7-b03e0d5cdf36",
+    "text": "유지하는 것이 가장 효율적이다 작업 전 청소상태 확인 방법 확인한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유하여야 하며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 8 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 229,
+      "content_length": 221,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "작업소",
+      "유지하는"
+    ]
+  },
+  {
+    "id": "b3cc68c7-d33a-46d8-a98e-ea81486d539d",
+    "text": "작업 전 청소상태 확인 방법 확인한 표시서를 부착하여 다른 작업원에게 해당 사항을 공유하여야 하며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 8 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록한다 쥐, 해충, 먼지 등을 막는 방법 및 점검 주기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 230,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "공정",
+      "방법",
+      "등을",
+      "작업소"
+    ]
+  },
+  {
+    "id": "045ce2fe-118e-446d-b75a-ba5ec65d060b",
+    "text": "작업원에게 해당 사항을 공유하여야 하며, 제조 기록의 작성 등을 통해 세척 기록이 유지되어야 한다 6 8 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록한다 쥐, 해충, 먼지 등을 막는 방법 및 점검 주기 6 9 1 혈액제제 제조환경 유지 및 관리를 위하여 방충방서 대책을 강구한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 231,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "공정",
+      "방법",
+      "등을"
+    ]
+  },
+  {
+    "id": "d9ab2938-4983-4c96-b705-a0b4aaad1398",
+    "text": "유지되어야 한다 6 8 2 청소상태의 표시는 작업소(공정 진행 예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록한다 쥐, 해충, 먼지 등을 막는 방법 및 점검 주기 6 9 1 혈액제제 제조환경 유지 및 관리를 위하여 방충방서 대책을 강구한다 제품의 제조 및 품질관리 활동에 영향을 주지 않아야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 232,
+      "content_length": 227,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "공정",
+      "방법"
+    ]
+  },
+  {
+    "id": "adc98fa7-e85c-46a3-a228-2bb1d92caa09",
+    "text": "예정인)에도 동일하게 적용하며, 혈액제제 제조 시에는 제조 시작 전 사용하는 작업소, 기기/설비의 청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록한다 쥐, 해충, 먼지 등을 막는 방법 및 점검 주기 6 9 1 혈액제제 제조환경 유지 및 관리를 위하여 방충방서 대책을 강구한다 제품의 제조 및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 233,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "혈액제제"
+    ]
+  },
+  {
+    "id": "131450d6-7a38-46b5-b298-4ee476ac07fe",
+    "text": "청소상태를 표시서 등으로 확인하고 이에 대한 확인사항을 기록한다 쥐, 해충, 먼지 등을 막는 방법 및 점검 주기 6 9 1 혈액제제 제조환경 유지 및 관리를 위하여 방충방서 대책을 강구한다 제품의 제조 및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 234,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "효과"
+    ]
+  },
+  {
+    "id": "8bd9b64d-9fc9-4a07-94d6-58cdaaac5763",
+    "text": "등을 막는 방법 및 점검 주기 6 9 1 혈액제제 제조환경 유지 및 관리를 위하여 방충방서 대책을 강구한다 제품의 제조 및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다  이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 235,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "효과"
+    ]
+  },
+  {
+    "id": "26e374b1-8ad2-492a-9e7e-4cf8086df9e2",
+    "text": "제조환경 유지 및 관리를 위하여 방충방서 대책을 강구한다 제품의 제조 및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 236,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "효과"
+    ]
+  },
+  {
+    "id": "23df0243-109f-4efc-969c-535733045b96",
+    "text": "제품의 제조 및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 237,
+      "content_length": 186,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "효과"
+    ]
+  },
+  {
+    "id": "4be838eb-23db-48ad-9979-9f642f7d713a",
+    "text": "제조 및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 238,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "방법",
+      "효과"
+    ]
+  },
+  {
+    "id": "e47f34af-f7b4-4ae5-bc67-159ee0c96457",
+    "text": "및 품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 239,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "효과",
+      "방충방서"
+    ]
+  },
+  {
+    "id": "f42792df-97c8-4790-8bf6-43f5fc55afed",
+    "text": "품질관리 활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 240,
+      "content_length": 186,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "방법",
+      "효과",
+      "방충방서"
+    ]
+  },
+  {
+    "id": "7160222e-2f26-4548-b612-f250845c80a9",
+    "text": "활동에 영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 241,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "활동에",
+      "영향을"
+    ]
+  },
+  {
+    "id": "7612def1-6b0a-4818-9655-99f9f146f8af",
+    "text": "영향을 주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 242,
+      "content_length": 185,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "영향을",
+      "주지"
+    ]
+  },
+  {
+    "id": "d930d243-bf75-441c-9fd4-bccbc9af9b14",
+    "text": "주지 않아야 한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 243,
+      "content_length": 199,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "주지",
+      "않아야"
+    ]
+  },
+  {
+    "id": "555c6a74-03ee-487d-8f7e-f9a9d3e59767",
+    "text": "한다 6 9 3 특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 244,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "한다",
+      "특히"
+    ]
+  },
+  {
+    "id": "e37e56b5-bc8c-435d-a346-50780ac372c2",
+    "text": "특히 혼입의 우려가 있는 살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 245,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "비행충의",
+      "위한"
+    ]
+  },
+  {
+    "id": "0c03d9ee-7e36-4116-bb68-ed4929a13cbe",
+    "text": "살서제 및 전격살충등의 사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 246,
+      "content_length": 212,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "전격살충등의",
+      "비행충의"
+    ]
+  },
+  {
+    "id": "e39f03d7-146a-4994-a2f0-26b9f3a1c77a",
+    "text": "사용은 금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 247,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "비행충의",
+      "위한"
+    ]
+  },
+  {
+    "id": "9406a159-29e1-458e-9127-ad388a66d4d9",
+    "text": "금한다 하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 248,
+      "content_length": 206,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "비행충의",
+      "위한"
+    ]
+  },
+  {
+    "id": "3cb1587f-4d08-428e-9e65-3ff63237ee08",
+    "text": "하게 출몰하는 개체에 대한 효과적인 방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 249,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "효과",
+      "방충방서",
+      "비행충의",
+      "위한"
+    ]
+  },
+  {
+    "id": "05a04da0-787a-485a-a81a-d5d4e68b453c",
+    "text": "방충방서 방법을 지속적으로 강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 250,
+      "content_length": 209,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "방법",
+      "방충방서",
+      "위한",
+      "비행충의",
+      "포획을"
+    ]
+  },
+  {
+    "id": "c6344ed8-48ba-4940-a5e1-8eca11258768",
+    "text": "강구, 적용하여야 한 다 이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 251,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "방충방서",
+      "비행충의",
+      "포획을"
+    ]
+  },
+  {
+    "id": "6b32e64f-b0bf-428c-b851-d2496e59572a",
+    "text": "이러한 방충방서 활동은 적절한 외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 252,
+      "content_length": 206,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "방충방서",
+      "비행충의",
+      "포획을"
+    ]
+  },
+  {
+    "id": "af3f0b59-4c58-4b12-a4dd-5b3784cf9405",
+    "text": "외부기관에 위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 253,
+      "content_length": 192,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "비행충의",
+      "포획을",
+      "설비"
+    ]
+  },
+  {
+    "id": "0ffd6d4c-7a2e-4b95-9f13-b3f81dd3c533",
+    "text": "위탁의뢰 할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 254,
+      "content_length": 189,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "비행충의",
+      "포획을",
+      "설비"
+    ]
+  },
+  {
+    "id": "9cff61cc-5c5b-40c1-9a02-da8eac1a20eb",
+    "text": "할 수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 255,
+      "content_length": 193,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "비행충의",
+      "포획을",
+      "설비"
+    ]
+  },
+  {
+    "id": "6af5358d-8329-49ea-ba54-1fcf8049a3ab",
+    "text": "수 있다 6 9 5 방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 256,
+      "content_length": 207,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "비행충의",
+      "포획을",
+      "설비"
+    ]
+  },
+  {
+    "id": "c1cc81a2-ba17-450d-83b2-97e751ed807b",
+    "text": "방충방서 기구는 다음과 같이 적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 257,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "포획을",
+      "비행충의",
+      "설비"
+    ]
+  },
+  {
+    "id": "50c35710-dde8-45c2-9008-d01f38ecf9da",
+    "text": "적용한다 구분 약어 용도 비고 포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3  방충방서 기구의 예>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 258,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "포획을",
+      "비행충의",
+      "설비"
+    ]
+  },
+  {
+    "id": "2f7a19e4-9e6a-44d6-abea-ac47c3421089",
+    "text": "포충등 유인등 C(Insect Catcher) 비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 259,
+      "content_length": 210,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "포획을",
+      "비행충의",
+      "설비"
+    ]
+  },
+  {
+    "id": "7c197c92-c74f-4dc7-8565-8bb4a9636b15",
+    "text": "비행충의 포획을 위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 260,
+      "content_length": 198,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "포획을",
+      "비행충의",
+      "설비"
+    ]
+  },
+  {
+    "id": "f27f45df-7739-4972-91a4-0df99afaa598",
+    "text": "위한 설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 261,
+      "content_length": 195,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "제조",
+      "위한",
+      "설비",
+      "금지",
+      "설치류의"
+    ]
+  },
+  {
+    "id": "c41033a9-07fc-4e7f-9b00-905f8b66b359",
+    "text": "설비 비행충의 유인을 위한 설비 전격살충등의 사용 금지 트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 262,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "위한",
+      "설비"
+    ]
+  },
+  {
+    "id": "634dcf50-3930-4897-816b-2169cd017c38",
+    "text": "트랩 T(Trap) 쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 263,
+      "content_length": 234,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "설치류의",
+      "포획을"
+    ]
+  },
+  {
+    "id": "7334841e-cb29-4d6a-ab11-21f6cf2fc8d2",
+    "text": "쥐를 비롯한 설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 264,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "설치류의",
+      "포획을"
+    ]
+  },
+  {
+    "id": "4f3afb65-2e64-40a0-b741-4687799b70a2",
+    "text": "설치류의 유인 및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 265,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "설치류의",
+      "포획을"
+    ]
+  },
+  {
+    "id": "c5a6b374-d306-4f7b-9fea-25a10209991a",
+    "text": "및 포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 266,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "포획을",
+      "위한"
+    ]
+  },
+  {
+    "id": "f9dbb7cf-71a1-4efc-b38d-a66d75a775f8",
+    "text": "포획을 위한 장치 제조소 내 설치할 경우 쥐먹이 등 살서제 투입 금지 기타 O(Other) 끈끈이, 덫 등 보행충 또는 설치류의 포획을 위한 장치 <표 3 방충방서 기구의 예> Page: 10 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 6 9 6 방충방서 시 주의사항\n\n6 9 6 1 제조위생관리 담당자는 설치한 방충방서 기구의 사용상태를 매주 확인, 점검하여 발견되\n\n는 이상유무를 기록하며, 이상 시 즉시 제조위생관리 책임자에게 보고, 해당 기구의 교체",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 267,
+      "content_length": 362,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "보고",
+      "관리",
+      "제조",
+      "기준",
+      "방충방서"
+    ]
+  },
+  {
+    "id": "9c29215f-8593-459a-9f8b-e5164700dcba",
+    "text": "Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 6 9 6 방충방서 시 주의사항 6 9 6 1 제조위생관리 담당자는 설치한 방충방서 기구의 사용상태를 매주 확인, 점검하여 발견되 는 이상유무를 기록하며, 이상 시 즉시 제조위생관리 책임자에게 보고, 해당 기구의 교체 등을 실시한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 268,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "보고",
+      "관리",
+      "제조",
+      "기준",
+      "제조위생관리"
+    ]
+  },
+  {
+    "id": "79f74d50-6529-4dba-adfc-3e6516769ecd",
+    "text": "Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date SCMH 6 9 6 방충방서 시 주의사항 6 9 6 1 제조위생관리 담당자는 설치한 방충방서 기구의 사용상태를 매주 확인, 점검하여 발견되 는 이상유무를 기록하며, 이상 시 즉시 제조위생관리 책임자에게 보고, 해당 기구의 교체 등을 실시한다 6 9 6 2 제조소 내에는 어떠한 형태이든 살충제의 살포나 살서제의 투약은 금하며, 제조소 외부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 269,
+      "content_length": 295,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "보고",
+      "관리",
+      "제조",
+      "기준",
+      "제조위생관리"
+    ]
+  },
+  {
+    "id": "9d26df2b-026e-442b-9e94-9b0916d37e3f",
+    "text": "SCMH 6 9 6 방충방서 시 주의사항 6 9 6 1 제조위생관리 담당자는 설치한 방충방서 기구의 사용상태를 매주 확인, 점검하여 발견되 는 이상유무를 기록하며, 이상 시 즉시 제조위생관리 책임자에게 보고, 해당 기구의 교체 등을 실시한다 6 9 6 2 제조소 내에는 어떠한 형태이든 살충제의 살포나 살서제의 투약은 금하며, 제조소 외부 에 해당하는 경우 제조위생관리 책임자의 지시 하에 혈액제제 제조 및 품질관리 업무와",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 270,
+      "content_length": 236,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "보고",
+      "품질",
+      "관리",
+      "제조",
+      "지시"
+    ]
+  },
+  {
+    "id": "695d27c6-bdc4-4a79-a832-5cfc3b97fe0c",
+    "text": "담당자는 설치한 방충방서 기구의 사용상태를 매주 확인, 점검하여 발견되 는 이상유무를 기록하며, 이상 시 즉시 제조위생관리 책임자에게 보고, 해당 기구의 교체 등을 실시한다 6 9 6 2 제조소 내에는 어떠한 형태이든 살충제의 살포나 살서제의 투약은 금하며, 제조소 외부 에 해당하는 경우 제조위생관리 책임자의 지시 하에 혈액제제 제조 및 품질관리 업무와 관련이 없는 부분에 투약 가능하다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 271,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "보고",
+      "품질",
+      "관리",
+      "제조",
+      "지시"
+    ]
+  },
+  {
+    "id": "cd711067-a32c-4361-8f3a-e1f338081a96",
+    "text": "매주 확인, 점검하여 발견되 는 이상유무를 기록하며, 이상 시 즉시 제조위생관리 책임자에게 보고, 해당 기구의 교체 등을 실시한다 6 9 6 2 제조소 내에는 어떠한 형태이든 살충제의 살포나 살서제의 투약은 금하며, 제조소 외부 에 해당하는 경우 제조위생관리 책임자의 지시 하에 혈액제제 제조 및 품질관리 업무와 관련이 없는 부분에 투약 가능하다 6 9 6 3 제조위생관리 담당자 등의 방충방서 담당자는 살충제나 살서제가 투약된 경우 이에 대한",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 272,
+      "content_length": 248,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "보고",
+      "품질",
+      "관리",
+      "제조",
+      "지시"
+    ]
+  },
+  {
+    "id": "82767cbd-7532-400c-bbbe-d2c7c942c616",
+    "text": "교체 등을 실시한다 6 9 6 2 제조소 내에는 어떠한 형태이든 살충제의 살포나 살서제의 투약은 금하며, 제조소 외부 에 해당하는 경우 제조위생관리 책임자의 지시 하에 혈액제제 제조 및 품질관리 업무와 관련이 없는 부분에 투약 가능하다 6 9 6 3 제조위생관리 담당자 등의 방충방서 담당자는 살충제나 살서제가 투약된 경우 이에 대한 기록(살충/살서제의 종류, 투약 위치, 일시 등)을 수행한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 273,
+      "content_length": 220,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "지시",
+      "제조소"
+    ]
+  },
+  {
+    "id": "4033b785-ae21-4d4b-aa5f-702820675913",
+    "text": "제조소 내에는 어떠한 형태이든 살충제의 살포나 살서제의 투약은 금하며, 제조소 외부 에 해당하는 경우 제조위생관리 책임자의 지시 하에 혈액제제 제조 및 품질관리 업무와 관련이 없는 부분에 투약 가능하다 6 9 6 3 제조위생관리 담당자 등의 방충방서 담당자는 살충제나 살서제가 투약된 경우 이에 대한 기록(살충/살서제의 종류, 투약 위치, 일시 등)을 수행한다 6 9 6 4 제조위생관리 담당자는 효율적인 방역활동 및 설비의 사후관리를 위해 방충방서 기구의\n\n설치 상황을 표시한 “방충방서 기구 배치도”를 작성, 관리한다 \n\n“방충방서 기구 배치도”는 최종 제조위생관리 책임자의 승인을 받으며, 적절한 사유 없이\n\n변경할 수 없다  “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 274,
+      "content_length": 393,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "품질",
+      "관리",
+      "제조",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "id": "b5ec8e5d-d89c-4cc3-b86e-dadecf4ecae6",
+    "text": "종류, 투약 위치, 일시 등)을 수행한다 6 9 6 4 제조위생관리 담당자는 효율적인 방역활동 및 설비의 사후관리를 위해 방충방서 기구의 설치 상황을 표시한 “방충방서 기구 배치도”를 작성, 관리한다 “방충방서 기구 배치도”는 최종 제조위생관리 책임자의 승인을 받으며, 적절한 사유 없이 변경할 수 없다 “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 275,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "승인",
+      "변경",
+      "분석"
+    ]
+  },
+  {
+    "id": "b8afeddc-ffc6-4f63-80fe-4f118d2ee162",
+    "text": "일시 등)을 수행한다 6 9 6 4 제조위생관리 담당자는 효율적인 방역활동 및 설비의 사후관리를 위해 방충방서 기구의 설치 상황을 표시한 “방충방서 기구 배치도”를 작성, 관리한다 “방충방서 기구 배치도”는 최종 제조위생관리 책임자의 승인을 받으며, 적절한 사유 없이 변경할 수 없다 “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정\n\n6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 276,
+      "content_length": 273,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "id": "96f6fe12-ea84-40ce-87a4-725033769074",
+    "text": "기구의 설치 상황을 표시한 “방충방서 기구 배치도”를 작성, 관리한다 “방충방서 기구 배치도”는 최종 제조위생관리 책임자의 승인을 받으며, 적절한 사유 없이 변경할 수 없다 “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 277,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "id": "2122cab0-4275-46f7-85c5-cd53b7ea17e5",
+    "text": "상황을 표시한 “방충방서 기구 배치도”를 작성, 관리한다 “방충방서 기구 배치도”는 최종 제조위생관리 책임자의 승인을 받으며, 적절한 사유 없이 변경할 수 없다 “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 278,
+      "content_length": 213,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "id": "55396bb6-c48d-4455-8f5a-1dbb21bb9a7d",
+    "text": "표시한 “방충방서 기구 배치도”를 작성, 관리한다 “방충방서 기구 배치도”는 최종 제조위생관리 책임자의 승인을 받으며, 적절한 사유 없이 변경할 수 없다 “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 279,
+      "content_length": 265,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "승인",
+      "변경"
+    ]
+  },
+  {
+    "id": "196f6ac8-716b-4d1c-85c4-02fbbc4bc48d",
+    "text": "적절한 사유 없이 변경할 수 없다 “방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 280,
+      "content_length": 223,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "변경",
+      "분석",
+      "검토"
+    ]
+  },
+  {
+    "id": "156edbef-6b8b-4c67-b083-9fc139558ae2",
+    "text": "“방충방서 기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 281,
+      "content_length": 208,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "변경",
+      "분석",
+      "검토"
+    ]
+  },
+  {
+    "id": "70618b49-29b0-4c70-b41b-fadcb733d406",
+    "text": "기구 배치도”의 변경(개정)은 실시했던 방충방서 활동의 분석 인 검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 282,
+      "content_length": 237,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "변경",
+      "분석",
+      "검토"
+    ]
+  },
+  {
+    "id": "ea48fcd5-33e5-40be-9440-4738bcc66b73",
+    "text": "검토가 필요하다 작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 283,
+      "content_length": 209,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "검토",
+      "검토",
+      "10"
+    ]
+  },
+  {
+    "id": "800f36ba-0c2d-4785-95c9-df4718e7121b",
+    "text": "작업복장의 지정 6 10 1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 284,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "10",
+      "지정된",
+      "작업복장의"
+    ]
+  },
+  {
+    "id": "538af397-766e-4016-9d63-f6e43980f954",
+    "text": "1 작업원은 항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 285,
+      "content_length": 215,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "지정된",
+      "작업원은",
+      "항시"
+    ]
+  },
+  {
+    "id": "fdf8037b-706b-4066-87ac-5d2aff695bd9",
+    "text": "항시 지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 286,
+      "content_length": 214,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "방지",
+      "지정된",
+      "항시",
+      "복장을"
+    ]
+  },
+  {
+    "id": "f55bdfdd-590a-4a83-9b28-11e4466ef299",
+    "text": "지정된 복장을 착용하고 업무를 진행하여 혈액제제의 오염 방지에 노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 287,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "방지",
+      "기준",
+      "지정된"
+    ]
+  },
+  {
+    "id": "90f418c9-c850-4bad-bb35-4b04e9c6c149",
+    "text": "노력하 여야 한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 288,
+      "content_length": 249,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "3611194a-6609-4ff6-9ed9-bf9911630ba4",
+    "text": "한다 용한다 6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 289,
+      "content_length": 254,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "31bd2486-778e-4422-9bc4-5b5c062fd287",
+    "text": "6 10 3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 290,
+      "content_length": 262,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "d849af08-6ac8-462a-a0fa-612e2866adc6",
+    "text": "3 작업복장은 지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 참고문헌 Reference",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 291,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "f6f527c5-2c6d-46b4-b028-95c35391b79c",
+    "text": "지정된 주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 참고문헌 Reference 혈액관리법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 292,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "관리",
+      "제조",
+      "기준",
+      "of",
+      "Standard"
+    ]
+  },
+  {
+    "id": "560a98be-04ba-4b7b-ad6b-4088a8fb3867",
+    "text": "주기에 따라 세탁(또는 멸균)을 실시하여야 하며, 적절한 주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령\n\n의약품 등의 안전에 관한 규칙_총리령",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 293,
+      "content_length": 306,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "의약품",
+      "관리",
+      "제조",
+      "기준",
+      "of"
+    ]
+  },
+  {
+    "id": "ee7ef702-5552-4b41-974d-fb43fa21660f",
+    "text": "주기로 교체 를 통해 오염인자가 발생되지 않도록 관리한다 따른다 관련 문서 및 양식 Related document & form 해당사항 없음 Page: 11 of 12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1  의약품 제조 및 품질관리 기준\n\n8 3 2 별표 3 의 4  혈액제제 제조 및 품질관리 기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 294,
+      "content_length": 337,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "기준"
+    ]
+  },
+  {
+    "id": "f8b3013f-f8cf-414c-b40f-207c4ef2451d",
+    "text": "12 Standard Code Title 제조위생관리 기준서 Standard Code of Manufacturing Hygiene Management Document No Revision No Effective Date 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1 의약품 제조 및 품질관리 기준 8 3 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 8 3 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 295,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "id": "684257ca-ded1-430b-b457-3a63200c5f2e",
+    "text": "Manufacturing Hygiene Management Document No Revision No Effective Date 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1 의약품 제조 및 품질관리 기준 8 3 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 8 3 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처 SCMH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 296,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  },
+  {
+    "id": "1d2166ac-d51f-4ba7-b19a-941becd0e1c2",
+    "text": "Hygiene Management Document No Revision No Effective Date 참고문헌 Reference 혈액관리법 혈액관리법 시행규칙_보건복지부령 의약품 등의 안전에 관한 규칙_총리령 8 3 1 별표 1 의약품 제조 및 품질관리 기준 8 3 2 별표 3 의 4 혈액제제 제조 및 품질관리 기준 8 3 3 완제의약품 제조 및 품질관리 GMP 가이던스_식품의약품안전처 SCMH Page: 12 of 12",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 297,
+      "content_length": 238,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    },
+    "keywords": [
+      "의약품",
+      "품질",
+      "관리",
+      "제조",
+      "GMP"
+    ]
+  }
+]

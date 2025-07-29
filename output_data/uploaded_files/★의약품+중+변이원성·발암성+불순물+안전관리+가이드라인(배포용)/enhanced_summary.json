@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "text_blocks_count": 1439,
+  "rag_chunks_count": 1440,
+  "total_words": 9037,
+  "total_tokens_estimate": 9085,
+  "table_statistics": {
+    "total_tables": 0,
+    "tables_with_dataframe": 0,
+    "tables_with_html": 0,
+    "total_table_rows": 0,
+    "total_table_columns": 0
+  },
+  "image_statistics": {
+    "total_images": 0,
+    "images_with_data": 0,
+    "total_image_size_mb": 0.0
+  },
+  "processing_timestamp": "2025-07-29T12:18:08.941120",
+  "processing_method": "Enhanced (Unstructured + Table Transformer)",
+  "settings": {
+    "similarity_threshold": 0.7,
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "use_gpu": false
+  }
+}

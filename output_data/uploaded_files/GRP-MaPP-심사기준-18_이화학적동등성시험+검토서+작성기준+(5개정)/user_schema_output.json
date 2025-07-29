@@ -1,0 +1,2524 @@
+[
+  {
+    "id": "1fcc1b7f-c75c-4d20-a218-92ae927c9bed",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 1,
+      "content_length": 28,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cd6fa027-6563-4e7d-9b27-33f7b2dbbb7e",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 2,
+      "content_length": 47,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1636abce-8764-4329-a585-cbd3366ff570",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 3,
+      "content_length": 103,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c8684586-92c7-4f6e-8e43-b1d286e1573d",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 4,
+      "content_length": 106,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2c637bf2-4dcf-4d2d-8519-659244c1224d",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 5,
+      "content_length": 114,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c93df42e-530d-4bf7-8036-4bd9cb1a4dfa",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 6,
+      "content_length": 118,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d81f07cd-6414-4056-80a1-0b37e7fc5e9b",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 7,
+      "content_length": 133,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fc15e9d4-bf5c-4eb1-a686-7bab68b59323",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 8,
+      "content_length": 137,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "24dc7f66-ef7a-4d2e-ae76-eceee2a7d418",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 9,
+      "content_length": 152,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c95ba574-0a42-4eda-9639-4006f2b5e955",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 10,
+      "content_length": 167,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e67d2225-c296-4424-8077-3ad1c808f6a9",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 11,
+      "content_length": 171,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "820b6ae4-4ada-4632-9e45-b5732915e4d0",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 12,
+      "content_length": 183,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "781f5b4e-0e7d-4144-b6a2-b60ff76247ef",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 13,
+      "content_length": 186,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "320fda47-6962-47b2-86de-90c9befd58fe",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 14,
+      "content_length": 191,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29e7fe8b-4422-4463-84a2-cd99f943774b",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 15,
+      "content_length": 194,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ea09b8ed-c8fe-4e35-a0a2-82efa1f1be32",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 16,
+      "content_length": 202,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6576b988-c021-4ec1-9ae1-7d5ab9cf3f71",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 17,
+      "content_length": 205,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bb0dcac5-c774-47d5-8b5b-fa10c8fe06f7",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 18,
+      "content_length": 211,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e55a1f46-691d-4506-bc65-80b60df7a902",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 19,
+      "content_length": 214,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b9289688-0fd7-4ac0-b76d-ca0df8ca596e",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 20,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e5bd155e-7963-4115-8c10-fa0d662d1e62",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 21,
+      "content_length": 250,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b36b76ef-6d2b-47b4-9126-ef0ca9572168",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 22,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "23a2d8b4-0ddc-4a5f-b17d-1fde332ff492",
+    "text": "MFDS/MaPP : GRP-MaPP-심사기준-18 이화학적동등성시험 검토서 작성기준 Guidance on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 23,
+      "content_length": 307,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8452601f-52af-4a80-b38a-4e6b5a9a4930",
+    "text": "on Physiochemical-equivalence Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 24,
+      "content_length": 264,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a674f6b9-1d10-4a37-acdf-3c400a851c16",
+    "text": "Review Templates 구분 소속 및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 25,
+      "content_length": 244,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2295872e-37f2-4aca-aa6f-5d71298e3bdf",
+    "text": "및 이름 작성자 약효동등성과 주무관 김현아 검토자 약효동등성과 연구관 이경신 약효동등성과 과 장 김호정 승인자 의약품심사부장 박윤주 명칭 등록대상 여부 지침서ㆍ안내서 구분 기타 확인 사항 지침서ᆞ안내서 제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 26,
+      "content_length": 334,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "20488e7e-c49d-4191-b09e-ca1b6b35fefa",
+    "text": "제ᆞ개정 점검표 이화학적동등성시험 검토서 작성기준 아래에 해당하는 사항에 체크하여 주시기 바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 27,
+      "content_length": 279,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0ddfcfcb-6666-4fa7-a1f6-21ce0fbc5a0f",
+    "text": "바랍니다 □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 28,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a1054bdd-a5c3-483b-b2cd-0049dd7e8226",
+    "text": "지침서ㆍ안내서 중 동일ㆍ유사한 내용의 지침서ㆍ안내서가 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 예 ■ 아니오 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 \n\n□ 일회성 지시ㆍ명령에 해당하는 내용입니까 \n\n□ 외국 규정을 단순 번역하거나 설명하는 내용입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 29,
+      "content_length": 311,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12566a88-e82c-433b-80dc-0914d34923b4",
+    "text": "우선적 으로 고려하시기 바랍니다 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 예 ■ 아니오 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 30,
+      "content_length": 256,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2971b5b1-05e4-45cd-9fc4-7fce309be5c6",
+    "text": "경우 그 사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 예 ■ 아니오 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 31,
+      "content_length": 219,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cb37df6b-3a1c-45b0-85f0-ece31129b1f5",
+    "text": "사유를 아래에 기재해 주시기 바랍니다 □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 예 ■ 아니오 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 32,
+      "content_length": 245,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bd0ea487-712d-43a0-a14a-5cf38e1cd033",
+    "text": "법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 나열한 것입니까 □ 예 ■ 아니오 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 33,
+      "content_length": 257,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "88fb536e-cbb5-40a5-a674-372d6daeed24",
+    "text": "것입니까 □ 예 ■ 아니오 □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까  (공무원용)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 34,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "109d63e5-ddd2-4a39-807f-2630aaed215f",
+    "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 35,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "52ddd9df-2bea-4e65-bde3-afa4022e87c1",
+    "text": "알리는 공고의 내용입니까 □ 일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 36,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6bc49e99-8868-4b42-9202-cfc36135eb07",
+    "text": "일회성 지시ㆍ명령에 해당하는 내용입니까 □ 외국 규정을 단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 37,
+      "content_length": 248,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "428ce993-839e-4e23-8835-2e52d0073e11",
+    "text": "단순 번역하거나 설명하는 내용입니까 □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 38,
+      "content_length": 236,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "30a3e159-ab1e-4773-a34b-5951d65c239a",
+    "text": "□ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 39,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3ff6c851-643a-4f7f-99bc-d9564cbdd431",
+    "text": "위해 법령 또는 행정규칙을 알기 쉽게 정리한 자료입니까 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 40,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2ad50462-c678-4e7c-83b4-4495081e69b2",
+    "text": "적용하실 필요는 없습니다 □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 41,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1bbc2054-515e-44f6-b98e-4c18f5145b6b",
+    "text": "통일을 기하기 위하여 내부적으로 행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 42,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5a897e96-9d94-4ca9-9661-fee3541cef51",
+    "text": "행정사무의 세부 기준이나 절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 43,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b19b665a-0c72-45a6-b5e7-e53a861b9d32",
+    "text": "절차를 제시하는 것입니까 (공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 김 현 아",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 44,
+      "content_length": 217,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5c471c3d-35ea-4c23-ae7a-fff716029275",
+    "text": "(공무원용) ■ 예(☞지침서) □ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 김 현 아 김 호 정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 45,
+      "content_length": 209,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c8d32e71-017a-48e6-8def-cad209ad9b6b",
+    "text": "□ 아니오 □ 예(☞안내서) ■ 아니오 □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 민원인을 구속하는 내용이 있습니까 □ 예 ■ 아니오 ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 김 현 아 김 호 정 이 지침서는 이화학적동등성시험 검토서의 세부 지침을 정한 것으로서\n\n식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 \n\n본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 46,
+      "content_length": 304,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2a0f77df-c82b-4a3c-944c-91c16b20e6a8",
+    "text": "답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ 안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 김 현 아 김 호 정 이 지침서는 이화학적동등성시험 검토서의 세부 지침을 정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 47,
+      "content_length": 244,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9f11f6d2-85f5-4762-bab8-ec6dfb2b8068",
+    "text": "안내서 제ㆍ개정 절차를 진행하시기 바랍니다 상기 사항에 대하여 확인하였음 담당자 확 인(부서장) 김 현 아 김 호 정 이 지침서는 이화학적동등성시험 검토서의 세부 지침을 정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니 다  또한, 본 지침서는 2021년 4월 12일 현재 유효한 법규를 토대로 작성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 48,
+      "content_length": 259,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ce8982d0-3a6a-4808-9cb0-e257584e1217",
+    "text": "김 현 아 김 호 정 이 지침서는 이화학적동등성시험 검토서의 세부 지침을 정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니 다 또한, 본 지침서는 2021년 4월 12일 현재 유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 49,
+      "content_length": 244,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7c2dbed7-5cc0-4f7c-a624-9228aac796c0",
+    "text": "정한 것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니 다 또한, 본 지침서는 2021년 4월 12일 현재 유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 50,
+      "content_length": 210,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b48fa48d-356a-445b-a6d8-865962090020",
+    "text": "것으로서 식품의약품안전처 관련 부서 담당 직원의 업무처리를 위한 것입니다 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니 다 또한, 본 지침서는 2021년 4월 12일 현재 유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의\n\n세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 51,
+      "content_length": 288,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6e50c934-b711-4e6e-8342-2a574f01c83e",
+    "text": "아니므로 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니 다 또한, 본 지침서는 2021년 4월 12일 현재 유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 52,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "af614bb4-273a-454a-9cf9-562262641c84",
+    "text": "한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니 다 또한, 본 지침서는 2021년 4월 12일 현재 유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 53,
+      "content_length": 258,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "447a6174-1363-47b8-ae8a-a2eded8ee77f",
+    "text": "2021년 4월 12일 현재 유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 54,
+      "content_length": 242,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "271d529b-a69b-46ca-9674-582c786743b1",
+    "text": "유효한 법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 55,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2d9a9379-3aca-4091-9688-e451a512190d",
+    "text": "법규를 토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 56,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2c75a934-7b7a-478c-b304-f9d93c7959d9",
+    "text": "토대로 작성 되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될 수 있음을 알려드립니다 ※ “공무원 지침서”란 행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료\n\n검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 57,
+      "content_length": 309,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3928e3b0-264a-423d-a397-877701f7fefb",
+    "text": "행정사무의 통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 58,
+      "content_length": 246,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3ed99906-f5b0-4217-81bb-660562785b33",
+    "text": "통일을 기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 59,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "319b494d-6e85-4617-9e4f-a566786a100d",
+    "text": "기하기 위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 60,
+      "content_length": 243,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6c158541-ed69-4ee2-aa83-92df0251b538",
+    "text": "위하여 반복적 행정사무의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 61,
+      "content_length": 266,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c7e38358-d8f5-4e81-b817-4b1b16300931",
+    "text": "지침등의 관리에 관 한 규정 제2조) ※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처\n\n이메일 : hyuna1007@korea kr)로 연락바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 62,
+      "content_length": 263,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9289d9fd-79f6-450c-abb9-b9c30a6ecdfe",
+    "text": "※ 본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차>",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 63,
+      "content_length": 246,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d8753b3c-a195-4894-9b0f-5ae722cf3594",
+    "text": "본 지침서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품안전평가원 의약품심사부 약효동등성과로 문의하시기 바랍니다 <개요> 목적 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료\n\n검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 64,
+      "content_length": 327,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cbd74da9-e2a5-4c35-9dbd-5e80b9bdb1fe",
+    "text": "허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1  이화학적동등성시험 검토서 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 65,
+      "content_length": 257,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1cccb68f-dd28-4dce-b543-a7c7803463e4",
+    "text": "시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 66,
+      "content_length": 247,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cc128af4-9f40-462d-9343-30ef2c39ec42",
+    "text": "적정을 기하기 위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 67,
+      "content_length": 224,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7cd7158d-e199-47d6-ad9e-a57aae797271",
+    "text": "위함이다 공개여부 공개 유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 68,
+      "content_length": 224,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b27c0d57-2b8f-45e8-a8f2-c4315a8317f9",
+    "text": "유효일 이 편람은 발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 69,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6272a557-8b76-4c95-b4e1-0c22064eb303",
+    "text": "발간일로부터 다음 개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 70,
+      "content_length": 235,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a9e8030c-1f54-4362-916e-04a028e974d8",
+    "text": "개정 전까지 유효함 연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 71,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5b622e8a-3232-464b-b8b7-f65aa204b0d4",
+    "text": "연락처 이메일 : hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 72,
+      "content_length": 240,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "057aee16-e57c-4fe8-956c-f5d33ac1b45a",
+    "text": ": hyuna1007@korea kr)로 연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 73,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "12ca7b34-7d3a-46fe-b1bc-82db12f22a5c",
+    "text": "연락바랍니다 <목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 74,
+      "content_length": 233,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "245aafab-0509-43c9-8cff-058dc70286f2",
+    "text": "<목차> 이 편람은 의약품 허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 75,
+      "content_length": 248,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f95c9dd4-847f-4d19-b059-2409c6f216b8",
+    "text": "허가신청(신고) 또는 변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 76,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5f972644-4877-42a2-892f-86e0425968d8",
+    "text": "변경허가(신고) 시의 이화학적동등성 시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 77,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b21de914-5084-48d9-9d99-0f2a7a5404a5",
+    "text": "시험 자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 78,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1036182b-5882-48ba-b113-8aa0f6ce6b5c",
+    "text": "자료 검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 79,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "33b7cb64-7827-4879-a5ad-db3732f8dad2",
+    "text": "검토를 위하여 심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 80,
+      "content_length": 227,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "adaf6d42-408e-4dae-9eea-623e4e117acd",
+    "text": "심사자의 검토서 작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 81,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d98b86d4-a522-4cbd-9ba2-d0ac76e01e9d",
+    "text": "작성에 적정을 기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자 회사명을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 82,
+      "content_length": 226,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "6a234158-80be-40f1-abca-58250da7afc4",
+    "text": "기하기 위함이다 3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자 회사명을 기재한다 ② 접수번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 83,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1b009790-db1d-4a12-adcf-36edf7819e4c",
+    "text": "3 1 이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자 회사명을 기재한다 ② 접수번호 ③ 문서번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 84,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c9fdf6b5-e5d6-48b0-82f1-8eab869109b7",
+    "text": "이화학적동등성시험 검토서 양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자 회사명을 기재한다 ② 접수번호 ③ 문서번호 ④ 제품명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 85,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9d589006-1e5b-402b-a40b-d1c065755796",
+    "text": "양식 동 검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자 회사명을 기재한다 ② 접수번호 ③ 문서번호 ④ 제품명 ⑤ 구분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 86,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "29eaace4-35aa-47a6-9050-31c578222274",
+    "text": "검토서의 구성 및 내용은 다음과 같다 구 성 내용 및 설명 이화학적동등성시험 검토서 (표지) <붙임1> 보완(시정)사항 <붙임2> 이화학적동등성시험 평가서 자료 평가 <붙임3> 이화학적동등성시험 검토요약 요약 [붙임] 이화학적동등성시험 검토서 양식 이화학적동등성시험 검토서 년 월 일 담당자 연구관 과 장 ① 신청자 회사명을 기재한다 ② 접수번호 ③ 문서번호 ④ 제품명 ⑤ 구분 제품명을 기재한다  지방청,타과에서 의뢰된 경우 관련공문번호,일자를 기재한다 과 처리기한과 총 처리기한을 기재하고 보완이 나간 경우, 보완요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다  품목허가(신고)또는 허가(신고)후 변경을 기재하고 허가(신고)후변경인 경우 원료약품및분량 변경,제조방법 변경,제조소 변경 중 하나를 기재한다 제조 또는 수입,일반 또는 전문,제형,분류번호 기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 87,
+      "content_length": 470,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "8c26ba0a-f274-4dbc-b83b-1096b4bd2ccc",
+    "text": "⑤ 구분 제품명을 기재한다 지방청,타과에서 의뢰된 경우 관련공문번호,일자를 기재한다 과 처리기한과 총 처리기한을 기재하고 보완이 나간 경우, 보완요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 품목허가(신고)또는 허가(신고)후 변경을 기재하고 허가(신고)후변경인 경우 원료약품및분량 변경,제조방법 변경,제조소 변경 중 하나를 기재한다 제조 또는 수입,일반 또는 전문,제형,분류번호 기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분 ⑥ 원료약품 및",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 88,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "69692e76-9e7d-4698-8b93-0e28c582ea02",
+    "text": "기재한다 지방청,타과에서 의뢰된 경우 관련공문번호,일자를 기재한다 과 처리기한과 총 처리기한을 기재하고 보완이 나간 경우, 보완요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 품목허가(신고)또는 허가(신고)후 변경을 기재하고 허가(신고)후변경인 경우 원료약품및분량 변경,제조방법 변경,제조소 변경 중 하나를 기재한다 제조 또는 수입,일반 또는 전문,제형,분류번호 기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분 ⑥ 원료약품 및 제조원을 기재한다  ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 89,
+      "content_length": 311,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ab7d937e-57d8-4fa7-a251-9b69acb0781b",
+    "text": "처리기한을 기재하고 보완이 나간 경우, 보완요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 품목허가(신고)또는 허가(신고)후 변경을 기재하고 허가(신고)후변경인 경우 원료약품및분량 변경,제조방법 변경,제조소 변경 중 하나를 기재한다 제조 또는 수입,일반 또는 전문,제형,분류번호 기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분 ⑥ 원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 90,
+      "content_length": 268,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "47e38c41-4c1d-453b-9edb-bfc3d080bddd",
+    "text": "보완이 나간 경우, 보완요청일자와 보완접수일자를 기재한다 신청제품명을 기재한다 품목허가(신고)또는 허가(신고)후 변경을 기재하고 허가(신고)후변경인 경우 원료약품및분량 변경,제조방법 변경,제조소 변경 중 하나를 기재한다 제조 또는 수입,일반 또는 전문,제형,분류번호 기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분 ⑥ 원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량 ⑦ 성 상 ⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다  ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다  ⑩ 저장방법 및 사용기간(유효\n\n신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 91,
+      "content_length": 384,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "dfb73aad-22c6-4aa0-a680-13cae26a1ccc",
+    "text": "전문,제형,분류번호 기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분 ⑥ 원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량 ⑦ 성 상 ⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 92,
+      "content_length": 247,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "01b66e53-fa09-4cdd-b529-c67b5637902e",
+    "text": "기재한다 단위제형 중 원료약품 및 그 분량,규격,함량을 기재하고,완제 및 주성분 ⑥ 원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량 ⑦ 성 상 ⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 93,
+      "content_length": 265,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e8745313-2d1e-4273-884b-1f20e44972db",
+    "text": "기재하고,완제 및 주성분 ⑥ 원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량 ⑦ 성 상 ⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 94,
+      "content_length": 241,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f4284e1a-9659-44c2-a493-5e44f46dc77c",
+    "text": "주성분 ⑥ 원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량 ⑦ 성 상 ⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항 ⑬ 검토결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 95,
+      "content_length": 238,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3e13a3e-3ef0-4937-a1d8-ce53b0e299c1",
+    "text": "원료약품 및 제조원을 기재한다 ※포장단위 :포장단위를 기재한다 신청(신고)서상의 신청 성상을 기재한다 그 분량 ⑦ 성 상 ⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다  “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 96,
+      "content_length": 297,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bb2da222-5eea-4bfa-8edc-be8c6220fbef",
+    "text": "⑧ 효능․효과 신청(신고)서상의 신청 효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 97,
+      "content_length": 245,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "db1a9433-6d95-428e-8300-5e9ccebee469",
+    "text": "효능효과를 기재한다 ⑨ 용법․용량 신청(신고)서상의 신청 용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항>\n\n1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 98,
+      "content_length": 266,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bbbac844-8709-4b89-9dbc-e423d03f57e9",
+    "text": "용법용량을 기재한다 ⑩ 저장방법 및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 99,
+      "content_length": 255,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c4a3386f-1bfc-4910-bfdb-02fe629274e4",
+    "text": "및 사용기간(유효 신청(신고)서상의 신청 저장방법 및 사용기간(유효기간)을 기재한다 기간) ⑪ 국내 사용현황 국내에 허가된 유사제품을 기재한다 ⑫ 관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 100,
+      "content_length": 310,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "463b6276-8663-4145-aec7-f212d2e722f7",
+    "text": "기재한다 ⑫ 관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 101,
+      "content_length": 245,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "610084b5-22d3-49d4-b854-dec7c62161e2",
+    "text": "관련조항 ⑬ 검토결과 적용되는 규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1  보완/시정 사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 102,
+      "content_length": 253,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ed04f9cd-f408-4d0a-ab1b-3925ada9fb67",
+    "text": "규정 및 조항을 기재한다 “적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2  이화학적동등성시험 평가서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 103,
+      "content_length": 255,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b981e1e2-a340-4b1a-b8ff-5d9b0534555d",
+    "text": "“적합”, “시정적합”, “보완” 중 1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3  이화학적동등성시험 검토의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 104,
+      "content_length": 261,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f79b0ee6-5223-4d95-903d-326a7891a0a4",
+    "text": "1개를 기재하고 이에 대한 시정 또는 보완 내용에 대하여 간략히 기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 \n\n「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 105,
+      "content_length": 313,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7182937d-ba6c-4f61-82e9-5e2d90369f89",
+    "text": "기술한다 <참고사항> 1 신청목적 :“품목허가(신고)”또는 “허가(신고)후 변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 106,
+      "content_length": 302,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f172eeaa-950e-4e04-b5b8-8be086bb6513",
+    "text": "변경“ 4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유:",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 107,
+      "content_length": 268,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "40bee9eb-47a9-4937-8029-fa4b0dfdc227",
+    "text": "4 시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항:",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 108,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d18e5fe0-b0a6-4bf3-bdb6-4c7d15c8e54c",
+    "text": "시험약 :회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 109,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "15e22c44-8d06-4df2-9724-0f39336660e6",
+    "text": ":회사명,제품명,주성분 함량 5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 110,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2b6426cf-be1e-4296-ba2b-4956703f8a5b",
+    "text": "5 기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 111,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4bcea58e-0bf8-4fb1-9906-5c56580ff49e",
+    "text": "기준 및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 112,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2ea974cd-5d32-4eb2-8f40-fdfa742572b3",
+    "text": "및 시험방법 :완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 113,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "dee747ab-2695-4bbf-b9ef-d76886acd5d3",
+    "text": ":완제(),주성분() -기준 및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 114,
+      "content_length": 276,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "75d513e5-93c8-411b-a099-0af70fc00004",
+    "text": "및 시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 115,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "11ab533f-4d0f-49a8-9a05-e69579ae94b2",
+    "text": "시험방법 심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 116,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "abd40279-40cd-4eba-aa1a-581bbb288e1a",
+    "text": "심사결과를 기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 117,
+      "content_length": 271,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "7b74d861-41c9-41fd-9e24-43db69ac37df",
+    "text": "기재하며,물리화학적성질 관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 118,
+      "content_length": 269,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a8272bac-e550-420e-8815-bc59c036788a",
+    "text": "관련 기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 119,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bc7402f1-d0b1-4c25-9317-bcb45a3550ef",
+    "text": "기준 및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 120,
+      "content_length": 262,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "82ce47e1-219f-4784-bd2f-afcfbbd6cd88",
+    "text": "및 시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 121,
+      "content_length": 263,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3ef932b-b67e-4478-8dac-9520b1a6b756",
+    "text": "시험방법을 기재한다 6 안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 122,
+      "content_length": 272,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "311a342e-81c6-4ac1-b8b7-fc22d2dfcae7",
+    "text": "안정성시험자료 붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 123,
+      "content_length": 263,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "75cf7bc0-e969-416a-9953-ebedcb72ad8c",
+    "text": "붙임 1 보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 124,
+      "content_length": 261,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b7bf3add-2102-48da-bff5-c1e84cb6bdb9",
+    "text": "보완/시정 사항 붙임 2 이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 125,
+      "content_length": 268,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9e940927-f85e-4c74-97e4-5863ef569efd",
+    "text": "이화학적동등성시험 평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 126,
+      "content_length": 259,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c612f08e-0ed1-4468-b668-858c0a40b3a8",
+    "text": "평가서 붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 127,
+      "content_length": 255,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "97a03cfd-aa55-4609-83c6-9dca8f594ffc",
+    "text": "붙임 3 이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 128,
+      "content_length": 264,
+      "has_table": false,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9885b058-07aa-435c-a981-2af80f6cd790",
+    "text": "이화학적동등성시험 검토의견 [붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 129,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "130aa2fd-23a9-4b4b-8df4-22754ae8a715",
+    "text": "[붙임 1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 130,
+      "content_length": 255,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "82c6e7cd-cb11-4566-b521-e1a84033d527",
+    "text": "1] 보완사항 – 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 131,
+      "content_length": 257,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cb4db6e2-54b7-4ccf-ad26-c466bb268e67",
+    "text": "– 회사명, 제품명을 기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 132,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "0ddec4cd-c6bc-4aef-aba3-13d2f0aedb9e",
+    "text": "기재한다 「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 133,
+      "content_length": 252,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5dfebd24-458f-4b68-8319-8b0b2662b56f",
+    "text": "「의약품의 품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 134,
+      "content_length": 250,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e8af5796-b280-44af-8c42-aaa9f72058eb",
+    "text": "품목허가·신고·심사규정」(식품의약품안전처고시 제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 135,
+      "content_length": 247,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a46bb909-5336-4321-aa05-556c08da6ace",
+    "text": "제OOOO-OO호)에 근거하여 다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 136,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cdb6475f-4019-4c4b-a125-a77bb58d46cb",
+    "text": "다음의 자료를 제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 137,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "20d464c6-001e-4fe5-b0cd-258584577c05",
+    "text": "제출하여 주시기 바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 138,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "374df588-4bbb-4754-a57a-3e05af35e512",
+    "text": "바랍니다 보완요청사유: 보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 139,
+      "content_length": 230,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "95f11312-4e1a-4c14-b7bc-2ed68105fea0",
+    "text": "보완요청사항: 끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 140,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d629060d-f454-45ef-97fd-04df6c7da3a5",
+    "text": "끝 이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 141,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d26068ab-06fd-44b9-af96-28c3ad3dfcaf",
+    "text": "이화학적동등성시험 평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 142,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5b85cd67-8124-4554-afc8-1d710e688a3d",
+    "text": "평가서 회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 143,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "f837c83c-c2f8-44a1-b00d-9dfa144a772c",
+    "text": "회사명 제품명 Lot No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일)",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 144,
+      "content_length": 228,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "05b169e3-8afb-4cc1-9e3c-ba1bae9361b1",
+    "text": "No Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 145,
+      "content_length": 221,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "62893375-42af-4bdd-bdb4-0df74bc998c5",
+    "text": "Lot 크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 146,
+      "content_length": 223,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "131a28f8-39f9-4b59-a097-15cdd499c95d",
+    "text": "크기 제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 147,
+      "content_length": 222,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ed11e7d3-d5fd-4f5c-8f8c-0ff6e34ee7a1",
+    "text": "제조일(사용기간) 대조약 시험약 대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: )",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 148,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5ac3d4bc-8b63-4432-96a8-bff00c3a1784",
+    "text": "대조약 시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 149,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "166774cf-66e5-49e8-bb7f-00b7c4c8f5fe",
+    "text": "시험약 배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 150,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c076b48e-4265-43cd-9d63-2c36fb03ad34",
+    "text": "배합목적 원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 151,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "61a848a6-d1c7-4d47-bf39-19bbd474de9b",
+    "text": "원료명 규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 152,
+      "content_length": 216,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "764cd58d-55f7-4235-936e-e4473df75155",
+    "text": "규격 분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 153,
+      "content_length": 215,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "4624f5b0-ca78-4536-946f-a845e462d30f",
+    "text": "분량 배합목적 원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 154,
+      "content_length": 220,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "89d4f0d7-9374-4ac4-8f03-3c7846be54e0",
+    "text": "원료명 규격 분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 155,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "80f253ea-ef81-45b3-965e-52c349f388da",
+    "text": "분량 원료약품 및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 156,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "51d59cfe-4381-4584-abfc-6c5233ede712",
+    "text": "및 그 분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 157,
+      "content_length": 231,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "25397f1b-b021-40e1-afd9-c7c2e2ef18b5",
+    "text": "분량 시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 158,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c567cae5-c736-47a3-bede-58cd5a8c4621",
+    "text": "시험기관 시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 159,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "1056fa92-8840-48e2-9690-ebd6abfc6eec",
+    "text": "시험책임자 이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 160,
+      "content_length": 232,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5822e57b-5090-43f1-b2d3-5a2a979cf714",
+    "text": "이화학적동등성시험 결과 평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 161,
+      "content_length": 241,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ff296430-7688-4117-8d08-5bf5ea2ccac0",
+    "text": "평가항목 선정 연번 평가 항목 선정사유 및 근거 시험방법 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 \n\n3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 162,
+      "content_length": 286,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "005eb80c-f321-4fdd-9b31-39391bbf014d",
+    "text": "Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 163,
+      "content_length": 251,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "91b461a6-b508-49db-b21d-ff043517832f",
+    "text": "CPS 평가결과 시험결과 시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 164,
+      "content_length": 237,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "3ba4b9a1-7206-4d74-a77f-db1e32e0c69f",
+    "text": "시험항목 대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 165,
+      "content_length": 229,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "62255b0f-52a6-438d-bd79-98df0394e407",
+    "text": "대조약 시험약 (배치번호, 제조일) 시험결과 평가기준 판정 배치번호 (제조일: ) 시험1 시험2 시험3 성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 \n\n공정서에서 확인되지 않는 항목에 한하여 기재한다",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 166,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9a0389a4-c835-4b50-83fa-0faf5ae0a820",
+    "text": "성상 pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 167,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "84c7858a-c47b-4c84-849d-ba3538f86e63",
+    "text": "pH 비중 g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 168,
+      "content_length": 228,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "b68d6f21-0070-496d-a42a-3a1912d6b06a",
+    "text": "g/mL 삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 169,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fcb0641e-792f-40a4-bb86-3a7af6cf6cc4",
+    "text": "삼투압 Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 170,
+      "content_length": 225,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2faeb438-d452-4c5f-ab56-af6d222fc5c0",
+    "text": "Osmol/L 완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 171,
+      "content_length": 224,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a78c5bb2-cb95-42ed-aeda-57ebcbcea3a6",
+    "text": "완충력 (Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 172,
+      "content_length": 219,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "9a1c3ee7-a82f-461b-ac3f-b120172c6dd3",
+    "text": "(Eq/L)/△pH 점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 173,
+      "content_length": 218,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2fd8c868-2d52-4672-93bc-f2a7dc4c5732",
+    "text": "점도 CPS 특이사항 적합 검토의견 이화학적동등성시험 검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18\n\n2017 GRP-MaPP-심사기준-18\n\n2020 GRP-MaPP-심사기준-18",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 174,
+      "content_length": 275,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5e1c6680-607a-4b93-b6ae-127132544801",
+    "text": "검토의견 대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 175,
+      "content_length": 260,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "81f2e073-e538-477a-8093-aa2afa4d6a83",
+    "text": "대조약 배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 176,
+      "content_length": 259,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "32b81346-bcff-4374-9da6-8fbc411b838c",
+    "text": "배치 선정에 대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 177,
+      "content_length": 267,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "c29c4511-9bca-4b57-a6b1-454e4d14d000",
+    "text": "대해 기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 178,
+      "content_length": 265,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "5d92e109-f7d8-4043-b0d3-d83263b278b0",
+    "text": "기재한다 3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 179,
+      "content_length": 265,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "22fcc404-041e-43c6-964b-5ea10ebe84e1",
+    "text": "3)기준 및 시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 180,
+      "content_length": 272,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "73edfef7-38e9-46dd-be38-10cc060971d2",
+    "text": "시험방법 항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 181,
+      "content_length": 270,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "cc317513-5af5-4e4c-bab0-d3b4ec93149f",
+    "text": "항목 중 물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 182,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "fd277423-9970-462d-bb3c-1f65f39d39d0",
+    "text": "물리화학적성질 관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 183,
+      "content_length": 277,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "2b5f8400-e53f-4405-80db-2e3a1ba58fab",
+    "text": "관련 항목을 기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 184,
+      "content_length": 281,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "26b75369-ed5d-4dd8-8a86-eb1c96ce81f4",
+    "text": "기재한다 및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 185,
+      "content_length": 279,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e1d9c5bf-84b1-4ef8-b9f8-0219562a7874",
+    "text": "및 시험방법에 적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 186,
+      "content_length": 286,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "15978ed9-165c-46f8-8dc6-ea3aa6876737",
+    "text": "적합함을 확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 187,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "a726b976-ac55-4d03-9b87-83a8767d2daa",
+    "text": "확인함 시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 188,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "e7da5572-9d11-4061-a5d9-2b0b3b312b27",
+    "text": "시험번호 등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자 박윤상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 189,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "bcdb0c79-ed2c-4c04-b971-a800689c967f",
+    "text": "등 기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자 박윤상 박윤상",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 190,
+      "content_length": 281,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "ddfde1d6-538e-4dea-8dcd-e622019358a3",
+    "text": "기재한다 제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자 박윤상 박윤상 엄소영",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 191,
+      "content_length": 283,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "d3dd168d-a117-4691-b010-33891e87bc81",
+    "text": "제출하였음 국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자 박윤상 박윤상 엄소영 엄소영",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 192,
+      "content_length": 282,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "14dce59e-6a2a-4e6d-aea2-2ae0eda46a22",
+    "text": "국내에 기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자 박윤상 박윤상 엄소영 엄소영 최용규",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 193,
+      "content_length": 280,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  },
+  {
+    "id": "817c64d8-8aed-4d97-9dac-8ddb22d0fab1",
+    "text": "기 허가된 신청품목과 유사한 품목을 기재한다 공정서에서 확인되지 않는 항목에 한하여 기재한다 연번 개정 이력 연도 편람코드 개정 번호 제정 2015 GRP-MaPP-심사기준-18 2017 GRP-MaPP-심사기준-18 2020 GRP-MaPP-심사기준-18 GRP-MaPP-심사기준-18 편람명 이화학적동등성 검토서 작성지침 상동 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 이화학적동등성 검토서 작성기준 작성자 박윤상 박윤상 엄소영 엄소영 최용규 김현아",
+    "metadata": {
+      "page": 1,
+      "type": "text",
+      "document_order": 194,
+      "content_length": 280,
+      "has_table": true,
+      "section_title": "문서 시작",
+      "preprocessed": true
+    }
+  }
+]

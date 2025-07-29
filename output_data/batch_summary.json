@@ -1,0 +1,1102 @@
+{
+  "total_files": 182,
+  "successful": 182,
+  "failed": 0,
+  "start_time": 1753747509.413316,
+  "results": [
+    {
+      "filename": "(가이드라인-005)_정맥주사용+B형간염+사람면역글로불린제제의+안전성유효성+평가+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 27.128326416015625,
+      "error_message": ""
+    },
+    {
+      "filename": "(가이드라인-020)_혈액제제의+핵산증폭검사법+검증+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 21.341407537460327,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0286-05)임상시험용+한약(생약)제제의+품질+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 39.37954831123352,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0637-02)체외진단용_시약_중_심장성_트로포닌_검사제품의_허가·심사_가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 61.0761456489563,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0638-02)체외진단용_시약_중_뇌나트륨이뇨펩티드_검사제품의_허가·심사_가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 59.96861028671265,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0641-02)암유전자(JAK2) 체외진단용 의료기기 허가심사 가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 43.635338306427,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0642-02)암유전자(SEPT9)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 47.85589265823364,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0643-02)암유전자(BRAF)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 41.03048849105835,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0644-02)암유전자(MAGE3A)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 47.9566810131073,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0645-02)암유전자(BCR-ABL1)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 49.652549028396606,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0647-02)산전검사_중_풍진바이러스(Rubellavirus)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 67.97005438804626,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0648-02)산전검사_중_단순포진바이러스(HSV)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 62.33973264694214,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0649-02)산전검사_중_거대세포바이러스(CMV)_체외진단용_의료기기_허가심사_가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 62.362717151641846,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0650-02)산전검사 중 톡소포자충바이러스(Toxoplasma gondii) 체외진단용 의료기기 허가심사 가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 54.81022524833679,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0651-02)ABO 혈액형(혈구형,혈청형)검사용 시약의 허가·심사 가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 64.43270540237427,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0654-02)분자유전학적_조직적합성(HLA)검사_시약의_허가심사_가이드라인(민원인-안내서).pdf",
+      "status": "성공",
+      "processing_time": 40.804078817367554,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0657-01)의료기기의 품목류별 인증·신고·심사 가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 40.216153621673584,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0658-04)차세대염기서열분석(NGS)+체외진단의료기기의+성능평가+가이드라인_최종.pdf",
+      "status": "성공",
+      "processing_time": 93.72946572303772,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0865-02)_한약(생약)의+기준+미설정+잔류농약+적부판정+해설서(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 25.256348609924316,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-0894-03)_한약(생약)제제+비교용출시험+사례집(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 73.4524176120758,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-1214-01)_한약(생약)제제+벤조피렌+안전성+평가+및+자료작성+방법(민원인안내서)_최종.pdf",
+      "status": "성공",
+      "processing_time": 41.37803053855896,
+      "error_message": ""
+    },
+    {
+      "filename": "(안내서-1241-01)한약(생약)제제+성분별+생동성시험+가이드라인(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 8.58287239074707,
+      "error_message": ""
+    },
+    {
+      "filename": "[5210.06B]의약품+품목허가신청서+중+의료기기(첨부물)+심사+및+검토의뢰+절차_개정.pdf",
+      "status": "성공",
+      "processing_time": 18.44970393180847,
+      "error_message": ""
+    },
+    {
+      "filename": "[5210.08B]+국가출하승인의약품+시험법+검토절차+및+고려사항(공무원+지침서)(Rev.1).pdf",
+      "status": "성공",
+      "processing_time": 18.9544517993927,
+      "error_message": ""
+    },
+    {
+      "filename": "[5300.04]+국가출하승인서+영문증명+발급+절차(공무원+지침서)(Rev.2).pdf",
+      "status": "성공",
+      "processing_time": 13.907867193222046,
+      "error_message": ""
+    },
+    {
+      "filename": "[5300.10]+생물학적제제의+다기관+숙련도+프로그램+운영+절차(공무원+지침서)(Rev.1).pdf",
+      "status": "성공",
+      "processing_time": 16.43432307243347,
+      "error_message": ""
+    },
+    {
+      "filename": "[5300.11B]+위기+대응+국가출하승인+전담조직+구성+및+운영+절차(공무원+지침서)(Rev.1).pdf",
+      "status": "성공",
+      "processing_time": 14.57874059677124,
+      "error_message": ""
+    },
+    {
+      "filename": "[5330.01]+동물+신청+및+수령+절차(공무원+지침서)(Rev.4).pdf",
+      "status": "성공",
+      "processing_time": 12.583576202392578,
+      "error_message": ""
+    },
+    {
+      "filename": "[5350.01]생물의약품의+국제표준품+확보+및+관리절차.pdf",
+      "status": "성공",
+      "processing_time": 19.60950803756714,
+      "error_message": ""
+    },
+    {
+      "filename": "[GRP-Mapp-심사기준-28]+허가외+사용+의약품+평가+절차.pdf",
+      "status": "성공",
+      "processing_time": 8.979179382324219,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서]암치료를+위한+수지상+세포치료제+평가시+고려사항.pdf",
+      "status": "성공",
+      "processing_time": 13.103418827056885,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서]의약품제조용+LMO+관련규정+해설서.pdf",
+      "status": "성공",
+      "processing_time": 105.057687997818,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서-0065-01]+분획용+혈장+마스터+파일+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 17.391834497451782,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 5.7683446407318115,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서-0318-01]에리스로포이에틴+동등생물의약품의+비임상+및+임상+평가+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 16.830279111862183,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서-0327-01]인슐린+동등생물의약품+비임상+및+임상+평가+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 23.308940410614014,
+      "error_message": ""
+    },
+    {
+      "filename": "[안내서-1213-01]코로나19+유전자재조합+백신+국가출하승인+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 42.40685176849365,
+      "error_message": ""
+    },
+    {
+      "filename": "[지침서-0061-01]+국내+혈장+룩백(Look-Back)+업무+처리+절차(공무원+지침서).pdf",
+      "status": "성공",
+      "processing_time": 26.41196298599243,
+      "error_message": ""
+    },
+    {
+      "filename": "[지침서-0065-01]생물의약품등+수거·검사의뢰+수행절차(공무원+지침서).pdf",
+      "status": "성공",
+      "processing_time": 12.980116844177246,
+      "error_message": ""
+    },
+    {
+      "filename": "[지침서-0066-01]+원료혈장제조업소+등+실태조사+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 61.49740290641785,
+      "error_message": ""
+    },
+    {
+      "filename": "[지침서-0067-01]+원료혈장+제조업소+등+실태조사+수행+절차(rev3).pdf",
+      "status": "성공",
+      "processing_time": 69.31104707717896,
+      "error_message": ""
+    },
+    {
+      "filename": "[지침서-0074-01][5570.05Q]의약외품+생산실적+및+수입실적+처리+절차(공무원+지침서).pdf",
+      "status": "성공",
+      "processing_time": 13.40993046760559,
+      "error_message": ""
+    },
+    {
+      "filename": "[지침서-1031-01]의약품+허가+후+제조방법+변경관리+심사자료+평가+시+일반적+고려사항.pdf",
+      "status": "성공",
+      "processing_time": 14.727783203125,
+      "error_message": ""
+    },
+    {
+      "filename": "「수입요건확인+면제대상+물품+중+의약품등의+추천요령」업무처리+지침(공무원지침서).pdf",
+      "status": "성공",
+      "processing_time": 16.034591674804688,
+      "error_message": ""
+    },
+    {
+      "filename": "「식품·의료제품+등+위해정보+관리+매뉴얼」+개정(2023.12.28.).pdf",
+      "status": "성공",
+      "processing_time": 68.88791990280151,
+      "error_message": ""
+    },
+    {
+      "filename": "「원료물질+취급업무+가이드라인(민원인+안내서)」.pdf",
+      "status": "성공",
+      "processing_time": 30.40816044807434,
+      "error_message": ""
+    },
+    {
+      "filename": "「유산균제제+품질확보를+위한+규격설정+가이드라인(민원인안내서)」.pdf",
+      "status": "성공",
+      "processing_time": 16.968247413635254,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약외품+생리대+허가심사+질의응답집」(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 26.891550540924072,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품+용기·포장의+표시+등에+대한+질의·응답집」_개정('23.6)_최종.pdf",
+      "status": "성공",
+      "processing_time": 35.013291358947754,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품+중+유전독성+불순물+평가+및+관리+질의응답집(민원인안내서)」 (1).pdf",
+      "status": "성공",
+      "processing_time": 24.65998387336731,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품+중+유전독성+불순물+평가+및+관리+질의응답집(민원인안내서)」.pdf",
+      "status": "성공",
+      "processing_time": 24.613780975341797,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품+중+유전독성+불순물+평가+사례집(민원인안내서)」 (1).pdf",
+      "status": "성공",
+      "processing_time": 51.004165172576904,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품+중+유전독성+불순물+평가+사례집(민원인안내서)」.pdf",
+      "status": "성공",
+      "processing_time": 51.02800369262695,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품등의+독성시험기준」+해설서+책자.pdf",
+      "status": "성공",
+      "processing_time": 302.9756999015808,
+      "error_message": ""
+    },
+    {
+      "filename": "「의약품의+시판+후+정기적인+안전성정보+보고+검토지침(공무원지침서)」_본문.pdf",
+      "status": "성공",
+      "processing_time": 22.948871850967407,
+      "error_message": ""
+    },
+    {
+      "filename": "「의치,치아교정기+세정제+효력평가법++가이드라인(민원인+안내서)」.pdf",
+      "status": "성공",
+      "processing_time": 12.43030834197998,
+      "error_message": ""
+    },
+    {
+      "filename": "「임상시험+비대면+실태조사+가이드라인」(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 31.543420791625977,
+      "error_message": ""
+    },
+    {
+      "filename": "「첨단바이오의약품+장기추적조사의+중대한+이상사례+검토+및+처리절차(공무원+지침서)」.pdf",
+      "status": "성공",
+      "processing_time": 13.915771007537842,
+      "error_message": ""
+    },
+    {
+      "filename": "「첨단재생바이오법」자주묻는+질의응답집(첨단바이오의약품+장기추적조사+분야)(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 21.630738496780396,
+      "error_message": ""
+    },
+    {
+      "filename": "「코로나19+치료제+in+vivo+효력시험법(민원인+안내서)」+제정.pdf",
+      "status": "성공",
+      "processing_time": 17.036803007125854,
+      "error_message": ""
+    },
+    {
+      "filename": "「코로나19+치료제+안전성유효성+심사관련+질의·응답집(항바이러스제)」_배포용.pdf",
+      "status": "성공",
+      "processing_time": 83.93231654167175,
+      "error_message": ""
+    },
+    {
+      "filename": "「한약(생약)제제+개발+상담+사례집(민원인+안내서)」 (1).pdf",
+      "status": "성공",
+      "processing_time": 19.381572484970093,
+      "error_message": ""
+    },
+    {
+      "filename": "「한약(생약)제제+개발+상담+사례집(민원인+안내서)」.pdf",
+      "status": "성공",
+      "processing_time": 19.40178680419922,
+      "error_message": ""
+    },
+    {
+      "filename": "☆+공중보건+위기대응+의약품의+긴급사용승인+및+관리(공무원지침서).pdf",
+      "status": "성공",
+      "processing_time": 11.065174341201782,
+      "error_message": ""
+    },
+    {
+      "filename": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+      "status": "성공",
+      "processing_time": 10.663635969161987,
+      "error_message": ""
+    },
+    {
+      "filename": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 9.484399557113647,
+      "error_message": ""
+    },
+    {
+      "filename": "★의약품+사용상의+주의사항+중+임상시험+정보+기재+지침_최종.pdf",
+      "status": "성공",
+      "processing_time": 19.597992181777954,
+      "error_message": ""
+    },
+    {
+      "filename": "★의약품+심사+지침서등의+운영(5개정)(GRP-MaPP-기타업무-07).pdf",
+      "status": "성공",
+      "processing_time": 23.4416663646698,
+      "error_message": ""
+    },
+    {
+      "filename": "★의약품+점자표시+등에+대한+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 18.97644305229187,
+      "error_message": ""
+    },
+    {
+      "filename": "★의약품+중+변이원성·발암성+불순물+안전관리+가이드라인(배포용).pdf",
+      "status": "성공",
+      "processing_time": 69.87500762939453,
+      "error_message": ""
+    },
+    {
+      "filename": "★의약품+품질감시+계획수립+및+수행+절차_(공무원지침서).pdf",
+      "status": "성공",
+      "processing_time": 20.423762321472168,
+      "error_message": ""
+    },
+    {
+      "filename": "1. 혈액제제 GMP 표준문서 모델(민원인 안내서).pdf",
+      "status": "성공",
+      "processing_time": 6.1009368896484375,
+      "error_message": ""
+    },
+    {
+      "filename": "1.+바이오의약품+설계기반+품질고도화(QbD)+모델+개발+안내서[민원인안내서]_배포용.pdf",
+      "status": "성공",
+      "processing_time": 76.5179603099823,
+      "error_message": ""
+    },
+    {
+      "filename": "1.+의료기기+이물저감화+가이드라인_주사기_외통 (1).pdf",
+      "status": "성공",
+      "processing_time": 37.54617762565613,
+      "error_message": ""
+    },
+    {
+      "filename": "1.+의료기기+이물저감화+가이드라인_주사기_외통.pdf",
+      "status": "성공",
+      "processing_time": 38.55815100669861,
+      "error_message": ""
+    },
+    {
+      "filename": "1.+차세대+치과용+바이오임플란트+시스템+안전성+성능+및+임상시험계획서+평가+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 84.89535164833069,
+      "error_message": ""
+    },
+    {
+      "filename": "1번.+전동식부항기+및+전기식온구기+평가+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 24.664241552352905,
+      "error_message": ""
+    },
+    {
+      "filename": "2.+의료기기+이물저감화+가이드라인_주사기_흡자 (1).pdf",
+      "status": "성공",
+      "processing_time": 35.48822474479675,
+      "error_message": ""
+    },
+    {
+      "filename": "2.+의료기기+이물저감화+가이드라인_주사기_흡자.pdf",
+      "status": "성공",
+      "processing_time": 36.28705334663391,
+      "error_message": ""
+    },
+    {
+      "filename": "2.+첨단바이오의약품+제제별+분류+해설서(2020).pdf",
+      "status": "성공",
+      "processing_time": 16.977625370025635,
+      "error_message": ""
+    },
+    {
+      "filename": "3.+의료기기+이물저감화+가이드라인_수액세트카테터_튜브 (1).pdf",
+      "status": "성공",
+      "processing_time": 35.24063968658447,
+      "error_message": ""
+    },
+    {
+      "filename": "3.+의료기기+이물저감화+가이드라인_수액세트카테터_튜브.pdf",
+      "status": "성공",
+      "processing_time": 33.839181661605835,
+      "error_message": ""
+    },
+    {
+      "filename": "3.+첨단바이오의약품+장기추적조사+가이드라인(2020).pdf",
+      "status": "성공",
+      "processing_time": 33.71916675567627,
+      "error_message": ""
+    },
+    {
+      "filename": "3.+한약(생약)제제+허가+후+제조방법+변경관리+가이드라인(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 34.73906660079956,
+      "error_message": ""
+    },
+    {
+      "filename": "3_백신임상이상반응+가이드_최종.pdf",
+      "status": "성공",
+      "processing_time": 31.64408802986145,
+      "error_message": ""
+    },
+    {
+      "filename": "4.+의료기기+이물저감화+가이드라인_소프트콘택트렌즈 (1).pdf",
+      "status": "성공",
+      "processing_time": 31.599271297454834,
+      "error_message": ""
+    },
+    {
+      "filename": "4.+의료기기+이물저감화+가이드라인_소프트콘택트렌즈.pdf",
+      "status": "성공",
+      "processing_time": 29.245878219604492,
+      "error_message": ""
+    },
+    {
+      "filename": "4.+자기장을+이용한+캡슐내시경+시스템+안전성+성능+및+임상시험계획서+평가+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 83.26149845123291,
+      "error_message": ""
+    },
+    {
+      "filename": "5.+의료기기+이물저감화+가이드라인_검체채취용도구_몸체 (1).pdf",
+      "status": "성공",
+      "processing_time": 35.41618824005127,
+      "error_message": ""
+    },
+    {
+      "filename": "5.+의료기기+이물저감화+가이드라인_검체채취용도구_몸체.pdf",
+      "status": "성공",
+      "processing_time": 36.19890785217285,
+      "error_message": ""
+    },
+    {
+      "filename": "7_의약품+품질+위해평가+가이드라인[민원인안내서].pdf",
+      "status": "성공",
+      "processing_time": 32.40374159812927,
+      "error_message": ""
+    },
+    {
+      "filename": "8.+지지체를+포함하는+세포치료제+평가+가이드라인(2020).pdf",
+      "status": "성공",
+      "processing_time": 32.74012351036072,
+      "error_message": ""
+    },
+    {
+      "filename": "8번.+주사기+허가+및+기술문서+작성을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 38.29133677482605,
+      "error_message": ""
+    },
+    {
+      "filename": "10.+줄기세포치료제+품질,+비임상+및+임상+평가+가이드라인(2018).pdf",
+      "status": "성공",
+      "processing_time": 30.592661380767822,
+      "error_message": ""
+    },
+    {
+      "filename": "12_완제의약품+개봉+후+사용기간+설정을+위한+가이드라인[민원인안내서].pdf",
+      "status": "성공",
+      "processing_time": 11.352145433425903,
+      "error_message": ""
+    },
+    {
+      "filename": "13_우수의약품+개발+가이드라인[민원인안내서].pdf",
+      "status": "성공",
+      "processing_time": 64.44706606864929,
+      "error_message": ""
+    },
+    {
+      "filename": "15번.+인공신장기용여과기의+허가+및+기술문서+작성을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 46.71430516242981,
+      "error_message": ""
+    },
+    {
+      "filename": "19-11_임상시험+대상자+동의설명서+작성+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 26.693683385849,
+      "error_message": ""
+    },
+    {
+      "filename": "21_제네릭의약품의+국제공통기술문서+품질요약자료+작성+가이드라인[민원인안내서].pdf",
+      "status": "성공",
+      "processing_time": 46.53480410575867,
+      "error_message": ""
+    },
+    {
+      "filename": "814_휴대용+혈액응고시간+측정시스템+안전성+성능+및+임상시험계획서+평가+가이드라인(민원인_안내서).pdf",
+      "status": "성공",
+      "processing_time": 73.3525984287262,
+      "error_message": ""
+    },
+    {
+      "filename": "815_출혈시간+및+항혈소판제제+저항성+복합검사기기+안전성·성능+및+임상시험계획서+평가+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 81.23309016227722,
+      "error_message": ""
+    },
+    {
+      "filename": "2020년+의약품허가특허연계+민원업무편람.pdf",
+      "status": "성공",
+      "processing_time": 27.388118505477905,
+      "error_message": ""
+    },
+    {
+      "filename": "2020년+의약품허가특허연계제도+질의응답집.pdf",
+      "status": "성공",
+      "processing_time": 30.145546913146973,
+      "error_message": ""
+    },
+    {
+      "filename": "2023+자주하는+질문집(의료기기+분야)_최종본.pdf",
+      "status": "성공",
+      "processing_time": 49.62245535850525,
+      "error_message": ""
+    },
+    {
+      "filename": "2023+자주하는+질문집(의약품분야,+민원인안내서)-최종본 (1).pdf",
+      "status": "성공",
+      "processing_time": 44.83977270126343,
+      "error_message": ""
+    },
+    {
+      "filename": "2023+자주하는+질문집(의약품분야,+민원인안내서)-최종본.pdf",
+      "status": "성공",
+      "processing_time": 45.475993394851685,
+      "error_message": ""
+    },
+    {
+      "filename": "180508_원료의약품의_개발_및_제조_품질심사_가이드라인_질의응답집(안)_배포용.pdf",
+      "status": "성공",
+      "processing_time": 24.391801118850708,
+      "error_message": ""
+    },
+    {
+      "filename": "240222+의약품등_수입관리_기준_질의응답집(민원인안내서)+개정_홈페이지게시용_최종.pdf",
+      "status": "성공",
+      "processing_time": 43.37163853645325,
+      "error_message": ""
+    },
+    {
+      "filename": "240222+의약품등+수입관리+기준+해설서(민원인+안내서)+개정_홈페이지게시용_최종.pdf",
+      "status": "성공",
+      "processing_time": 77.7252848148346,
+      "error_message": ""
+    },
+    {
+      "filename": "20170601+핵산증폭검사법을+이용한+마이코플라즈마+검출법+밸리데이션+가이드라인(안내서).pdf",
+      "status": "성공",
+      "processing_time": 14.078603267669678,
+      "error_message": ""
+    },
+    {
+      "filename": "20170626_백신_임상평가_가이드라인(최종).pdf",
+      "status": "성공",
+      "processing_time": 92.66945028305054,
+      "error_message": ""
+    },
+    {
+      "filename": "20231127_국소+적용+용해성+마이크로니들+일반의약품+개발+질의·응답집_민원인안내서_최종.pdf",
+      "status": "성공",
+      "processing_time": 11.596459865570068,
+      "error_message": ""
+    },
+    {
+      "filename": "E-004+임상시험+피해자+보상에+대한+규약+및+절차+마련을+위한+가이드라인(민원인+안내서)_개정판.pdf",
+      "status": "성공",
+      "processing_time": 14.828047037124634,
+      "error_message": ""
+    },
+    {
+      "filename": "G-CSF+동등생물의약품+비임상+및+임상+평가+가이드라인_최종.pdf",
+      "status": "성공",
+      "processing_time": 13.747131109237671,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-기타업무-01_의약품_심층검토(Peer_review)진행절차(7개정)_v3.3(등록번호).pdf",
+      "status": "성공",
+      "processing_time": 10.07030963897705,
+      "error_message": ""
+    },
+    {
+      "filename": "grp-mapp-심사기준-02_의약품_안전성유효성_심사자료_평가시_일반적_고려사항(7개정).pdf",
+      "status": "성공",
+      "processing_time": 15.362138032913208,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-12_생물학적동등성시험+계획(변경)승인+검토서+작성기준(10개정).pdf",
+      "status": "성공",
+      "processing_time": 29.423999071121216,
+      "error_message": ""
+    },
+    {
+      "filename": "grp-mapp-심사기준-14_의약품동등성시험+심사자료+평가시+일반적+고려사항(8개정).pdf",
+      "status": "성공",
+      "processing_time": 22.641125917434692,
+      "error_message": ""
+    },
+    {
+      "filename": "grp-mapp-심사기준-15_의약품동등성시험+검토서+작성기준(10개정).pdf",
+      "status": "성공",
+      "processing_time": 14.347236156463623,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-16_의약품동등성시험+신뢰성+조사+지원+업무(7개정).pdf",
+      "status": "성공",
+      "processing_time": 19.00611901283264,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-17_이화학적동등성시험+심사자료+평가시+일반적+고려사항(5개정).pdf",
+      "status": "성공",
+      "processing_time": 16.712111949920654,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-18_이화학적동등성시험+검토서+작성기준+(5개정).pdf",
+      "status": "성공",
+      "processing_time": 10.28469181060791,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-23+위해성+관리+계획+검토서+작성기준(4개정).pdf",
+      "status": "성공",
+      "processing_time": 26.54206418991089,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-26+의약품의+위해성+관리+계획+평가시+일반적+고려사항(1개정).pdf",
+      "status": "성공",
+      "processing_time": 16.80343985557556,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-27_생물약제학적분류체계+검토서+작성기준(2개정).pdf",
+      "status": "성공",
+      "processing_time": 22.515603065490723,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-심사기준-신속심사+지정+검토서_작성기준_2개정_230905.pdf",
+      "status": "성공",
+      "processing_time": 17.135562419891357,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-정보공개-01+의약품+허가심사결과+정보공개+업무(17개정).pdf",
+      "status": "성공",
+      "processing_time": 27.747339963912964,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-00+개량신약+인정제도+운영지침(3개정).pdf",
+      "status": "성공",
+      "processing_time": 10.898104190826416,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-01+의약품+허가사항+검토시+일반적+고려사항(13개정).pdf",
+      "status": "성공",
+      "processing_time": 75.10768556594849,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-02+일반의약품+허가사항+심사시+일반적+고려사항(6개정).pdf",
+      "status": "성공",
+      "processing_time": 16.359142541885376,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-04+원료의약품+등록+및+변경등록+업무+(5개정).pdf",
+      "status": "성공",
+      "processing_time": 23.723933696746826,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-07+의약품+허가사항+변경명령(통일조정)+업무(7개정안).pdf",
+      "status": "성공",
+      "processing_time": 21.135467767715454,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-07+의약품+허가증+및+등록증+재발급+업무(3개정).pdf",
+      "status": "성공",
+      "processing_time": 9.111608505249023,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-08+의약품+품목+자진취하+수리+업무.pdf",
+      "status": "성공",
+      "processing_time": 11.9381685256958,
+      "error_message": ""
+    },
+    {
+      "filename": "GRP-MaPP-허가업무-10-의약품_임상시험계획(변경)승인_신청_시_심사_절차(10개정).pdf",
+      "status": "성공",
+      "processing_time": 10.066020011901855,
+      "error_message": ""
+    },
+    {
+      "filename": "INCB+제출+통계자료+작성+지침서+개정(공무원+지침서)(개정).pdf",
+      "status": "성공",
+      "processing_time": 42.63905692100525,
+      "error_message": ""
+    },
+    {
+      "filename": "MDSAP+심사결과+활용+가이드라인+제정(최종).pdf",
+      "status": "성공",
+      "processing_time": 28.301344633102417,
+      "error_message": ""
+    },
+    {
+      "filename": "MDSAP+심사모델+가이드라인_치과용임플란트+고정체+외+2종(민원인+안내서) (1).pdf",
+      "status": "성공",
+      "processing_time": 53.30904793739319,
+      "error_message": ""
+    },
+    {
+      "filename": "MDSAP+심사모델+가이드라인_치과용임플란트+고정체+외+2종(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 52.14567160606384,
+      "error_message": ""
+    },
+    {
+      "filename": "개인+맞춤형+신생항원+치료제+개발시+고려사항+가이드라인_배포.pdf",
+      "status": "성공",
+      "processing_time": 27.95086169242859,
+      "error_message": ""
+    },
+    {
+      "filename": "경증·중등증+대상+코로나19+항바이러스+치료제+임상시험+가이드라인_개정_최종.pdf",
+      "status": "성공",
+      "processing_time": 30.136157274246216,
+      "error_message": ""
+    },
+    {
+      "filename": "국가출하승인+의약품+제조+및+품질관리+요약서+양식의+사전검토+접수+및+처리+절차(공무원지침서)(3개정).pdf",
+      "status": "성공",
+      "processing_time": 13.077423334121704,
+      "error_message": ""
+    },
+    {
+      "filename": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+      "status": "성공",
+      "processing_time": 7.047652244567871,
+      "error_message": ""
+    },
+    {
+      "filename": "기술문서+심사+시+부서+검토+의뢰+절차에+관한+업무(공무원지침서).pdf",
+      "status": "성공",
+      "processing_time": 18.306045293807983,
+      "error_message": ""
+    },
+    {
+      "filename": "멸균+의약외품의+평가+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 18.929960012435913,
+      "error_message": ""
+    },
+    {
+      "filename": "모발용+의료기기+임상시험+평가+지침+(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 11.073762655258179,
+      "error_message": ""
+    },
+    {
+      "filename": "무균공정+밸리데이션+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 21.502475261688232,
+      "error_message": ""
+    },
+    {
+      "filename": "물요법장치+기술문서+작성을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 41.12321090698242,
+      "error_message": ""
+    },
+    {
+      "filename": "미셀제제+개발을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 15.58073377609253,
+      "error_message": ""
+    },
+    {
+      "filename": "바이오의약품+GMP+사전검토+지침(공무원+지침서).pdf",
+      "status": "성공",
+      "processing_time": 8.333292722702026,
+      "error_message": ""
+    },
+    {
+      "filename": "바이오의약품+이물검사+관리+가이드라인_최종.pdf",
+      "status": "성공",
+      "processing_time": 42.57770395278931,
+      "error_message": ""
+    },
+    {
+      "filename": "바이오의약품+제조공정+밸리데이션+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 39.99540829658508,
+      "error_message": ""
+    },
+    {
+      "filename": "바이오의약품+제조소+유전자변형생물체(LMO)+관리+가이드라인_배포용.pdf",
+      "status": "성공",
+      "processing_time": 28.541224718093872,
+      "error_message": ""
+    },
+    {
+      "filename": "바이오의약품+품목허가+시+다빈도+보완사례집(안내서-1325-01)+-+배포.pdf",
+      "status": "성공",
+      "processing_time": 37.57584619522095,
+      "error_message": ""
+    },
+    {
+      "filename": "방사성의약품+제조+및+품질관리기준(GMP)+가이던스(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 159.20137476921082,
+      "error_message": ""
+    },
+    {
+      "filename": "방사성의약품+제조+및+품질관리기준+질의응답집(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 22.09381866455078,
+      "error_message": ""
+    },
+    {
+      "filename": "백내장+수술에+활용되는+인공수정체의+지지를+위한+안구영역임플란트+안전성·성능+및+임상시험계획서+평가+가이드라인+(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 72.98780155181885,
+      "error_message": ""
+    },
+    {
+      "filename": "백신+등+안정+공급+업무+지침서(배포).pdf",
+      "status": "성공",
+      "processing_time": 20.84807848930359,
+      "error_message": ""
+    },
+    {
+      "filename": "백신+위해성+관리+계획+사례집.pdf",
+      "status": "성공",
+      "processing_time": 56.63596725463867,
+      "error_message": ""
+    },
+    {
+      "filename": "백신+표시라벨+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 53.52318549156189,
+      "error_message": ""
+    },
+    {
+      "filename": "범용전기수술기의+기술문서+작성을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 67.275461435318,
+      "error_message": ""
+    },
+    {
+      "filename": "범용전동식진료대+품목신고서+작성을+위한+가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 20.657509565353394,
+      "error_message": ""
+    },
+    {
+      "filename": "범용주입배액용튜브카테터+기술문서+작성을+위한+가이드라인(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 41.34506273269653,
+      "error_message": ""
+    },
+    {
+      "filename": "범용초음파영상진단장치의+기술문서+작성을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 52.42229700088501,
+      "error_message": ""
+    },
+    {
+      "filename": "범용풍선카테터의+기술문서+작성을+위한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 37.412442445755005,
+      "error_message": ""
+    },
+    {
+      "filename": "별첨 1) 혈액제제 GMP 표준문서 모델_제품표준서(농축적혈구).pdf",
+      "status": "성공",
+      "processing_time": 9.712806463241577,
+      "error_message": ""
+    },
+    {
+      "filename": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+      "status": "성공",
+      "processing_time": 5.245382308959961,
+      "error_message": ""
+    },
+    {
+      "filename": "별첨 2) 혈액제제 GMP 표준문서 모델_품질관리 기준서.pdf",
+      "status": "성공",
+      "processing_time": 21.254665851593018,
+      "error_message": ""
+    },
+    {
+      "filename": "별첨 3) 혈액제제 GMP 표준문서 모델_제조관리 기준서.pdf",
+      "status": "성공",
+      "processing_time": 18.468151807785034,
+      "error_message": ""
+    },
+    {
+      "filename": "별첨 4) 혈액제제 GMP 표준문서 모델_제조위생관리 기준서.pdf",
+      "status": "성공",
+      "processing_time": 12.732656478881836,
+      "error_message": ""
+    },
+    {
+      "filename": "보건용+마스크+기준+규격에+대한+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 32.89880633354187,
+      "error_message": ""
+    },
+    {
+      "filename": "보건의료에서+수은+체온계+및+혈압계의+대체+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 30.682180643081665,
+      "error_message": ""
+    },
+    {
+      "filename": "보툴리눔+독소제제+심사+시+고려사항(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 131.57639336585999,
+      "error_message": ""
+    },
+    {
+      "filename": "복제가능+레트로바이러스+평가+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 19.029587745666504,
+      "error_message": ""
+    },
+    {
+      "filename": "부가중합형폴리비닐실리콘인상재+기술문서+작성을+위한+가이드라인(민원인안내서).pdf",
+      "status": "성공",
+      "processing_time": 46.82840371131897,
+      "error_message": ""
+    },
+    {
+      "filename": "부분흡수성이식용메쉬의국제표준화기술문서(STED)작성가이드라인.pdf",
+      "status": "성공",
+      "processing_time": 62.060105085372925,
+      "error_message": ""
+    },
+    {
+      "filename": "불면증+개선+디지털치료기기+안전성·성능+평가+및+임상시험계획서+작성+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 102.13935732841492,
+      "error_message": ""
+    },
+    {
+      "filename": "불활화+바이러스+백신의+자가+기준+및+시험방법+작성+해설서[안내서-0275-01].pdf",
+      "status": "성공",
+      "processing_time": 20.294419288635254,
+      "error_message": ""
+    },
+    {
+      "filename": "불활화+폴리오+백신+평가+가이드라인(최종).pdf",
+      "status": "성공",
+      "processing_time": 58.370121717453,
+      "error_message": ""
+    },
+    {
+      "filename": "붙임_심혈관계+안전성+임상평가+가이드라인+개정.pdf",
+      "status": "성공",
+      "processing_time": 60.097809076309204,
+      "error_message": ""
+    },
+    {
+      "filename": "붙임1_「복합제+임상시험+가이드라인」+(민원인안내서)+개정.pdf",
+      "status": "성공",
+      "processing_time": 35.75495767593384,
+      "error_message": ""
+    },
+    {
+      "filename": "붙임1_다중+평가변수를+사용하는+임상시험+가이드라인(민원인+안내서).pdf",
+      "status": "성공",
+      "processing_time": 49.97319746017456,
+      "error_message": ""
+    }
+  ],
+  "end_time": 1753754221.7870471,
+  "total_time": 6712.373731136322
+}

@@ -1,22 +1,43 @@
-# 기본 의존성
-unstructured[pdf]>=0.10.0
-pandas>=1.5.0
-numpy>=1.21.0
-tqdm>=4.64.0
+# Core dependencies
 streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
 plotly>=5.15.0
-Pillow>=9.0.0
-openpyxl>=3.0.0
 
-# 향상된 파싱을 위한 의존성
-layoutparser>=0.3.4
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+pdf2image>=1.16.0
+pytesseract>=0.3.10
+Pillow>=9.5.0
+
+# OCR and image processing
 paddlepaddle>=2.5.0
 paddleocr>=2.7.0
 opencv-python>=4.8.0
-scikit-image>=0.21.0
-sentence-transformers>=2.2.0
-PyMuPDF>=1.23.0
 
-# 추가 유틸리티
-pathlib2>=2.3.0
-python-multipart>=0.0.6 
+# Document processing
+unstructured>=0.10.0
+layoutparser[ocr]>=0.3.4
+detectron2>=0.6
+
+# Text processing
+nltk>=3.8.0
+spacy>=3.6.0
+transformers>=4.30.0
+torch>=2.0.0
+
+# Data handling
+openpyxl>=3.1.0
+xlrd>=2.0.0
+python-multipart>=0.0.6
+
+# Keyword extraction
+keybert>=0.7.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.0.0
+
+# Basic utilities
+argparse>=1.4.0 
